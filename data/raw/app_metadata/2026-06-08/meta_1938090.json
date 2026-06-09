@@ -1,0 +1,128 @@
+{
+    "ingested_at": "2026-06-08T20:04:04.721763",
+    "app_id": "1938090",
+    "metadata": {
+        "type": "game",
+        "name": "Call of Duty®",
+        "steam_appid": 1938090,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "The Call of Duty® experience supports Modern Warfare® 4, Black Ops 7, Black Ops 6 and Call of Duty®: Warzone™.",
+        "detailed_description": "<p class=\"bb_paragraph\" >The Call of Duty® experience supports Modern Warfare® 4, Black Ops 7, Black Ops 6 and Call of Duty®: Warzone™.</p><p class=\"bb_paragraph\" >Call of Duty®: Modern Warfare® 4 brings players Warfare Without Limits.</p><p class=\"bb_paragraph\" >In Call of Duty®: Black Ops 7, Treyarch and Raven Software are bringing players the biggest Black Ops ever.</p><p class=\"bb_paragraph\" >Call of Duty®: Black Ops 6 is signature Black Ops across a cinematic single-player Campaign, a best-in-class Multiplayer experience and with the epic return of Round-Based Zombies.</p><p class=\"bb_paragraph\" >Call of Duty®: Warzone™ is the massive free-to-play combat arena, featuring Battle Royale, Resurgence, and now introducing Black Ops Royale, a new free mode inspired by Blackout and reimagined for today’s Warzone™.</p><p class=\"bb_paragraph\" >Call of Duty® Points (CP*) are the in-game currency that can be used in Black Ops 7, Black Ops 6, Modern Warfare® III, Modern Warfare® II and Call of Duty®: Warzone™ to obtain new content.</p><p class=\"bb_paragraph\" >Call of Duty®: Black Ops 7, Call of Duty®: Black Ops 6, Call of Duty®: Modern Warfare® III, Call of Duty®: Modern Warfare® II or Call of Duty®: Warzone™ required to redeem. Sold / downloaded separately.</p><p class=\"bb_paragraph\" >CP purchased may also be used to obtain in-game content in certain Call of Duty® games with CP functionality enabled*. Each game sold separately.</p>",
+        "developers": [
+            "Treyarch",
+            "Raven Software",
+            "Beenox",
+            "High Moon Studios",
+            "Sledgehammer Games",
+            "Infinity Ward",
+            "Activision Shanghai",
+            "Demonware"
+        ],
+        "publishers": [
+            "Activision"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 65,
+                "description": "Subtitle Options"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 409058
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 27, 2022"
+        }
+    }
+}

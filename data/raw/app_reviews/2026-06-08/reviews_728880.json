@@ -1,0 +1,997 @@
+{
+    "ingested_at": "2026-06-08T19:58:47.027448",
+    "app_id": "728880",
+    "review_count": 99,
+    "reviews": [
+        {
+            "review_id": "227064483",
+            "steam_id": "76561199805775721",
+            "playtime_minutes": 305,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Fun little co-op game, very addicting to play."
+        },
+        {
+            "review_id": "225722979",
+            "steam_id": "76561199642511022",
+            "playtime_minutes": 734,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "One of my favorite games to play with my friends! Highly recommend the DLCs as well, not too expensive and there's a load of new characters, dishes, and harder levels to experience."
+        },
+        {
+            "review_id": "225387472",
+            "steam_id": "76561198323879498",
+            "playtime_minutes": 5316,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Great game to play with friends.\nobs: Try to choose friends that are not brain dead to play this with, especially if their names stats with J, beware of those."
+        },
+        {
+            "review_id": "226296894",
+            "steam_id": "76561199799399847",
+            "playtime_minutes": 508,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5192307829856873,
+            "steam_purchase": true,
+            "review_text": "If you have friends to play with, Overcooked 2 is an absolute blast.\r\n\r\nThe level design keeps things fresh throughout. Just when you think you've gotten the hang of it, the game throws a conveyor belt, a moving platform, or a completely absurd kitchen layout at you. Co-op communication becomes everything — and that's exactly where the fun (and the friendly arguments) come from."
+        },
+        {
+            "review_id": "227361509",
+            "steam_id": "76561198772368795",
+            "playtime_minutes": 38,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is basically Hell's Kitchen, except everyone is Gordon Ramsay and nobody knows what they're doing. Played it on both PC and PS5. Chaotic, challenging, and guaranteed to test your teamwork skills. 10/10 would burn the kitchen down again"
+        },
+        {
+            "review_id": "227358913",
+            "steam_id": "76561198031448782",
+            "playtime_minutes": 271,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "wooo this game rocks! it makes me hungry, i like Kevin, and the developers allow u to play this on livestreams unlike the cringe and bluepilled nintendon't!"
+        },
+        {
+            "review_id": "226991575",
+            "steam_id": "76561198854610355",
+            "playtime_minutes": 684,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I have never played a game that has tested my relationships and my friendships quite like this one. 10/10"
+        },
+        {
+            "review_id": "226944093",
+            "steam_id": "76561199077553585",
+            "playtime_minutes": 629,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Best game ever .i had so much fun with it .yes it has difficult levels but it is worth every fkn cent. I would buy this game even if i was broke and have no money to buy food"
+        },
+        {
+            "review_id": "226856681",
+            "steam_id": "76561199552059889",
+            "playtime_minutes": 135,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game if you want fun, controlled chaos however definatly would reccomend a freind to play with."
+        },
+        {
+            "review_id": "226767137",
+            "steam_id": "76561199175335999",
+            "playtime_minutes": 472,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "love me some silly lil fast paced coop game which will potentially end my friendships"
+        },
+        {
+            "review_id": "226684983",
+            "steam_id": "76561199082446271",
+            "playtime_minutes": 2595,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Best game with friends get all DLCS and 100% the game to fell free and better then everyone else"
+        },
+        {
+            "review_id": "226678807",
+            "steam_id": "76561199885867742",
+            "playtime_minutes": 189,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I liked the veriety of things you can do in this game and at the same time get fun with the people you play with."
+        },
+        {
+            "review_id": "226678528",
+            "steam_id": "76561198016972955",
+            "playtime_minutes": 4983,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Como cooperativo es enviciante. Como versus tiene muy poco contenido. En solitario no tiene gracia alguna."
+        },
+        {
+            "review_id": "226265624",
+            "steam_id": "76561199268094723",
+            "playtime_minutes": 421,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun game to play with partners or friends. Can get a little stressfull, so its not a relax game. But stil fun. Hope your communication skills are good because you are going to need them."
+        },
+        {
+            "review_id": "226199523",
+            "steam_id": "76561198392160703",
+            "playtime_minutes": 330,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "fun game but makes you get really heated playing but great value for how much it costs"
+        },
+        {
+            "review_id": "226125250",
+            "steam_id": "76561199099011520",
+            "playtime_minutes": 2669,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Overcooked 2 might be one of the first PvE games that truly mastered adversarial co-op without making people genuinely mad at each other.\nYou're yelling at your friends, throwing ingredients everywhere, setting the kitchen on fire … and somehow everyone is still laughing."
+        },
+        {
+            "review_id": "226027726",
+            "steam_id": "76561199367655897",
+            "playtime_minutes": 233,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Incredible game to play with friends and family...extremely stressful though. Very smooth on max setings"
+        },
+        {
+            "review_id": "225978252",
+            "steam_id": "76561198833867588",
+            "playtime_minutes": 278,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game is amazing if you want to argue with your friends and stop talking to each other — highly recommended."
+        },
+        {
+            "review_id": "225942928",
+            "steam_id": "76561198276408504",
+            "playtime_minutes": 238,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Overcooked 2 – A Chaotic Masterpiece That Turns Cooking Into Pure Joy\r\nIf you’ve ever wondered what it feels like to run a kitchen during absolute madness, Overcooked 2 delivers that experience in the most fun, frantic, and laugh-out-loud way possible. This isn’t just a cooking game—it’s a brilliantly crafted co-op adventure that thrives on teamwork, communication, and the occasional friendly argument.\r\nFrom the moment you jump in, Overcooked 2 hooks you with its colorful visuals and charming art style. The Onion Kingdom is bursting with personality, and every level feels like a new, creative challenge. One moment you’re preparing sushi on steady ground, and the next you’re cooking burgers across moving platforms, teleporters, or even hot air balloons. The variety keeps things fresh and exciting, making every stage feel like a puzzle you have to solve together.\r\nWhat truly makes Overcooked 2 shine is its co-op gameplay. Whether you’re playing locally with friends or online, the game turns simple tasks—chopping vegetables, cooking meat, washing dishes—into a hilarious test of coordination. You’ll find yourselves shouting orders, improvising plans, and laughing uncontrollably when everything inevitably goes wrong. It’s chaotic, but that’s exactly where the magic lies.\r\nThe addition of online multiplayer in Overcooked 2 is a huge upgrade from the original, making it easier than ever to team up with friends, no matter where they are. Tossing ingredients across the kitchen is another clever addition that adds strategic depth and saves precious seconds when timing is everything.\r\nDespite its lighthearted tone, the game can be surprisingly challenging. Later levels demand precision and near-perfect teamwork, which makes success incredibly satisfying. And even when you fail, it rarely feels frustrating—because you’re usually too busy laughing at the chaos you just created.\r\nThe soundtrack and sound effects perfectly complement the gameplay, keeping the energy high and enhancing the sense of urgency. Every ding of a completed dish or alarm of a burning pan adds to the adrenaline rush.\r\nPros:\r\n\r\nIncredibly fun and chaotic co-op gameplay\r\nCreative and varied level design\r\nOnline multiplayer support\r\nCharming visuals and humor\r\nEasy to learn, hard to master\r\n\r\nCons:\r\n\r\nCan get stressful (in a fun way!)\r\nBest experienced with friends—solo play is less engaging\r\n\r\nFinal Verdict:\r\nOvercooked 2 is one of the best party games ever made. It’s the perfect mix of challenge, humor, and teamwork, creating unforgettable moments with friends and family. Whether you’re a casual gamer or a seasoned pro, this game is guaranteed to keep you entertained.\r\nRating: 9.5/10 – A must-play for anyone who loves co-op games and chaotic fun."
+        },
+        {
+            "review_id": "225942378",
+            "steam_id": "76561199052789318",
+            "playtime_minutes": 459,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun couch game even for people not used to play to computer games"
+        },
+        {
+            "review_id": "225329829",
+            "steam_id": "76561199093520588",
+            "playtime_minutes": 188,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "An absolute classic at this point. Gets very chaotic at times, but sure to bring ya lotsa fun!"
+        },
+        {
+            "review_id": "225307513",
+            "steam_id": "76561199183152000",
+            "playtime_minutes": 1716,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "we started this game as friends, now we are a high speed, high risk, low payed and understaffed war machine ready to throw barely-not burnt \"food\" to any customer that dares to look at our restaurant direction and scream our lungs out while it"
+        },
+        {
+            "review_id": "225304284",
+            "steam_id": "76561199275757090",
+            "playtime_minutes": 176,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "for the peeps who can't make their girlfriends scream and roll their eyes i highly encourage you to play this game together."
+        },
+        {
+            "review_id": "225135365",
+            "steam_id": "76561199178679110",
+            "playtime_minutes": 205,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A really lovely game. Like fall guys but cooking. I don't know how fun this is solo, I played only with my friends. Didn't have a single second of relaxation, we were yelling at each other the entire time. Definitely recommend!"
+        },
+        {
+            "review_id": "225090215",
+            "steam_id": "76561198167815498",
+            "playtime_minutes": 271,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Bought this to play with my girlfriend and get her into gaming since she had barely played anything before. Now she’s getting ultra competitive and we’re trying to 3-star every level together. Amazing game."
+        },
+        {
+            "review_id": "226549223",
+            "steam_id": "76561198054897327",
+            "playtime_minutes": 489,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "What a disappointment. Played this with one other person the whole time.\n\nPros:\nDashing and throwing items is great\nPrecise handling (unlike PlateUp!)\nLevels are uniquely enjoyable with themes and movement that keeps the gameplay new\n\nCons:\nStory - who cares\nMap Movement - just a waste of time\nDifficulty - The first go around was very easy, even for 2 first time players to the series. We beat every level on the first or second try, not a brag, it just wasn't that hard and we didn't have to make that many adjustments to get the high score each time. I was happy to see there's essentially a new game + once you beat every level. Instead of putting all the skills you've learned to the test you just make a ton of food and throw it on the floor then start the clock. This was the deciding factor for me to give a thumbs down, I get that you may want to make the first go through easy for some gamers but the second go around should challenge you to better yourself at the game mechanics and order of operations you use in order to complete dishes. After playing the first level again in new game + with my friend numerous times and really optimizing each process we still were not even close to the par score. We watched a video of how 2 others beat the level and after seeing them just make food and throw it on the ground before starting the clock I realized that the whole experience is empty. The first go around is way too easy and the second go around isn't even hard, you just bypass the way to play the game with a method that feels like an exploit."
+        },
+        {
+            "review_id": "226395530",
+            "steam_id": "76561198402555885",
+            "playtime_minutes": 334,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "On MacOS controller does not work. Tried on two different Macbooks and tried a lot of fixes but none worked. Just an FYI controllers work just fine on any other games I own. Controls are quite horrible on the keyboard. Highly regret getting this on Steam especially since I have this on nintendo switch."
+        },
+        {
+            "review_id": "226270940",
+            "steam_id": "76561198085941096",
+            "playtime_minutes": 1205,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "game is unplayable after January of this year.  I don't understand what happened.  I can't get more than 10fps now, ive tried uninstalling and reinstalling, problem seems to be happening with both 1 and 2.  Super sad, used to love this game..."
+        },
+        {
+            "review_id": "225833848",
+            "steam_id": "76561198957598112",
+            "playtime_minutes": 10805,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Some relationships don't stand the test of time, some tremble in the almighty presence of Overcooked\n\nShould you avoid OC for the sake of it all? Or it's a telltale sign of long sessions of therapy?"
+        },
+        {
+            "review_id": "226990661",
+            "steam_id": "76561199220617024",
+            "playtime_minutes": 52,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game enslaves my minds into whooping my friends with a omelet."
+        },
+        {
+            "review_id": "226448206",
+            "steam_id": "76561199051010209",
+            "playtime_minutes": 743,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This second Part of this Game is significantly more modern and have better graphics than the first. It's a lot of fun to play with friends because you need to have a good teamwork. I would definitely recommend it!"
+        },
+        {
+            "review_id": "226173783",
+            "steam_id": "76561198769296613",
+            "playtime_minutes": 323,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good game to play with my friend, and not very easy or very hard."
+        },
+        {
+            "review_id": "225382158",
+            "steam_id": "76561199125648753",
+            "playtime_minutes": 790,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "If you like papas freezeria or the webkinz pizza simulator you will like this cook sim! Best part you can play story or with friends multiple levels. controller and keyboard friendly"
+        },
+        {
+            "review_id": "226017565",
+            "steam_id": "76561198279346986",
+            "playtime_minutes": 106,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I sure love screaming at my friends like I'm the head chef, for I SURELY didn't just \"f-up\" three almost perfectly done orders within a span of 15 seconds"
+        },
+        {
+            "review_id": "226829710",
+            "steam_id": "76561199260547466",
+            "playtime_minutes": 269,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Best multiplayer chill cooking game ever\r\n"
+        },
+        {
+            "review_id": "226430018",
+            "steam_id": "76561199766025869",
+            "playtime_minutes": 1218,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Hate 6-2, but everything else is a great co-op."
+        },
+        {
+            "review_id": "225800392",
+            "steam_id": "76561198317668601",
+            "playtime_minutes": 694,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love the artstyle, I think it's a lovely game, just try not to get too agressive :')"
+        },
+        {
+            "review_id": "227105554",
+            "steam_id": "76561198949144561",
+            "playtime_minutes": 6693,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "Absolutely ♥♥♥♥♥♥♥ amazing. When sex update?"
+        },
+        {
+            "review_id": "227439666",
+            "steam_id": "76561199127853042",
+            "playtime_minutes": 345,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "addicting & great to play with family/friends"
+        },
+        {
+            "review_id": "225613990",
+            "steam_id": "76561199501737355",
+            "playtime_minutes": 451,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Most chaotic game I've experienced with my friends!"
+        },
+        {
+            "review_id": "226413238",
+            "steam_id": "76561199068993891",
+            "playtime_minutes": 879,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very fun very stressful very crazy do reccomend"
+        },
+        {
+            "review_id": "225307802",
+            "steam_id": "76561199159872622",
+            "playtime_minutes": 58,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game made me so angry and mad, i am mad angry russian, game made me lose my friends, i hate wife"
+        },
+        {
+            "review_id": "226658067",
+            "steam_id": "76561199070282010",
+            "playtime_minutes": 299,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "theres special flavoring in the rice, not soy sauce"
+        },
+        {
+            "review_id": "225962530",
+            "steam_id": "76561199259776820",
+            "playtime_minutes": 1090,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great co-op game to play with friends"
+        },
+        {
+            "review_id": "225735125",
+            "steam_id": "76561199517550839",
+            "playtime_minutes": 1201,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love this game. Please DO add more DLCs or levels. Thank you so very much !"
+        },
+        {
+            "review_id": "227031985",
+            "steam_id": "76561199091693029",
+            "playtime_minutes": 236,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Excellent game to play with your partner\r\n"
+        },
+        {
+            "review_id": "225747189",
+            "steam_id": "76561199365797179",
+            "playtime_minutes": 333,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Me becoming strategist when playing this game with friend"
+        },
+        {
+            "review_id": "226590107",
+            "steam_id": "76561199091739005",
+            "playtime_minutes": 579,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "sevgilim ♥♥♥ guzel asci, seni ♥♥♥ seviyorum"
+        },
+        {
+            "review_id": "225970986",
+            "steam_id": "76561199472721539",
+            "playtime_minutes": 520,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the best way to stress yourself out!"
+        },
+        {
+            "review_id": "225167979",
+            "steam_id": "76561199159034922",
+            "playtime_minutes": 785,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "i was just cooking in a swamp next thing i know im transported to hell"
+        },
+        {
+            "review_id": "226910130",
+            "steam_id": "76561199599877622",
+            "playtime_minutes": 799,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good fun, love to play this with my sister"
+        },
+        {
+            "review_id": "226039302",
+            "steam_id": "76561199046060246",
+            "playtime_minutes": 299,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very funny and happy!"
+        },
+        {
+            "review_id": "226389527",
+            "steam_id": "76561198256858741",
+            "playtime_minutes": 1200,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "a fun game to play with gf"
+        },
+        {
+            "review_id": "225968355",
+            "steam_id": "76561199822009592",
+            "playtime_minutes": 552,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "love everythiung about this game"
+        },
+        {
+            "review_id": "226199538",
+            "steam_id": "76561199870771120",
+            "playtime_minutes": 228,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Super fun with friends!"
+        },
+        {
+            "review_id": "225117330",
+            "steam_id": "76561199072553949",
+            "playtime_minutes": 525,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "FIX THE SERVERS BRO. GAME IS UNPLAYABLE ONLINE."
+        },
+        {
+            "review_id": "225254996",
+            "steam_id": "76561199517073121",
+            "playtime_minutes": 625,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "8/10 game 10/10 ragebaiting"
+        },
+        {
+            "review_id": "225172671",
+            "steam_id": "76561198050567192",
+            "playtime_minutes": 391,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "gud but frustrating"
+        },
+        {
+            "review_id": "227493287",
+            "steam_id": "76561199084509022",
+            "playtime_minutes": 341,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game stressed me out"
+        },
+        {
+            "review_id": "225786886",
+            "steam_id": "76561199783609677",
+            "playtime_minutes": 169,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game sucks"
+        },
+        {
+            "review_id": "225417282",
+            "steam_id": "76561199800301629",
+            "playtime_minutes": 570,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I ♥♥♥♥♥♥♥ hate this game"
+        },
+        {
+            "review_id": "225196819",
+            "steam_id": "76561199538163288",
+            "playtime_minutes": 417,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "stressful but good"
+        },
+        {
+            "review_id": "225170383",
+            "steam_id": "76561198185025581",
+            "playtime_minutes": 595,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Living out my long dream of being Gordon Ramsey in his prime"
+        },
+        {
+            "review_id": "227127395",
+            "steam_id": "76561199594391310",
+            "playtime_minutes": 1611,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I hate this game"
+        },
+        {
+            "review_id": "226821952",
+            "steam_id": "76561198071229329",
+            "playtime_minutes": 1685,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "cool game"
+        },
+        {
+            "review_id": "225575758",
+            "steam_id": "76561199705508732",
+            "playtime_minutes": 3165,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good game👌"
+        },
+        {
+            "review_id": "225573478",
+            "steam_id": "76561199049635675",
+            "playtime_minutes": 1515,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good game"
+        },
+        {
+            "review_id": "225616913",
+            "steam_id": "76561199187792953",
+            "playtime_minutes": 403,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "real fun heh"
+        },
+        {
+            "review_id": "227371280",
+            "steam_id": "76561199092430528",
+            "playtime_minutes": 10817,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "fun"
+        },
+        {
+            "review_id": "226455553",
+            "steam_id": "76561199216589726",
+            "playtime_minutes": 1302,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun chaotic cooking 🔥"
+        },
+        {
+            "review_id": "226037384",
+            "steam_id": "76561198704263286",
+            "playtime_minutes": 534,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good"
+        },
+        {
+            "review_id": "225263912",
+            "steam_id": "76561199499038687",
+            "playtime_minutes": 318,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "fun"
+        },
+        {
+            "review_id": "227417122",
+            "steam_id": "76561198779098386",
+            "playtime_minutes": 273,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its awesome"
+        },
+        {
+            "review_id": "227232339",
+            "steam_id": "76561199134943638",
+            "playtime_minutes": 53,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "not for the weak"
+        },
+        {
+            "review_id": "226020664",
+            "steam_id": "76561198072727069",
+            "playtime_minutes": 908,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "perfect for local coop"
+        },
+        {
+            "review_id": "225792546",
+            "steam_id": "76561197960394559",
+            "playtime_minutes": 1282,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "fun"
+        },
+        {
+            "review_id": "225341851",
+            "steam_id": "76561199857037285",
+            "playtime_minutes": 542,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i hate it."
+        },
+        {
+            "review_id": "226216918",
+            "steam_id": "76561199490931995",
+            "playtime_minutes": 1777,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Kevin will be proud of you."
+        },
+        {
+            "review_id": "225964659",
+            "steam_id": "76561197980948964",
+            "playtime_minutes": 1494,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Doesn't work on M1 Macs"
+        },
+        {
+            "review_id": "225844142",
+            "steam_id": "76561199781384450",
+            "playtime_minutes": 183,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Its the best!!!!!"
+        },
+        {
+            "review_id": "225089508",
+            "steam_id": "76561199870314870",
+            "playtime_minutes": 15,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good for time pass\n"
+        },
+        {
+            "review_id": "225712134",
+            "steam_id": "76561198024703986",
+            "playtime_minutes": 479,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Imma buss (tables)"
+        },
+        {
+            "review_id": "226594194",
+            "steam_id": "76561198702707666",
+            "playtime_minutes": 508,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love Overcooked!"
+        },
+        {
+            "review_id": "226827270",
+            "steam_id": "76561199033085397",
+            "playtime_minutes": 186,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "muiito boom"
+        },
+        {
+            "review_id": "225964859",
+            "steam_id": "76561198961665321",
+            "playtime_minutes": 625,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "vewercooked"
+        },
+        {
+            "review_id": "225338714",
+            "steam_id": "76561198881367365",
+            "playtime_minutes": 207,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love faye"
+        },
+        {
+            "review_id": "226987118",
+            "steam_id": "76561198968953396",
+            "playtime_minutes": 245,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I suck"
+        },
+        {
+            "review_id": "227413486",
+            "steam_id": "76561198315630688",
+            "playtime_minutes": 224,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Masak"
+        },
+        {
+            "review_id": "227305635",
+            "steam_id": "76561198851634628",
+            "playtime_minutes": 829,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "REALY ENTERTAINING"
+        },
+        {
+            "review_id": "226606741",
+            "steam_id": "76561199546585149",
+            "playtime_minutes": 1927,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "yes yes yes"
+        },
+        {
+            "review_id": "227395584",
+            "steam_id": "76561198261863390",
+            "playtime_minutes": 641,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "GOTY"
+        },
+        {
+            "review_id": "226035676",
+            "steam_id": "76561199602031708",
+            "playtime_minutes": 1677,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "AWERSOME"
+        },
+        {
+            "review_id": "225145634",
+            "steam_id": "76561199223455312",
+            "playtime_minutes": 185,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "brazy"
+        },
+        {
+            "review_id": "225917066",
+            "steam_id": "76561198255311741",
+            "playtime_minutes": 504,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "gg"
+        },
+        {
+            "review_id": "226719918",
+            "steam_id": "76561199139888732",
+            "playtime_minutes": 1868,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fiyah!"
+        },
+        {
+            "review_id": "226098165",
+            "steam_id": "76561199165054000",
+            "playtime_minutes": 206,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "game"
+        },
+        {
+            "review_id": "226010772",
+            "steam_id": "76561199146431865",
+            "playtime_minutes": 5,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "hahaha"
+        },
+        {
+            "review_id": "225614613",
+            "steam_id": "76561199079914092",
+            "playtime_minutes": 1953,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "tbhdbnawkodhbaoudnsafamnoizxq viujnbwngmv eoiwanfeik nqaf3IJUNK JNKAJ bugger'"
+        },
+        {
+            "review_id": "227340492",
+            "steam_id": "76561199056770154",
+            "playtime_minutes": 729,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": ""
+        }
+    ]
+}

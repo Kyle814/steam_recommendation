@@ -1,0 +1,37 @@
+{
+    "ingested_at": "2026-06-08T18:54:31.425762",
+    "app_id": "838350",
+    "review_count": 3,
+    "reviews": [
+        {
+            "review_id": "227321837",
+            "steam_id": "76561198397144653",
+            "playtime_minutes": 108,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5248926281929016,
+            "steam_purchase": true,
+            "review_text": "I used to pirate this game, but I quickly realized it’s so good that the developers genuinely deserve my financial support. A huge shoutout to Li Wei and the community for tearing down the language barrier and allowing the English-speaking community to fully experience this masterpiece. The wait is finally over! The horrible couple of years of silence, i even gave up hoping. but now? watching it evolve from early access (spaghetti code problem)  into a brilliant full release. Huge applause to the dev team. Congrats"
+        },
+        {
+            "review_id": "226861563",
+            "steam_id": "76561199816713093",
+            "playtime_minutes": 2587,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love this game, but i need english :))"
+        },
+        {
+            "review_id": "226854317",
+            "steam_id": "76561199805542891",
+            "playtime_minutes": 6171,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.45988258719444275,
+            "steam_purchase": true,
+            "review_text": "good"
+        }
+    ]
+}

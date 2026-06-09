@@ -1,0 +1,139 @@
+{
+    "ingested_at": "2026-06-08T19:22:45.851189",
+    "app_id": "526870",
+    "metadata": {
+        "type": "game",
+        "name": "Satisfactory",
+        "steam_appid": 526870,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+        "detailed_description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!<h2 class=\"bb_tag\" >Construct</h2>Conquer nature by building massive factories across the land. Expand wherever and however you want. The planet is filled with valuable natural resources just waiting to be utilized. As an employee of FICSIT it’s your duty to make sure they come to good use.<h2 class=\"bb_tag\" >Automate</h2>Construct your factories with gracious perfection or build intricate webs of conveyor belts to supply all your needs. Automate trucks and trains to reach your faraway outposts and be sure to handle liquids properly by transporting them in pipes. It’s all about minimizing manual labour!<h2 class=\"bb_tag\" >Explore &amp; Exploit</h2>Venture on expeditions to search for new materials and be sure to put everything to good use. Nature is yours to harvest! You have vehicles, jetpacks, jump pads and more at your disposal to make the exploration easier. Equip the proper safety gear as well, just in case you run into the local wildlife.<h2 class=\"bb_tag\" >FEATURES</h2>•\t<strong>Open World: </strong>Explore the huge (30km2) alien planet that is Massage-2(AB)b with its unique fauna and creatures.<br>•\t<strong>Co-Op:</strong> Build a factory yourself or share the joy with your friends. Up to you!<br>•\t<strong>Factory Building:</strong> Experience building a huge factory from a first-person perspective. Automate and optimize it to perfection for your personal satisfaction.<br>•\t<strong>Customization:</strong> Customize your factory to your own liking. Build at high altitudes or over wide plains, there is almost no limits in the making of your tailor-made factory. <br>•\t<strong>Vehicles:</strong> Travel the world with class. Use jump pads, factory carts, jetpacks, hypertubes, trucks or trains. The choice is yours!",
+        "developers": [
+            "Coffee Stain Studios"
+        ],
+        "publishers": [
+            "Coffee Stain Publishing"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 91,
+            "url": "https://www.metacritic.com/game/pc/satisfactory?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 228887
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 10, 2024"
+        }
+    }
+}

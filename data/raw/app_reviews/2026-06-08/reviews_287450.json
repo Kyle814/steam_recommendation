@@ -1,0 +1,357 @@
+{
+    "ingested_at": "2026-06-08T19:23:01.117093",
+    "app_id": "287450",
+    "review_count": 35,
+    "reviews": [
+        {
+            "review_id": "226009080",
+            "steam_id": "76561198341512297",
+            "playtime_minutes": 865,
+            "voted_up": true,
+            "votes_up": 5,
+            "weighted_score": 0.5352717041969299,
+            "steam_purchase": true,
+            "review_text": "Best game of all time in my opinion. The gameplay is amazing, the vibe is perfect and the music is just on another level!"
+        },
+        {
+            "review_id": "226048458",
+            "steam_id": "76561198075314181",
+            "playtime_minutes": 5,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.53125,
+            "steam_purchase": true,
+            "review_text": "grew up playing this game, and never ever get tired of it, love this game with all my heart, may not be for everyone, but it sure is for me"
+        },
+        {
+            "review_id": "225082279",
+            "steam_id": "76561198091282096",
+            "playtime_minutes": 9592,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5259249210357666,
+            "steam_purchase": true,
+            "review_text": "I bought this game when I was a kid and still love to play it for the nostalgia. Fun game, but the conquest battles can get a little redundant. Still fun though."
+        },
+        {
+            "review_id": "227388341",
+            "steam_id": "76561198441285169",
+            "playtime_minutes": 1344,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Nearly 20 years have passed since I first played Rise of Nations in my high school days 🕰️. To this day, it remains an irreplaceable classic RTS game in my heart.\r\nAdmittedly, by modern gaming standards, its graphics, controls and gameplay feel outdated and dated 🎮. But for us 80s and 90s gamers, this game carries the purest childhood and youth memories of RTS battles ⚔️.\r\nI bought this game on Steam simply for nostalgia and faith. Nothing fancy, just paying tribute to the great old days ❤️."
+        },
+        {
+            "review_id": "225931477",
+            "steam_id": "76561198219832300",
+            "playtime_minutes": 1517,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5126218795776367,
+            "steam_purchase": true,
+            "review_text": "have been playing this game off and on since i was 10? now I'm almost 30 and got steam just to download and play this, still holds up pretty well.\r\n\r\nCan make easy or difficult depending on what you are looking for, strongly recommend it"
+        },
+        {
+            "review_id": "227057075",
+            "steam_id": "76561198855894470",
+            "playtime_minutes": 261,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5045731663703918,
+            "steam_purchase": true,
+            "review_text": "It's nice but unfortunately graphic is not to good for modern times. If owners would enchance it, it would be nice."
+        },
+        {
+            "review_id": "226039840",
+            "steam_id": "76561198321495361",
+            "playtime_minutes": 18800,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5045731663703918,
+            "steam_purchase": true,
+            "review_text": "Rise of Nations supersedes all other RTS titles in my library to this day in terms of accessibility, gameplay, aesthetics,  and fun-factor to this day. I've been playing this game since my mom bought it for me from the bargain bin at best buy back in 2009, and as far as games go that I've been playing since I was that young, few hold the staying power that RoN has. It's like a blend of the best parts of Age of Empires II and Civilization III in a package that's really easy to pick up and learn. It stands in contrast from games like AoE, and a more pedestrian combat though still engaging and fun. The resource management, trading, and diplomacy is reminiscent of Civ, map location and map control, borders, etc. all matter and add to the spice of gameplay with a group of human players - and I highly recommend playing in large groups of friends in a discord call for the experience of being the first one to research nukes."
+        },
+        {
+            "review_id": "227390572",
+            "steam_id": "76561197972524609",
+            "playtime_minutes": 2662,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's as addicting as when it first came out, and still works well today."
+        },
+        {
+            "review_id": "225712121",
+            "steam_id": "76561199802182130",
+            "playtime_minutes": 3634,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing game; never gets old. I used to play this for hundreds of hours, maybe thousands back in early 2000s with my cousins. A timeless classic, and I still play it from time to time when I want to relax."
+        },
+        {
+            "review_id": "225578680",
+            "steam_id": "76561198245494730",
+            "playtime_minutes": 668,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A classic RTS game I used to play back in HIgh school. Evolving through the ages is so rewarding. Single player missions and conquering the world is such a fun way to shake up the gameplay."
+        },
+        {
+            "review_id": "227283772",
+            "steam_id": "76561198167135142",
+            "playtime_minutes": 50,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.4887988567352295,
+            "steam_purchase": true,
+            "review_text": "Rise of Nations: Extended Edition is still an amazing game at its core. The blend of real-time strategy, empire building, and historical progression remains incredibly fun, and it's easy to see why so many people consider it a classic.\n\nUnfortunately, my experience with the Extended Edition was disappointing from a technical standpoint. Despite having a PC that should be more than capable of running a game of this age, I constantly encountered sudden FPS drops and crashes. The performance issues were severe enough to affect gameplay and made longer sessions frustrating.\n\nI spent quite a bit of time trying to fix the problem. I experimented with FPS caps, lowered graphics settings, adjusted various options, and searched for potential solutions online, but nothing provided a reliable fix. The game would still suffer from random performance drops and stability issues.\n\nIt's especially disappointing because I genuinely wanted to play and enjoy this game. When it was running properly, I could see how great it still is. Sadly, the technical problems outweighed the enjoyment, and I ultimately had to request a refund.\n\nIf the performance and crashing issues were addressed, I would gladly give it another chance. As it stands, I can't recommend the Extended Edition based on my experience, even though the underlying game itself remains fantastic."
+        },
+        {
+            "review_id": "227238271",
+            "steam_id": "76561197979926135",
+            "playtime_minutes": 1992,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.4887988567352295,
+            "steam_purchase": true,
+            "review_text": "One of the greatest games of all time.  Still brilliant after all these years. A graphical update would make it perfect."
+        },
+        {
+            "review_id": "225501678",
+            "steam_id": "76561198861119609",
+            "playtime_minutes": 355,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "class game, worth the price"
+        },
+        {
+            "review_id": "226644779",
+            "steam_id": "76561198027801258",
+            "playtime_minutes": 6909,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun and strategic game"
+        },
+        {
+            "review_id": "225939781",
+            "steam_id": "76561198098989483",
+            "playtime_minutes": 23329,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I'm a huge fan of the old-fashioned RTS games. If you liked Age of Empires, you'll like this."
+        },
+        {
+            "review_id": "227484192",
+            "steam_id": "76561199230649346",
+            "playtime_minutes": 375,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "old but gold music in this game is on another level"
+        },
+        {
+            "review_id": "227438568",
+            "steam_id": "76561197962119763",
+            "playtime_minutes": 1182,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "Probably one of the best RTS games ever made. I have over 100 hours in this (I owned it before Steam was even a thing. I am old).\r\n\r\n"
+        },
+        {
+            "review_id": "226229751",
+            "steam_id": "76561198828393978",
+            "playtime_minutes": 215,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Civilizations and Age of Empire got a child."
+        },
+        {
+            "review_id": "226819321",
+            "steam_id": "76561197999337757",
+            "playtime_minutes": 9898,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5081967115402222,
+            "steam_purchase": true,
+            "review_text": "awesome rts, works great on the deck\r\n"
+        },
+        {
+            "review_id": "226287940",
+            "steam_id": "76561198842253506",
+            "playtime_minutes": 2599,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Really enjoy the game. Have very good memories of playing this game."
+        },
+        {
+            "review_id": "225438748",
+            "steam_id": "76561198079661912",
+            "playtime_minutes": 291,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "some ♥♥♥♥♥ wrote an entire book on this game lmfao"
+        },
+        {
+            "review_id": "226288832",
+            "steam_id": "76561198254011833",
+            "playtime_minutes": 1744,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I like these type of game very much\r\n"
+        },
+        {
+            "review_id": "227317248",
+            "steam_id": "76561198072205849",
+            "playtime_minutes": 1540,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5454545617103577,
+            "steam_purchase": true,
+            "review_text": "This game slaps ass."
+        },
+        {
+            "review_id": "226159416",
+            "steam_id": "76561198841573548",
+            "playtime_minutes": 19619,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5454545617103577,
+            "steam_purchase": true,
+            "review_text": "beats Age of Empires any day"
+        },
+        {
+            "review_id": "225395386",
+            "steam_id": "76561199039339025",
+            "playtime_minutes": 5513,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Best game ever in regards of his kind"
+        },
+        {
+            "review_id": "226441542",
+            "steam_id": "76561198002549990",
+            "playtime_minutes": 1681,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Super fun game."
+        },
+        {
+            "review_id": "226841929",
+            "steam_id": "76561198063049968",
+            "playtime_minutes": 2906,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great game."
+        },
+        {
+            "review_id": "225486686",
+            "steam_id": "76561198778205283",
+            "playtime_minutes": 224,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Best game ever"
+        },
+        {
+            "review_id": "226792293",
+            "steam_id": "76561199267545546",
+            "playtime_minutes": 5239,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun"
+        },
+        {
+            "review_id": "226324515",
+            "steam_id": "76561199013260295",
+            "playtime_minutes": 1224,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "noice"
+        },
+        {
+            "review_id": "227066923",
+            "steam_id": "76561198974055596",
+            "playtime_minutes": 403,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5279592871665955,
+            "steam_purchase": true,
+            "review_text": "my childhood"
+        },
+        {
+            "review_id": "226081650",
+            "steam_id": "76561198843386133",
+            "playtime_minutes": 51331,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Wooooooooooooooooooooo"
+        },
+        {
+            "review_id": "226314195",
+            "steam_id": "76561198125968423",
+            "playtime_minutes": 670,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Crashing"
+        },
+        {
+            "review_id": "225617985",
+            "steam_id": "76561199250197759",
+            "playtime_minutes": 12362,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "SERU"
+        },
+        {
+            "review_id": "226547518",
+            "steam_id": "76561199094118131",
+            "playtime_minutes": 3637,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "G.O.A.T"
+        }
+    ]
+}

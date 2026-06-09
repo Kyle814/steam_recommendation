@@ -1,0 +1,105 @@
+{
+    "ingested_at": "2026-06-08T19:12:24.285445",
+    "app_id": "2622380",
+    "metadata": {
+        "type": "game",
+        "name": "ELDEN RING NIGHTREIGN",
+        "steam_appid": 2622380,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "ELDEN RING NIGHTREIGN is a standalone adventure within the ELDEN RING universe, crafted to offer players a new gaming experience by reimagining the game’s core design.",
+        "detailed_description": "<h1>Deluxe Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/extras/e90dcc3f95515753568130d9a3e6ca98.avif?t=1773099036\" width=780 height=438 /></span><br>The Deluxe Edition Includes:<br>• ELDEN RING NIGHTREIGN<br>• ELDEN RING NIGHTREIGN The Forsaken Hollows<br>- 2 additional Nightfarers<br>- 2 Day Three Bosses<br>- Additional Shifting Earth<br>- And more!<br>• Digital Artbook &amp; Mini Soundtrack</p><br><h1>About the Game</h1>ELDEN RING NIGHTREIGN is a standalone adventure within the ELDEN RING universe, crafted to offer players a new gaming experience by reimagining the game’s core design.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/extras/0f44543bf46b9cb7f30b2a267fccb63b.poster.avif?t=1773099036\" width=780 height=350 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/extras/0f44543bf46b9cb7f30b2a267fccb63b.webm?t=1773099036\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/extras/0f44543bf46b9cb7f30b2a267fccb63b.mp4?t=1773099036\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >RISE TOGETHER.</h2>Join forces with other players to take on the creeping night and the dangers within featuring 3-player co-op. Three Nightfarers will have two full days to explore the land of Limveld as they hunt one of the terrifying Nightlords. Find new companions or invite friends to join in an ever-changing 3-player co-op experience.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/extras/9b0f1ec8eb6c9dd2a7e5e1c30819ac50.poster.avif?t=1773099036\" width=780 height=350 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/extras/9b0f1ec8eb6c9dd2a7e5e1c30819ac50.webm?t=1773099036\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/extras/9b0f1ec8eb6c9dd2a7e5e1c30819ac50.mp4?t=1773099036\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >BECOME A HERO.</h2>Take command of eight uniquely skilled heroes, each possessing their own abilities and distinct flair. Each Nightfarer has three unique capacities: a passive ability, a character skill, and an ultimate art. These tools of survival and combat reflect each hero’s history and background. While individually formidable, their skills create powerful synergies when they unite as a team.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/extras/3d48a07657a423c99eb6ebd25391ad37.poster.avif?t=1773099036\" width=780 height=350 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/extras/3d48a07657a423c99eb6ebd25391ad37.webm?t=1773099036\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/extras/3d48a07657a423c99eb6ebd25391ad37.mp4?t=1773099036\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >TAKE ON THE NIGHT.</h2>Your hunt takes place in Limveld, a transitory land, buffeted by the raging might of the Nightlords. These enormous beings lurk beyond the reach of most mortals and only reveal themselves when their commanders are defeated after two consecutive nights.Overcome a relentless environmental threat that sweeps through a land that changes between each game session and defeat the magnificent boss of that night.<br><br>Each Nightlord must be faced and defeated before the reign of night can be ended!",
+        "developers": [
+            "FromSoftware, Inc."
+        ],
+        "publishers": [
+            "FromSoftware, Inc.",
+            "Bandai Namco Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 125782
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 29, 2025"
+        }
+    }
+}

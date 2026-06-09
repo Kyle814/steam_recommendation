@@ -1,0 +1,115 @@
+{
+    "ingested_at": "2026-06-08T18:42:20.462018",
+    "app_id": "1046930",
+    "metadata": {
+        "type": "game",
+        "name": "Dota Underlords",
+        "steam_appid": 1046930,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Hire a crew and destroy your rivals in this new strategy battler set in the world of Dota. Introducing Season One: Explore White Spire and earn rewards on the Battle Pass. Pick from several different game modes, play on your own or with friends, and take advantage of crossplay on PC and mobile.",
+        "detailed_description": "NEXT GENERATION AUTO-BATTLER<br>In Dota Underlords, strategic decisions matter more than twitch reflexes. Underlords includes compelling singleplayer and multiplayer modes, and offers level progression with rewards. Play a strategic Standard game, a quick Knockout match, or co-op Duos match with a friend.<br><br>SEASON ONE NOW AVAILABLE<br>Season One comes with a City Crawl full of content, a Battle Pass full of rewards, and multiple ways to play online or offline. Dota Underlords is now out of Early Access and ready to play!<br><br>CITY CRAWL<br>Mama Eeb’s death has left a power vacuum in White Spire. Take back the city neighborhood by neighborhood, Underlord by Underlord, in the new City Crawl campaign. Complete puzzle challenges, win quick street-fights, and complete in-game challenges to clear paths and take over the city. Unlock rewards like new outfits for your Underlords, new wanted poster artwork, victory dances, and titles.<br><br>BATTLEPASS<br>Season One comes with a full Battle Pass offering over 100 rewards. Play matches, complete challenges, and unlock areas of the City Crawl to level up your Battle Pass and earn rewards. Rewards include new boards, weather effects, profile customization, skins, and other gameplay cosmetics. Many of these rewards can be earned for free simply by playing the game. For more rewards and content, players can purchase the Battle Pass for $4.99 on all platforms. <i>The paid Battle Pass is not required to play the game, nor does it provide any gameplay specific advantage.</i><br><br>WHITE SPIRE AWAITS A LEADER... <br>A vertical metropolis of gambling and grit, just beyond the reach of Stonehall and Revtel; White Spire is known as a smugglers' paradise with loose morals and colorful residents to spare. Despite being overrun with syndicates, gangs, and secret societies, White Spire has never descended into chaos for one reason: Momma Eeb. She was respected... she was loved... and unfortunately, she was murdered last week. <br><br>Eeb’s death has sent one question rippling through White Spire’s underworld: who is going to run the city?<br><br>STRATEGIZE TO WIN: Recruit heroes and upgrade them into more powerful versions of themselves. <br><br>MIX AND MATCH: Each hero you recruit can form unique alliances. Stacking your team with allied heroes will unlock powerful bonuses that can crush your rivals. <br><br>UNDERLORDS: Choose from four Underlords to lead your crew to victory. Underlords are powerful units who fight on the field alongside your crew, and they each bring their own playstyle, perks, and abilities to the table.<br><br>CROSSPLAY: Play on your platform of choice and battle players across the globe in a hassle-free crossplay experience. Running late? Start a match on your PC and finish it on your mobile device (and vice versa). Your profile in Dota Underlords is shared across all devices, so no matter what you play on, you're always making progress. <br><br>RANKED MATCHMAKING: Everyone starts at the bottom, but by playing against other Underlords you'll climb through the ranks and prove you're worthy to rule White Spire. <br><br>TOURNAMENT-READY: Create your own private lobbies and matches, then invite spectators to watch 8 Underlords duke it out. <br><br>OFFLINE PLAY: Offering a sophisticated AI with 4 levels of difficulty, offline play is a great place to hone your skills. Pause and resume games at your leisure. <br><br>SEASONAL ROTATION: Every season we'll say goodbye to certain Heroes, Items, and Alliances to make room for new additions that will shape the ever-evolving world of Underlords.",
+        "developers": [
+            "Valve"
+        ],
+        "publishers": [
+            "Valve"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 75,
+                "description": "Keyboard Only Option"
+            },
+            {
+                "id": 76,
+                "description": "Mouse Only Option"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 77,
+                "description": "Touch Only Option"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            }
+        ],
+        "genres": [
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jun 20, 2019"
+        }
+    }
+}

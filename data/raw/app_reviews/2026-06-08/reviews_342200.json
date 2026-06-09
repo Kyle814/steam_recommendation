@@ -1,0 +1,27 @@
+{
+    "ingested_at": "2026-06-08T19:19:34.315427",
+    "app_id": "342200",
+    "review_count": 2,
+    "reviews": [
+        {
+            "review_id": "218182764",
+            "steam_id": "76561198738680991",
+            "playtime_minutes": 1524,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5027124881744385,
+            "steam_purchase": true,
+            "review_text": "awesome multiplayer game, community, so many good things to say, really appreciate the hard work that went into this game, i just started not long ago, but it is definitely my favorite game to date\r\n\r\nalso it can be difficult at first but a lot of people are friendly and will give tips if you are willing to ask around and make friends with players around the globe, which in itself is one of the best aspects"
+        },
+        {
+            "review_id": "219237757",
+            "steam_id": "76561198001264731",
+            "playtime_minutes": 211147,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game.  Steep learning curve."
+        }
+    ]
+}

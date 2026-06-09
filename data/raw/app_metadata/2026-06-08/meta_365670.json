@@ -1,0 +1,48 @@
+{
+    "ingested_at": "2026-06-08T19:14:14.132860",
+    "app_id": "365670",
+    "metadata": {
+        "type": "game",
+        "name": "Blender",
+        "steam_appid": 365670,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Blender is the free and open source 3D creation suite. Free to use for everyone, for any purpose.",
+        "detailed_description": "Blender is a free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, and video editing. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools; often these are included in Blender’s future releases. Blender is well suited to individuals and small studios who benefit from its unified pipeline and responsive development process. Examples from many Blender-based projects are available in the showcase.<br />\r\n<br />\r\nBlender is cross-platform and runs equally well on Linux, Windows and Macintosh computers. Its interface uses OpenGL to provide a consistent experience. To confirm specific compatibility, the list of supported platforms indicates those regularly tested by the development team.<br />\r\n<br />\r\nAs a community-driven project under the GNU General Public License (GPL), the public is empowered to make small and large changes to the code base, which leads to new features, responsive bug fixes, and better usability. Blender has no price tag, but you can invest, participate, and help to advance a powerful collaborative tool: Blender is your own 3D software.",
+        "developers": [
+            "Blender Foundation"
+        ],
+        "publishers": [
+            "Blender Foundation"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [],
+        "genres": [
+            {
+                "id": "51",
+                "description": "Animation & Modeling"
+            },
+            {
+                "id": "53",
+                "description": "Design & Illustration"
+            },
+            {
+                "id": "58",
+                "description": "Video Production"
+            }
+        ],
+        "recommendations": {
+            "total": 125
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 24, 2015"
+        }
+    }
+}

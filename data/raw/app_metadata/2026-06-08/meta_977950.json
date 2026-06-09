@@ -1,0 +1,85 @@
+{
+    "ingested_at": "2026-06-08T19:35:29.446708",
+    "app_id": "977950",
+    "metadata": {
+        "type": "game",
+        "name": "A Dance of Fire and Ice",
+        "steam_appid": 977950,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "A Dance of Fire and Ice is a strict rhythm game. Keep your focus as you guide two orbiting planets along a winding path without breaking their perfect equilibrium.",
+        "detailed_description": "<strong>A Dance of Fire and Ice</strong> is a simple one-button rhythm game.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977950/extras/81cc911206906fcb4b9593d730f6934e.poster.avif?t=1779922968\" width=464 height=228 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977950/extras/81cc911206906fcb4b9593d730f6934e.webm?t=1779922968\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977950/extras/81cc911206906fcb4b9593d730f6934e.mp4?t=1779922968\" type=\"video/mp4\"></video></span><br><br>Press on every beat of the music to move in a line.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977950/extras/68bdf4e82676b753ea9e0f24ce77903a.poster.avif?t=1779922968\" width=456 height=176 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977950/extras/68bdf4e82676b753ea9e0f24ce77903a.webm?t=1779922968\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977950/extras/68bdf4e82676b753ea9e0f24ce77903a.mp4?t=1779922968\" type=\"video/mp4\"></video></span><br><br>Every pattern has its own rhythm to it. It can get difficult. This game is purely based on rhythm, so use your ears more than your sight.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977950/extras/a41e9915a0c8585f7a8592e393a6a2b4.poster.avif?t=1779922968\" width=410 height=154 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977950/extras/a41e9915a0c8585f7a8592e393a6a2b4.webm?t=1779922968\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977950/extras/a41e9915a0c8585f7a8592e393a6a2b4.mp4?t=1779922968\" type=\"video/mp4\"></video></span><br><br>Note that it is quite strict and unforgiving. If you've played the Rhythm Heaven series - this is about as strict as that.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977950/extras/98bc50692f0adf72807084d524a1ac51.poster.avif?t=1779922968\" width=500 height=50 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977950/extras/98bc50692f0adf72807084d524a1ac51.webm?t=1779922968\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977950/extras/98bc50692f0adf72807084d524a1ac51.mp4?t=1779922968\" type=\"video/mp4\"></video></span><br><br><ul class=\"bb_ul\"><li><strong>Explore the cosmos:</strong> Soar through each genre of music in a variety of colorful fantasy landscapes.\t<br></li><li> <strong>Predict every moment:</strong> With a track that shows you every rhythm ahead of time, you’ll learn to sight-read levels as they come. No tricks, and nothing is reaction-based.<br></li><li> <strong>Play new levels for free: </strong>Tackle new songs and new rhythms as we expand the game with free level patches<br></li><li><strong>Steam Workshop Support:</strong> Create, share, and play countless user-made custom levels through our Workshop<br></li><li> <strong>Calibrate your experience:</strong> Manually adjust your calibration on-the-fly, or use our auto-calibration method. The game is precisely timed, and you won’t experience any slow desync over time like you might with other music-based twitch games. (We’re musicians and off-sync games hurt us.)</li></ul>",
+        "developers": [
+            "7th Beat Games"
+        ],
+        "publishers": [
+            "7th Beat Games",
+            "indienova"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 599,
+            "final": 599,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$5.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "recommendations": {
+            "total": 76257
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jan 24, 2019"
+        }
+    }
+}

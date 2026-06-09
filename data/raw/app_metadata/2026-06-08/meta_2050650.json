@@ -1,0 +1,83 @@
+{
+    "ingested_at": "2026-06-08T19:25:27.239960",
+    "app_id": "2050650",
+    "metadata": {
+        "type": "game",
+        "name": "Resident Evil 4",
+        "steam_appid": 2050650,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.",
+        "detailed_description": "<h1>Resident Evil 4 Gold Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/extras/f0d0f48351d33ead2bd2530c4d1ea997.avif?t=1772502922\" width=580 height=326 /></span><br><br>Notes:<br>- Items contained in this set can be purchased individually. Please take care to avoid duplicate purchases.<br>- Please update Resident Evil 4 to the latest patch before playing Separate Ways or using the Extra DLC Pack.<br><br>Resident Evil 4 Gold Edition includes Resident Evil 4 and two additional items of content: Separate Ways, where you experience the story through Ada Wong's perspective, and the Extra DLC Pack, which contains additional character outfits as well as useful weapons and items.<br><br>Resident Evil 4:<br>6 years have passed since the biological disaster in Raccoon City. Leon S. Kennedy tracks the president's missing daughter to a secluded European village, where there is something terribly wrong with the villagers.<br><br>Featuring modernized gameplay, a reimagined storyline, and vividly detailed graphics, Resident Evil 4 marks the rebirth of an industry juggernaut. Relive the nightmare that revolutionized survival horror.<br><br>Separate Ways:<br>Play as Ada Wong in this additional scenario, filling in unanswered questions posed in the main story. With her mission to retrieve the Amber looming over her, which path will she choose?<br><br>Extra DLC Pack:<br>- Leon &amp; Ashley Costumes: 'Casual'<br>- Leon &amp; Ashley Costumes: 'Romantic'<br>- Leon Costume &amp; Filter: 'Hero'<br>- Leon Costume &amp; Filter: 'Villain'<br>- Leon Accessory: 'Sunglasses (Sporty)'<br>- Deluxe Weapon: 'Sentinel Nine'<br>- Deluxe Weapon: 'Skull Shaker'<br>- 'Original Ver.' Soundtrack Swap<br>- Treasure Map: Expansion</p><br><h1>About the Game</h1>Survival is just the beginning.<br><br>Six years have passed since the biological disaster in Raccoon City.<br>Agent Leon S. Kennedy, one of the survivors of the incident, has been sent to rescue the president's kidnapped daughter.<br>He tracks her to a secluded European village, where there is something terribly wrong with the locals.<br>And the curtain rises on this story of daring rescue and grueling horror where life and death, terror and catharsis intersect.<br><br>Featuring modernized gameplay, a reimagined storyline, and vividly detailed graphics,<br>Resident Evil 4 marks the rebirth of an industry juggernaut.<br><br>Relive the nightmare that revolutionized survival horror.",
+        "developers": [
+            "CAPCOM Co., Ltd."
+        ],
+        "publishers": [
+            "CAPCOM Co., Ltd."
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 999,
+            "discount_percent": 75,
+            "initial_formatted": "$39.99",
+            "final_formatted": "$9.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 91,
+            "url": "https://www.metacritic.com/game/pc/resident-evil-4?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 168245
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 23, 2023"
+        }
+    }
+}

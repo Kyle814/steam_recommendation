@@ -1,0 +1,82 @@
+{
+    "ingested_at": "2026-06-08T19:13:17.445733",
+    "app_id": "588430",
+    "metadata": {
+        "type": "game",
+        "name": "Fallout Shelter",
+        "steam_appid": 588430,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Fallout Shelter puts you in control of a state-of-the-art underground Vault from Vault-Tec. Build the perfect Vault, keep your Dwellers happy, and protect them from the dangers of the Wasteland.",
+        "detailed_description": "Fallout Shelter puts you in control of a state-of-the-art underground Vault from Vault-Tec. Build the perfect Vault, keep your Dwellers happy, and protect them from the dangers of the Wasteland.<br><br>BUILD THE PERFECT VAULT<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/extras/9221de165a0332def8c999ab6ec60447.poster.avif?t=1780070440\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/extras/9221de165a0332def8c999ab6ec60447.webm?t=1780070440\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/extras/9221de165a0332def8c999ab6ec60447.mp4?t=1780070440\" type=\"video/mp4\"></video></span><br>Create a brighter future…underground! Select from a variety of modern-day rooms to turn an excavation beneath 2,000 feet of bedrock into the very picture of Vault Life.<br><br>OVERSEE A THRIVING COMMUNITY <br>Get to know your Dwellers and lead them to happiness. Find their ideal jobs and watch them flourish. Provide them with outfits, weapons, and training to improve their abilities.<br><br>CUSTOMIZE<br>Turn worthless junk into useful items with Crafting! Customize the look of any dweller in the Barbershop.<br><br>PROSPER<br>A well-run Vault requires a variety of Dwellers with a mix of skills. Build a Radio Room to attract new Dwellers. Or, take an active role in their personal lives; play matchmaker and watch the sparks fly! <br><br>EXPLORE THE WASTELAND<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/extras/6bace424bdad9cc1589a8a76e0712fcb.poster.avif?t=1780070440\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/extras/6bace424bdad9cc1589a8a76e0712fcb.webm?t=1780070440\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/extras/6bace424bdad9cc1589a8a76e0712fcb.mp4?t=1780070440\" type=\"video/mp4\"></video></span><br>Send Dwellers above ground to explore the blasted surface left behind and seek adventure, handy survival loot, or unspeakable death. Find new armor and weapons, gain experience, and earn Caps. But don’t let them die!<br><br>PROTECT YOUR VAULT<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/extras/b56f7d8d1623eb8f10fcddda65cde4db.poster.avif?t=1780070440\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/extras/b56f7d8d1623eb8f10fcddda65cde4db.webm?t=1780070440\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588430/extras/b56f7d8d1623eb8f10fcddda65cde4db.mp4?t=1780070440\" type=\"video/mp4\"></video></span><br>From time to time, idyllic Vault life may be disrupted by the dangers of post-nuclear life. Prepare your Dwellers to protect against threats from the outside…and within.<br><br>Vault-Tec has provided the tools, but the rest is up to you. What are you waiting for? Get started building your Vault today for FREE.",
+        "developers": [
+            "Bethesda Game Studios"
+        ],
+        "publishers": [
+            "Bethesda Softworks"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 63,
+            "url": "https://www.metacritic.com/game/pc/fallout-shelter?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 15,
+                "description": "Stats"
+            }
+        ],
+        "genres": [
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 29, 2017"
+        }
+    }
+}

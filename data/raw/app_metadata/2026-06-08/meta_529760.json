@@ -1,0 +1,70 @@
+{
+    "ingested_at": "2026-06-08T19:58:27.933997",
+    "app_id": "529760",
+    "metadata": {
+        "type": "game",
+        "name": "TAIKU MANSION",
+        "steam_appid": 529760,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Trapped. Isolated. Alone. Use your cunning wit and intelligence to survive the puzzles lay in front of you by a mysterious figure. Escape from the mansion before dawn or face your demise. Do you have what it takes?",
+        "detailed_description": "After recieving a voicemail from a friend whose been dead for 5 years, you head to the location as directed and end up at Taiku Mansion. As soon as you step inside, the front door jams shut behind you. It was a trap. An ominous voice fills the mansion and your mind. You have no idea who this voice belongs to, but they want you dead. You have until dawn to escape the mansion. Fail and you're dead. succeed... and you might just live to tell the tale.<br><br><strong><u>Features</u></strong><br><ul class=\"bb_ul\"><li>Unique Puzzles: Every puzzle you face within the mansion is unique and different. No two puzzles are the same so you will be forced to you every inch of your cunning and wit to solve the mysteries before it's too late. <br></li><li>Classic Gameplay: Using gameplay tropes from classic text adventure titles, mixed lovingly with modern staples of the game industry - use a simplfied interface to navigate around the mansion with ease.<br></li><li>Haunting atmosphere: Every sound, image and puzzle has been hand crafted to send the chills through every hair on the back of your neck. Every crunch, punch, footstep and door opening has been tuned to ensure you never feel safe whilst solving the riddles of Taiku Mansion. <br></li><li>Deeper Story: Taiku Mansion features a narrative written by Ryan Shah (Kitatus), who has written a number of extremely popular books, both fiction and non-fiction. Every word, letter and phrase has been inserted with the greatest attention to detail to add to the creepy aesthetics of Taiku Mansion.</li></ul>",
+        "developers": [
+            "KITATUS STUDIOS"
+        ],
+        "publishers": [
+            "My Way Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 499,
+            "final": 74,
+            "discount_percent": 85,
+            "initial_formatted": "$4.99",
+            "final_formatted": "$0.74"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Feb 13, 2017"
+        }
+    }
+}

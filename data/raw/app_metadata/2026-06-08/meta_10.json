@@ -1,0 +1,91 @@
+{
+    "ingested_at": "2026-06-08T18:57:11.404064",
+    "app_id": "10",
+    "metadata": {
+        "type": "game",
+        "name": "Counter-Strike",
+        "steam_appid": 10,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Play the world's number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game. Ally with teammates to complete strategic missions. Take out enemy sites. Rescue hostages. Your role affects your team's success. Your team's success affects your role.",
+        "detailed_description": "Play the world's number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game. Ally with teammates to complete strategic missions. Take out enemy sites. Rescue hostages. Your role affects your team's success. Your team's success affects your role.",
+        "developers": [
+            "Valve"
+        ],
+        "publishers": [
+            "Valve"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 999,
+            "final": 999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$9.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 88,
+            "url": "https://www.metacritic.com/game/pc/counter-strike?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 75,
+                "description": "Keyboard Only Option"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 8,
+                "description": "Valve Anti-Cheat enabled"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 168220
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 1, 2000"
+        }
+    }
+}

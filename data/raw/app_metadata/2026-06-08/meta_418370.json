@@ -1,0 +1,83 @@
+{
+    "ingested_at": "2026-06-08T18:56:35.328028",
+    "app_id": "418370",
+    "metadata": {
+        "type": "game",
+        "name": "Resident Evil 7 Biohazard",
+        "steam_appid": 418370,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Fear and isolation seep through the walls of an abandoned southern farmhouse. &quot;7&quot; marks a new beginning for survival horror with the “Isolated View” of the visceral new first-person perspective.",
+        "detailed_description": "Resident Evil 7 biohazard is the next major entry in the renowned Resident Evil series and sets a new course for the franchise as it leverages its roots and opens the door to a truly terrifying horror experience. A dramatic new shift for the series to first person view in a photorealistic style powered by Capcom’s new RE Engine, Resident Evil 7 delivers an unprecedented level of immersion that brings the thrilling horror up close and personal.<br />\r\n<br />\r\nSet in modern day rural America and taking place after the dramatic events of Resident Evil® 6, players experience the terror directly from the first person perspective. Resident Evil 7 embodies the series’ signature gameplay elements of exploration and tense atmosphere that first coined “survival horror” some twenty years ago; meanwhile, a complete refresh of gameplay systems simultaneously propels the survival horror experience to the next level.",
+        "developers": [
+            "CAPCOM Co., Ltd."
+        ],
+        "publishers": [
+            "CAPCOM Co., Ltd."
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 799,
+            "discount_percent": 60,
+            "initial_formatted": "$19.99",
+            "final_formatted": "$7.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 83,
+            "url": "https://www.metacritic.com/game/pc/resident-evil-7-biohazard?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 83564
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jan 23, 2017"
+        }
+    }
+}

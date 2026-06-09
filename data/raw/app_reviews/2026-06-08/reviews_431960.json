@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T19:49:07.012977",
+    "app_id": "431960",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "226850565",
+            "steam_id": "76561198236578950",
+            "playtime_minutes": 449,
+            "voted_up": true,
+            "votes_up": 22,
+            "weighted_score": 0.7468658089637756,
+            "steam_purchase": true,
+            "review_text": "Honestly a game changer for desktop PCs, having an animated and interactive desktop makes things so much better. You can have your wallpaper react to sounds like music, react to you moving your mouse, and other cool stuff like that.\n\nI also find it hilarious how people in the reviews go on rant about nsfw content. Keep in mind that the only way to see this content is to go out of your way to enable it in the apl's settings, which means all these people complaining about seeing titties went out of their way to enable that setting just to complain about it"
+        },
+        {
+            "review_id": "226999618",
+            "steam_id": "76561197961161191",
+            "playtime_minutes": 572,
+            "voted_up": true,
+            "votes_up": 8,
+            "weighted_score": 0.6440129280090332,
+            "steam_purchase": true,
+            "review_text": "If you can sift through the mounds of anime girls theres some pretty cool nature and video game themed wallpapers. The community makes some great stuff (when they're not horny)."
+        },
+        {
+            "review_id": "226027577",
+            "steam_id": "76561198129127480",
+            "playtime_minutes": 1296,
+            "voted_up": true,
+            "votes_up": 8,
+            "weighted_score": 0.6188496351242065,
+            "steam_purchase": true,
+            "review_text": "I really recommend this app it is very clean and easy to use especially for old people, also easy to access and versatile even though it costs money but very pleased with this purchase and highly recommended it is easy in the top 5 apps of all time."
+        },
+        {
+            "review_id": "226682067",
+            "steam_id": "76561198750741068",
+            "playtime_minutes": 1163,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5945945978164673,
+            "steam_purchase": true,
+            "review_text": "This thing was awesome for about 6 months when I first got it. Now? The engine constantly  crashes, goes unresponsive, or straight up just doesn't even load the wallpaper in. After a reinstall, it got even worse. Now its CTD every time I try to load up a wallpaper. I have to use task manager to force restart, and it just does it all over again. What happened?"
+        },
+        {
+            "review_id": "225902717",
+            "steam_id": "76561198068074317",
+            "playtime_minutes": 2475,
+            "voted_up": false,
+            "votes_up": 16,
+            "weighted_score": 0.636828601360321,
+            "steam_purchase": true,
+            "review_text": "Writing this negative review because it is 2026 and we still don't have proper, native Linux support. The developers have been dodging this for years, hiding behind the same old excuses, but let’s be real—the current ecosystem completely allows for it.\n\nWith modern Wayland protocols, robust graphics pipelines, and the tools available today, bringing Wallpaper Engine to Linux is entirely doable. The technical limitations they used to complain about simply don’t exist anymore. At this point, it’s not a matter of capability; it’s pure laziness from the dev team.\n\nI honestly believe they are just comfortable collecting money from the massive Windows user base while completely ignoring the growing Linux and Steam Deck community that wants native desktop integration, not just a mobile companion app.\n\nI’ll gladly flip this to a positive review the second the developers stop being lazy and give us proper Wayland support. Until then, it's a hard pass."
+        },
+        {
+            "review_id": "226670400",
+            "steam_id": "76561198180692718",
+            "playtime_minutes": 3373,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.5849714279174805,
+            "steam_purchase": true,
+            "review_text": "this game is full of wallpapers that are supposed to be on R34 but even if you filter it to be PG13 it will still give you lewd wallpapers"
+        },
+        {
+            "review_id": "226724835",
+            "steam_id": "76561198065600517",
+            "playtime_minutes": 757,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.5841764211654663,
+            "steam_purchase": true,
+            "review_text": "This unfortunately has VRAM memory leaking issues, requiring more and more VRAM the more you switch between different wallpapers. I can't use it anymore this way. Also, I have a lack of trust in html-based wallpapers that might not be sufficiently screened by Steam Workshop to exploit chromium vulnerabilities, sideload payload or whatever."
+        },
+        {
+            "review_id": "226747933",
+            "steam_id": "76561197992492350",
+            "playtime_minutes": 5985,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5700325965881348,
+            "steam_purchase": true,
+            "review_text": "Its content is never ending. There is a wallpaper out there for anyone"
+        },
+        {
+            "review_id": "226635786",
+            "steam_id": "76561199121030067",
+            "playtime_minutes": 7176,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5556385517120361,
+            "steam_purchase": true,
+            "review_text": "What i liked about this porduct is the ease of getting good wallpapers rather then searching on web, this literally saves a lot of time . there is nothing bad about this app, i would recommend this app to anyone who dont want to waste time in seracing live wallpapers and setting those up . Its easy to use ."
+        },
+        {
+            "review_id": "226279806",
+            "steam_id": "76561198051451414",
+            "playtime_minutes": 461,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5454545617103577,
+            "steam_purchase": true,
+            "review_text": "Causes too much display driver crashes and timeouts on 2 machines with different hardware inside, tested both with amd and nvidia video cards -and still have issues.\n\n"
+        },
+        {
+            "review_id": "227305072",
+            "steam_id": "76561198139134274",
+            "playtime_minutes": 2651,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "lots of content and variations, create your work and share it with other users"
+        },
+        {
+            "review_id": "226899228",
+            "steam_id": "76561199055965850",
+            "playtime_minutes": 73248,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "good app. tons of resources. A great way to relax and rewind when you are tired of gaming, HIGHLY RECOMMENDED"
+        },
+        {
+            "review_id": "226897378",
+            "steam_id": "76561199596409330",
+            "playtime_minutes": 1215,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "easy to use, lots too choose from, works fine and does not impact performance.\r\n\r\n10/10"
+        },
+        {
+            "review_id": "226825432",
+            "steam_id": "76561199744169035",
+            "playtime_minutes": 141,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "This is a game changer people! I use this EVERY single day and it is so customizable, I would recommend this to anyone. It doesn't eat up too much RAM so you will be good. There are hundreds of thousands of different kinds of wallpapers you can choose from!     10/10 software"
+        },
+        {
+            "review_id": "227210742",
+            "steam_id": "76561199203874777",
+            "playtime_minutes": 5264,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.51871657371521,
+            "steam_purchase": true,
+            "review_text": "w software, if not one of the best softwares on steam (customization software), good price and good backgrounds."
+        },
+        {
+            "review_id": "226346028",
+            "steam_id": "76561199229342982",
+            "playtime_minutes": 326,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5172414183616638,
+            "steam_purchase": true,
+            "review_text": "Obviously, what it is makes it great. A variety of wallpapers to chose from that can and may react to things you system does. I haven't found a thing wrong with it."
+        },
+        {
+            "review_id": "227510677",
+            "steam_id": "76561198844167439",
+            "playtime_minutes": 35043,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "English :\nHonestly, Wallpaper Engine is a great piece of software if you like customizing your PC. There are tons of animated wallpapers (sometimes too many '^^) thanks to the Steam community, so you can easily find something that suits your taste, whether it's gaming, anime, landscapes, or anything else—there's something for everyone.\n\nThe software is easy to use and doesn't consume many resources in most cases. Plus, the wallpapers pause when you launch a game in fullscreen mode, which prevents performance issues.\n\nThe only minor drawback is that there are so many choices that you can sometimes spend a lot of time searching for the perfect wallpaper (as evidenced by the amount of time I spent on it...). Some user-created wallpapers are also better made than others.\n\nBut for the price, it's definitely worth it. If you want to give your desktop a more vibrant look without any hassle, I highly recommend Wallpaper Engine.\n\n----------------------------------------------------------------------\n\nFrançais :\nFranchement, Wallpaper Engine est un super logiciel si vous aimez personnaliser votre PC. Il y a énormément de fonds d'écran animés (parfois trop '^^ ) grâce à la communauté Steam, donc on trouve facilement quelque chose qui correspond à ses goûts, que ce soit du gaming, de l'anime, des paysages ou n'importe quoi d'autre, il y a de tout.\n\nLe logiciel est simple à utiliser et ne consomme pas beaucoup de ressources dans la plupart des cas. En plus les fonds d'écran se mettent en pause quand on lance un jeu en plein écran, ce qui évite de perdre des performances.\n\nLe seul petit défaut, c'est qu'il y a tellement de choix qu'on peut parfois passer du temps à chercher le fond d'écran parfait ( comme l'indique mon temps passer dessus... ). Certains fonds d'écran créés par les utilisateurs sont aussi mieux réalisés que d'autres.\n\nMais pour le prix, ça vaut largement le coup. Si vous voulez donner un style plus vivant à votre bureau sans vous prendre la tête, je recommande clairement Wallpaper Engine."
+        },
+        {
+            "review_id": "227488945",
+            "steam_id": "76561198122280309",
+            "playtime_minutes": 194,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "WPE does NOT enjoy AMD. i talked to a customer service rep for radeon and they say that this program is not built well for amd chipset. drivers crash on start up. be better."
+        },
+        {
+            "review_id": "227483730",
+            "steam_id": "76561199587917010",
+            "playtime_minutes": 607,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "a lot of good wallpapers, a community workshop aswell :)"
+        },
+        {
+            "review_id": "227459652",
+            "steam_id": "76561199662137709",
+            "playtime_minutes": 247,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "when i was younger i always dreamed of having wall paper or even walls mother said that walls were a luxury mother said only good kids get wallpaper let alone walls mother always said food was for those who deserve it recently she slaved away at her 3 jobs for my birthday she bought me a pc from 2010 the only game it can run is wallpaper engine i sit staring at my wallpaper engine imagining its real wallpaper."
+        },
+        {
+            "review_id": "227435658",
+            "steam_id": "76561198052450446",
+            "playtime_minutes": 774,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Lots of really unique and fun wallpapers, more than worth the money"
+        },
+        {
+            "review_id": "227402587",
+            "steam_id": "76561198037703841",
+            "playtime_minutes": 1432,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "it sets cool backgrounds. one of my favorite apps on steam for cheap!"
+        },
+        {
+            "review_id": "227374802",
+            "steam_id": "76561199815331670",
+            "playtime_minutes": 367,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love it, Entertaining when their is nothing to do, Fancy, I would recommend this to ALL my friends :D"
+        },
+        {
+            "review_id": "227373882",
+            "steam_id": "76561198291879101",
+            "playtime_minutes": 2477,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Cool selections, great variety, high quality images, great customization, cool interactive elementsww, it's just all good!"
+        },
+        {
+            "review_id": "227354165",
+            "steam_id": "76561198756537659",
+            "playtime_minutes": 208,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of greatest wonders of steam besides the CEO the wallpaper engine app is a must need for amazing wallpapers that move and have a wide selection of user created wallpapers from moving ones to ones that tell the time it is a must need."
+        },
+        {
+            "review_id": "227325775",
+            "steam_id": "76561198094591423",
+            "playtime_minutes": 1456,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Would be weird to leave a negative review with this one. Provides a user-friendly way of acquiring static & animated wallpapers, makes excellent use of the steam workshop. Bugs are kind-of unheard of, (even though there's achievements for it) has plenty of filters and options to filter out the hentai garbage (there's a ♥♥♥♥♥♥♥ for some reason) and all this for 5 bucks. Pretty cool.\n\nP.S run the default 64-bit version too. There's minimal performance impact unless you're using a stone tablet."
+        },
+        {
+            "review_id": "227269041",
+            "steam_id": "76561199204408077",
+            "playtime_minutes": 302,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very good for wallpaper I would also recoomend getting the rainmeter download and the mond skin, look it up on youtube"
+        },
+        {
+            "review_id": "227268400",
+            "steam_id": "76561199587744307",
+            "playtime_minutes": 665,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A must have, very user friendly and has a vast community with... great taste."
+        },
+        {
+            "review_id": "227240377",
+            "steam_id": "76561199246399606",
+            "playtime_minutes": 8240,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A lot of wallpapers for a very cheap one time price. \r\nA hundred procent worth it"
+        },
+        {
+            "review_id": "227238953",
+            "steam_id": "76561198781640989",
+            "playtime_minutes": 204,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great wallpapers! A lot of choices. Kudos to every creator of every wallpapers! My boyfriend bought this for me! :)"
+        },
+        {
+            "review_id": "227221354",
+            "steam_id": "76561199235157993",
+            "playtime_minutes": 1081,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Wallpaper engine is a very good tool. At first the 5 dollars looks hefty just for a wallpaper, but its a wallpaper engine that you can change, customize, and use daily perfectly fine with no hit to performance with the extra features. If 5$ isnt a lot to you, i would highly reccomend."
+        },
+        {
+            "review_id": "227202212",
+            "steam_id": "76561198779311540",
+            "playtime_minutes": 200,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "awsome but there are issus ether right away or later down the road if u dont now what your doing. other then that its great."
+        },
+        {
+            "review_id": "227197247",
+            "steam_id": "76561198429564979",
+            "playtime_minutes": 12127,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "perfect for what its purpose is and easy to use if your useing steam might aswell use the best wallpaper engine you can get"
+        },
+        {
+            "review_id": "227190498",
+            "steam_id": "76561199887414548",
+            "playtime_minutes": 292,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It makes your computer look 100x better than it did because you can have cool mooving backgrounds, and sometimes they even have games you can play on your wallpaper which is fun if you sometimes get bored."
+        },
+        {
+            "review_id": "227183588",
+            "steam_id": "76561199601372470",
+            "playtime_minutes": 1394,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing software. Easily one of the best applications available on Steam and something I’ve used for years.\n\nThe Workshop support, customization, and overall quality are unmatched.\n\nMy only wish is an official Linux version. With the growth of Steam Deck, SteamOS, and Linux gaming in general, it would be great to see Wallpaper Engine become available to that audience as well.\n\nStill highly recommended"
+        },
+        {
+            "review_id": "227135692",
+            "steam_id": "76561199806050384",
+            "playtime_minutes": 1460,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing if you want live animated wallpapers on windows. personally i have 3 displays each with diffrent wallpapers set and it looks better then lively wallpaper. Im writing this review from linux where im testing things but do recomend if you can afford the $5 or what ever it costs if you enjoy animated wallpapers"
+        },
+        {
+            "review_id": "227132618",
+            "steam_id": "76561199125754783",
+            "playtime_minutes": 111,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Incredibly useful. Truly elevates the windows environment by a LOT. Very easy to use and lots of options. Just had the sudden urge to write this as I’m enjoying my wonderful new backgrounds. >_<"
+        },
+        {
+            "review_id": "227121739",
+            "steam_id": "76561198158388403",
+            "playtime_minutes": 905,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "it's a great program. It has cool options for moving wallpapers. It has viable alternatives, but this was one of the first around"
+        },
+        {
+            "review_id": "227115392",
+            "steam_id": "76561199144080228",
+            "playtime_minutes": 12,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Does its job really well, a TON of variety including just about every game you can think of, books, shows, anime´s and many more.\nWith the lower settings i have for it, it runs perfectly!"
+        },
+        {
+            "review_id": "227111640",
+            "steam_id": "76561199192452246",
+            "playtime_minutes": 500,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I highly recommend getting Wallpaper Engine. It has some super clean wallpapers, and I've been using it for about 2 years now. It has made my setup look much better and cleaner.\n\nDon't worry about your games lagging if that's what you're thinking — Wallpaper Engine has very little impact on performance when configured properly.\n\nIf you want a quick and easy upgrade to your gaming setup, I definitely think it's worth buying. It makes a bigger difference than most people expect.\n\n(Please like my post and maybe give it an award!)\n"
+        },
+        {
+            "review_id": "227098592",
+            "steam_id": "76561199247877254",
+            "playtime_minutes": 466,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Downloaded it on bulgarian embassy pc in germany, still there after 3 month as of the date im writting this, live laugh love femboys wallpapers"
+        },
+        {
+            "review_id": "227094385",
+            "steam_id": "76561199012482139",
+            "playtime_minutes": 58373,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "app has been causing my displays to flicker and sometimes completely shut off until i either restart my computer or restart my drivers."
+        },
+        {
+            "review_id": "227072269",
+            "steam_id": "76561199866384944",
+            "playtime_minutes": 512,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "it is amazing sometimes its bad but mainly you find a interactive nice moving wallpaper"
+        },
+        {
+            "review_id": "227070435",
+            "steam_id": "76561199875707195",
+            "playtime_minutes": 81,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Honestly get this asap this is the place for all the wall papers still or animated . You’ve seen some cool pc wallpapers most likely from here this is the one everyone uses not a waste of money at all to many options love"
+        },
+        {
+            "review_id": "227069163",
+            "steam_id": "76561199226496854",
+            "playtime_minutes": 280,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I was a bit skeptic at first because you just pay for wallpapers but after purchasing it i actually like it."
+        },
+        {
+            "review_id": "226980699",
+            "steam_id": "76561199569093748",
+            "playtime_minutes": 3810,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Lots of wallpapers for any occasion though it would be nice if you could edit other peoples wallpapers to add music and other things"
+        },
+        {
+            "review_id": "226970138",
+            "steam_id": "76561198800409481",
+            "playtime_minutes": 451,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I can't run it alongside Premiere when I'm editing, but I love all the creative wallpapers the community has made and that it's really easy to make my own.  A must have for most PC's"
+        },
+        {
+            "review_id": "226936430",
+            "steam_id": "76561198839941933",
+            "playtime_minutes": 1055,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great app for customizing your desktop. It's surprisingly well-optimized; running it on medium settings is incredibly smooth, even if you are using a low-spec device. Since it doesn't heavily drain background resources, it's a definite thumbs up from me."
+        },
+        {
+            "review_id": "226926041",
+            "steam_id": "76561198182112033",
+            "playtime_minutes": 5928,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the wallpaper creator is such a fun creative outlet, and it's so fun making a still image come to life. and people have done some amazing ♥♥♥♥ with it."
+        },
+        {
+            "review_id": "226914190",
+            "steam_id": "76561199267196214",
+            "playtime_minutes": 215,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It contains many good pictures and gifs. also, it has a high quality picture. I really recommend it for you."
+        },
+        {
+            "review_id": "226912951",
+            "steam_id": "76561199278324196",
+            "playtime_minutes": 1356,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great tool for customization. Just make sure to disable the adult filters, unless you want your desktop to become a gallery of uncensored anime anatomy"
+        },
+        {
+            "review_id": "226905645",
+            "steam_id": "76561199383017978",
+            "playtime_minutes": 2335,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great software easy to manage and lots of options"
+        },
+        {
+            "review_id": "226896889",
+            "steam_id": "76561198972028420",
+            "playtime_minutes": 3642,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "it works, like, idk what else they want me to say, great platform for wallpapers\r\n"
+        },
+        {
+            "review_id": "226896729",
+            "steam_id": "76561199574375182",
+            "playtime_minutes": 3263,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its a must have software for desktop appearance and gave it a more aesthetically look and easy to use just download and voila"
+        },
+        {
+            "review_id": "226884105",
+            "steam_id": "76561199401438132",
+            "playtime_minutes": 1980,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "cool wallpapers and big variety overall a 9/10 it can sometimes be slow to open"
+        },
+        {
+            "review_id": "226842074",
+            "steam_id": "76561199350016795",
+            "playtime_minutes": 231,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Iv'e been trying to delete this ♥♥♥♥♥♥ WALLPAPER APP for so long but whenever i do it re-installs itself so if you want a animated wallpaper, go for it! just hope this dosent happen to anyone else (Wallpaper engine IS good it just has something happening that i dont like rn >: ("
+        },
+        {
+            "review_id": "226838179",
+            "steam_id": "76561199387719376",
+            "playtime_minutes": 216,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "it doesnt use that much peformance. cool high definition wallapers. very good. very nice. 10/10. goodluck everybody else"
+        },
+        {
+            "review_id": "226832609",
+            "steam_id": "76561199081538960",
+            "playtime_minutes": 5161,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Lots of options, way better than manually switching wallpapers, recommend. Uses a lot of GPU tho so make sure to config it to pause while in background."
+        },
+        {
+            "review_id": "226830170",
+            "steam_id": "76561199153281026",
+            "playtime_minutes": 5287,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I like using it, gives good backgrounds and doesn't slow computer, especially if it is not running in the background."
+        },
+        {
+            "review_id": "226826830",
+            "steam_id": "76561199141390282",
+            "playtime_minutes": 1854,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It does everything it advertises, lots of cool wallpapers\nBut there is unfortunately a ♥♥♥♥ ton of porn"
+        },
+        {
+            "review_id": "226822196",
+            "steam_id": "76561199482950357",
+            "playtime_minutes": 5273,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Just install it. Check it out, and Love it. Great for multiple monitors setups (ej. Monitor 1: 2k 27\" ips = Wallpaper 1 smooth live wallpaper. Monitor 2: 1080p 22\" TN = Wallpaper 2 music audio responsive with lights/cue integration as second monitor pc, msi, aida, etc. Monitor 3: 1080p 11\" ips with live wallpaper as widgets  - clock, weather, etc. - with nice beach in the background. etc etc etc etc etc bla bla bla. Perfect to me this Wallpaper Engine."
+        },
+        {
+            "review_id": "226803352",
+            "steam_id": "76561198152333804",
+            "playtime_minutes": 597,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is a must in every library....from static images to wonderfull relaxing screens +music"
+        },
+        {
+            "review_id": "226792879",
+            "steam_id": "76561199070522355",
+            "playtime_minutes": 5558,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "dirt cheap and basically the best wallpaper app you can get with lots and lots of community support on pc but be warned that it does take a chunk of ram + some cpu/gpu/storage usage at the highest end of settings and background types"
+        },
+        {
+            "review_id": "226782157",
+            "steam_id": "76561199148660217",
+            "playtime_minutes": 226,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "There are A LOT of wallpapers, definitely one for you. I don't regret buying it for a single moment."
+        },
+        {
+            "review_id": "226781957",
+            "steam_id": "76561199747995637",
+            "playtime_minutes": 12209,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very good quality and amazing wallpapers."
+        },
+        {
+            "review_id": "226770112",
+            "steam_id": "76561199826108758",
+            "playtime_minutes": 1078,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good wallapers, high customizability and adjustment features."
+        },
+        {
+            "review_id": "226734573",
+            "steam_id": "76561198828894604",
+            "playtime_minutes": 596,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The Best $4 You Will Ever Spend on Steam\nWallpaper Engine is not a game, but it is an absolute mandatory download for anyone with a PC. It transforms your boring, static desktop into a living, breathing canvas of interactive art, music-responsive visuals, and stunning animations.\n\nPROS:\nInfinite Content: The Steam Workshop integration gives you free access to millions of community-made wallpapers (Anime, Cyberpunk, Nature, Minimalist, Games, etc.).\n\nUltra-Optimized: It barely touches your system resources. It automatically pauses the wallpaper when you launch a game or maximize a window, ensuring zero FPS loss.\n\nInsane Customization: You can change playback speeds, adjust colors, toggle audio elements, and even sync the lighting with your Corsair or Razer RGB setups.\n\nNo Subscriptions: You buy it once for the price of a coffee, and you own it forever with no ads or hidden microtransactions.\n\nCONS:\nSpending 3 hours browsing wallpapers instead of actually playing games.\n\nVerdict:\nA flawless utility app that brings life to your desktop setup. Once you use it, looking at a normal, static background feels completely empty.\n10/10 - A Masterpiece for Your Monitor."
+        },
+        {
+            "review_id": "226696949",
+            "steam_id": "76561198025839166",
+            "playtime_minutes": 35134,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Best app for the buck, I can now trigger my epilepsy by just looking at my monitor moving while on on windows desktop."
+        },
+        {
+            "review_id": "226678242",
+            "steam_id": "76561199100887604",
+            "playtime_minutes": 304,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its a great application with plenty of wallpapers that run smoothly and has options for it to run smoother on lower-end PC's or laptops."
+        },
+        {
+            "review_id": "226663271",
+            "steam_id": "76561198434458356",
+            "playtime_minutes": 295,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Helps add character to my screens and even my tablet. Love it and worth the money spent"
+        },
+        {
+            "review_id": "226635025",
+            "steam_id": "76561197989253107",
+            "playtime_minutes": 1209,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It sets your wallpaper with effects and/or video's. If thats what you want... Go for it. Or just use a image"
+        },
+        {
+            "review_id": "226635008",
+            "steam_id": "76561199093462527",
+            "playtime_minutes": 2957,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "story was pretty good, just wish there was some more character development."
+        },
+        {
+            "review_id": "226598603",
+            "steam_id": "76561199774574014",
+            "playtime_minutes": 55168,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Many wallpapers, tons of them are just so cool and make your desktop way better. Worth the money."
+        },
+        {
+            "review_id": "226550791",
+            "steam_id": "76561199510507349",
+            "playtime_minutes": 342,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "remember do not run it automatically when startup!"
+        },
+        {
+            "review_id": "226541418",
+            "steam_id": "76561199835706756",
+            "playtime_minutes": 886,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the best apps i had used to change wallpaper and it has so many choices for every colour."
+        },
+        {
+            "review_id": "226532677",
+            "steam_id": "76561199180833359",
+            "playtime_minutes": 16948,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "it's a reliable piece of software\r\nyou can use cool wallpapers etc etc\r\nso if you leave your computer on for long periods of time \r\nthis is very good because your PC will look SICK while idle and if it's going to be a long time (2 hrs+) then i highly recommend you just right click > view > show desktop icons > uncheck so it looks even more SICK and turn it back on when you come back to use it by just checking show desktop icons again"
+        },
+        {
+            "review_id": "226519918",
+            "steam_id": "76561198752003112",
+            "playtime_minutes": 42,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "5 ♥♥♥♥♥♥♥ stars. This is legitimately the best wallpaper (and maybe even the best game period) I have ever played, and I have been a fan since childhood. Content is mildly offensive so be aware of that going in."
+        },
+        {
+            "review_id": "226457748",
+            "steam_id": "76561199637151466",
+            "playtime_minutes": 65,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its decent but it well make ur pc suffer cuz ts is too overload for gpu and cpu"
+        },
+        {
+            "review_id": "226450702",
+            "steam_id": "76561199361585465",
+            "playtime_minutes": 4704,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great wallpapers, easy to use, cheap to get, def worth it especially if you have specific themes for your pc set up"
+        },
+        {
+            "review_id": "226342978",
+            "steam_id": "76561198818641207",
+            "playtime_minutes": 632,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the bestt and objective tool and way to configure  and customize wallpapers"
+        },
+        {
+            "review_id": "226337951",
+            "steam_id": "76561199847866674",
+            "playtime_minutes": 216,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Lots of wallpapers. Some wallpapers are optimized and some are not. Overall great place to get animated wallpapers"
+        },
+        {
+            "review_id": "226310795",
+            "steam_id": "76561199402796579",
+            "playtime_minutes": 375,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Does exactly what the title says. Endless selection of wallpapers, wallpaper editor (I like to use my own, so I like that there is an editor) editor is also very easy to use.      \r\n\r\n\r\n\r\n\r\n\r\nalso so many pizza tower wallpapers yes"
+        },
+        {
+            "review_id": "226297160",
+            "steam_id": "76561199401433120",
+            "playtime_minutes": 215,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "didnt expect myself to enjoy staring into a computer screen, idk why but everytime i open this i get pulled in. ill say it worth the price"
+        },
+        {
+            "review_id": "226288870",
+            "steam_id": "76561198751316641",
+            "playtime_minutes": 199,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "What really makes it stand out is the massive Steam Workshop community. There are thousands of wallpapers available, ranging from minimalist and cinematic designs to anime, games, nature, and futuristic setups. Creating your own wallpapers is also much easier than expected thanks to the built-in editor."
+        },
+        {
+            "review_id": "226277806",
+            "steam_id": "76561199081598866",
+            "playtime_minutes": 1727,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Simply Epic. If you're confused whether to buy it or not because \"its just a software for wallpapers\", just buy for yourself and find out"
+        },
+        {
+            "review_id": "226274058",
+            "steam_id": "76561199853801394",
+            "playtime_minutes": 5000,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Honestly a nice and neat way to set up wallpapers easily, has so many recommendations for you to check out, the content available is huge and amazing from all sorts of cool features that are interactive to 4k wallpapers and rigs. Definitely a great buy, would recommend, 10/10!"
+        },
+        {
+            "review_id": "226259813",
+            "steam_id": "76561199233989981",
+            "playtime_minutes": 374,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "For the price of this It's 100% worth it to buy. There's literally so many wallpapers to choose from and from any type of aesthetic to vibe to fandom. I love it so much it really makes my setup pop when I have my pc on and the wallpaper running."
+        },
+        {
+            "review_id": "226208799",
+            "steam_id": "76561199847266845",
+            "playtime_minutes": 359,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the best wallpaper app i’ve ever used .. great wallpapers, endless options, and without any lag.. 10/10 .. worth every penny"
+        },
+        {
+            "review_id": "226180440",
+            "steam_id": "76561199114905118",
+            "playtime_minutes": 288,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the gameplay is out of this world like holy moly the graphics are so furturistic like woah... woah                  the recoil is easy to control and ranked is sbmm... just joking guys its wallpaper engine its just wallpaper, easy to install and drys in an instant ( that being the glue the wallpaper glue)"
+        },
+        {
+            "review_id": "226169669",
+            "steam_id": "76561198057452692",
+            "playtime_minutes": 140,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is it, the wallpaper app to be used for generations (or at least till a Microslop change renders it unusable)."
+        },
+        {
+            "review_id": "226160914",
+            "steam_id": "76561198062096051",
+            "playtime_minutes": 740,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Wallpaper Engine:\r\n\r\nIs a must-have tool for every PC.\r\n\r\nThis is not really a game, but it is easily one of the best things you can buy on Steam. It lets you use animated, interactive, audio-responsive, and custom wallpapers, and the Steam Workshop support makes it even better. There are thousands of wallpapers available, so you can make your desktop look clean, cozy, dark, anime-themed, gaming-themed, minimal, or basically anything you want.\r\n\r\nThe best part is how much it changes the feel of your setup. A good wallpaper can make your whole PC feel more personal. You can also create your own wallpapers, adjust settings, and use it across different monitor setups, which makes it useful for almost anyone.\r\n\r\nIt is simple to use, has a massive Workshop community, and gives you a lot of value for the price. Once you start using it, a normal static desktop feels boring.\r\n\r\nI would recommend Wallpaper Engine to every PC user, especially gamers, content creators, setup builders, and anyone who likes customizing their desktop."
+        },
+        {
+            "review_id": "226117339",
+            "steam_id": "76561199176971311",
+            "playtime_minutes": 1500,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "you can leave wallpaper engine a review? hm\r\nIt does what it says it does so 10/10 I guess\r\nlot of porn for some reason."
+        },
+        {
+            "review_id": "226106291",
+            "steam_id": "76561197960284040",
+            "playtime_minutes": 10460,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the wallpaper quality is amazing on this game and most things you think of is a wallpaper"
+        },
+        {
+            "review_id": "226095468",
+            "steam_id": "76561198797957210",
+            "playtime_minutes": 246,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great for daily use on my pc. i have 2 monitors and both use the same background. The wallpapers load up instantly on both my screens and don't use too much FPS while I'm gaming."
+        },
+        {
+            "review_id": "225981518",
+            "steam_id": "76561198023966378",
+            "playtime_minutes": 304,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great options with time and care put into every wallpaper."
+        },
+        {
+            "review_id": "225980835",
+            "steam_id": "76561199436045951",
+            "playtime_minutes": 671,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "At first I thought buying an app for wallpapers was bogus, but as I used it, I actually think its pretty good, 9/10."
+        },
+        {
+            "review_id": "225967995",
+            "steam_id": "76561198405446963",
+            "playtime_minutes": 97,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I played this game for a few hours after I bought it and I didn't enjoy my time. After coming back to it a few months later I rediscovered a hidden gem in my library and I can confidently say that Wallpaper Engine has earned it's place as the best game I've ever personally played.\n\nThe game play in Wallpaper Engine is unlike anything that I've ever played. You can feel like the most powerful wallpaper creator in the game while still knowing that you are only one mistake away from making a bad wallpaper. The game is difficult in an unfair way that can initially be very frustrating as it feels that you have no control over your skill. One of the best parts of this game is it's cool designs. Due to the fact that everything is made by others and maybe yourself, it really makes you feel like you're just an observer in a real ecosystem. The people in this game is really talented and helps the feeling of an actual ecosystem with both creators and people who just use the wallpapers.\n\nYou play this game as a creature known as a person. The best feeling in this game is the feel of getting stronger, not from in-game upgrades or weapons, but from your skill increasing and learning new mechanics and techniques with the tools available to you. The movement in this game is highly skilled, which leads to the movement sometimes feeling unnatural or clunky, but then as you learn new movement techniques the movement  to click on stuff becomes far more fluid and natural, which leads to some of the best feeling movements in a game that I've ever played.\n\nThere's so much more to this game that I haven't covered here, but I'll leave that up to you to decide if you would like to try the game and become more familiar with it. This game is truly one-of-a-kind and itself is an experience. It certainly isn't for everyone but it is so unique and enjoyable that if you can make it past the first few hours of game play and get the game to \"click\" with you, then you may just find one of the best gaming experiences that you've ever had."
+        },
+        {
+            "review_id": "225902642",
+            "steam_id": "76561199807404190",
+            "playtime_minutes": 180,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Wallpaper Engine is an amazing customization software that brings your desktop to life with animated and interactive wallpapers.\r\nIt is well-optimized and runs smoothly even on lower-end PCs, making it a favorite for gamers and aesthetic desktop setups."
+        },
+        {
+            "review_id": "225898525",
+            "steam_id": "76561198159198327",
+            "playtime_minutes": 870,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A nice utility program, pretty straightforward on what its doing, also its easy to use & customize the wallpaper. Futhermore, the number of available wallpaper on the workshop, well, saying there is a lot is quite an understatement. You could also connect it to your phone if you wanted to change your phone's wallpaper"
+        },
+        {
+            "review_id": "225805193",
+            "steam_id": "76561199114369860",
+            "playtime_minutes": 255,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the app is good, dont get me wrong, but sometimes it completely breaks the background and turns into a horrid mess of flashing lights until you disable the wallpapers."
+        }
+    ]
+}

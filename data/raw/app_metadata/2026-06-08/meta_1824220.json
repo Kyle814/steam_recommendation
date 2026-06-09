@@ -1,0 +1,87 @@
+{
+    "ingested_at": "2026-06-08T18:48:25.648428",
+    "app_id": "1824220",
+    "metadata": {
+        "type": "game",
+        "name": "Chivalry 2",
+        "steam_appid": 1824220,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Chivalry 2 is a multiplayer first person slasher inspired by epic medieval movie battles. Players are thrust into the action of every iconic moment of the era - from clashing swords, to storms of flaming arrows, to sprawling castle sieges and more.",
+        "detailed_description": "<h1>JOIN OUR DISCORD</h1><p></p><br><h1>Steam Exclusive Offer</h1><p></p><br><h1>Special Edition</h1><p></p><br><h1>King's Edition</h1><p></p><br><h1>About the Game</h1><strong>Return to the ultimate medieval battlefield!</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/extras/7e83858cd28db7eeffaa63a42b557c4d.poster.avif?t=1744201613\" width=600 height=268 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/extras/7e83858cd28db7eeffaa63a42b557c4d.webm?t=1744201613\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/extras/7e83858cd28db7eeffaa63a42b557c4d.mp4?t=1744201613\" type=\"video/mp4\"></video></span><br><br>Chivalry 2 is a multiplayer first person slasher inspired by epic medieval movie battles. Players are thrust into the action of every iconic moment of the era - from clashing swords, to storms of flaming arrows, to sprawling castle sieges and more.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/extras/de4287096514b51ebec6100d1a1d3db8.poster.avif?t=1744201613\" width=600 height=268 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/extras/de4287096514b51ebec6100d1a1d3db8.webm?t=1744201613\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/extras/de4287096514b51ebec6100d1a1d3db8.mp4?t=1744201613\" type=\"video/mp4\"></video></span><br><br>Dominate massive, 64-player battlefields. Catapults tear the earth apart as you lay siege to castles, set fire to villages and slaughter filthy peasants in the return of Team Objective maps. <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/extras/9ed73c15be25827f9a1e074c737cca4e.poster.avif?t=1744201613\" width=600 height=254 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/extras/9ed73c15be25827f9a1e074c737cca4e.webm?t=1744201613\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/extras/9ed73c15be25827f9a1e074c737cca4e.mp4?t=1744201613\" type=\"video/mp4\"></video></span><br><br>A fully featured mounted combat system makes you feel like you are fighting atop a thousand pound beast of war, including the ability to trample your foes, land devastating front or rear horse kicks, unhorse your opponent with a lance and engage in deep melee combat with grounded or mounted opponents.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/extras/86de305c021fc59e4eb8b9b13dce90f5.poster.avif?t=1744201613\" width=600 height=268 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/extras/86de305c021fc59e4eb8b9b13dce90f5.webm?t=1744201613\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/extras/86de305c021fc59e4eb8b9b13dce90f5.mp4?t=1744201613\" type=\"video/mp4\"></video></span><br><br>Rise to glory and expand your arsenal with a new subclass system that provides more variety than ever before. Four base classes expand to 10+ subclasses and over 30 unique weapons, each with multiple visual variants. New support items ranging from oil pots to barricades, supply crates and archer’s stakes add even more tactical options to the battlefield.<br><br>Charge to battle alongside your friends with all-platform Crossplay and claim glory by your blade!",
+        "developers": [
+            "Torn Banner Studios"
+        ],
+        "publishers": [
+            "Tripwire Presents"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 599,
+            "discount_percent": 85,
+            "initial_formatted": "$39.99",
+            "final_formatted": "$5.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 82,
+            "url": "https://www.metacritic.com/game/pc/chivalry-2?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            }
+        ],
+        "recommendations": {
+            "total": 44703
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jun 12, 2022"
+        }
+    }
+}

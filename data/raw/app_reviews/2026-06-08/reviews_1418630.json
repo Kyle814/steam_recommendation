@@ -1,0 +1,17 @@
+{
+    "ingested_at": "2026-06-08T18:42:56.919586",
+    "app_id": "1418630",
+    "review_count": 1,
+    "reviews": [
+        {
+            "review_id": "226939890",
+            "steam_id": "76561198096102718",
+            "playtime_minutes": 15,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Dread Hunger is a social survival deception game that blends Arctic expedition survival with hidden betrayal mechanics. On the surface, it’s about managing hunger, cold, and resource scarcity while trying to keep a stranded crew alive. Underneath, it’s a paranoia-driven social deduction experience where one or more players secretly work against the group.\n\nThe strongest aspect is the tension between cooperation and suspicion; trust is constantly questioned, and even small mistakes can spiral into accusations or sabotage. The survival systems give structure to the chaos, but the real game emerges from player interaction rather than mechanics alone.\n\nIt can be heavily dependent on group quality; with engaged players, it’s unpredictable and intense, but with disorganized lobbies it can feel uneven or frustrating.\n\nRecommended if you have a consistent group."
+        }
+    ]
+}

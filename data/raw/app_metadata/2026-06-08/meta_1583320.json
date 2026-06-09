@@ -1,0 +1,68 @@
+{
+    "ingested_at": "2026-06-08T19:34:37.535269",
+    "app_id": "1583320",
+    "metadata": {
+        "type": "game",
+        "name": "Pro Soccer Online",
+        "steam_appid": 1583320,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Pro Soccer Online is a 1st/3rd person, highly skill based, online multiplayer soccer game. It offers a sports game experience unlike any other with smooth, physics based, input driven gameplay that is competitive and rewarding with no pay to win mechanics.",
+        "detailed_description": "<p class=\"bb_paragraph\" ><strong>What makes Pro Soccer Online so good?</strong> </p><p class=\"bb_paragraph\" ><strong>1) Input Driven Gameplay</strong> </p><p class=\"bb_paragraph\" >Gameplay in Pro Soccer Online is completely input driven, not animation driven like many other sports games. Your decisions and skills on the field are the only thing that matter in this game.</p><p class=\"bb_paragraph\" ><strong>2) No pay to win mechanics</strong> </p><p class=\"bb_paragraph\" >Pro Soccer Online aims to be the most competitive and satisfying sports gaming experience there is. Having pay to win would completely ruin that. There are no pay to win mechanics in Pro Soccer Online. </p><p class=\"bb_paragraph\" ><strong>3) Dedicated servers</strong></p><p class=\"bb_paragraph\" > Pro Soccer Online has dedicated servers in NA (Ohio), SA (Sao Paulo), EU  (Milan), and AS (Seoul), and AS (Singapore).</p><p class=\"bb_paragraph\" ><strong>4) Ranked Modes</strong></p><p class=\"bb_paragraph\" >Ranked modes allow you to queue solo, with friends or as a full team and get matched up against other players. It has stat tracking as well as an overall rating system with leaderboards. Climb the ranks, become the best and show off your profile.</p><p class=\"bb_paragraph\" ><strong>5) Custom Lobbies</strong> </p><p class=\"bb_paragraph\" >Custom lobbies are available to all players so you can setup a match to be just how you like it. It's great for hosting private matches and offers more options/customization than ranked modes. There are settings for match length, overtime modes, single keeper mode as well as others.</p><p class=\"bb_paragraph\" ><strong>6) Player customization</strong></p><p class=\"bb_paragraph\" >Customize your player in different ways like choosing your skin &amp; eye color, hair and facial hair style and colors, different clothing styles, shoes and accessories as well as different emotes.</p><p class=\"bb_paragraph\" ><strong>7) Team customization</strong></p><p class=\"bb_paragraph\" >You can create multiple team presets that allow you to customize things like the team name, abbreviation, logo, uniforms with custom colors and different patterns/designs.</p><p class=\"bb_paragraph\" ></p>",
+        "developers": [
+            "Skywall Studios LLC"
+        ],
+        "publishers": [
+            "Skywall Studios LLC"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 499,
+            "final": 499,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$4.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            }
+        ],
+        "genres": [
+            {
+                "id": "18",
+                "description": "Sports"
+            }
+        ],
+        "recommendations": {
+            "total": 22904
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Dec 5, 2025"
+        }
+    }
+}

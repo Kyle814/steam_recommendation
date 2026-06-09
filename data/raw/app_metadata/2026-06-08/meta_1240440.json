@@ -1,0 +1,89 @@
+{
+    "ingested_at": "2026-06-08T19:22:04.036704",
+    "app_id": "1240440",
+    "metadata": {
+        "type": "game",
+        "name": "Halo Infinite",
+        "steam_appid": 1240440,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "From one of gaming's most iconic sagas, Halo is bigger than ever. Featuring an expansive open-world campaign and a dynamic free to play multiplayer experience. ",
+        "detailed_description": "<h2 class=\"bb_tag\" >Campaign:</h2><br>When all hope is lost and humanity’s fate hangs in the balance, the Master Chief is ready to confront the most ruthless foe he’s ever faced. Step inside the armor of humanity’s greatest hero to experience an epic open-world adventure and explore the massive scale of the Halo ring.  <br><br>With Network Campaign Co-Op and Mission Replay, you can relive your favorite moments, rediscover collectibles and explore the wonders of Zeta Halo on your own or with up to three other fireteam members. <br><br>To experience the campaign, purchase Halo Infinite (Campaign).<h2 class=\"bb_tag\" >Free-to-Play Multiplayer: </h2><br>Experience Halo’s celebrated multiplayer reimagined and free-to-play! With over 70 maps in matchmaking, billions of customization configurations, and countless community Forge creations to experience, Halo Infinite is the franchise’s most expansive multiplayer offering to date.  <br><br>Enjoy an unprecedented variety of gameplay experiences, ranging from fast-paced intense ranked modes to whimsical mayhem in Custom Games, or even co-operative coordination in the wave-based survival mode Firefight: King of the Hill. Assemble your Fireteam and conquer every mode – Halo offers endless opportunities for teamwork, strategy, and unforgettable victories.<h2 class=\"bb_tag\" >Forge Beta: </h2><br>Halo’s legendary content creation tool is more powerful than ever with advanced features like a sophisticated visual scripting engine, mode editor, object scaling, lighting and audio tools as well as marked improvements in fidelity and object budget limits. <br><br>Forge also includes the powerful AI Toolkit, allowing players to add campaign AI to their creations. Whether it’s remaking iconic experiences from previous Halo entries or creating something entirely unique, the possibilities for thrilling custom maps and game modes are infinite.   &quot;",
+        "developers": [
+            "343 Industries"
+        ],
+        "publishers": [
+            "Xbox Game Studios"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 47,
+                "description": "LAN PvP"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 34385
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 15, 2021"
+        }
+    }
+}

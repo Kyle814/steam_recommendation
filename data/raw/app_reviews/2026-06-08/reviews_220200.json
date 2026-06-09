@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T19:59:33.129749",
+    "app_id": "220200",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "225254217",
+            "steam_id": "76561198200907565",
+            "playtime_minutes": 37724,
+            "voted_up": true,
+            "votes_up": 149,
+            "weighted_score": 0.9303342700004578,
+            "steam_purchase": true,
+            "review_text": "An amazing standalone game with no sequels whatsoever."
+        },
+        {
+            "review_id": "225212372",
+            "steam_id": "76561199139867416",
+            "playtime_minutes": 59895,
+            "voted_up": true,
+            "votes_up": 31,
+            "weighted_score": 0.7550228238105774,
+            "steam_purchase": true,
+            "review_text": "I ABSOLUTLY LOVE KSP! even though the game is amazing in stock, the community has made moding it incredibly easy. and although the game is the most realistic space exploration game i have seen, it is accesable to all who dont know astrophysics"
+        },
+        {
+            "review_id": "225741200",
+            "steam_id": "76561199396521955",
+            "playtime_minutes": 927,
+            "voted_up": true,
+            "votes_up": 28,
+            "weighted_score": 0.7565217614173889,
+            "steam_purchase": true,
+            "review_text": "I liked seeing the Mun whizz past at 0.1 c after I slightly miscalculated the required orbital velocity"
+        },
+        {
+            "review_id": "226443394",
+            "steam_id": "76561199155266484",
+            "playtime_minutes": 4768,
+            "voted_up": true,
+            "votes_up": 10,
+            "weighted_score": 0.6296296119689941,
+            "steam_purchase": true,
+            "review_text": "I felt like a nerd but I successfully landed on minmus, duna, the mun, and moho with a scientist and jebediah using a command module and lander design. I also created a space station and multiple relay satellites. Tis peak mi lord"
+        },
+        {
+            "review_id": "225270677",
+            "steam_id": "76561199243695575",
+            "playtime_minutes": 1006,
+            "voted_up": true,
+            "votes_up": 6,
+            "weighted_score": 0.5894086360931396,
+            "steam_purchase": true,
+            "review_text": "Tytuł grywalny, ale wymagający cierpliwości (i modów)\r\nGra nabiera sensu dopiero po zainstalowaniu modyfikacji – bez nich wiele mechanik kuleje. Największą bolączką jest system zarządzania ekwipunkiem i sortowania przedmiotów, który bywa po prostu frustrujący. Ze względu na wysoki poziom trudności i specyficzny próg wejścia, jest to pozycja wyłącznie dla pasjonatów fizyki i astronomii. W obecnym stanie cena standardowa jest mocno zawyżona, dlatego zdecydowanie radzę polować na promocje."
+        },
+        {
+            "review_id": "227063801",
+            "steam_id": "76561199099633720",
+            "playtime_minutes": 3956,
+            "voted_up": true,
+            "votes_up": 5,
+            "weighted_score": 0.5683621764183044,
+            "steam_purchase": true,
+            "review_text": "If u dont rescue jebediah from that planet u left him on then your playing the game wrong and p diddy is gunna touch u in ur sleep"
+        },
+        {
+            "review_id": "225184163",
+            "steam_id": "76561199086658512",
+            "playtime_minutes": 244,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5652174353599548,
+            "steam_purchase": true,
+            "review_text": "So good I decided to stop pirating it and buy the actual game lol, got like 600 hours in it"
+        },
+        {
+            "review_id": "226543817",
+            "steam_id": "76561198717705658",
+            "playtime_minutes": 2763,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5454545617103577,
+            "steam_purchase": true,
+            "review_text": "Kerbal Space Program is the only game where everything is going fine… until it absolutely isn’t.\r\n\r\nYou launch thinking you’re a genius engineer, staging looks perfect, boosters fire, you’re cheering… and then halfway to space you realise you’ve miscalculated something very important like “fuel” or “the ability to get home”.\r\n\r\nNext thing you know you’re drifting out in the void, no fuel, no plan, just staring at the screen like “yeah… this is it, hey?”\r\n\r\nStill 10/10 game though.\r\nWould strand another astronaut in deep space again."
+        },
+        {
+            "review_id": "227037460",
+            "steam_id": "76561198025791796",
+            "playtime_minutes": 29382,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5273899435997009,
+            "steam_purchase": true,
+            "review_text": "Idk. I'm autistic and really like deep diving into understanding orbital mechanics, space flight, and building space stations. If that sounds like you, buy it."
+        },
+        {
+            "review_id": "225381755",
+            "steam_id": "76561198965315279",
+            "playtime_minutes": 28727,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5246914029121399,
+            "steam_purchase": true,
+            "review_text": "Amazing game, better space game with mods than any space game that has ever been released"
+        },
+        {
+            "review_id": "227470250",
+            "steam_id": "76561198734408375",
+            "playtime_minutes": 2322,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Its a great game really fun with mods very like customizable and choose your own adventure"
+        },
+        {
+            "review_id": "226750090",
+            "steam_id": "76561199522170706",
+            "playtime_minutes": 2330,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "This game is the best rocket science and engineering game ive played so far and this one allows you to custom build and tune your rockets, satelites, and habitats, etc. I would recommend this game in its true form theres also so many different mods you can download and enjoy with Ckan and i highly recommend it to anyone with the Pc and time to enjoy them. My Game rating is a 10/10 i would buy this again even if it wasnt on sale if youre interested in NASA and Rocket Science from the recent artimis 2 misison"
+        },
+        {
+            "review_id": "226464555",
+            "steam_id": "76561198837674395",
+            "playtime_minutes": 51812,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Probably the greatest game to introduce someone into engineering, physics and astronomy.\nYou start with your hope and dreams of recreating the vehicles shown in TV and Books,\nyou fail immediately.\nThen you wonder why and do it again a bit better, and when you land on Minmus it all pays off.\nIn the end you raise the flag on Eeloo, land in the Mohole, battle the kraken and fly SSTO's.\nBegan playing in 2017 and fell in love with it, it even got me to excell at my physics courses.\n\nAlthough it has aged not as well in the last 14 years, due to the wonky unity engine, the aged graphics and bad load times, with a bit of modding, supplemented by the ckan project, you can enjoy the best spaceflight sim to this day. \n\nAs a closing remark, some of the original devs and community modders are working on a spiritual successor making up for the original games shortcomings. But until it is finished, Kerbal Space Program remains king."
+        },
+        {
+            "review_id": "226427797",
+            "steam_id": "76561198141286687",
+            "playtime_minutes": 8924,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "The feeling of accomplishment when you successfully complete a maneuver or complete a a self-made mission is absolutely worth the dozens of hours of learning how this game works. 1,000% recommend if you like rockets, space, planning out missions, landing on planets, and accidentally blowing your rocket up."
+        },
+        {
+            "review_id": "226408185",
+            "steam_id": "76561199179904303",
+            "playtime_minutes": 4893,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Great game - not so easy, but teaches how things work in space.\n\nGod please someone make a single game with exploration like in Astroneer and mechanics like in Kerbal Space Program...\nWith multiplayer of course"
+        },
+        {
+            "review_id": "226206899",
+            "steam_id": "76561199748321750",
+            "playtime_minutes": 2239,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "I have killed Jeb too much, \r\nI must uninstall quickly.\r\n\r\n\r\nKSP is a very fun game, I really enjoy making different space planes and crashing my beautiful creations into the ground ahaha. It's a great way to distract me from my schoolwork ;)"
+        },
+        {
+            "review_id": "226009265",
+            "steam_id": "76561198356554162",
+            "playtime_minutes": 1981,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "The greatest Space Program I've ever played, it's insanely realistic with the manuevers, orbits, everything. At first I was unsure if I really wanted to buy the game, when I bought it, I regreted I hadn't bought it sooner.\r\n\r\nKeep in mind, this game is quite difficult to learn, I recommend watching some YouTube videos about it before purchasing it.\r\n\r\n10/10 Space Game, I highly recommend it."
+        },
+        {
+            "review_id": "225819951",
+            "steam_id": "76561198076603075",
+            "playtime_minutes": 9129,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "If you like killing little green men and running out of fuel this is the game for you."
+        },
+        {
+            "review_id": "225730932",
+            "steam_id": "76561199508664892",
+            "playtime_minutes": 809,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "jebediah kerman is a thin red streak about a mile off the launchpad with tattered spacesuit patches surrounding it. it took two more kerbals after that to finally perfect the Pissbaby 4"
+        },
+        {
+            "review_id": "225719843",
+            "steam_id": "76561198751887341",
+            "playtime_minutes": 807,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "this game is not easy but not so hard that its unplayable.\r\nit runs so good"
+        },
+        {
+            "review_id": "225663131",
+            "steam_id": "76561199134055619",
+            "playtime_minutes": 4144,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "There’s something weirdly satisfying about spending ages building a rocket, hitting launch… and then watching it instantly turn into a flaming cartwheel.\n\nBesides that, the whole thing feels like you’re running a very underqualified space program where nobody is really in control (besides that one moment of panic right before everything falls apart).\n\nAnd then, out of nowhere, one attempt actually works. You get into orbit, maybe even reach the Mun, and it feels amazing."
+        },
+        {
+            "review_id": "225510579",
+            "steam_id": "76561199641119958",
+            "playtime_minutes": 840,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "It's a game where you have to let you mind go wild. Sometimes it can be hard to find whats wrong with your ship but when you do it gives you such a good feeling.\r\nI love this game, i already have 14hours in the first week of having it"
+        },
+        {
+            "review_id": "225440680",
+            "steam_id": "76561198021846545",
+            "playtime_minutes": 35629,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "It is the most realistic spaceflight simulator there is and with mods it can easily be the best science themed game in the world."
+        },
+        {
+            "review_id": "225306959",
+            "steam_id": "76561198706352704",
+            "playtime_minutes": 1070,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Honestly, I started this game cuz I got tired of waiting for SFS2 to come out, but this is a GREAT game. I love how goofy it is while also being realistic and actually including real physics."
+        },
+        {
+            "review_id": "225194708",
+            "steam_id": "76561198857624007",
+            "playtime_minutes": 3861,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Jeb and Bob are currently stranded on the Mun with ~900 m/s of Δv. god help them."
+        },
+        {
+            "review_id": "225180547",
+            "steam_id": "76561199789031938",
+            "playtime_minutes": 1422,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "wanted to go to urlum\r\nput jeb in my rocket that took me 3 hours to build\r\ngimbal doesnt work and jeb starts spinning\r\njeb dies\r\njeb then respawns just to go in \"squizshit mk15\" straight towards the sun\r\n\r\n 10/10"
+        },
+        {
+            "review_id": "225105562",
+            "steam_id": "76561199221740635",
+            "playtime_minutes": 3697,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "When i found out i could name my kerbals after Porn actors and culturally signicant figures it made my experience 10 billion times better W game also i lost jeb valentina Bob and bill"
+        },
+        {
+            "review_id": "225502350",
+            "steam_id": "76561198225460416",
+            "playtime_minutes": 673,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5222930312156677,
+            "steam_purchase": true,
+            "review_text": "Possibly the most entertaining piece of media I have ever purchased and engaged with. I’ve been playing this game consistently for over a decade now, having owned it long before it was listed on steam, and I will likely never grow tired of it. I had to pick it up here just to give it a big thumbs up."
+        },
+        {
+            "review_id": "226873397",
+            "steam_id": "76561199249821227",
+            "playtime_minutes": 3264,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "kerbal space program is the best rocket science game and i like"
+        },
+        {
+            "review_id": "225902221",
+            "steam_id": "76561198843273888",
+            "playtime_minutes": 3779,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "It can't be that simple right?\r\n\r\n*Follows tutorials ingame and online*\r\n\r\nIt's that simple\r\n\r\n\r\nActual review: If you're playing for the first time, start with the guides and career mode. Immediatly going into sandbox will overwhelm you with choices when you have no clue what you're doing. Follow the ingame guides and look up some tutorials before giving up on the game. After you understand the basics and how to get into orbit and such, then you're going to really enjoy it"
+        },
+        {
+            "review_id": "225836677",
+            "steam_id": "76561199477915347",
+            "playtime_minutes": 1823,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "one of my childhoods dream game and i finally got pc to fulfill my childhood ksp is such a legend"
+        },
+        {
+            "review_id": "225370649",
+            "steam_id": "76561199742748306",
+            "playtime_minutes": 1008,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "This game is very great. So great you completely forget that the graphics look like a microwaved spider man lego minifigure."
+        },
+        {
+            "review_id": "225607786",
+            "steam_id": "76561199225555966",
+            "playtime_minutes": 3027,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5161290764808655,
+            "steam_purchase": true,
+            "review_text": "I Love it! Very complicated and frustrating,  yet i keep coming back for more fun! If you want to quit, just keep playing, and eventually you will figure it all out."
+        },
+        {
+            "review_id": "227053150",
+            "steam_id": "76561198000084062",
+            "playtime_minutes": 23853,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.5116279125213623,
+            "steam_purchase": true,
+            "review_text": "Years and years after buying the game, I am posting a negative review for one reason, and one reason only:\n\nSAVES ARE STILL STORED IN THE PROGRAMFILES FOLDER INSTEAD OF THE APPDATA FOLDER LIKE (almost) EVERY OTHER MODERN GAME IN EXISTENCE.\n\nThat means if you do not *manually* back up your save data *yourself* and steam ever reinstalls/deletes its data, or you move computers, or reinstall windows, or ANYTHING... you lose all save data, all builds, all everything. It's all gone. 400 hours of play time, down the drain.\n\nDisgusting. Every single dev that used to work on this game should be f-cking ashamed of yourselves for allowing the game to be updated for as long as it was, and yet never fixing this.\n\nAnd now it's too late."
+        },
+        {
+            "review_id": "225372838",
+            "steam_id": "76561199750231733",
+            "playtime_minutes": 11123,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5042372941970825,
+            "steam_purchase": true,
+            "review_text": "I've learned more things about space, rockets, and planes in my 100hrs of this game than in all of school and life."
+        },
+        {
+            "review_id": "227508381",
+            "steam_id": "76561199889619855",
+            "playtime_minutes": 2293,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is easy to learn yet hard to master, i would suggest it alot to players wanting to learn stuff, i'd recommend starting with science mode first and doing missions also maybe intentionally stranding kerbals somewhere so you can rescue them, makes the game very fuN!"
+        },
+        {
+            "review_id": "227507635",
+            "steam_id": "76561199559946466",
+            "playtime_minutes": 2138,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "ever hear a kerbal scream with no lungs thats what happens when you mess up staging"
+        },
+        {
+            "review_id": "227499126",
+            "steam_id": "76561199526688492",
+            "playtime_minutes": 518,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "super fun and so much creativity! You can even recreate things like artemis 2!!!"
+        },
+        {
+            "review_id": "227495216",
+            "steam_id": "76561199123304664",
+            "playtime_minutes": 399,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing game. I highly recomend this over KSP2! And if you have a good pc i recommend modding it. But remember! If Jebediah dies you die in real life too!"
+        },
+        {
+            "review_id": "227478322",
+            "steam_id": "76561198786475047",
+            "playtime_minutes": 238,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this is a very good game. The controls are hard and first and my rocket kept fliping."
+        },
+        {
+            "review_id": "227469142",
+            "steam_id": "76561199743663050",
+            "playtime_minutes": 3664,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It is Relatively fun to play and just mess around and i like the fact this game will run on almost any pc."
+        },
+        {
+            "review_id": "227449629",
+            "steam_id": "76561199259915166",
+            "playtime_minutes": 2512,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game looks bad at the starts but with a few mods the game turns into the most fun space travel game i personally have ever played to be fair the furthest ive gone is laythe (moon of jool). the game can be frustrating but dont forget to quicksave"
+        },
+        {
+            "review_id": "227441928",
+            "steam_id": "76561199231926176",
+            "playtime_minutes": 393,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I really recommend this game for anyone who likes fun, building and space i really enjoy playing this game cause i can do whatever i want and the game is very fun"
+        },
+        {
+            "review_id": "227441407",
+            "steam_id": "76561198079533245",
+            "playtime_minutes": 1701,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Bra, it is always going to be great, even if it is so dam difficult\r\n"
+        },
+        {
+            "review_id": "227416223",
+            "steam_id": "76561198167331453",
+            "playtime_minutes": 22635,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "You know I really loved this game until I found I could post blueprints on the steam workshop then I loved it more."
+        },
+        {
+            "review_id": "227399443",
+            "steam_id": "76561199440859340",
+            "playtime_minutes": 10684,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very hard to learn but I have a lot of fun while learning how to play and its even more fun when you start understading the game."
+        },
+        {
+            "review_id": "227380363",
+            "steam_id": "76561198113563218",
+            "playtime_minutes": 5760,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "starlink method untapped u just be elon and leave 50 space debris and relays in orbit and forget :)"
+        },
+        {
+            "review_id": "227373835",
+            "steam_id": "76561199058154498",
+            "playtime_minutes": 18737,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Oh boy I love this game so much its so cool and- OMG IS THAT A GIANT SQUID... \r\n\r\n\r\n\r\njust kidding! i actually didnt get killed im ok dont worry"
+        },
+        {
+            "review_id": "227371926",
+            "steam_id": "76561198703976417",
+            "playtime_minutes": 1949,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "KSP is one of my favorite games for a good reason, everything you try to do can seem daunting at first with the nature of the game but once you manage to do something challenging, it becomes second nature. The stock game is great but community mods can only make it better. 11/10 would send Jeb into an interstellar black hole again."
+        },
+        {
+            "review_id": "227352034",
+            "steam_id": "76561199443793365",
+            "playtime_minutes": 35102,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "just so intriguing and fun! Absolutely recommend to others."
+        },
+        {
+            "review_id": "227348529",
+            "steam_id": "76561199160043057",
+            "playtime_minutes": 3088,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "besides from the fact that it doesnt get much updates is a good game better then KSP 2 you could play it without knowing anything but it will be a challange so id reccomend it dearly KSP is the best space game ever it is truly an iconic space game huge reccomend to space lovers with incredible mods you will need a good pc my pc works fine so do make sure that you come close to my specs yet KSP is an mideocre light game to run"
+        },
+        {
+            "review_id": "227345421",
+            "steam_id": "76561199744544232",
+            "playtime_minutes": 3625,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very fun but would reccomend mods to make the game look better"
+        },
+        {
+            "review_id": "227341635",
+            "steam_id": "76561199511329090",
+            "playtime_minutes": 703,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun. allows you to make all of the desisions and design choices. recommend mods to add even more content using CKAN. Great game."
+        },
+        {
+            "review_id": "227295484",
+            "steam_id": "76561199809174616",
+            "playtime_minutes": 2799,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Its great for creativity and has really good physics. Compatible to any pc\r\n\r\n"
+        },
+        {
+            "review_id": "227294236",
+            "steam_id": "76561197982673724",
+            "playtime_minutes": 40764,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great fun in space and endless options for designs"
+        },
+        {
+            "review_id": "227282010",
+            "steam_id": "76561198702190023",
+            "playtime_minutes": 2942,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Jeb is stuck orbiting a black hole right now... not sure how to get him back but oh well..."
+        },
+        {
+            "review_id": "227275924",
+            "steam_id": "76561198020893614",
+            "playtime_minutes": 1241,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Reasonably accurate space program and launch simulator. Very wide sandbox for exploring different ideas."
+        },
+        {
+            "review_id": "227270964",
+            "steam_id": "76561199759722846",
+            "playtime_minutes": 57950,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "\"We choose to go to the moon, not because it is easy, but because it is hard\" -- John F. Kennedy. \n\nThis game is everything this quote could ever entail. Sure, from orbit it looks like a silly game about launching frogs (or whatever Kerbals are) into space. But once you break atmosphere you will realize: this game is THE ultimate space simulation game, the game that inspired others like Juno or Space Flight Simulator 2. \n\nWhat is this game? KSP is more than a game. It is a simulation with gamified mechanics smacked on top like a Kerbal smacks a flag into the Mun's surface. Don't let yourself get deterred by the outdated graphics or the fact, that orbital mechanics, even if simplified, are hard. This game is beautiful and I think it is a testiment to one of humanity's greatest qualities: our need to explore. \n\nI have more than 900 hours in this game (probably, PS4 doesn't tell me how much time I spent and I am running another modded instance anyway, so Steam doesn't count hours anymore) and this game has never gotten boring. Sure, it gets annoying, the Kraken is a terrible creature after all, but I cherish this game nonetheless. \n\nThis is probably a pretty weird review, but I am going to be honest. There won't be another space game like KSP in the next few years. After the complete flop of the sequel, the modding community (one of the biggest selling points honestly) essentially made this game into a build-it-yourself space game. There are literally infinite possibilities. So get this game, if you are interested in space. Get it, learn the history, the physics, the science behind this game. CHOOSE to go the moon. Don't do it because it is easy, pretigous or particularly smart. Do it because there is nothing more beautiful than to step out of a simulated lander onto the surface of another celestial body."
+        },
+        {
+            "review_id": "227257899",
+            "steam_id": "76561198152234880",
+            "playtime_minutes": 6359,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "KSP rocks. I have owned this game for some time, and like many, came back after PHM and Artemis II. I have had So much fun with it. It is THE space flight game to me. Sad about KSP2 but excited for KSA :)\n\nKSP1 will always be here for me tho."
+        },
+        {
+            "review_id": "227252881",
+            "steam_id": "76561198872649754",
+            "playtime_minutes": 20393,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very Good Game for those who like to fly. Sad to see it being discontinued, but there's still a good community that adds their own content nowadays. Recommended !"
+        },
+        {
+            "review_id": "227239645",
+            "steam_id": "76561198861585976",
+            "playtime_minutes": 2604,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "through the process of trial and error, watching no tutorials, I made it to the moon. It took around 30 something hours total, and every second was awesome. The feeling of landing on the moon all by myself was incredible, and I recommend this game to anyone interested in space, science, etc.\n\nPS. I didn't give them a way back to earth, they're stuck on the moon."
+        },
+        {
+            "review_id": "227218784",
+            "steam_id": "76561199023898821",
+            "playtime_minutes": 12380,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "fun fun fun!\r\n\r\nThis game is a blast once you get the ball rolling on learning how to play!"
+        },
+        {
+            "review_id": "227218545",
+            "steam_id": "76561199884012171",
+            "playtime_minutes": 3784,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is by far, the best Space game ever made. I have had it for a while, and it is so fun. It is well optimised for lower end devices, and the way it teaches you how to launch rockets makes you figurew it out launch by launch.\r\n\r\nThe loop of launching a rocket and either landing on the moon, or ripping apart a family of kerbals is so tense making each mission intense. \r\n\r\nPeople also say I look like a kerbal.\r\n\r\n1,000,000/10 game."
+        },
+        {
+            "review_id": "227206792",
+            "steam_id": "76561198015900682",
+            "playtime_minutes": 6368,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is probably one of the 10 best steam games ever made. I won't play it for two years and then get an itch that only KSP can scratch. If, somehow, you've never played this game, buy it. You'll get your money's worth."
+        },
+        {
+            "review_id": "227199562",
+            "steam_id": "76561199115914052",
+            "playtime_minutes": 1746,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game brings incredible emotions that I haven't experienced since I was a child."
+        },
+        {
+            "review_id": "227191823",
+            "steam_id": "76561198001018285",
+            "playtime_minutes": 9262,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I cannot add any extra words of wisdom. Good game, rare example of a game I enjoy with no guns."
+        },
+        {
+            "review_id": "227190978",
+            "steam_id": "76561199567359220",
+            "playtime_minutes": 1331,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "really fun, ive launched 3 satellites and landed on the mun"
+        },
+        {
+            "review_id": "227184607",
+            "steam_id": "76561198280996365",
+            "playtime_minutes": 3124,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of my favorite games ever.\nYou get to plan a mission, design and test a solution and finally execute your plan. It can take a very long time to actually get anything done, but the satisfaction of seeing the pieces you prepared connect makes that well worth it.\nThe base game is great on it's own, but the modding scene for this game is awesome.\nI have another ~250 hours, which aren't tracked by steam, on my modded game instance.\nThere's still nothing else like it..."
+        },
+        {
+            "review_id": "227157048",
+            "steam_id": "76561199004826098",
+            "playtime_minutes": 8507,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "1. Build rocket\n2. Launch rocket\n3. Rocket didnt make it to orbit\n4. Repeat 10 times\n5. Jeb got lost in space\n6. Send rescue mission\n7. Forgot to rescue Jeb\n8 Jeb lost forever in space"
+        },
+        {
+            "review_id": "227140052",
+            "steam_id": "76561199072986896",
+            "playtime_minutes": 6940,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Do you want to learn rocket science but have no one to experiment it on? then look no further than this game, in this game you can freely experiment with your kerbals in a way that people might be concerned, in the first hour of my gameplay i managed to kill jeb and bob and valentina with bill were M.I.A. this game is purely an improvement cycle. at first you might be thinking \"This can't be this complicated\" until your rocket starts doing backflips 50 meters into the air. but once you get the hang of it its even better cause you can purposely \"experiment\" with your kerbals! 100/10 would recommend to anyone."
+        },
+        {
+            "review_id": "227133035",
+            "steam_id": "76561199556230125",
+            "playtime_minutes": 6103,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i launched Val to land on Duna, she got stuck on Duna, i launched Jeb to orbit and return from Duna, now he's stuck in space, both need rescue. 10/10 game"
+        },
+        {
+            "review_id": "227129613",
+            "steam_id": "76561199310543704",
+            "playtime_minutes": 7210,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Im not going to lie, people who say this game is very hard are lowkey lying. At least for me it was easy to get decent at. I watched some tutorials before playing the game and within the first 10 hours i had my first mun landing. Since, I've visited and landed on every one of Jool's moons and returned and landed on every planet except Eve which I am currently learning how to pull off."
+        },
+        {
+            "review_id": "227127043",
+            "steam_id": "76561198698036994",
+            "playtime_minutes": 1284,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very very fun game. Had over a full day of play time even though i only owned the game for 4 days. This game is awesome"
+        },
+        {
+            "review_id": "227126252",
+            "steam_id": "76561198887134648",
+            "playtime_minutes": 2084,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game has genuinely made me so ♥♥♥♥♥♥♥ mad, i have NEVER hated a game more in my life... 34 hours in and ive cried on multiple occasions and STILL HAVENT GOTTEN TO DUNA. The feeling when you return from the mun is worth it tho.... 10/10"
+        },
+        {
+            "review_id": "227125988",
+            "steam_id": "76561198991755307",
+            "playtime_minutes": 1993,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "downloaded game\r\n\r\n\r\n\r\nsent jeb to space\r\n\r\n\r\n\r\njeb is now trapped in orbit around the sun\r\n\r\n\r\n\r\ni dont think we're getting jeb back ive already sent 4 rescue missions\r\n\r\n\r\n\r\nim sorry jeb\r\n\r\n\r\n\r\n5 stars"
+        },
+        {
+            "review_id": "227124615",
+            "steam_id": "76561199539219526",
+            "playtime_minutes": 37449,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Came from Spaceflight Sim and honestly this is infinitely better than other space games i've played with the many engines, structural parts, fuel cells, and aerodynamic options. From the currencies such as science reputation and units, with gradual increase and explanation of parts allowing people who aren't very involved in space tech to understand parts and why you use them. \n\nI truly enjoy my 3-4 week progress in this game and seeing my Kerbal Space Program develop and change over time and nearly being finished with the tech tree it feels great. I so far have multiple satellites around the Mun and Minmus as well as one around Eve.\n\nI also recently got into modding and I have EVE, Scatterer, Firefly, and Waterfall on this old crappy Mac Mini and have some times when FPS drops a little low but most of the time it's perfectly fine. \n\nI also definitely recommend both DLC packs and if you can only afford one I'd go with the Breaking Ground Expansion!"
+        },
+        {
+            "review_id": "227119865",
+            "steam_id": "76561199843220473",
+            "playtime_minutes": 225,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i launched jebediah into space and passed the mun, hes trapped now and we have no plan to save him. good game"
+        },
+        {
+            "review_id": "227087167",
+            "steam_id": "76561198697712998",
+            "playtime_minutes": 1708,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Cool game 10/10 even though i don't fully understand the mechanics it is really fun just to mess around and really love ksp"
+        },
+        {
+            "review_id": "227064868",
+            "steam_id": "76561199096298741",
+            "playtime_minutes": 2489,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "got me through 2 weeks of ammonia, great simulator but after a while the game just gets too laggy limmiting what you can do."
+        },
+        {
+            "review_id": "227062199",
+            "steam_id": "76561199006329510",
+            "playtime_minutes": 5490,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Incredible spaceflight simulator, very fun to play and endlessly moddable. 5/5 stars"
+        },
+        {
+            "review_id": "227058332",
+            "steam_id": "76561199228415049",
+            "playtime_minutes": 1323,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i haven't landed a spaceship correctly once in the whole game and have either killed or launched jebediah into the depths of spaces about 28 times by accident. its unbelievably peak"
+        },
+        {
+            "review_id": "227053279",
+            "steam_id": "76561199243142173",
+            "playtime_minutes": 2012,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is very fun but can be challenging if you like rockets and killing lots of Kerbins this is for you."
+        },
+        {
+            "review_id": "227045395",
+            "steam_id": "76561198754641092",
+            "playtime_minutes": 1005,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game will teach you basic astrodynamics and rocket engineering"
+        },
+        {
+            "review_id": "227044367",
+            "steam_id": "76561199234681651",
+            "playtime_minutes": 4046,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "KSP is one of the most fun and chaotic learning experiences I have ever played. It starts off hard and you might need a tutorial but that what makes it so rewarding. the feel when you final reach the mun, Dune, or Jool. make it feel so much better. \r\n\r\nMods make the game even better and add a lot of depth and quality of life improvements, but even vanilla KSP still feels more complete and enjoyable then KSP 2 right now.\r\n\r\nIf you like sandbox creativity mixed with real physics and lots of trial and error, then this game is perfect"
+        },
+        {
+            "review_id": "227033912",
+            "steam_id": "76561199750375259",
+            "playtime_minutes": 211,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is awesome, and addicting. 3 hours in a single day, maybe more. For it's age it's pretty awesome. Unique moon and planet names (Kerbin, Mun, Duna, Eve, Laythe and so on.), funny aliens called Kerbals. But resolution and graphics are not really that good. Solid 8/10. I made a excellent choice for my first paid game on steam."
+        },
+        {
+            "review_id": "227026742",
+            "steam_id": "76561199791740331",
+            "playtime_minutes": 1279,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It is a very fun game, because it actually follows real world physics. You can find yourself actually watching space luanch videos"
+        },
+        {
+            "review_id": "227017187",
+            "steam_id": "76561198871256774",
+            "playtime_minutes": 897,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is the third space game I have bought. Now I can be as irresponsible as I am in any other game, but with green aliens this time.\n\n10/10 game, had fun sacrificing green megaminds to save money on cheap parachutes."
+        },
+        {
+            "review_id": "226991727",
+            "steam_id": "76561199791487069",
+            "playtime_minutes": 6062,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "a great game to make (and maybe explode) stuffs go into space blabalbla. I love itt, also wouldve been better if it has a sequel smh"
+        },
+        {
+            "review_id": "226989228",
+            "steam_id": "76561199233742915",
+            "playtime_minutes": 2659,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game is amazing!!!! ive had so much fun with this silly game. modding is kinda pretty hard though,,,,"
+        },
+        {
+            "review_id": "226987910",
+            "steam_id": "76561198001051715",
+            "playtime_minutes": 10625,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I geniunely feel that playing around with gravitational mechanics has improved my life.  Maybe that's just me."
+        },
+        {
+            "review_id": "226979768",
+            "steam_id": "76561198312757209",
+            "playtime_minutes": 189987,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Pretty good first impressions. I'll have to play a bit more to really get the hang of it."
+        },
+        {
+            "review_id": "226979567",
+            "steam_id": "76561198067604503",
+            "playtime_minutes": 38049,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "To this day i still feel this is the best game of its type. Comedy of the kerbals meets the realism of the physics. It can get amazingly real with mods. If you like space you should not pass up on this game."
+        },
+        {
+            "review_id": "226979219",
+            "steam_id": "76561197968054272",
+            "playtime_minutes": 20203,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Been playing for 10+ years since way before version 1.0.  Absolutely love this game.  I come back to it often.  Best video game of all time in my opinion.  Shame that KSP2 isn't happening."
+        },
+        {
+            "review_id": "226969608",
+            "steam_id": "76561198250528966",
+            "playtime_minutes": 1144,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "such a good game i convinced 2 of my friends to get it and they like it, one of them already worships jebidiah like a god"
+        },
+        {
+            "review_id": "226950297",
+            "steam_id": "76561198862518401",
+            "playtime_minutes": 16553,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "If you are interested in space, get this game\nif you like building flying monstrocities, get this game\nif you enjoy sending little frog people on a one way trip to the core of the sun, get this game\n\njokes aside this game, especially with all the mods provided by the amazing community has great replay value, explored all the planets? add some more. explored them too? add interstellar travel and other systems. game not challenging enough? add the real solar system and watch your ego break as you realize a job at nasa might actually not be as easy as you thought.\n\n10/10 game"
+        },
+        {
+            "review_id": "226945187",
+            "steam_id": "76561199236909310",
+            "playtime_minutes": 6810,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "if you play SFS and yearn for SFS 2 why not have it now! technically... this game is a bit more complicated then SFS but it's 3d! so why not buy it now then later? get it now! it's also got 2 amazing DLC's that you need to try now! there is both Breaking Ground ,and Making History expansion!"
+        },
+        {
+            "review_id": "226938354",
+            "steam_id": "76561199864303084",
+            "playtime_minutes": 2076,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Made a overwhelmingly large rocket just to get into orbit and a capsule to fit Orny. I lauched it then 2 of the boosters somehow started having the mind of its own and started flying off into the sunset. I did manage to get into orbit but when we got into orbit, we were on a collision course with the moon since i didnt know how to use the manouver guide thing so we just went out and got flung into the moon and now Orny kerman is in a orbit with the sun rather than earth itself. I labeled it as space station to lower the burden of then since we also ran out of fuel and enery. This game is amazing"
+        },
+        {
+            "review_id": "226905145",
+            "steam_id": "76561199588317041",
+            "playtime_minutes": 6110,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i sent jebb kermin to the lord and then saw horrors beyond human comprehension. 10/10 love this game"
+        },
+        {
+            "review_id": "226892860",
+            "steam_id": "76561199588459772",
+            "playtime_minutes": 614,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good game and modding community I have yet to get on the mun please give me advice"
+        },
+        {
+            "review_id": "226888677",
+            "steam_id": "76561199788850249",
+            "playtime_minutes": 2265,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this is pretty good, its fun, u can do some wacky things, and some recreations/realistic stuff. it is lacking good graphic and some more parts would be nice, but i can fix that up with mods. in conclusion, this is an awesome and great game."
+        }
+    ]
+}

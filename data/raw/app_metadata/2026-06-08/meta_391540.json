@@ -1,0 +1,75 @@
+{
+    "ingested_at": "2026-06-08T19:52:48.820431",
+    "app_id": "391540",
+    "metadata": {
+        "type": "game",
+        "name": "Undertale",
+        "steam_appid": 391540,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
+        "detailed_description": "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters. Now you must find your way out... or stay trapped forever. <br><br><i>((Healthy Dog's Warning: Game contains imagery that may be harmful to players with photosensitive epilepsy or similar condition.))</i><h2 class=\"bb_tag\" >features:</h2><br><ul class=\"bb_ul\"><li> Killing is unnecessary: negotiate out of danger using the unique battle system.<br></li><li> Time your attacks for extra damage, then dodge enemy attacks in a style reminiscent of top-down shooters.<br></li><li> Original art and soundtrack brimming with personality.<br></li><li> Soulful, character-rich story with an emphasis on humor.<br></li><li> Created mostly by one person. <br></li><li> Become friends with all of the bosses!<br></li><li> At least 5 dogs.<br></li><li> You can date a skeleton.<br></li><li> Hmmm... now there are 6 dogs...?<br></li><li> Maybe you won't want to date the skeleton.<br></li><li> I thought I found a 7th dog, but it was actually just the 3rd dog.<br></li><li> If you play this game, can you count the dogs for me...? I'm not good at it.</li></ul>",
+        "developers": [
+            "tobyfox"
+        ],
+        "publishers": [
+            "tobyfox"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 999,
+            "final": 249,
+            "discount_percent": 75,
+            "initial_formatted": "$9.99",
+            "final_formatted": "$2.49"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 92,
+            "url": "https://www.metacritic.com/game/pc/undertale?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 291874
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 15, 2015"
+        }
+    }
+}

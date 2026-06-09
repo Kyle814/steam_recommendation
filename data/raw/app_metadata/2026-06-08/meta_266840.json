@@ -1,0 +1,101 @@
+{
+    "ingested_at": "2026-06-08T18:55:43.355959",
+    "app_id": "266840",
+    "metadata": {
+        "type": "game",
+        "name": "Age of Mythology: Extended Edition",
+        "steam_appid": 266840,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Age of Mythology is back! Choose your god and take to the battlefield in this classic, upgraded with full Steamworks integration and enhanced features.",
+        "detailed_description": "With the release of Age of Mythology: Retold in 2024, this edition is not the most current and will not be updated further.<h2 class=\"bb_tag\" >Age of Mythology</h2>The classic real time strategy game that transports players to a time when heroes did battle with monsters of legend and the gods intervened in the affairs of mortals.<br> <br>Use mythological creatures like Minotaurs and Cyclopes to bolster your armies' strength. Call upon the gods for assistance in flattening enemy towns with meteors or scatter opposing troops with lightning storms.<br><br>The Extended Edition includes:<br>Age of Mythology<br>Age of Mythology: The Titans<br>Golden Gift Campaign<br> <br>New in the Extended Edition:<br><ul class=\"bb_ul\"><li>\tImproved Visuals<br><ul class=\"bb_ul\"><li>\tTime of Day<br></li><li>    Improved water<br></li><li>\tShadows<br></li><li>\tBump / Specular maps<br></li><li>\tGlobal Lighting<br></li><li>\tAntialiasing &amp; Ambient Occlusion</li></ul></li><li>Full Steamworks Integration<br><ul class=\"bb_ul\"><li>\tWorkshop mod manager<br></li><li>     Multiplayer<br></li><li>\tAchievements<br></li><li>\tTrading Cards<br></li><li>\tLeagues / Badges / Events<br></li><li>\tCloud saves</li></ul></li><li>\tExtended Features<br><ul class=\"bb_ul\"><li>\tTwitch Integration<br></li><li>    Treaty Mode<br></li><li>\tEnhanced Observer mode</li></ul></li></ul>",
+        "developers": [
+            "SkyBox Labs",
+            "Ensemble Studios",
+            "Forgotten Empires"
+        ],
+        "publishers": [
+            "Xbox Game Studios"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 2999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$29.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 66,
+            "url": "https://www.metacritic.com/game/pc/age-of-mythology-extended-edition?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 15,
+                "description": "Stats"
+            },
+            {
+                "id": 25,
+                "description": "Steam Leaderboards"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 31691
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 8, 2014"
+        }
+    }
+}

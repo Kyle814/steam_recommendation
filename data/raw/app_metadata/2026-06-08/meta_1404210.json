@@ -1,0 +1,92 @@
+{
+    "ingested_at": "2026-06-08T20:05:25.693095",
+    "app_id": "1404210",
+    "metadata": {
+        "type": "game",
+        "name": "Red Dead Online",
+        "steam_appid": 1404210,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Step into the vibrant, ever-evolving world of Red Dead Online and experience life in frontier America. Chase down bounties, battle outlaw gangs and other players, hunt, fish and trade, search for exotic treasures, run Moonshine, and much more to discover in a world of astounding depth and detail.",
+        "detailed_description": "Step into the vibrant, ever-evolving world of Red Dead Online and experience life across frontier America.<br />\r\n<br />\r\nForge your own path as you battle lawmen, outlaw gangs and ferocious wild animals to build a life on the American frontier. Build a camp, ride solo or form a posse and explore everything from the snowy mountains in the North to the swamps of the South, from remote outposts to busy farms and bustling towns. Chase down bounties, hunt, fish and trade, search for exotic treasures, run your own underground Moonshine distillery, or become a Naturalist to learn the secrets of the animal kingdom and much more in a world of astounding depth and detail.<br />\r\n<br />\r\nJoin millions of fellow players in the American West, and experience a world now packed with years’ worth of new features, gameplay and additional enhancements.<br />\r\n<br />\r\nIncludes Red Dead Online. Red Dead Redemption 2: Story Mode must be purchased separately.",
+        "developers": [
+            "Rockstar Games"
+        ],
+        "publishers": [
+            "Rockstar Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 59187
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Dec 1, 2020"
+        }
+    }
+}

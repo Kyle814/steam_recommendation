@@ -1,0 +1,107 @@
+{
+    "ingested_at": "2026-06-08T19:47:31.666447",
+    "app_id": "287700",
+    "metadata": {
+        "type": "game",
+        "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "steam_appid": 287700,
+        "required_age": "18",
+        "is_free": false,
+        "short_description": "Ushering in a new era for the METAL GEAR franchise with cutting-edge technology powered by the Fox Engine, METAL GEAR SOLID V: The Phantom Pain, will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions.",
+        "detailed_description": "Konami Digital Entertainment continues forth the ‘METAL GEAR SOLID V Experience’ with the latest chapter, METAL GEAR SOLID V: The Phantom Pain.  Ushering in a new era for the franchise with cutting-edge technology powered by the Fox Engine, MGSV: The Phantom Pain will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions.<br />\r\n<br />\r\nNine years after the events of MGSV: GROUND ZEROES and the fall of Mother Base, Snake a.k.a. Big Boss, awakens from a nine year coma.  The year is 1984. The Cold War serves as the backdrop as nuclear weapons continue to shape a global crisis. Driven by revenge, Snake establishes a new private army and returns to the battlefield in pursuit of the shadow group, XOF.<br />\r\n<br />\r\nThe METAL GEAR SOLID team continues to ambitiously explore mature themes such as the psychology of warfare and the atrocities that result from those that engage in its vicious cycle.  One of the most anticipated games of the year with its open-world design, photorealistic visual fidelity and feature-rich game design, MGSV: The Phantom Pain will leave its mark as one of the hallmarks in the gaming industry for its cinematic storytelling, heavy themes, and immersive tactical gameplay.<br />\r\n<br />\r\nKey Features:<br />\r\n- Open-World game design allowing players ultimate freedom on how to approach missions and overall game progression <br />\r\n- Fox Engine delivers photorealistic graphics, thoughtful game design and true new-generation game production quality<br />\r\n- Online connectivity that carries the experience beyond the consoles to other devices to augment the overall functionality and access to the game.",
+        "developers": [
+            "KONAMI"
+        ],
+        "publishers": [
+            "KONAMI"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 91,
+            "url": "https://www.metacritic.com/game/pc/metal-gear-solid-v-the-phantom-pain?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 25,
+                "description": "Steam Leaderboards"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 71928
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 1, 2015"
+        }
+    }
+}

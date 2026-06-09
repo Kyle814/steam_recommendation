@@ -1,0 +1,667 @@
+{
+    "ingested_at": "2026-06-08T19:49:36.344571",
+    "app_id": "47890",
+    "review_count": 66,
+    "reviews": [
+        {
+            "review_id": "226510114",
+            "steam_id": "76561198027300709",
+            "playtime_minutes": 40027,
+            "voted_up": false,
+            "votes_up": 54,
+            "weighted_score": 0.8349637985229492,
+            "steam_purchase": true,
+            "review_text": "EA have ceased support for Steam. Outrageous pricing for a game that is 15+ years old and does not work on modern multi-core CPUs without workarounds. Supposedly EA have patched if purchased through EA store. Just another terrible money grab by EA. \n\nStill my favourite Sims, but only purchase on special and if you are happy to do workarounds or unofficial patches."
+        },
+        {
+            "review_id": "225405959",
+            "steam_id": "76561197962597095",
+            "playtime_minutes": 18712,
+            "voted_up": true,
+            "votes_up": 17,
+            "weighted_score": 0.7189772129058838,
+            "steam_purchase": true,
+            "review_text": "The Sims 3 is by far my favorite Sims game. I played it constantly as a kid when it first came out. Even though my PC at the time was terrible and the performance was often rough, I still enjoyed the game more than almost anything else. What made it even more special was that it wasn’t just me playing it but people in my family who weren’t even gamers loved it too. My aunt, my dad, my mom, my sister, and other relatives all played it. We would share CDs and expansion packs with each other just so everyone could experience the game.\n\nI honestly miss those days. I remember saving up allowance money just to buy a new expansion pack. I still remember getting Seasons and Pets and being completely blown away by how much they added. Having actual seasons, weather, holidays like Halloween and Christmas, pets running around the world. It felt incredible at the time and made the game feel alive in a way very few games do even today.\n\nEventually time moved on, I lost my CDs, and then The Sims 4 came out. Like a lot of people, I switched over because it was the new Sims game. Looking back though, it never felt the same. So many features were removed or simplified, and so much depth from Sims 3 just never made it into Sims 4 at all. Comparing the Sims 3 base game to the Sims 4 base game is honestly depressing because it really shows how much content and ambition the series lost over time. It reminds me a lot of what happened with SimCity.\n\nAfter mostly playing Sims 4 throughout my teens, I randomly discovered that Sims 3 was on Steam. I somehow missed that for years, but I grabbed it on sale for around 20 euros, which felt like an absolute steal. That’s when I realized how much I truly missed The Sims 3. Back when I originally played it, I never experienced most of the expansion packs, so coming back to it now completely blew my mind. There were so many cool features and mechanics I had never seen before because I simply didn’t own those expansions as a kid.\n\nIt also made me realize just how weak Sims 4 feels in comparison. Sure, Sims 3 can still be a little unstable or performance-heavy on modern systems, but honestly, mods and community patches fix most of the issues. On my Windows 11 PC, I get good performance and no crashes after tweaking it properly.\n\nIn my opinion, The Sims 3 was the peak of the franchise, while Sims 4 is easily the weakest entry. Maybe that’s just because I personally prefer the realism, depth, and attention to detail in Sims 3 over the simplified and easier design of Sims 4, but if I had to choose one game to keep forever, I would keep Sims 3 without hesitation.\n\nEven after putting over 300 hours into the Steam version, I still feel like I’ve barely seen everything the game has to offer. That alone says a lot about how much content and personality this game has. I’m genuinely excited to keep playing and discovering things I haven’t experienced yet, even all these years later."
+        },
+        {
+            "review_id": "226145563",
+            "steam_id": "76561198859561585",
+            "playtime_minutes": 12358,
+            "voted_up": true,
+            "votes_up": 12,
+            "weighted_score": 0.6733707189559937,
+            "steam_purchase": true,
+            "review_text": "The game breaks a lot and I have to fix it like once every month, but it's better than the sims 4, which is now using ai. ♥♥♥♥ ai."
+        },
+        {
+            "review_id": "226274509",
+            "steam_id": "76561199247405273",
+            "playtime_minutes": 9066,
+            "voted_up": false,
+            "votes_up": 10,
+            "weighted_score": 0.6108843684196472,
+            "steam_purchase": true,
+            "review_text": "READ THIS BEFORE PURCHASING! Steam Launcher is BROKEN! The Workaround only works LESS THEN HALF THE TIME. It involves you Opening task manager, clicking through 4 steps and attempting to launch the game from the Game Launch menu. Then going back into the Task Manager to Undo the fix required to launch the game, while preying that the game wouldn't glitch out or freeze. Don't get me wrong, I LOVE this game. I'd recommend this game to anyone. But do yourself a favor and just go to your Local Walley World and buy the Disc's. It will cost you about $20 per expansion. But, worth the extra money considering that it will be playable."
+        },
+        {
+            "review_id": "226271209",
+            "steam_id": "76561198026887605",
+            "playtime_minutes": 4167,
+            "voted_up": false,
+            "votes_up": 9,
+            "weighted_score": 0.5871526598930359,
+            "steam_purchase": true,
+            "review_text": "All the player fixes from EA's abandoned mess don't fix this buggy heap. I would still recommend it over the massive disappointment of Sims 4. DLC being sold for full price that breaks the game for an almost 20 year old game is diabolical but that's EA for you."
+        },
+        {
+            "review_id": "227037249",
+            "steam_id": "76561198210050305",
+            "playtime_minutes": 29565,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5730431079864502,
+            "steam_purchase": true,
+            "review_text": "Honestly it is an amazing game the only issue is it no longer runs as good as it used too"
+        },
+        {
+            "review_id": "226643751",
+            "steam_id": "76561197999474668",
+            "playtime_minutes": 10660,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.572109043598175,
+            "steam_purchase": true,
+            "review_text": "Do not buy this. EA has ceased support for the game, and it simply no longer functions most of the time. I spent hours trying workarounds, nothing works. The game simply won't load worlds anymore, for no discernible reason. It is unplayable."
+        },
+        {
+            "review_id": "226174252",
+            "steam_id": "76561198061292974",
+            "playtime_minutes": 9374,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5580110549926758,
+            "steam_purchase": true,
+            "review_text": "Sims 1, 2 and 3 are all fantastic and in the case of 3, the open world is literally a game changer. To this day it's the only one to have such too."
+        },
+        {
+            "review_id": "226432979",
+            "steam_id": "76561198260331341",
+            "playtime_minutes": 294,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5454545617103577,
+            "steam_purchase": true,
+            "review_text": "10/10 Sims 3 is a life simulator where you control, shape, and recreate aspects of everyday life using an avatar. Generationally great, creative, and fun.\n\nSims 3 is a life simulator where you create a Sim and control their day to day activities, shaping them into the person you want them to be. You can create houses, venues, decorate, and make an avatar. All of which are extremely in depth and could easily take up hours without even realizing it. The soundtrack is easily recognizable and iconic, the game runs smooth, and the possibilities of what you can create, live, and build are near limitless.\n\nI grew up playing The Sims 3. Like a lot of people, it got me into playing videogames. I asked for expansions and kits for Christmases, birthdays, and re-brought a lot of them as an adult to live it over again. I can’t even fathom how much time I spent playing this game and how many discs I had the adults in my life buy for me as a child. I have so many fond memories creating storylines, building homes, and spending days making my Sims perfect. I genuinely love this game.\n\nThe amount of content for this game is crazy and without a lot of the DLCs or additional paid content it can feel like you’re missing out on a lot. I do think the game can be played at its base for an endless amount of time but once you start falling down that hole it becomes clear that to get all of the content for the base game will cost hundreds of dollars. Completely optional but I can see that being disheartening for players who just want more outfits or content to flesh out their worlds.\n\n[u]Pros[/u]\n[list]\n   [*] Fleshed out character creation.\n   [*] Fleshed out building creation.\n   [*] Creator friendly.\n   [*] Nostalgia.\n   [*] Iconic soundtrack.\n   [*] Smooth gameplay.\n[/list]\n\n[u]Cons[/u]\n[list]\n   [*] DLC central.\n [/list]\n\nTo see more reviews like this one, support me by following my curating page:\nhttps://store.steampowered.com/curator/46085490-SumiSux-At-Games/\n"
+        },
+        {
+            "review_id": "226884433",
+            "steam_id": "76561199245555507",
+            "playtime_minutes": 30360,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.541284441947937,
+            "steam_purchase": true,
+            "review_text": "I LOVEEE THE SIMS 3 .. lemme chill out but I personally think the sims 3 excels in many different types of gameplays aspects and styles!! Perfect for anyone. You can also mod the sims 3 ofc but since this is the 3rd edition of sims which came out almost 20 years ago I belive it's going to laggy and buggy and not really optimized for new laptops and pcs so beware! There are lots of fixes and guides you can watch on yt and reddit to help with optimization and lag. I will say mine still lags tho and I do use mods but not alot compared to the sims 4!"
+        },
+        {
+            "review_id": "227132883",
+            "steam_id": "76561199232445394",
+            "playtime_minutes": 420,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5411879420280457,
+            "steam_purchase": true,
+            "review_text": "love it but it is buggy as HELL in this version. it stays on in the background, plays at the loudest volume known to man, and i've expereienced so many bugs. really not worth the price imo. id rather break out my xbox 360 version"
+        },
+        {
+            "review_id": "227088098",
+            "steam_id": "76561198179414034",
+            "playtime_minutes": 40755,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5278688669204712,
+            "steam_purchase": true,
+            "review_text": "probably my favourite game of all time i discovered it as a child by accident from youtube i have been playing the sims 3 since i was in school and now i am a university student about to enter my masters and i still play it 3 is by far the best game out of the entire series for me. Personally i don't love playing with mods and cc because my laptop can't handle much but sometimes i do because the clothes and skins are very very outdated and of it's time but if you can look past that you can easily sink hours and even years into this game. i think the sim 3 will always be a game i keep coming back to despite it's faults. It has the best expansions by far although into the future the last pack is probably the worst as someone who likes playing realistic and very boring domestic gameplay. Overall this is by far the best game i have ever played in my life it opened me up to more games and i would not have had fun all of those years if it wasn't for the sims 3.  I have loved every single family I've ever played. and i still want to play it even more and the graphics still do hold up."
+        },
+        {
+            "review_id": "226862539",
+            "steam_id": "76561198059622402",
+            "playtime_minutes": 353,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "One of my favorites, now dead. The programming is so outdated that I can't get the game to launch."
+        },
+        {
+            "review_id": "226167933",
+            "steam_id": "76561198452029980",
+            "playtime_minutes": 10726,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Don’t get unless you’re ready for constant problems. I bought the game knowing it was buggy but I had no idea that it was borderline unplayable. The game itself runs pretty smoothly, gameplay is fun and I’d even say it’s better than the sims 4, the problems occur when you need to save the game you’re playing. Almost every time I’ve played, I’ve had to start a new world. The game won’t save normally, you need to ‘save as’ and change the name to something you haven’t saved it as before.\nThen you’ll be lucky to find your save on the menu screen. You have to start a new world, then add them there so you have to restart all of your progress.\nIf you are lucky enough to get them to show up in the menu, there’s a pretty high chance you’re game will load and you’ll get a notification that says “A serious error has occurred while loading [world], it is strongly recommended that you restart the application.\n\nRestarting the application does absolutely nothing. If you look around online people will say to move the EA file but that also does nothing. Some people seem to not have the same problems but I guess it’s just something you have to consider before buying.\nIt sucks. I really enjoy the game and wanted to get more expansion packs but I’m so sick of starting over and over again."
+        },
+        {
+            "review_id": "227208478",
+            "steam_id": "76561198818153508",
+            "playtime_minutes": 4774,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "[h1] Why you should or should not play The Sims 3 [/h1]\n\n[b] What is The Sims 3? [/b]\n\nThe Sims 3 is legendarily one of the most popular Sims games, with what everyone dreamed The Sims 4 would be a side from the better graphics. \n\n[b] Quick Pros [/b]\n\n✔ Addictive game play loop\n✔ Satisfying progression system\n✔ Unique mechanics\n✔ Easy to learn controls\n✔ Deep gameplay systems\n✔ Good balance of challenge and reward\n✔ Lots of different play styles\n\n[b] Quick Cons [/b]\n\n✘ Graphics feel dated\n✘ Visual bugs or glitches\n✘ Heavy micro-transactions\n✘ DLC feels overpriced\n✘ Content locked behind paywalls\n\n[b] Initial Thoughts: [/b]\n\nThe reason I did not fill out this category is because I originally played this a long time ago and my 'initial thoughts' are no longer 'initial.'\n\n[b] Beginner Player Friendly?  [/b]\n\nI would argue this game is beginner player friendly, there is no official tutorial from what I can remember however the controls are pretty straightforward and easy to understand as you play.\n\n[b] Game Play: [/b]\n\nIn this game you make your own life and create your own destiny. Create characters and families, pets, houses, barns and more. You run your own life in this game and it shows with the amount of people that just cause major chaos.  \n\n[b] Graphics: [/b]\n\nThe graphics definitely show their age in this game. As there are many glitches with them that really did not age well with the times. However do not let that discourage you from playing. This game I do not believe could run on higher end systems or average end systems however I do not believe that it could run on lower end systems as it is very graphic heavy.\n\n[b] Community: [/b]\n\nThe Sims community has been a large one for years and has its ups and downs, but majority of the Sims community are very friendly.\n\n[b] How long can you play? [/b]\n\nWhen I played this game at a younger age I was seriously so into it even though my little laptop could barely run it. I think for most Sims players they play for hundreds of not thousands of hours. For me however because the game could barely run on my laptop I kind of gave up playing it a while ago. However, do not let that detour you from playing the game!\n\n[b] My Opinion: [/b]\n\nIn my opinion, The Sims 3 has way better game mechanics then the Sims 4 and yet has worse graphics due to the times. But when it was there before the Sims 4 took over the life simulation genre, it was definitely the peak of its time.\n\n[b] Overall Review [/b]\n\n★ 8/10 - The Sims 3 was the best life Sims game before the Sims 4 took over. I still love it just a little more to this day.\n\n✘ [b] Active Online Multiplayer [/b] [i] (meaning people will interact with you in game) [/i] \n✔ [b] Family Friendly [/b] [i] (meaning friendly to all ages) [/i] \n✔ [b] Solo Playability [/b] [i] (meaning you can play by yourself if preferred) [/i]\n✘ [b] Cross Compatibility [/b] [i] (meaning you can play with friends through other consoles.) [/i]\n✔ [b] In-App Purchases [/b] [i] (meaning you can buy things after buying the game i.e DLC's) [/i]\n✔ [b] Controller Compatible [/b] [i] (meaning you can play this game with a controller) [/i]\n\nEnjoyed this review? Follow [i] Basement Broadcast[/i] for more Reviews, Rants and Replays!\nhttps://store.steampowered.com/curator/46018670/\n\n[i] Any major edits that are made with this review will be added here: [/i]"
+        },
+        {
+            "review_id": "227497059",
+            "steam_id": "76561198691759758",
+            "playtime_minutes": 959,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "game worked once after that i get a serious  issue happened to restart i did that and uninstall game to reinstall mothing worked so mad"
+        },
+        {
+            "review_id": "226553864",
+            "steam_id": "76561199481686244",
+            "playtime_minutes": 6104,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "love this more than any other sims games, it can be laggy at times and shuts itself off but its an easy fix. i didnt know how to run it at first but if ur game doesnt come on when you click play on the launcher here is how to fix it:\r\n have the launcher open then right click your taskbar, click task manager then find the sims 3 file thing, click it then find the details button, click on the other sims3 file then click the set affinity button, turn off all of them apart from CPU 1 then click play, it should go onto a black screen. then you click back on the task manager tab (click the windows button to get this tab up) and turn on all of the CPU buttons go back on the sims tab and it should be up and running\r\nhopefully this helped anyone having this issue!!"
+        },
+        {
+            "review_id": "226497193",
+            "steam_id": "76561198284391966",
+            "playtime_minutes": 57025,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "DEFINITELY recommend. best sims game.\r\nAlso, doesn't update anymore- making it perfect for mods when your tired of updates every week."
+        },
+        {
+            "review_id": "226434970",
+            "steam_id": "76561198278847112",
+            "playtime_minutes": 4269,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Shortest explanation possible from a veteran player.\r\n\r\nMy ex introduced this game to me long, long ago and I played for 1000s of hours on her account after at first refusing to try it thinking I would not like it.  It CAN be very addicting but at first, you might not think it looks interesting.  BEWARE!!  It sucks you in hard!  As a family, we bought ALL the expansions & stuff packs PLUS the ENTIRE online Sims 3 store (very expensive, but there was a lot of help doing it, including contests winnings and gifts for creations).\r\n\r\nMy new bride said \"I don't like it,\" barely glancing at the slightly dated graphics.  Today, we tested a new headset and she heard the sound effects while watching various things happen in my new game (I had not played for the last 2yrs).  She was suddenly delighted and had not even seen the cute little toddler playing and wobbling about the house still learning to talk.  She is teaching me Sims 4 (better graphics, simplified construction but much less mod-able & less in many ways while I teach her Sims 3.\r\n\r\nSims 1 is fun and has options not available later.  It is cheap so try it out?  Sims 2 is ALSO inexpensive and is basically an upgrade of 1 in every way but lacks a few details that you might find fun in Sims original.\r\n\r\nSims 3 was a GAME CHANGER.  It VASTLY improved Sims 2 but got more and more glitchy with further add-ons.  EA programmers were too distracted with putting out new materials, designing things that gamers should be designing (fabric patterns, colors, characters) and even coding in a large percentage of Sims to be gay.  Their fashion choices for male characters were mostly not the preferences of straight males making the game unpopular with most males, BUT, scores of fan creator sites popped up worldwide creating vast amounts of material in Germany (plants, animals, European stuff), Mexico (great man clothes), USA (everything imaginable), Canada & Russia.\r\n\r\nThe best stuff of all often came not from EA but from fans, especially the NRAAS fixes to EA programming errors (FREE downloads in multiple sites!)  As time went on, EA tried duplicating their own versions of some of the best fan material.  Their first try at a carousel failed but their 2d try was a spectacular success.\r\n\r\nPRO TIP:  The PREMIUM CONTENT for sale on the Sims 3 store is EXCELLENT QUALITY, the best stuff EA programmed for Sims3 beyond the Expansion Packs.  Some disgruntled former EA employees plus some fans offer pirate copies here and there on the internet but we secured all of our legally over a decade ago.  The stuff and stuff packs are far less valuable to most players since you can download any \"stuff\" imaginable for free on numerous websites (TSR, Blacky's Sim site, etc.)  STUFF PACKS ARE ENTIRELY OPTIONAL ... so optional in fact that EA REMOVED their most unpopular and controversial stuff pack ever, the Katy Perry pack (good luck finding that one!  I did not see it online but have it on disk).\r\n\r\nPRO TIP 2: Limited funds is a very real problem so, the Expansion Packs I consider most essential are: #1 Ambitions  #2 Generations #3 World Adventures (100s of hours exploring nectar making recipes alone!) #4 Seasons then the really cool $5 Island Paradise.  I greatly enjoy Into the Future & had a real blast with Supernatural (the 1st one I explored extensively) but those two DRAMATICALLY alter the flavor of the game, and it's core value can be experienced without them.  Late Night is not exactly my cup of tea but lots of people like it.  I personally found the \"everybody becomes a celebrity\" thing annoying when you play friendly sims living normal lives but lots of people have a blast with the magicians, singers, dancers, etc.  The shows ARE fun to watch other people do but for me, not really my personal favorite way to play.\r\n\r\nPro Tip 3: The single BEST RESOURCE for teaching Sims 3 online is not on youtube but Carl's Sims Guides -hands down!  The Sims's Resource and EA forums offer a lot of help too but Carl's is better organized and more accessible, easier and faster to learn from.\r\n\r\nFinally, what is great and unique about the Sims 3?  OPEN WORLD!!!!!   The open world is the key that makes Sims 3 the pinnacle of Sims programming tech, just be advised, their original programming was faulty.  Even with their big patch (after they studied NRAAS for a decade it seems), you still want help from NRAAS.\r\n\r\nThe 2d and 3rd best things in Sims 3 are the immense (nearly unlimited) options for designing lots, sims (the later EA sliders were actually FAN PROGRAMMING!) and for editing the worlds or even creating worlds.\r\n\r\nExamples:  There are entire online communities dedicated to playing the Sims 3 with medieval or renaissance or fantasy flair.  Recreations of real world cities or neighborhoods exist.  I saw one lady in love with Victorian England so she has worlds, construction parts, lots, clothes and sims all designed for that one love.  There are people making Tsarist Russia places, Shogunate Japan places and much more more.  It takes 100s of hours to perfect a world BUT that is ONE way of playing not as available in Sims 1,2 or 4.  It is like an exceptionally high grade Minecraft type game with vastly more options.\r\n\r\n I have seen one site dedicate to making the Sims 3 X rated (also some material or 2  4 if I recall correctly)  Replacing the preteen/teen-friendly programming with advanced adult options and graphics is not what I want in the Sims, but some people consider it \"essential.\"  I can see the appeal with 100s of NSFW games available online, especially since using the Sims 3 programming in that way offers a VAST amount of options in NSFW play that those games cannot offer in 20 years of attempts at programming them.  IMO The Sims should be a FAMILY FRIENDLY GAME, but if you are lonely and live alone, do what you want?\r\n\r\nDid you know you can play 1 household for 1 week, save, then play a different household for a week, repeating all the way through the world playing 12 different households in a single saved game series?\r\n\r\nDid you know you can play 2 DIFFERENT versions of robot sims in Sims3?\r\n\r\nDid you know you can play 1 sim, raise a family, then watch him die, only to play his child, then his grandchild, then his great grandchild?\r\n\r\nDid you know you can play a Sim in one world till that one feels \"done\" then move to another world? You can even do this with the prior 4 generation concept.  Rotating through worlds also seems to reduce crashes in long games extending for months of real time but DO NOT BRING SIS FROM THE FUTURE TO THE PRESENT (crashed in all 3 attempts), except for simbots ... those seem to be safe.\r\n\r\nMy overall point is this: The Sims 3 is the most flexible of all sims games for immersion in building and playing worlds and people completely under your control.  It can be an exceptional learning tool for kids that have trouble concentrating in a text message world.  It can teach fashion history, fashion design, architecture and can even give some real world lessons in life.  Despite being hidden by Steam behind the family settings, it IS safe for preteens to do semi-supervised play.  Who knows?  Maybe a child playing might be stimulated to try the guitar, painting or to begin exploring the science of ontology?  Maybe a kid playing a werewolf sim might be stimulated to become an entomologist, or a fairy player might be stimulated to study horticulture?  Sims 3 might stimulate a desire to run a resort tr hotel or to buy remodel and sell real estate?  It night even stimulate a desire to study art history and become an art dealer?\r\n\r\nThe Sims 3 is an exceptional game despite it's original flaws (all corrected by fans).  I rate it 10 of 10 for fun, replayability, creative play and for pre-teen to teen hobby play.  It is NOT, hoever for kids or adults with severe learning disabilities due to its complexity."
+        },
+        {
+            "review_id": "226014468",
+            "steam_id": "76561198018801384",
+            "playtime_minutes": 3441,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Barely works, crashes consistently and lags. Game is not optimized for modern computers, not worth the money."
+        },
+        {
+            "review_id": "225707265",
+            "steam_id": "76561199153123809",
+            "playtime_minutes": 1750,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Classic game, does have issue with stopping itself. Expansion packs are awesome. Worthwhile and price."
+        },
+        {
+            "review_id": "225643370",
+            "steam_id": "76561199119537185",
+            "playtime_minutes": 13712,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "So much better than the Sims 4. I bought all the DLCs for this game. Just wished it didn't crash or lag at times, but I also understand it's because the gaming specs compatible for this game are much older or something like that LOL. \r\n\r\nI redownload this every now and then, as I grew up playing the Sims 3. Completely stopped playing TS4 since the buyout, but the Sims 3 is one of those games I generally go back to due to nostalgia and it being unlike any other life simulation games out there. \r\n\r\n"
+        },
+        {
+            "review_id": "225421853",
+            "steam_id": "76561199869027267",
+            "playtime_minutes": 517,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love the open world. Has worked fine, no glitches, for about 10 hour with base game + few expansions. The Sims look like potatoes, but feel more realistic than their Sims 4 counterparts.\r\nGraphics aren't the best and some of the lighting seems a bit off at times (ie. potted plants making huge shadows around them).\r\nTrees and flowers look amazing animated.\r\nTotally get why this is some SIms-fans' fave now."
+        },
+        {
+            "review_id": "226941765",
+            "steam_id": "76561199765826456",
+            "playtime_minutes": 1835,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It is so much more better than the sims 4, you have an open world, cars and a colour wheel. I so recommend this to people who loves roleplaying."
+        },
+        {
+            "review_id": "225319311",
+            "steam_id": "76561198025285323",
+            "playtime_minutes": 41402,
+            "voted_up": true,
+            "votes_up": 6,
+            "weighted_score": 0.5754386186599731,
+            "steam_purchase": true,
+            "review_text": "Only buy when on sale. EA doesn't deserve our money. Love the game hate the company."
+        },
+        {
+            "review_id": "227346992",
+            "steam_id": "76561199001591206",
+            "playtime_minutes": 1350,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "i just got the game and i cant play it because of errors"
+        },
+        {
+            "review_id": "227498247",
+            "steam_id": "76561198418934918",
+            "playtime_minutes": 9453,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It truly is the best of the series. adds up moneywise but its a ton of fun"
+        },
+        {
+            "review_id": "226720418",
+            "steam_id": "76561199153716826",
+            "playtime_minutes": 262,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Old but to this day one of the best sims games in history to be made hoping for more simulators to learn from this"
+        },
+        {
+            "review_id": "226666705",
+            "steam_id": "76561199180768889",
+            "playtime_minutes": 10083,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Sure, you can`t customize a lot, but I love to create my sims anyway and make a family, raise my cute babies. I just love this game."
+        },
+        {
+            "review_id": "225811327",
+            "steam_id": "76561198032016934",
+            "playtime_minutes": 5193,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5875000357627869,
+            "steam_purchase": true,
+            "review_text": "It ran great on my old laptop. But since I got a new one with Win 11. It doesn't work. Yes there are ways to fix it, if you want to spend hours trying different methods. But why? Steam shouldn't be selling this anymore due to this known issue. Or at least give a heads up!"
+        },
+        {
+            "review_id": "226213759",
+            "steam_id": "76561199642748518",
+            "playtime_minutes": 6,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.5733041763305664,
+            "steam_purchase": true,
+            "review_text": "Game doesn't even launch despite various attempts to fix/reinstalls."
+        },
+        {
+            "review_id": "225214978",
+            "steam_id": "76561198063867411",
+            "playtime_minutes": 17104,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5468277931213379,
+            "steam_purchase": true,
+            "review_text": "my sim is unemployed, dehydrated, emotionally unstable, cooking mac and cheese in a house with no walls while staring at a broken sink like it spoke sweet nothings into his ear\n\ndon’t even get me started on pathfinding. bro will literally refuse to walk around a chair and instead choose to stand there and contemplate existence until starvation kicks in. i’ve seen more intelligent behavior from a toaster fr"
+        },
+        {
+            "review_id": "226118681",
+            "steam_id": "76561199096485613",
+            "playtime_minutes": 6028,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Loved being able to play as your pets, and I also love how there are unicorns!"
+        },
+        {
+            "review_id": "226979371",
+            "steam_id": "76561199024536958",
+            "playtime_minutes": 4480,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Simply the last good The sims Game, if only it had good performace even on a decent rig."
+        },
+        {
+            "review_id": "227095871",
+            "steam_id": "76561198000548258",
+            "playtime_minutes": 7986,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5357142686843872,
+            "steam_purchase": true,
+            "review_text": "don't play Sims 4; Sims 2 is far superior, but yeah I love the open-world of Sims 3"
+        },
+        {
+            "review_id": "226874966",
+            "steam_id": "76561198831545068",
+            "playtime_minutes": 56077,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Perfect for anything and anybody!"
+        },
+        {
+            "review_id": "227208706",
+            "steam_id": "76561198261258356",
+            "playtime_minutes": 16332,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "My favorite part of the game is decorating the homes."
+        },
+        {
+            "review_id": "226926978",
+            "steam_id": "76561198976331900",
+            "playtime_minutes": 110,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.48076924681663513,
+            "steam_purchase": true,
+            "review_text": "Broke into someones house, and stole there baby. 7.4/10"
+        },
+        {
+            "review_id": "225950043",
+            "steam_id": "76561199004017144",
+            "playtime_minutes": 4419,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5410993695259094,
+            "steam_purchase": true,
+            "review_text": "the last time EA kind of cared about this IP"
+        },
+        {
+            "review_id": "225923584",
+            "steam_id": "76561198715228697",
+            "playtime_minutes": 11,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "games not working need refund"
+        },
+        {
+            "review_id": "227010048",
+            "steam_id": "76561198429377087",
+            "playtime_minutes": 10876,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Quite simply the best Sims title"
+        },
+        {
+            "review_id": "226633591",
+            "steam_id": "76561198221787680",
+            "playtime_minutes": 583,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "love the simulation game"
+        },
+        {
+            "review_id": "225722158",
+            "steam_id": "76561198138169159",
+            "playtime_minutes": 4606,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This and Sims 2 are the best Life Sims ever made."
+        },
+        {
+            "review_id": "227440517",
+            "steam_id": "76561198149737895",
+            "playtime_minutes": 49824,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "i love sims. best game ever"
+        },
+        {
+            "review_id": "226685308",
+            "steam_id": "76561199491695397",
+            "playtime_minutes": 377,
+            "voted_up": true,
+            "votes_up": 5,
+            "weighted_score": 0.5891689658164978,
+            "steam_purchase": true,
+            "review_text": "actually better than the sims 4 trust me twin"
+        },
+        {
+            "review_id": "227503724",
+            "steam_id": "76561198217662039",
+            "playtime_minutes": 4605,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good old friend"
+        },
+        {
+            "review_id": "227424381",
+            "steam_id": "76561198160165046",
+            "playtime_minutes": 11986,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "my sims wife won't sign the divorce papers"
+        },
+        {
+            "review_id": "226882630",
+            "steam_id": "76561199094915266",
+            "playtime_minutes": 2478,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Best game ever made!!!!"
+        },
+        {
+            "review_id": "226801209",
+            "steam_id": "76561198031337509",
+            "playtime_minutes": 801,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "EA fix your game"
+        },
+        {
+            "review_id": "226684063",
+            "steam_id": "76561198695744624",
+            "playtime_minutes": 641,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5454545617103577,
+            "steam_purchase": true,
+            "review_text": "better than the sims 4 lmfao"
+        },
+        {
+            "review_id": "226833931",
+            "steam_id": "76561198292898038",
+            "playtime_minutes": 47,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.48076924681663513,
+            "steam_purchase": true,
+            "review_text": "i cant even get it to open..."
+        },
+        {
+            "review_id": "226208275",
+            "steam_id": "76561199222877765",
+            "playtime_minutes": 10356,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "better than the sims 4"
+        },
+        {
+            "review_id": "226177374",
+            "steam_id": "76561198412555283",
+            "playtime_minutes": 57133,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "best game ever"
+        },
+        {
+            "review_id": "225471133",
+            "steam_id": "76561198393568381",
+            "playtime_minutes": 94033,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its okay ig"
+        },
+        {
+            "review_id": "227190542",
+            "steam_id": "76561199544284042",
+            "playtime_minutes": 5513,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.48689138889312744,
+            "steam_purchase": true,
+            "review_text": "fun to fool around in"
+        },
+        {
+            "review_id": "226824921",
+            "steam_id": "76561198754620550",
+            "playtime_minutes": 62855,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "10/10"
+        },
+        {
+            "review_id": "226741181",
+            "steam_id": "76561198315911559",
+            "playtime_minutes": 63439,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "love it !(:"
+        },
+        {
+            "review_id": "226750575",
+            "steam_id": "76561198354674820",
+            "playtime_minutes": 6965,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great"
+        },
+        {
+            "review_id": "225408394",
+            "steam_id": "76561199471362149",
+            "playtime_minutes": 3872,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Better than Sims 4"
+        },
+        {
+            "review_id": "225548469",
+            "steam_id": "76561198834352805",
+            "playtime_minutes": 59148,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Unicornz"
+        },
+        {
+            "review_id": "226360211",
+            "steam_id": "76561199583174709",
+            "playtime_minutes": 179,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5182481408119202,
+            "steam_purchase": true,
+            "review_text": "wont save"
+        },
+        {
+            "review_id": "225238575",
+            "steam_id": "76561199449359194",
+            "playtime_minutes": 30639,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love"
+        },
+        {
+            "review_id": "225363730",
+            "steam_id": "76561199022968060",
+            "playtime_minutes": 13190,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5465071797370911,
+            "steam_purchase": true,
+            "review_text": "♥♥♥♥ you EA"
+        },
+        {
+            "review_id": "227085048",
+            "steam_id": "76561198786190883",
+            "playtime_minutes": 1717,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.48689138889312744,
+            "steam_purchase": true,
+            "review_text": "so sorp"
+        },
+        {
+            "review_id": "226756820",
+            "steam_id": "76561199209088451",
+            "playtime_minutes": 18741,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "love ittttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt"
+        },
+        {
+            "review_id": "225590890",
+            "steam_id": "76561198418192689",
+            "playtime_minutes": 30438,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": ""
+        }
+    ]
+}

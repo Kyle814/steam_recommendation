@@ -1,0 +1,67 @@
+{
+    "ingested_at": "2026-06-08T18:46:22.097782",
+    "app_id": "2420510",
+    "metadata": {
+        "type": "game",
+        "name": "HoloCure - Save the Fans!",
+        "steam_appid": 2420510,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Play as your favorite Vtubers from Hololive! Fight, explore, and clear your way through armies of fans and save them from their mind-control in this unofficial free fan-game.",
+        "detailed_description": "Welcome to HOLOCURE!<br />\r\n<br />\r\nThis is a free, unofficial fangame featuring the vtuber talents of Hololive and its surrounding community, with gameplay heavily inspired by Vampire Survivors and Magic Survival. Collect powerful weapons and items and experiment with all kinds of character builds to create the ultimate character! Will you be able to save the endless waves of fans, and reach the top rankings?",
+        "developers": [
+            "KayAnimate"
+        ],
+        "publishers": [
+            "KayAnimate"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Aug 16, 2023"
+        }
+    }
+}

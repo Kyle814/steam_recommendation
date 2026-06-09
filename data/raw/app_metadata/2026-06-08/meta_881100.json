@@ -1,0 +1,88 @@
+{
+    "ingested_at": "2026-06-08T19:32:27.796689",
+    "app_id": "881100",
+    "metadata": {
+        "type": "game",
+        "name": "Noita",
+        "steam_appid": 881100,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Noita is a magical action roguelite set in a world where every pixel is physically simulated. Fight, explore, melt, burn, freeze and evaporate your way through the procedurally generated world using spells you've created yourself.",
+        "detailed_description": "<strong>Noita</strong> is a magical action roguelite set in a world where every pixel is physically simulated. Fight, explore, melt, burn, freeze and evaporate your way through the procedurally generated world using spells you've created yourself. Explore a variety of environments ranging from coal mines to freezing wastelands while delving deeper in search for unknown mysteries.<br><br><ul class=\"bb_ul\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/extras/278aeb12b0b7eea97d9aa337d853ddb7.poster.avif?t=1675987871\" width=480 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/extras/278aeb12b0b7eea97d9aa337d853ddb7.webm?t=1675987871\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/extras/278aeb12b0b7eea97d9aa337d853ddb7.mp4?t=1675987871\" type=\"video/mp4\"></video></span><li><strong>Pixel-based physics:</strong> Every pixel in the world is simulated. Burn, explode or melt anything. Swim in the blood of your foes! Enter a simulated world that is more interactive than anything you've seen before.<br><br></li><li><strong>Your own magic:</strong> Combine spells to create your own magic as you delve deeper into the caverns. Use magic to crush your enemies and manipulate the world around you.<br><br></li><li><strong>Procedurally generated world:</strong> Explore a unique world every time you play. Discover new environments as you adventure deeper.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/extras/2a8b9c3fd0dc4794f5db22ff9d0f320b.poster.avif?t=1675987871\" width=480 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/extras/2a8b9c3fd0dc4794f5db22ff9d0f320b.webm?t=1675987871\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/extras/2a8b9c3fd0dc4794f5db22ff9d0f320b.mp4?t=1675987871\" type=\"video/mp4\"></video></span><br><br></li><li><strong>Action roguelite:</strong> Death is permanent and always a looming threat. When you die, don’t despair, use what you’ve learned to get further on your next adventure.</li></ul><br><strong>Noita</strong> is being developed by Nolla Games, a company set up by 3 indie developers, all of whom have worked on their own projects in the past.<br><br>The three gents in question are:<br><br><strong>Petri Purho</strong><br>Petri is best known as the creator of Crayon Physics Deluxe. In his youth he also made a lot tiny freeware games. He has also made a bunch of board games, but he hasn't told about it to anyone. So please keep it a secret.<br><br><strong>Olli Harjola</strong><br>Olli is known for the award-winning, mind-bending sci-fi puzzler The Swapper. Besides indie games, he also dabbles in music, live visuals and making programming languages.<br><br><strong>Arvi Teikari</strong><br>Arvi is also known as Hempuli. Over the years he has released a lot of tiny experimental games, so many in fact that he is unaware of all of them. One of the games he remembers making is Baba Is You.",
+        "developers": [
+            "Nolla Games"
+        ],
+        "publishers": [
+            "Nolla Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            }
+        ],
+        "recommendations": {
+            "total": 79641
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 15, 2020"
+        }
+    }
+}

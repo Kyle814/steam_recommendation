@@ -1,0 +1,98 @@
+{
+    "ingested_at": "2026-06-08T18:41:45.163492",
+    "app_id": "221380",
+    "metadata": {
+        "type": "game",
+        "name": "Age of Empires II (Retired)",
+        "steam_appid": 221380,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Age of Empires II has been re-imagined in high definition. With the release of Age of Empires II: Definitive Edition, this product will not be updated further.",
+        "detailed_description": "With the release of Age of Empires II: Definitive Edition in 2019, this edition is not the most current and will not be updated further.<br />\r\n<br />\r\nIn Age of Empires II: HD Edition, fans of the original game and new players alike will fall in love with the classic Age of Empires II experience.  Explore all the original single player campaigns from both Age of Kings and The Conquerors expansion, choose from 18 civilizations spanning over a thousand years of history, and head online to challenge other Steam players in your quest for world domination throughout the ages.  Originally developed by Ensemble Studios and re-imagined in high definition by Hidden Path Entertainment, Skybox Labs, and Forgotten Empires, Microsoft Studios is proud to bring Age of Empires II: HD Edition to Steam!",
+        "developers": [
+            "Skybox Labs",
+            "Hidden Path Entertainment",
+            "Ensemble Studios",
+            "Forgotten Empires"
+        ],
+        "publishers": [
+            "Xbox Game Studios"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 68,
+            "url": "https://www.metacritic.com/game/pc/age-of-empires-ii-hd-edition?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 15,
+                "description": "Stats"
+            },
+            {
+                "id": 25,
+                "description": "Steam Leaderboards"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 84586
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 9, 2013"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "ingested_at": "2026-06-08T18:59:03.437920",
+    "app_id": "1665460",
+    "review_count": 1,
+    "reviews": [
+        {
+            "review_id": "224201483",
+            "steam_id": "76561198165109418",
+            "playtime_minutes": 6973,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is not compatible with Steam Deck...system stalled.\n"
+        }
+    ]
+}

@@ -1,0 +1,577 @@
+{
+    "ingested_at": "2026-06-08T18:59:48.928441",
+    "app_id": "640820",
+    "review_count": 57,
+    "reviews": [
+        {
+            "review_id": "225803172",
+            "steam_id": "76561199087064271",
+            "playtime_minutes": 9487,
+            "voted_up": true,
+            "votes_up": 8,
+            "weighted_score": 0.6405228972434998,
+            "steam_purchase": true,
+            "review_text": "I download the game\r\nI create character\r\nI get bad rolls\r\nI uninstall\r\nI crawl back a month later\r\n8/10"
+        },
+        {
+            "review_id": "226091761",
+            "steam_id": "76561198036891547",
+            "playtime_minutes": 14339,
+            "voted_up": false,
+            "votes_up": 7,
+            "weighted_score": 0.5782535672187805,
+            "steam_purchase": true,
+            "review_text": "A bug in the final chapter block me to complete the game\nI liked this game but i'm not going to replay for other +200 hours to get stuck again"
+        },
+        {
+            "review_id": "225627920",
+            "steam_id": "76561197967565206",
+            "playtime_minutes": 8042,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5619093775749207,
+            "steam_purchase": true,
+            "review_text": "It's an okay RPG and I did see it out until the end, but it was a bit of a slog.\n\nIt has a unique 'kingdom management' aspect, but this is by far the weakest part of the game.  Everything about it seems meaningless.  The UI is very awkward.  If you're not careful with early game exploration you can very easily end up with no 'governor' for a slot, which can screw you over ability to deal with events.  The only real benefit of the entire system is to be able to build towns with wizard towers so you can teleport your party to far out locations.  They should have cut the whole lot and concentrated on making a better role playing game.\n\nThe role playing parts are like any other D&D-style game out there on the market, and indeed it does feel like a good classic RPG experience.  However I don't think the story is as strong as other games out there.  I'm playing through Wrath of the Rigtheous now and that one is more captivating than this one's story ever was.\n\nI've given it a 'recommended' rating since the game does still have its moments."
+        },
+        {
+            "review_id": "225872856",
+            "steam_id": "76561198078932442",
+            "playtime_minutes": 4611,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5424836277961731,
+            "steam_purchase": true,
+            "review_text": "More than ever, I wish that Steam had an option for a mixed review. Kingmaker is an awesome CRPG in some ways, but equally one of the most frustrating games I’ve ever played.\r\nThe crux of the issue I have is pretty simple: the game assumes that you already know how the Pathfinder tabletop works, and how to build a character in it, because it gives you no guidance and pulls no punches. I’m not ashamed to admit that I played the majority of the game on easy, and dropped to story difficulty at the end, because this is an obtuse and overly detailed system that I still don’t really understand, even after finishing the game. But with that said, the world, story, and characters are fantastic and make the game a real joy to play. The story is largely ripped from the TTRPG module of the same name, so I can’t give too much credit there, but the companions that you adventure with are great, deep characters, and I found myself invested in the world, despite having no prior experience of anything Pathfinder. It looks great, the real time and turn-based modes are both polished and fun to play. The kingdom management mechanic is a little half-baked, but not too bad for what it is, all things considered, and the sheer amount of options and choices mean that there’s a ton of potential for replaying the game.\r\nUnfortunately, I did run into a few bugs - most fixed by a simple reload, but some more serious, one of which lost me a companion at the end because her quest chain just never finished. And the end. The end is the big sticking point for me; after playing through this fantastic story, in order to finish it, you need to sit through one of the most painful dungeons I’ve ever experienced. It’s a long, gruelling thing that, even on the lowest difficulty, was frustratingly difficult, with no opportunities to heal given and way too many overtuned enemies to be reasonable. I beat it eventually, but that was by more stubbornness and brute force than anything else, and it genuinely soured the whole experience for me. I’m still recommending it, because the story and world are all fantastic, but seriously, look up a cheat mod for the final dungeon, because it is plain and simply not fun."
+        },
+        {
+            "review_id": "226799762",
+            "steam_id": "76561199128141521",
+            "playtime_minutes": 937,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "No es Baldur's Gate 3, pero no tiene nada que envidiar. Si vienes de ahí, el salto es diferente, pero si te gusta explorar, manejar recursos y subir de lvl con mil opciones, te puede gustar."
+        },
+        {
+            "review_id": "227287136",
+            "steam_id": "76561198071679948",
+            "playtime_minutes": 15157,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "An insane, maximalist fantasy RPG with a vast world, an incredible array of characters, and a fantastic story that slowly reveals itself layer by layer until you're challenging fate itself at the very end.\n\nAnd also a very unbalanced, guide-dang-it, janky game that [i]even with fan bugfix mods[/i] will probably have you screaming at least once every few hours.\n\nBut that's just how it is. You're not going to get a game like this that isn't a pile of jank. And somehow, despite every bit of jank, none of it truly got in the way of it being an amazing game. If you're looking to spend 200 hours on an incredible, unforgettable CRPG, you won't regret making it this one."
+        },
+        {
+            "review_id": "227030148",
+            "steam_id": "76561198051263638",
+            "playtime_minutes": 1335,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game takes too long to get going. The turn based mode feels tact-on. \nOverall the game shows promise but feels like a chore. \n"
+        },
+        {
+            "review_id": "226906090",
+            "steam_id": "76561197970830941",
+            "playtime_minutes": 4930,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Wrath of the Righteous is probably the better RPG, Owlcat game, and starting point - Rogue Trader sounds the most beginner-friendly of all, from everything I've heard, but I still haven't played it. Still, this is a fantastic CRPG and a great second stop after Rogue Trader and/or WotR.\r\n\r\nA bit more obtuse and user-unfriendly than WotR, somehow. Slower, explains itself worse, some really gnarly systems like the Kingdom time limits and whatnot. A game I feel very few compunctions about modding or recommending mods for a first run.\r\n\r\nWrath of the Righteous' defining sin is making a guy who should be a miniboss into the hardest, most impossible dude whoever lived out of nowhere at a rate of one per every 5-10 hours of gameplay. Kingmaker's is hitting you with that classic \"This area demands a specific damage type or defensive spell to be reasonably completed. Oh, you didn't stock up on Cold Iron weapons even though there's only like, five in the game? What's wrong with you, idiot.\"\r\n\r\nI always sound very down when I talk about Owlcat's RPGs, but their prickliness really is part of the charm for me. Aside from that, similar to WotR: One of the coolest, most engrossing class systems in any RPG. Lotta stinkers because of the sheer volume, it's not \"balanced\" in the traditional sense, but it's got depths and depths and depths. Sorta game you'll seriously consider making a new character in after 20 hours, just because the other options are so enticing.\r\n\r\nFewer options than WotR, and I miss mounts, but conversely I'm glad that having a strong, high difficulty-ready character doesn't *demand* taking a mounted class like in WotR. Fun, interesting writing that surprised me with its quality given this is Owlcat's debut effort and translated from Russian to boot. More unvarnished wish fulfillment than WotR - you're literally a monarch - but that's not necessarily a bad thing. Jubilost and Ekundayo are my GOATs.\r\n\r\nDefinitely an all-timer CRPG that presaged more, arguably even better CRPGs down the line from the same people."
+        },
+        {
+            "review_id": "226759492",
+            "steam_id": "76561198071720283",
+            "playtime_minutes": 61709,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game is a great, highly replayable adventure with memorable characters and an excellent kingdom management system that is tied to the main game.  \r\nThe main con to the game is the high bar to entry; the combat and how class leveling and traits can work is deep, but it comes with a steep learning curve.  Once you've got a handle on the nuances of specific classes the game opens up and is a ton of fun.  Highly recommended for any who have tried Baldur's Gate 3 and are looking for something a bit different, but just as rewarding."
+        },
+        {
+            "review_id": "226605051",
+            "steam_id": "76561198055243047",
+            "playtime_minutes": 378,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Writing is so bad in this game. It's written by people who don't understand people, and who don't understand how the world works. It stompkicks you out of immersion pretty quick. I did keep trying to play it. I did enjoy making my character which took 2 hours itself, otherwise I would've refunded it. \n\nI did try to keep playing it despite the writing, but the combat really never felt satisfying enough for me to keep wanting to play this game. Enemies die quick where you feel like increasing the difficulty. But at the same time you can experience missing 10 times in a row and one of your characters is 2 shot without having a turn. Increasing difficulty then doesn't seem like a good idea. You end up with this weird feeling of the game being both too hard and too easy at the same time. Maybe these things balance out later in the game. \n\nLoot is just a pain. I have no interest carrying 20 different trash items you can sell for 1 gold each. I don't get why people like that. Let me find 1 ring worth 20 gold and call it a day. I don't want all that clutter where I have to read every item in case it's important. I don't need to have trash loot thrown at me every 2 minutes. \n\nSome of the art in this game is pretty good. Some of the characters look ridiculous. It's cool you get to have a  centipede companion. The inquisitor hat looks dum\n\nThat about sums up my thoughts on this game\n"
+        },
+        {
+            "review_id": "226356396",
+            "steam_id": "76561199022886969",
+            "playtime_minutes": 460,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game. Love the battle mechanics love the D&D feel that I have needed for a while in a game."
+        },
+        {
+            "review_id": "226118573",
+            "steam_id": "76561198024203195",
+            "playtime_minutes": 18713,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Although a bit slow in some parts of the game, having your party finally start to come together is very rewarding. It would be nice if party composition, due to the default characters, were not so limited though."
+        },
+        {
+            "review_id": "226030417",
+            "steam_id": "76561198058361178",
+            "playtime_minutes": 1943,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great Game. Remember there is a kingdom building, noble networking, coinmaster needing mini game that becomes a big part of the game as soon as you beat the stag king (first boss)."
+        },
+        {
+            "review_id": "225800474",
+            "steam_id": "76561199119170034",
+            "playtime_minutes": 2513,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Has some insane difficulty jumps, and getting enough healing is a ♥♥♥♥♥ of a time, but the RTS mode is really good and it stays true (for the most part) to Pathfinder 1e."
+        },
+        {
+            "review_id": "225701128",
+            "steam_id": "76561198400890911",
+            "playtime_minutes": 12995,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "For those unfamiliar Pathfinder is the more nerdy, number-crunching sibling to the ever popular Dungeons and Dragons tabletop game. So 1) the game is heavy on mathematics and rules and 2) it's based on a tabletop game for real life.\r\n\r\nThe game has some pretty severe flaws in how it works. But it's hard to articulate, because if you like tabletop games like Pathfinder you're already going to forgive some of its flaws like 'encounters on higher difficulties are just straight up badly balanced(buffs out the wazoo, throwing +4 on enemies as a little treat)' or ‘the game doesn’t utilize support spells to interact with the environment or NPCs’ or 'the companions are unoptimized’. The actual flaws everyone should be aware of are Kingdom Management being fairly janky and that the endgame is bad. You can counter it by reading a little deeper for counters and prepping, but the overall mechanics and fights tend to be hard for most. I’d also argue that Pathfinder is a little unfair in that the best decisions and outcomes tend to lean heavily to one alignment over letting you go anywhere with your RP. Persuasion is also oddly focused on for rewarding EXP. I also don’t like the looting system. It has no filter for ‘junk’ items and your organization options are lacking.\r\n\r\nA lot of people will have issues with the time limit for quests. On custom or Easy this is a non-issue. I’d even say the same with Normal but I know a lot of people are just against timers in any form. I like the limit. It forced you to go to YOUR capital and solve problems directly at least once a month or so, and encouraged you to stay in your borders to deal with issues regularly(both by keeping an eye on the Management screen and in-game to solve things and explore your barony). \r\n\r\nKingmaker is too long for what it is and I’d recommend it on a Normal or lower difficulty as the game progresses, not because it’s insufferably hard but because it can be a slog for a game that already can clear 100 hours in one playthrough. Despite this, I enjoyed the concept, I liked most of the execution, I liked the twists with the games content. I would recommend this on sale.\r\n\r\nTips and tricks for the interested:\r\n\r\n-Swarming enemies need Alchemists fire or other ‘splash’ damage\r\n\r\n-I would always keep one party member loaded with acid or fire\r\n\r\n-Return to your capital monthly or so to take care of things\r\n\r\n-In the spirit of TTRPGs there is a spotlight hog, quirky, obnoxious ‘that guy’ named Darven in the game. In a meta sense I find him hilarious but on your first run if you meet him blind you’ll be feeling otherwise. I just wanted to let you know\r\n\r\n-House at the End of Time and The Wild Hunt are the names of extremely infamous quests. It's the endgame. Before doing this quest you need Freedom of Movement and Blindfight talent, Fortitude buffs highly recommended."
+        },
+        {
+            "review_id": "225572874",
+            "steam_id": "76561198020438449",
+            "playtime_minutes": 12505,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its an owlcat game. buy is and wait 1 year or 2 after they release it and you got yourself one hell of a good game."
+        },
+        {
+            "review_id": "225409076",
+            "steam_id": "76561197989440581",
+            "playtime_minutes": 8419,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I wanted to enthusiastically recommend this game to anyone with an itch for a classic Baldur’s Gate or Dragon Age style CRPG—until I reached the end. I almost couldn't bring myself to finish the story because I was just done with the game’s D20 min-maxing ♥♥♥♥♥♥♥♥. \n\nThe combat in Kingmaker exists largely on two extremes: \n[list]\n[*]Embarrassingly easy filler fights—and tragically, some boss fights—that make up the majority of the game. \n[*]Out-of-nowhere, ball-breakingly impossible encounters that necessitate save-scumming, obsessive buff-stacking, and outright dishonorable tactics. \n[/list]\nThe latter is most egregious at the extremes. In the beginning, your low level denies you the tools necessary to meet the game's basic demands. After that, the game gains momentum and becomes enjoyable for a long stretch with dark spots here and there. By the endgame, the issue reverses: you have spent dozens of hours refining a powerful party, only to face generic, arbitrarily overpowered mobs that ignore your defenses, inflict debilitating debuffs, and are immune to almost everything. \n\nTo illustrate this with an example: A swarm of insects in a random room of an endgame dungeon was giving me a headache for about 2 hours straight, to the point that I had to search Reddit for advice on how to fight it. After that, the game's final boss fight took me about 45 seconds, one try, and no special preparation in particular. This dichotomy is demoralizing as hell, and it severely breaks the immersion in the story. \n\nTrapped between these two evils (the beginning and the end) is a deeply enjoyable CRPG that allows various party setups to flourish in an immersive world filled with colorful characters and engaging events. \n\nI am still ultimately recommending Kingmaker to CRPG veterans because, between the punishing start and the irrationally difficult ending, there are dozens of hours of genuine fun."
+        },
+        {
+            "review_id": "225368734",
+            "steam_id": "76561198100816126",
+            "playtime_minutes": 2132,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love the game, def worth playing the first one before the second one."
+        },
+        {
+            "review_id": "225325079",
+            "steam_id": "76561199235800757",
+            "playtime_minutes": 659,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Coming from BGEE. absolutely. I talk a lot of crap in my reviews but the positives of a game CANNOT outweigh their negatives unless you get something at the end that you leave with. So not being able to breathe while swimming is the trade off for the next time when you can hold your breath longer the next time you swim. Games dont provide anything after you leave them, so positives will NEVER outweight the negatives. With that said this game has many positives that others lack, and most of them are contextual to the game.\r\n\r\nThings like \"your other companion already has this skill\". It looks great. The writing is top notch: \"I do not know -- I see. You can choose where you lay your eyes, usually, but you cannot change what they see\" or something like that. Just a casual response from a random convo in the game. This is consistent throughout. The use of in-game language always ups the immersion.\r\n\r\nNow the bad. Everything else. Every other part of this game is lacking in some way. I modded it. There's NO reason to get this game and not mod it. If you don't want to get the game and mod it, don't get it. If you're okay with learning to mod, or already know how, then yes, this game can be modded to be very enjoyable. As is, it's quite a miserable experience to actually endure moment by moment.\r\n\r\nYour character moves in slow motion. The zoom range is mentally exhausting. The camera doesnt rotate and positioning isnt fluid as a result. The UI is confusing, overly-subtle and can require 10-20 minutes, with using AI online (which sucks), to finally find the mechanic to progress. There are tutorials for these but tbh the amount of information you get at once can be overwhleming in this game. If you close something out, getting back to the information might be tricky. Usually the game reassigns it to a new place that you haven't looked before. The menu are \"include as much info on this pane as possible\", which is necessary, but also overwhelming. Idk how you could possibly play on controller without tooltips.\r\n\r\nThe choices in this game are...fun. The best in any game I've played so far. Not, oh you thought you said this, but the complexity of the character around you, the specificity with which they were conceptualized, and the variety really make every decision a gamble in a way. You want to be \"this\" character, but the game really challenges you on that. The other things I listed before as positives wont change over gamplay whereas this would, therefore it's not the best part of the game, but is certainly up there.\r\n\r\nMod the game. You need to learn complex mechanics to be successful anyways. You might as prep your learning brain before you start. If you do, it's worth the price."
+        },
+        {
+            "review_id": "225142311",
+            "steam_id": "76561198030390265",
+            "playtime_minutes": 12527,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good game with some very wonky systems.  Wrath of the Righteous is better, but this is still worth playing."
+        },
+        {
+            "review_id": "225130708",
+            "steam_id": "76561198154922909",
+            "playtime_minutes": 188275,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I've spent such a stupid amount of hours making builds and understanding mechanics that I've pretty much gotten to the point that I can do it all in my head now. I'm not even halfway through the game yet it's been really fun just making characters. I'm not sure if I'm ever gonna make it to the end :("
+        },
+        {
+            "review_id": "226170082",
+            "steam_id": "76561197983570217",
+            "playtime_minutes": 1409,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.48612457513809204,
+            "steam_purchase": true,
+            "review_text": "Meh. Got the game on 80% off deal and paid $7-$8 for the full dlc pack. I won't refund but I won't be playing it much if at all.\n\nThe game is really low quality everything. The voice acting is good but most of the interactions are just text.\n\nCharacter build is enormous and frankly waaaay too much. There's about 7 or 8 races with sub race characteristics to select, then there's like 20 classes, each with 4 subclasses to choose from.\nUnless your a D&D die stat nerd it's overly complicated. You pick a bunch of stuff you think would be fun or cool but unless you're crunching numbers or are already very very versed in the game mechanics, you'll have no clue what works and what doesn't. \n\nGame play is meh and very frustrating because the enemies you come up against are so overpowered compared to your entire six person team that you will need to save scum your way through everything. You'll get wiped a lot and not understand why.  A lot of skills and traits don't match their description or don't work at all. Very buggy.\n\nThe good part is you can play combat in real time or turn based with the click of a button and you can pause at anytime to give yourself a chance to figure things out. \n\nI like the game and it's premise and story and interaction and characters but the combat is just not fun. It's either unwinnable or automatic easy. What's the point of the combat if either there's no way to win or it's so easy I can put it on auto, stop playing and scroll bops on Instagram till it's done."
+        },
+        {
+            "review_id": "226813208",
+            "steam_id": "76561197973112890",
+            "playtime_minutes": 10290,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "People recommend this for a reason---however most people haven't finished it also for good reason. \n\nI'll say it again, if you think of getting a game check if Mandalore, Ssethtzeentach, Grimbeard, Warlockracy, &/or Civvie11 reviewed it; if neither of those guys did, it might still be a good game, but probably isn't legendary [spoiler]unless Hey Hey People is reviewing it to make fun of it, like Mandy etc[/spoiler] Mandy did a review of these games for a reason https://www.youtube.com/watch?v=MR-1t28ngkk notice how Mandalore reviews Owlcat's games, but didn't review the slog that is Pillars of Eternity.\n\nPathfinder is BIG. [i]Huge[/i]. However, and I want to make this very clear, while most people will try & tell you how tedious, massive, sprawling etc. this game & its systems feels, frankly Pathfinder Kingmaker isn't much bigger or longer than Pillars of Eternity, however [b]unlike PoE[/b] this game is actually super fun and, imho, a bit better written than Pillars, & it is far FAR less tedious than PoE. Plus frankly the combat I somehow find it a bit less tedious feeling than Pillars of Eternity.\nAs I am highly critical of PoE take it with a grain of salt, but between the two, I FORCED myself to finish PoE & its DLCs, hoping that The White March would've made it a better game--but it didn't, in fact I somehow finished TWM I&II but I don't even remember it nor any of the companions, yet I remember the characters & places of P:K crystal clearly.\n\n\n\nAs a final aside, the fact this [b]only costs 3.59 USD is INSANE[/b] to me, in fact now that it's on sale I massively recommend getting the entire bundle collection preferably of both Kingmaker and Wrath of the Righteous https://www.youtube.com/watch?v=bqzh4G9baik \n\nI honestly have no idea why people leave bad reviews, the closest comparison being PoE, it's so much better than PoE. Basically anything Owlcat makes has been good, but it only gets better the more recently they did it (like Rogue Trader is possibly the best WH40K game I've played).\n\nI personally hadn't encountered much bugs, whereas PoE I had multiple literally gamebreaking bugs on top [i]godawful[/i] load times, broken saves etc. which I hadn't encountered yet in Pathfinder Kingmaker.\n\nThe main issue most people will encounter, this is [b]granular[/b] my dude, it is most crunchy af RPG/cprg I ever played, replete with the most customizable difficulty menu I ever seen in any game. So unless you're a bigtime tabletop lorebeard already you'll spend most of the first 20-50 hours in menu screens trying to figure out how to properly do character leveling, as well as kingdom management til you get the hang of it. It's also very big, very long, likely to take you about 70-130 hours to complete, so it's a bit heftier & longer than the average crpg.\nI guess in that respect it's not for everyone; you'll know who you are & if that kind of thing is for you or not, or whether you'd rather just play Ember instead or some other casuals crpg/arpg that doesn't take a lot of thought or time to complete.\n\nOverall, I'd give it 7.5/10 minimum. If only not because a 8.5/10 game maybe should've cut a little bit of content or made the game a little more sleek, which afaik is what they did with Pathfinder WotR. Again someone like mandaloregaming does a much better (and more entertaining) job reviewing this than I ever could, but since it's on sale atm you'd need to be nuts to *not* buy it.\n\n\n\n\n...God I love owlcat, thank you so much my Lord for giving us the Owlcat team, please please Lord protect everyone in Russia and Ukraine from the depravity of those NATO/USA/EU/Russian Federation pedophile elites and their pointless instigated brother wars"
+        },
+        {
+            "review_id": "226901698",
+            "steam_id": "76561199117512045",
+            "playtime_minutes": 3283,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.47413790225982666,
+            "steam_purchase": true,
+            "review_text": "3/10\r\n\r\nA classic example of prioritizing quantity over quality\r\n\r\nOnly the first 2–3 acts of the game are well-made; the rest is garbage, both in terms of story and gameplay. While the battles seem interesting at first, they quickly become boring and repetitive - seriously, one battle is indistinguishable from the next, and the levels are littered with literally hundreds of enemies. Why? In the last third of the game, I just switched to the easiest difficulty and played on auto, but even that was incredibly dull because of the amount of enemies and the dumbest mechanics - where your party spends five minutes attacking a single enemy they keep missing\r\n\r\nAs for the plot/story - it’s interesting for a while, but then it all devolves into the most clichéd fantasy tale imaginable. And how utterly tiresome it is in this and similar games to read about these endless gods (how “original” they are), some made-up nations, events, and so on. Every mediocre CRPG has literally the same thing under different names. It’s just some kind of graphomania\r\n\r\nAnd then there’s a bunch of different mechanics that are just there for the sake of being there. Kingdom management - it looks potentially interesting at first, but it all comes down to just picking the right advisor for each event; there’s not even a point in reading what’s described in those events. Traveling across the map - why do we need these stops every five meters? Nothing happens there; it’s just a waste of time. Gameplay is basically “press space” to make the rest period go faster. Artisans who endlessly bring all kinds of junk. And so on and so forth\r\n\r\nAnd of course, this is just my opinion, but D&D is absolutely unsuitable for computer games. 80–90% of the stats/perks/skills/spells are garbage or have descriptions so vague that nothing makes sense, and all of this is in the game just to stay true to the D&D system. To level up properly, you either have to play the game several times (and to play it more than once, you’d have to be a unique person, of course), or watch some guides - and that already means the leveling system is crap\r\n\r\nOf all the CRPGs I’ve played, this is one of the worst. And don’t let the starting part of the game fool you."
+        },
+        {
+            "review_id": "226421107",
+            "steam_id": "76561199014595516",
+            "playtime_minutes": 312,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "the writing kinda sucks and the combat is frustrating and uninteresting"
+        },
+        {
+            "review_id": "227353035",
+            "steam_id": "76561197964531147",
+            "playtime_minutes": 16905,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.47058823704719543,
+            "steam_purchase": true,
+            "review_text": "The way to recruit Jubilost is horrible game design. Just HORRIBLE. 99.9% of players will miss him."
+        },
+        {
+            "review_id": "226233443",
+            "steam_id": "76561198032267974",
+            "playtime_minutes": 311,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.45885008573532104,
+            "steam_purchase": true,
+            "review_text": "Third Owlcat game I've bought. Never finished one. I have no one but myself to blame.\r\n\r\nSlog of a game. Tedious writing. Less of a power-trip than the second Pathfinder title, but equally devoid of a soul. Just numbers, critical misses, swarms of enemies and hour long fights. Now with turn-based gamplay! So you can ACTUALLY fall asleep while playing."
+        },
+        {
+            "review_id": "226428372",
+            "steam_id": "76561198047680226",
+            "playtime_minutes": 5971,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good, classic cRPG. Even more enjoyable if you know pathfinder PnP rules."
+        },
+        {
+            "review_id": "226657871",
+            "steam_id": "76561198012713650",
+            "playtime_minutes": 259,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "pen&paper well transported to the virtual realm and Kingmaker is the perfect campaign for this - ty paizo AND ALL OTHERS"
+        },
+        {
+            "review_id": "226542658",
+            "steam_id": "76561198024496675",
+            "playtime_minutes": 10475,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Level 1 Wizard sees a giant centipede.\r\nCast Burning Hands\r\nWarrior, Paladin, and Rogue who are in front of Wizard all die from the fire.\r\n100% would play again."
+        },
+        {
+            "review_id": "225754820",
+            "steam_id": "76561198025989632",
+            "playtime_minutes": 11341,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5081967115402222,
+            "steam_purchase": true,
+            "review_text": "Was it painful? Yes. Was it also one of the best games I've ever played? Definitely."
+        },
+        {
+            "review_id": "226956537",
+            "steam_id": "76561199124490954",
+            "playtime_minutes": 4710,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The idea of an everyday adventurer rising to royalty while solving mystery curses and taking on rival kingdoms is neat.  Unfortunately the story is buried under hours of tedious rests, party movement across the map, the stress of working against the clock, and dungeons and kingdom projects  that can be outrageously catastrophic if you get them even a little bit wrong.  In my opinion, this game is too punishing to be fun."
+        },
+        {
+            "review_id": "226508768",
+            "steam_id": "76561198028067071",
+            "playtime_minutes": 834,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The Good:\n- Cool concept\n- Faithful adaptation of Pathfinder, mechanically and aesthetically\n- I generally* really like the dialog and choices. I also think the storybook and other things this game has are really fun ways to make it feel more like TTRPG than similar games\n- *Almost* has Controller support. Almost...\n\nThe Bad:\n- Does not even kind-of deliver on the promises of \"building a kingdom\" and all that. The Kingmaking aspect of this has about as much depth as games like Overlord or Dragon Age: Inquisition, ... honestly, even less-so. And in those games, that concept is purely flavor text, not a titular and core selling point of the game.\n- The way abilities/levelling works is just really counter-intuitive, and the fact that you don't \"prepare\" your spells like in Pathfinder/DND on rest but rather need to go to an entirely different menu before you do a rest or whatever... it's just awkward.\n- Very awkward controls, and while it has controller support it was very obviously not intended to be played this way. There also is either just a weird design thing or a bug where your \"cursor\" just disappears a lot during combat making it not possible to like, target your abilities. Super annoying. But if you play Keyboard and Mouse, it *still* feels like it wasn't intended to be played that way; the camera does not follow your characters, selecting and controlling your party is awkward, and many of the interfaces just look out of place compared to when you're playing with controller. No matter how you cut it, the controls and user interface are just awkward\n- \"Real Time With Pause\" really just feels like turn-based combat with extra steps\n- Painfully slow and frankly boring combat (see previous). What should be \"strategic depth\" is honestly tedium because of the controls and the way combat works in game.\n- Please for the love of God let me skip scenes/intros/dialog\n- When the writing is good it's good, when it's bad it is really, really dull. A lot of the time it feels like they're just \"doing too much\".\n- Lots of random bugs. One in particular, it keeps giving me the \"Survivor\" achievement over and over and over. Makes me wonder, does the Steam API not actually check if an achievement already was given? Very weird behavior. \n- Controller support will work all the way up until the part of the game where you have a Kingdom. ykno, the *MAIN PART OF THE GAME*. The titular part? Yeah, none of those interfaces work. You will have to switch to keyboard and mouse to continue playing after that point.\n\nThe Ugly:\n- Scripted Dialog in place of cutscenes. Okay, fine, it works in some games. But if it's completely unvoiced, and completely unskippable, can you at least not make them three-plus minutes long uninterrupted and happen roughly every 30-45 minutes of normal gamplay? Like oh my god, just make it normal dialog that I can read, click next, scroll back up on, whatever. \n- This game is ♥♥♥♥♥♥♥ slow. Painfully slow. Tedious and dull at times. If you b-line it from point A to point B using internet guides to light your path, make sure you already know what build you're gonna do in advance because character creation is its own time-sink, and ignoring stuff like looting or things like \"reading anything your companions have to say you\" (important parts of an RPG, but I digress) to get to the actual \"main gameplay loop\" will very likely still take you no 3 hours or more. It almost seems deliberate, like to keep people from getting to that point of the game, realizing it's buggy and half-baked and refunding a game that half-delivered. Especially given the unskippable stuff.\n- Sometimes when playing, this game will just hard-crash my entire system and makes a really awful noise, screen becomes a single color. No idea how or why. Only recovery is hardware power off. >> https://steamcommunity.com/app/640820/discussions/5/1778262124947997751. This on its own and how many years this bug has been known with the devs seeming to not even care to address it really irks me.\n\nDo I recommend this game? Sure. If it's on sale and your kinda thing, go for it. Lower your expectations a lot from what the promotional content shows.\nDo I think the game is worth its full retail price? ♥♥♥♥♥♥♥♥ no. This game is solidly *ok* even when it is working correctly, and it's a buggy slow mess."
+        },
+        {
+            "review_id": "226069209",
+            "steam_id": "76561198158122213",
+            "playtime_minutes": 11856,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5316935181617737,
+            "steam_purchase": true,
+            "review_text": "VERY GOOD, DONT LET THE TIME LIMITS DRIVE YOU INSANE, ITS FORGIVING"
+        },
+        {
+            "review_id": "226280659",
+            "steam_id": "76561198347630638",
+            "playtime_minutes": 3522,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great depth and continuous discovery"
+        },
+        {
+            "review_id": "227100500",
+            "steam_id": "76561198142785739",
+            "playtime_minutes": 860,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love this studio!  This is an amazing game all around.  10/10"
+        },
+        {
+            "review_id": "226873342",
+            "steam_id": "76561198027085378",
+            "playtime_minutes": 463,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "If you want baldur's gate , but recent."
+        },
+        {
+            "review_id": "226458095",
+            "steam_id": "76561197985682990",
+            "playtime_minutes": 35841,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the best RPG's I've played in a long time."
+        },
+        {
+            "review_id": "225354502",
+            "steam_id": "76561198851233419",
+            "playtime_minutes": 2947,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Started second time. Enjoying it so far!"
+        },
+        {
+            "review_id": "227287042",
+            "steam_id": "76561198192328199",
+            "playtime_minutes": 3744,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Classic tabletop fun"
+        },
+        {
+            "review_id": "226795736",
+            "steam_id": "76561199160766771",
+            "playtime_minutes": 7729,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5093896985054016,
+            "steam_purchase": true,
+            "review_text": "House at the end of time alone makes me wish I played WOTR instead"
+        },
+        {
+            "review_id": "226488321",
+            "steam_id": "76561198935847191",
+            "playtime_minutes": 1968,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very charming game!!"
+        },
+        {
+            "review_id": "225782094",
+            "steam_id": "76561197998373254",
+            "playtime_minutes": 2240,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its the best pathfinder ever"
+        },
+        {
+            "review_id": "227484770",
+            "steam_id": "76561198052506334",
+            "playtime_minutes": 7069,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game!"
+        },
+        {
+            "review_id": "226676507",
+            "steam_id": "76561198045049063",
+            "playtime_minutes": 22782,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game"
+        },
+        {
+            "review_id": "225207568",
+            "steam_id": "76561198987365222",
+            "playtime_minutes": 238,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good"
+        },
+        {
+            "review_id": "226071365",
+            "steam_id": "76561199489541073",
+            "playtime_minutes": 7757,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Pretty good."
+        },
+        {
+            "review_id": "225317622",
+            "steam_id": "76561198377541404",
+            "playtime_minutes": 5198,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "amazing, loved it."
+        },
+        {
+            "review_id": "225456268",
+            "steam_id": "76561198018054842",
+            "playtime_minutes": 3549,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "gud"
+        },
+        {
+            "review_id": "226774528",
+            "steam_id": "76561199791352135",
+            "playtime_minutes": 10412,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.4743935167789459,
+            "steam_purchase": true,
+            "review_text": "WORST GAME EVER!!!!!!!!\n"
+        },
+        {
+            "review_id": "225273363",
+            "steam_id": "76561198861753059",
+            "playtime_minutes": 215,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Nice"
+        },
+        {
+            "review_id": "225829100",
+            "steam_id": "76561198034939956",
+            "playtime_minutes": 5325,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "superb"
+        },
+        {
+            "review_id": "226614036",
+            "steam_id": "76561198865367298",
+            "playtime_minutes": 2218,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "wonderful"
+        },
+        {
+            "review_id": "227049353",
+            "steam_id": "76561198028472857",
+            "playtime_minutes": 6978,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "ye snd ye"
+        },
+        {
+            "review_id": "226384462",
+            "steam_id": "76561197964953430",
+            "playtime_minutes": 7285,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "yes"
+        },
+        {
+            "review_id": "227035396",
+            "steam_id": "76561198161101711",
+            "playtime_minutes": 2566,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "yer"
+        },
+        {
+            "review_id": "226334960",
+            "steam_id": "76561198150547088",
+            "playtime_minutes": 11164,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "."
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "ingested_at": "2026-06-08T19:06:41.601597",
+    "app_id": "211500",
+    "metadata": {
+        "type": "game",
+        "name": "RaceRoom Racing Experience",
+        "steam_appid": 211500,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "RaceRoom is free to download and built on true-to-life physics and Force Feedback. Drive DTM, FIA WTCC, WTCR and a huge library of cars and tracks—including the most up-to-date Nordschleife. Jump in, race instantly, and expand your garage with a massive selection of content.",
+        "detailed_description": "RaceRoom is free to download and built on precise, data driven vehicle physics developed with the expertise of KW Automotive, real racing teams, and professional drivers. Every car is recreated with careful attention to handling, tire behavior, and drivetrain feel, and brought to life with authentic sounds recorded from the real machines.<br><br>Race on detailed circuits that are reviewed and updated every year. Drive on the most up to date laserscanned Nordschleife available, including the latest curb changes and surface details.<br><br>RaceRoom supports all types of setups and skill levels, with driving assists for beginners, VR support, triple screen rendering, an in game FOV calculator, and extensive control options. You can test drive any car directly from its store page before purchasing.<h2 class=\"bb_tag\" >Ranked and Competitive Racing</h2><br><ul class=\"bb_ul\"><li><strong>Ranked Multiplayer</strong><br>Structured online racing with scheduled sessions, safety ratings, driver progression, sprint races, and endurance events.<br><br></li><li><strong>Time Attack and Global Leaderboards</strong><br>Set your best laps, chase ghosts, and climb international leaderboards with regular time attack events.<br><br></li><li><strong>Weekly Free Combo</strong><br>Every week a new free car and track combination becomes available in all game modes, including multiplayer and time attack.</li></ul><h2 class=\"bb_tag\" >Your Garage, Your Way</h2><br><ul class=\"bb_ul\"><li><strong>Authentic Car Lineup</strong><br>Drive licensed touring cars, GT3 cars, prototypes, and one make cup series, all recreated with input from real teams and drivers.<br><br></li><li><strong>Living Tracks</strong><br>Circuits are updated regularly so layouts, curbs, runoffs, and elevations stay aligned with real world changes.<br><br></li><li><strong>Try Before You Buy</strong><br>Test any car directly from its store page on any track you own.</li></ul><h2 class=\"bb_tag\" >Accessibility and Tools</h2><br><ul class=\"bb_ul\"><li><strong>Driving Assists for Every Skill Level</strong><br>Novice, Amateur, and Get Real modes help all drivers feel at home, whether using a wheel, controller, or keyboard.<br><br></li><li><strong>VR and Triple Screen Support</strong><br>Experience full VR rendering and true triple screen projection for a more immersive cockpit view.<br><br></li><li><strong>Built in FOV and View Tools</strong><br>Use the in game FOV calculator and visual guides to tune your seating position and field of view.</li></ul><h2 class=\"bb_tag\" >Always Racing, Always Evolving</h2><br>RaceRoom continues to grow with new cars, new tracks, physics updates, competitive events, and improvements shaped with help from the sim racing community.",
+        "developers": [
+            "KW Studios"
+        ],
+        "publishers": [
+            "KW Studios",
+            "RaceRoom Entertainment AG"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 53,
+                "description": "VR Supported"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "9",
+                "description": "Racing"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "18",
+                "description": "Sports"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 1980
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Feb 12, 2013"
+        }
+    }
+}

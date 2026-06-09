@@ -1,0 +1,116 @@
+{
+    "ingested_at": "2026-06-08T20:02:48.457916",
+    "app_id": "1259420",
+    "metadata": {
+        "type": "game",
+        "name": "Days Gone",
+        "steam_appid": 1259420,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Ride and fight into a deadly, post pandemic America. Play as Deacon St. John, a drifter and bounty hunter who rides the broken road, fighting to survive while searching for a reason to live in this open-world action-adventure game.",
+        "detailed_description": "<p class=\"bb_paragraph\" >Days Gone is an open-world action-adventure game set in a harsh wilderness two years after a devastating global pandemic.  </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Step into the dirt flecked shoes of former outlaw biker Deacon St. John, a bounty hunter trying to find a reason to live in a land surrounded by death. Scavenge through abandoned settlements for equipment to craft valuable items and weapons, or take your chances with other survivors trying to eke out a living through fair trade… or more violent means. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >KEY FEATURES </p><p class=\"bb_paragraph\" >•\tA striking setting: From forests and meadows, to snowy plains and desert lava fields, the Pacific Northwest is both beautiful and lethal. Explore a variety of mountains, caves, mines and small rural towns, scarred by millions of years of volcanic activity.</p><p class=\"bb_paragraph\" >•\tBrutal encounters: With vicious gangs and hordes of Freakers roaming the land, you’ll need to make full use of a variety of customizable traps, weapons, and upgradable skills to stay alive. Don’t forget your Drifter bike, an invaluable tool in a vast land.</p><p class=\"bb_paragraph\" >•\tAn ever-changing environment: Jump on the saddle of Deacon’s trusty motorbike and explore a dynamic world dramatically affected by the weather, a dramatic day/night cycle and the evolving Freakers, who adjust to their surroundings – and the people in it.   </p><p class=\"bb_paragraph\" >•\tA compelling story: Lose yourself in a powerful tale of desperation, betrayal and regret, as Deacon St. John searches for hope after suffering a deep, personal loss. What makes us human when faced with the daily struggle for survival? </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >INCLUDES </p><p class=\"bb_paragraph\" >•\tNew Game Plus </p><p class=\"bb_paragraph\" >•\tSurvival Mode</p><p class=\"bb_paragraph\" >•\tChallenge Mode </p><p class=\"bb_paragraph\" >•\tBike Skins </p><p class=\"bb_paragraph\" >PC features include ultra-wide monitor support, unlocked framerates and improved graphics (increased level of details, field of view, foliage draw distances).</p>",
+        "developers": [
+            "Bend Studio"
+        ],
+        "publishers": [
+            "PlayStation Publishing LLC"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 71,
+                "description": "Narrated Game Menus"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 65,
+                "description": "Subtitle Options"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 80758
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 17, 2021"
+        }
+    }
+}

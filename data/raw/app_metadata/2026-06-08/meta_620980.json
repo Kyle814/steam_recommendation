@@ -1,0 +1,83 @@
+{
+    "ingested_at": "2026-06-08T20:04:52.215573",
+    "app_id": "620980",
+    "metadata": {
+        "type": "game",
+        "name": "Beat Saber",
+        "steam_appid": 620980,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Beat Saber is a VR rhythm game where you slash the beats of adrenaline-pumping music as they fly towards you, surrounded by a futuristic world.",
+        "detailed_description": "<p class=\"bb_paragraph\" >Beat Saber is an immersive rhythm experience you have never seen before! Enjoy tons of handcrafted levels and swing your way through the pulsing music beats, surrounded by a futuristic world. Use your sabers to slash the beats as they come flying at you – every beat indicates which saber you need to use and the direction you need to match. With Beat Saber you become a dancing superhero!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Feel the Rhythm: Immerse yourself in the smoothest combination of music beats and visual effects in Beat Saber’s truly unique gameplay.</p></li><li><p class=\"bb_paragraph\" >Handcrafted Levels &amp; Music: Unlike other rhythm games with generated content, music and levels in Beat Saber are drawn precisely by hand to enhance the music experience.</p></li><li><p class=\"bb_paragraph\" >Compete in Multiplayer: Challenge your friends or random opponents around the world. </p></li><li><p class=\"bb_paragraph\" >Challenging Campaign: Get better every day while completing objectives and challenges in the Campaign.</p></li><li><p class=\"bb_paragraph\" >Rise Up the Global Leaderboards: Compete against other Beat Saberists around the world in various difficulties. </p></li><li><p class=\"bb_paragraph\" >Easy to Learn, Fun to Master: Everyone can understand the basic game mechanics. It's easy for anyone to pick up and play.</p></li><li><p class=\"bb_paragraph\" >Great Exercise: Exercise while dancing and slashing the beats, Beat Saber gets you moving.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Music Downloads Not Rated by the ESRB </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >MUSIC DOWNLOADS NOT RATED BY PEGI </p></li></ul>",
+        "developers": [
+            "Beat Games"
+        ],
+        "publishers": [
+            "Beat Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1049,
+            "final": 1049,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$10.49 USD"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 93,
+            "url": "https://www.metacritic.com/game/pc/beat-saber?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 52,
+                "description": "Tracked Controller Support"
+            },
+            {
+                "id": 54,
+                "description": "VR Only"
+            },
+            {
+                "id": 25,
+                "description": "Steam Leaderboards"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "recommendations": {
+            "total": 69527
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "22 May, 2019"
+        }
+    }
+}

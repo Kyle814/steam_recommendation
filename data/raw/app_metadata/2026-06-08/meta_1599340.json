@@ -1,0 +1,125 @@
+{
+    "ingested_at": "2026-06-08T18:43:39.488001",
+    "app_id": "1599340",
+    "metadata": {
+        "type": "game",
+        "name": "Lost Ark",
+        "steam_appid": 1599340,
+        "required_age": "17",
+        "is_free": true,
+        "short_description": "Embark on an odyssey for the Lost Ark in a vast, vibrant world: explore new lands, seek out lost treasures, and test yourself in thrilling action combat in this action-packed free-to-play RPG.",
+        "detailed_description": "Embark on an odyssey for the Lost Ark in a vast, vibrant world: explore new lands, seek out lost treasures, and test yourself in thrilling action combat. Define your fighting style with your class and advanced class, and customize your skills, weapons, and gear to bring your might to bear as you fight against hordes of enemies, colossal bosses, and dark forces seeking the power of the Ark in this action-packed free-to-play RPG.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599340/extras/47907014cf7e11580f224ae0fd2865a6.poster.avif?t=1763571534\" width=614 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599340/extras/47907014cf7e11580f224ae0fd2865a6.webm?t=1763571534\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599340/extras/47907014cf7e11580f224ae0fd2865a6.mp4?t=1763571534\" type=\"video/mp4\"></video></span><br><strong>Discover a World Brimming with Adventure</strong><br>Explore seven vast, varied continents and the seas between them to find vibrant cultures, strange and fantastical beasts, and all the unexpected marvels waiting to be discovered. Delve into the secrets of Arkesia, prove your might in battles and raids, compete against other players in PvP, travel to distant islands in search of hidden riches, face packs of enemies and colossal bosses in the open world, and more.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599340/extras/b115fc8a8a05f4c15b242cfb22b42b11.poster.avif?t=1763571534\" width=614 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599340/extras/b115fc8a8a05f4c15b242cfb22b42b11.webm?t=1763571534\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599340/extras/b115fc8a8a05f4c15b242cfb22b42b11.mp4?t=1763571534\" type=\"video/mp4\"></video></span><br><strong>Your Odyssey Awaits</strong><br>Splash into massively satisfying ARPG-style combat and progression as you quest, raid, and fight on the scope of an MMO.  Whether you want to play solo, in groups with friends, or matched up with other adventurers in the world, there’s an epic adventure waiting for you.  Fight in the open world or delve into chaos dungeons, go head-to-head in expert PvP duels, test your mettle on epic quests, raid against bosses big and small, and hold your own in the fight against the Demon Legion to reclaim the power and light of the Lost Ark.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599340/extras/871dcf77758d3df603c14cc7470c2cea.poster.avif?t=1763571534\" width=614 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599340/extras/871dcf77758d3df603c14cc7470c2cea.webm?t=1763571534\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599340/extras/871dcf77758d3df603c14cc7470c2cea.mp4?t=1763571534\" type=\"video/mp4\"></video></span><br><strong>Define Your Fight</strong><br>Lost Ark offers easy-to-learn features with unexpected depth and room for customization. Hit the ground running with pick-up-and-play action then take control of your combat with the unique Tripod system. Unlock three tiers of customization for each of your abilities, giving you powerful control of exactly how you fight.  Lost Ark’s ever-expanding roster of iconic classes—each with their own distinct advanced classes—offers plenty of room to explore until you find the combat style that’s just right for you.  <br><br>The same goes for other features: as you continue your journey, you’ll find non-combat skills, crafting, guilds and social systems, and other rich features that bring the world alive. Whether you want to skim along the surface or dive deep into the details is up to you.<br><br><br><strong>ACCESSIBILITY FEATURES:</strong><br>Personalize your adventure with accessibility settings before game play. Enable numerous options including chat text enlargement, color blindness filters, photosensitivity mode, toggleable camera shake, and subtitle settings to create your optimal experience. Define your audio preferences with settings for volume controls, mono sound, stereo sound, and surround sound. You can also adjust game inputs via input remapping options and mouse/keyboard control settings. Lastly, define game inputs via input remapping options, and make sure no message is missed with chat text-to-speech and speech-to-text.",
+        "developers": [
+            "Smilegate RPG"
+        ],
+        "publishers": [
+            "Amazon Game Studios"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 75,
+                "description": "Keyboard Only Option"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 65223
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Feb 11, 2022"
+        }
+    }
+}

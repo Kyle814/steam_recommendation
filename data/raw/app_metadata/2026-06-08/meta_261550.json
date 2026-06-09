@@ -1,0 +1,115 @@
+{
+    "ingested_at": "2026-06-08T18:48:07.891246",
+    "app_id": "261550",
+    "metadata": {
+        "type": "game",
+        "name": "Mount & Blade II: Bannerlord",
+        "steam_appid": 261550,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+        "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/extras/ec15dba81ad56b9e5802724f688fc580.poster.avif?t=1764252300\" width=616 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/extras/ec15dba81ad56b9e5802724f688fc580.webm?t=1764252300\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/extras/ec15dba81ad56b9e5802724f688fc580.mp4?t=1764252300\" type=\"video/mp4\"></video></span><br><br>The horns sound, the ravens gather. An empire is torn by civil war. Beyond its borders, new kingdoms rise. Gird on your sword, don your armour, summon your followers and ride forth to win glory on the battlefields of Calradia. Establish your hegemony and create a new world out of the ashes of the old.<br><br>Mount &amp; Blade II: Bannerlord is the eagerly awaited sequel to the critically acclaimed medieval combat simulator and role-playing game, Mount &amp; Blade: Warband. <br><br>Create and develop a character that matches your play style as you explore, raid and conquer your way across a vast medieval sandbox where no two playthroughs are the same. <br><br>Raise armies, engage in politics, trade, craft weapons, recruit companions and manage your fiefdom as you attempt to establish your clan among the nobility of Calradia. <br><br>Command and fight alongside your troops in first- or third-person in huge real-time battles using Mount &amp; Blade’s deep but intuitive skill-based directional combat system.<br><br>Put your combat prowess to the test against players from all over the world in multi-player PvP, including ranked matchmaking and casual game modes, or host your own server with the Mount &amp; Blade II: Dedicated Server files. <br><br>Customise the game to experience an entirely different adventure using the Mount &amp; Blade II: Bannerlord - Modding Kit and share your creations with others through Steam Workshop.",
+        "developers": [
+            "TaleWorlds Entertainment"
+        ],
+        "publishers": [
+            "TaleWorlds Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 4999,
+            "final": 4999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$49.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 77,
+            "url": "https://www.metacritic.com/game/pc/mount-blade-ii-bannerlord?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 225328
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 25, 2022"
+        }
+    }
+}

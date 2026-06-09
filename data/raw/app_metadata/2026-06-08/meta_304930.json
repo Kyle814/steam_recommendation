@@ -1,0 +1,145 @@
+{
+    "ingested_at": "2026-06-08T18:55:54.610291",
+    "app_id": "304930",
+    "metadata": {
+        "type": "game",
+        "name": "Unturned",
+        "steam_appid": 304930,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "You're a survivor in the zombie infested ruins of society, and must work with your friends and forge alliances to remain among the living.",
+        "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304930/extras/0083f5d5fdf88319dcc486025594ec58.avif?t=1780340580\" width=616 height=334 /></span><br><br><strong>STAY UNTURNED</strong><br>You're one of the few not yet <i>turned</i> zombie. Keeping it that way will be a challenge.<br><br><ul class=\"bb_ul\"><li>Go in guns blazing and attract the attention of everything, living and dead.<br></li><li>Take a subtle approach sneaking around and making use of distractions.<br></li><li>Confront and learn to counter special abilities ranging from invisibility to fire breathing to lightning attacks.</li></ul><br><strong>STRUGGLE AGAINST NATURE</strong><br>Zombies aside nature does plenty to make life hard.<br><br><ul class=\"bb_ul\"><li>Forage wild fruits and vegetables.<br></li><li>Hunt animals for pelts and meat, or in some hostile environments become the prey.<br></li><li>Fish for food and garbage.<br></li><li>Plant a crop and make sure it gets rain.<br></li><li>Seek warmth and take shelter from blizzards.</li></ul><br><strong>DEAL WITH OTHER PLAYERS</strong><br>Friend or foe there's a lot of interesting people online.<br><br><ul class=\"bb_ul\"><li>Arrest bandits with handcuffs and blindfold them as a non-lethal strategy.<br></li><li>Fight with every kind of weapon under the sun - swords, machine guns, snipers, missiles, landmines - you name it.<br></li><li>Raid enemy encampments using charges and detonators and steal their loot.<br></li><li>For pure PvP play arena mode in a last man standing battle to the death, or PvE for peaceful cooperation.<br></li><li>Roleplay servers encourage everyone to stay in character and tell a story together.</li></ul><br><strong>HELP THE NEW SOCIETY</strong><br>Plenty to do even if you're offline or going solo.<br><br><ul class=\"bb_ul\"><li>Meet, talk and trade with NPCs.<br></li><li>Complete quests to aid NPCs and progress the story.<br></li><li>Fend off waves of the undead to clear hordes.<br></li><li>Secure airdropped supplies.<br></li><li>Gear up with gasmasks to scout radioactive deadzones.</li></ul><br><strong>FORTIFY YOUR STRONGHOLD</strong><br>Somewhere to kick back and chillax or a hideout to direct your gang, whatever floats your boat (in this case sometimes literally).<br><br><ul class=\"bb_ul\"><li>Build with barricades, furniture, traps, machinery and more.<br></li><li>Board up the windows of existing structures to survive the night.<br></li><li>Craft an entirely new structure from supplies you collect.<br></li><li>Turn your vehicle into a moving fortress by building on it.</li></ul><br><strong>TRAVEL BY LAND, AIR AND SEA</strong><br>Roll out in style with a fully stocked garage.<br><br><ul class=\"bb_ul\"><li>Land vehicles including tanks, quads and snowmobiles.<br></li><li>Air vehicles from helicopters to seaplanes to fighter jets.<br></li><li>Sea vehicles such as jetskis and hovercraft.<br></li><li>Maintain your vehicles with tires, batteries and fuel.</li></ul><br><strong>EXPLORE MASSIVE WORLDS</strong><br>With 5 officially developed and 1 curated community created sandbox map there's a wide variety of locations to discover:<br><br><ul class=\"bb_ul\"><li>Prince Edward Island (PEI)<br></li><li>The Yukon<br></li><li>Washington<br></li><li>Russia<br></li><li>Hawaii<br></li><li>Germany</li></ul><br><strong>MOD EVERYTHING</strong><br>From the ground up Unturned was designed for modding.<br><br><ul class=\"bb_ul\"><li>Download player created content ranging from guns to vehicles to huge levels from the workshop, and upload your own.<br></li><li>Build custom maps using the in-game level editor. All of the official maps were created with the same free public tools and their assets are open for you to use.<br></li><li>Write plugins using built-in or strong third party systems.<br></li><li>Get your apparel and skins upvoted in the workshop for consideration to be accepted and sold.<br></li><li>Team up with other modders and put together your own update for consideration to be officially adopted. </li></ul><br><strong>NEAT STUFF</strong><br>I think these features are neat and they didn't fit anywhere else. There's many more I want to include but for brevity's sake:<br><br><ul class=\"bb_ul\"><li>Most objects can be destroyed to create new pathways.<br></li><li>For immersion you can pick a frequency and use two-way radios to communicate with your squad rather than external voice chat programs.</li></ul>",
+        "developers": [
+            "Smartly Dressed Games"
+        ],
+        "publishers": [
+            "Smartly Dressed Games"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 47,
+                "description": "LAN PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 48,
+                "description": "LAN Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 8,
+                "description": "Valve Anti-Cheat enabled"
+            },
+            {
+                "id": 15,
+                "description": "Stats"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 7513
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jul 7, 2017"
+        }
+    }
+}

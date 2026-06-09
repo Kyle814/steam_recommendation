@@ -1,0 +1,97 @@
+{
+    "ingested_at": "2026-06-08T19:48:40.146052",
+    "app_id": "750920",
+    "metadata": {
+        "type": "game",
+        "name": "Shadow of the Tomb Raider: Definitive Edition",
+        "steam_appid": 750920,
+        "required_age": "18",
+        "is_free": false,
+        "short_description": "As Lara Croft races to save the world from a Maya apocalypse, she must become the Tomb Raider she is destined to be.",
+        "detailed_description": "<h1>FREE TRIAL</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/extras/f13f11d65bf3d959918d5693ba8be886.avif?t=1765239925\" width=616 height=180 /></span></p><br><h1>Reviews &amp; Accolades</h1><p><i>“The strongest entry in the trilogy”</i> - GamesRadar+<br><i>“Arrestingly Beautiful”</i> - Polygon<br><i>“Crisp, addictive, and deeply satisfying”</i> - Nerdist <br><i>“Looks absolutely incredible”</i> - Destructoid<br><i>“A truly immersive experience.” </i>- Bleacher Report<br><i>“9 out of 10”</i> - Worthplaying<br><i>“Exploration is absolutely vibrant”</i> - GameCrate<br><i> “A tremendous thrill ride”</i> - Digital Trends<br><i>“9 out of 10 - Better than ever before.&quot;</i> - Outright Geekery</p><br><h1>Shadow of the Tomb Raider Definitive Edition out now for macOS and Linux.</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/extras/ef944aefdb9f502fe16ead5183a6d423.avif?t=1765239925\" width=616 height=200 /></span></p><br><h1>About the Game</h1><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/extras/7b167aa9a3f1897477b4e6623d19dd54.avif?t=1765239925\" width=616 height=388 /></span><br>In Shadow of the Tomb Raider Definitive Edition experience the final chapter of Lara’s origin as she is forged into the Tomb Raider she is destined to be. Combining the base game, all seven DLC challenge tombs, as well as all downloadable weapons, outfits, and skills, Shadow of the Tomb Raider Definitive Edition is the ultimate way to experience Lara’s defining moment.<br><br><strong>Survive and Thrive In the Deadliest Place on Earth: </strong>Master an unforgiving jungle setting in order to survive. Explore underwater environments filled with crevasses and deep tunnel systems.<br><br><strong>Become One With the Jungle:</strong> Outgunned and outnumbered, Lara must use the jungle to her advantage. Strike suddenly and disappear like a jaguar, use mud as camouflage, and instill fear in enemies to sow chaos.<br><br><strong>Discover Dark and Brutal Tombs:</strong> Tombs are more terrifying than ever before, requiring advanced traversal techniques to reach them, and once inside they are filled with deadly puzzles.<br><br><strong>Uncover Living History:</strong> Discover a hidden city and explore the biggest hub space ever found in a Tomb Raider game.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/extras/e38bd7b55af3ecb8280768c7cd2c2f19.poster.avif?t=1765239925\" width=616 height=212 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/extras/e38bd7b55af3ecb8280768c7cd2c2f19.webm?t=1765239925\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/extras/e38bd7b55af3ecb8280768c7cd2c2f19.mp4?t=1765239925\" type=\"video/mp4\"></video></span>",
+        "developers": [
+            "Eidos-Montréal",
+            "Crystal Dynamics",
+            "Nixxes",
+            "Feral Interactive (Mac)",
+            "Feral interactive (Linux)"
+        ],
+        "publishers": [
+            "Crystal Dynamics",
+            "Feral Interactive (Mac)",
+            "Feral interactive (Linux)"
+        ],
+        "price_overview": {
+            "currency": "KRW",
+            "initial": 4400000,
+            "final": 4400000,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "₩ 44,000"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 77,
+            "url": "https://www.metacritic.com/game/pc/shadow-of-the-tomb-raider?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 70828
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "14 Sep, 2018"
+        }
+    }
+}

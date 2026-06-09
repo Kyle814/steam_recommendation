@@ -1,0 +1,80 @@
+{
+    "ingested_at": "2026-06-08T19:08:45.078622",
+    "app_id": "1238860",
+    "metadata": {
+        "type": "game",
+        "name": "Battlefield 4™",
+        "steam_appid": 1238860,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Embrace unrivaled destruction in Battlefield 4™. Revel in the glorious chaos of all-out war packed with rewarding, tactical challenges in an interactive environment.",
+        "detailed_description": "Battlefield 4™ Premium Edition gives you new maps, modes, and more in one simple package. Complete challenging assignments to unlock new weapons. Dominate tactical challenges in a huge interactive environment — demolish buildings shielding your enemies, lead an assault from the back of a gun boat, or make a little C4 go a long way. In massive 64-player battles, use all your resources and play to your strengths to carve your own path to victory.<h2 class=\"bb_tag\" ><strong>Key features</strong></h2><ul class=\"bb_ul\"><li><strong>Dynamic battlefields</strong> — Interactive environments react to your actions in real-time, so you can trigger a shipwreck or flood the streets for a tactical advantage. Your opponents won't know what hit 'em. <br></li><li><strong>More vehicles, more freedom</strong> — Control the battlefield with dozens of vehicles, from helicopters and stealth jets to gunboats and anti-airs, all designed to give you an edge on massive, chaotic maps.<br></li><li><strong>An intense single-player campaign</strong> — With international tensions running high, you’ll need to evacuate critical American VIPs from Shanghai and battle against the odds to get your squad home.</li></ul><h2 class=\"bb_tag\" ><strong>Premium Edition includes:</strong></h2><ul class=\"bb_ul\"><li><strong>All 5 expansion packs</strong> — 20 new maps, 48 exclusive assignments, new modes, &amp; more. <br></li><li><strong>Exclusive personalization options</strong> — Outfit yourself with the latest camos, paints, emblems, and dog tags. With gear for all 4 combat roles, the combinations are endless. <br></li><li><strong>Priority position in server queue</strong> — Jump into the fight as quickly as possible. Priority position means you can start breaking the enemy faster.<br></li><li><strong>12 bonus Battlepacks</strong> — Get your hands on gun attachments, XP boosts, and customizations only available to Premium members.</li></ul>",
+        "developers": [
+            "DICE"
+        ],
+        "publishers": [
+            "Electronic Arts"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 67651
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jun 11, 2020"
+        }
+    }
+}

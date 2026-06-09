@@ -1,0 +1,127 @@
+{
+    "ingested_at": "2026-06-08T19:49:28.350227",
+    "app_id": "292030",
+    "metadata": {
+        "type": "game",
+        "name": "The Witcher 3: Wild Hunt",
+        "steam_appid": 292030,
+        "required_age": "18",
+        "is_free": false,
+        "short_description": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
+        "detailed_description": "<h1>DISCOVER THE STORY BEFORE THE WITCHER IV</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/86b33b326dce40c21cc5c4df722d3667.avif?t=1768303991\" width=1170 height=456 /></span></p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/c5612281f1ccbe920233d4dfa2467547.avif?t=1768303991\" width=780 height=300 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/38d45237169e49b84164fc1e7365fd73.avif?t=1768303991\" width=780 height=300 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/abd1228e62cb2e53a83bf462696d52a4.avif?t=1768303991\" width=780 height=300 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/9861e6e784f79ed576d598543b8b141f.avif?t=1768303991\" width=780 height=300 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/d3a057fb412ea15fc0ab5e76f5681815.avif?t=1768303991\" width=780 height=300 /></span></p>",
+        "developers": [
+            "CD PROJEKT RED"
+        ],
+        "publishers": [
+            "CD PROJEKT RED"
+        ],
+        "price_overview": {
+            "currency": "IDR",
+            "initial": 35999900,
+            "final": 35999900,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "Rp 359 999"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 93,
+            "url": "https://www.metacritic.com/game/pc/the-witcher-3-wild-hunt?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 817433
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "18 May, 2015"
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "ingested_at": "2026-06-08T18:48:19.771210",
+    "app_id": "782330",
+    "metadata": {
+        "type": "game",
+        "name": "DOOM Eternal",
+        "steam_appid": 782330,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you.",
+        "detailed_description": "<h1>Feature List</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/extras/bbbba079ce76134f198f9dda8bbc66d3.avif?t=1755109910\" width=616 height=1040 /></span></p><br><h1>Digital Deluxe Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/extras/c9ba6f14520fb8fb61ba309fd78d8f39.avif?t=1755109910\" width=616 height=250 /></span><br><br>Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity.<br><br>The only thing they fear... is you.<br><br>Experience the ultimate combination of speed and power in DOOM Eternal - the next leap in push-forward, first-person combat.<br><br>The DOOM Eternal Deluxe Edition includes:<br><ul class=\"bb_ul\"><li>The Year One Pass<br>     Get access to two campaign expansions for the critically-acclaimed DOOM Eternal. Your victory over Hell’s armies pulled humanity back from the edge of extinction, but it came at a cost. An imbalance of power in the heavens requires the true ruler of this universe to rise and set things right. Wage war across never-before-seen realms of the DOOM Universe, fight against new demons, and wield new abilities in your never-ending battle against the forces of evil. <br><br></li><li>Demonic Slayer Skin<br><br></li><li>Classic Weapon Sound Pack<br>     Throwback sound effects for all your DOOM Eternal guns</li></ul></p><br><h1>About the Game</h1>Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity.<h2 class=\"bb_tag\" >The Only Thing they Fear... Is You.</h2><br>Experience the ultimate combination of speed and power in DOOM Eternal - the next leap in push-forward, first-person combat.<h2 class=\"bb_tag\" >Slayer Threat Level At Maximum</h2>Armed with a shoulder-mounted flamethrower, retractable wrist-mounted blade, upgraded guns and mods, and abilities, you're faster, stronger, and more versatile than ever.<h2 class=\"bb_tag\" >Unholy Trinity</h2>Take what you need from your enemies: Glory kill for extra health, incinerate for armor, and chainsaw demons to stock up on ammo to become the ultimate demon-slayer.<h2 class=\"bb_tag\" >Enter Battlemode</h2>A new 2 versus 1 multiplayer experience. A fully-armed DOOM Slayer faces off against two player-controlled demons, fighting it out in a best-of-five round match of intense first-person combat.",
+        "developers": [
+            "id Software"
+        ],
+        "publishers": [
+            "Bethesda Softworks"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 88,
+            "url": "https://www.metacritic.com/game/pc/doom-eternal?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 188121
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 19, 2020"
+        }
+    }
+}

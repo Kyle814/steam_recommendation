@@ -1,0 +1,96 @@
+{
+    "ingested_at": "2026-06-08T19:13:57.382920",
+    "app_id": "24200",
+    "metadata": {
+        "type": "game",
+        "name": "DC Universe™ Online",
+        "steam_appid": 24200,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "DC Universe Online is a Free-to-Play, massive multiplayer online action game set in the popular DC Universe. Become one of a new breed of Heroes or Villains and wield incredible powers as you go to war with legendary characters such as Batman, Superman, Lex Luthor and The Joker.",
+        "detailed_description": "<p class=\"bb_paragraph\" >DC Universe Online is a Free-to-Play, massive multiplayer online action game set in the popular DC Universe. Become one of a new breed of Heroes or Villains and wield incredible powers as you go to war with legendary characters such as Batman, Superman, Lex Luthor and The Joker.  All stories are free for all players! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24200/extras/62b2291c61ab1fd7859ad9911d8a2d6c.avif?t=1780512580\" width=615 height=291 /></span></p><h2 class=\"bb_tag\" ><strong>Key Features</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Fast-paced action combat where you control every blow your character strikes.</p></li><li><p class=\"bb_paragraph\" >Choose your side – Hero or Villain – and customize your character on its path to becoming a legend in the DC Universe. </p></li><li><p class=\"bb_paragraph\" >Fight alongside and against your favorite DC characters including Batman, The Joker, Superman, Wonder Woman, Harley Quinn and many more. </p></li><li><p class=\"bb_paragraph\" >Embark on story-driven adventures penned by famous DC Comics writers including Geoff Johns and Marv Wolfman.</p></li><li><p class=\"bb_paragraph\" >Explore the DC Universe; walk the darkened streets of Gotham City, investigate the mysteries of the futuristic cityscape of Metropolis, and travel to legendary locations such as Arkham Asylum and the Watchtower.  </p></li></ul>",
+        "developers": [
+            "Dimensional Ink Games"
+        ],
+        "publishers": [
+            "Daybreak Game Company"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 72,
+            "url": "https://www.metacritic.com/game/pc/dc-universe-online?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 214
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 2, 2011"
+        }
+    }
+}

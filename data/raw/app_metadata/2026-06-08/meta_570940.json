@@ -1,0 +1,85 @@
+{
+    "ingested_at": "2026-06-08T19:52:09.976022",
+    "app_id": "570940",
+    "metadata": {
+        "type": "game",
+        "name": "DARK SOULS™: REMASTERED",
+        "steam_appid": 570940,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Then, there was fire. Re-experience the critically acclaimed, genre-defining game that started it all. Beautifully remastered, return to Lordran in stunning high-definition detail running at 60fps.",
+        "detailed_description": "Then, there was fire. Re-experience the critically acclaimed, genre-defining game that started it all. Beautifully remastered, return to Lordran in stunning high-definition detail running at 60fps. <br />\r\nDark Souls Remastered includes the main game plus the Artorias of the Abyss DLC.<br />\r\n<br />\r\nKey features:<br />\r\n• Deep and Dark Universe <br />\r\n• Each End is a New Beginning<br />\r\n• Gameplay Richness and Possibilities<br />\r\n• Sense of Learning, Mastering and Accomplishment<br />\r\n• The Way of the Multiplayer (up to 6 players with dedicated servers)",
+        "developers": [
+            "QLOC",
+            "FromSoftware, Inc."
+        ],
+        "publishers": [
+            "FromSoftware, Inc.",
+            "Bandai Namco Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 84,
+            "url": "https://www.metacritic.com/game/pc/dark-souls-remastered?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 97772
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 23, 2018"
+        }
+    }
+}

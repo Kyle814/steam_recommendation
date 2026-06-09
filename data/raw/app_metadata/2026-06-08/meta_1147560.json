@@ -1,0 +1,83 @@
+{
+    "ingested_at": "2026-06-08T19:33:56.408030",
+    "app_id": "1147560",
+    "metadata": {
+        "type": "game",
+        "name": "Skul: The Hero Slayer",
+        "steam_appid": 1147560,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Guide 'Skul' on his quest to single-handedly take on the Imperial Army and rescue his King from captivity, in an action-packed rogue-lite 2D platformer for the ages.",
+        "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/extras/459f706f733c8239c0d8c504e6ef1af3.poster.avif?t=1774420210\" ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/extras/459f706f733c8239c0d8c504e6ef1af3.webm?t=1774420210\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >The Demon King's Castle in Ruins</h2>The human race attacking the Demon King's castle is nothing new and has happened countless times before. What makes this time different though, is that the Adventurers decided to join forces with the Imperial Army and the 'Hero of Caerleon' to lead a full onslaught in hopes of wiping out the Demons once and for all. They attacked the Demon stronghold with overwhelming numbers and succeeded in its total destruction. All of the demons in the castle were taken prisoner except for one lone skeleton named 'Skul'.<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/extras/e24523b6d50845e83107c83ecc528403.poster.avif?t=1774420210\" width=620 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/extras/e24523b6d50845e83107c83ecc528403.webm?t=1774420210\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/extras/e24523b6d50845e83107c83ecc528403.mp4?t=1774420210\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Side-Scrolling Platformer Action</h2>'Skul: The Hero Slayer' is an action-platformer that boasts rogue-like features such as everchanging and challenging maps. It will keep you on your toes, as you will never know what to expect.<br><br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/extras/acb23b3acdb9ab61acbdcafb2336c73b.poster.avif?t=1774420210\" width=620 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/extras/acb23b3acdb9ab61acbdcafb2336c73b.webm?t=1774420210\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >Tons of skulls, tons of playable characters</h2>Skul is no ordinary skeleton. In addition to his formidable fighting skills, he can gain new and exciting abilities depending on which skull he's wearing. Use up to 2 skulls at a time, each of which has its own unique attack range, speed and power. Choose combos that match your playing style and switch them in the heat of battle to bring your enemies to their knees. The power is in your hands!<br><br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/extras/447c2ee9fdc8c671a3bbbee36fb3698f.poster.avif?t=1774420210\" width=620 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/extras/447c2ee9fdc8c671a3bbbee36fb3698f.webm?t=1774420210\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/extras/447c2ee9fdc8c671a3bbbee36fb3698f.mp4?t=1774420210\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >The Adventurers</h2>Skul has crossed paths with a party of Adventurers! They are powerful foes that hunt Demons for sport. While Skul may be small, he still packs quite a punch. So just wait and see who really is the hunter and who is the hunted....<br> <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/extras/5076d8d413039cdcfe968eec0cff4bb1.poster.avif?t=1774420210\" width=620 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/extras/5076d8d413039cdcfe968eec0cff4bb1.webm?t=1774420210\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147560/extras/5076d8d413039cdcfe968eec0cff4bb1.mp4?t=1774420210\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Bosses Corrupted by Dark Quartz</h2> At the end of every chapter, go head-to-head with massive bosses corrupted with Dark Quartz and powerful beyond belief. Derived from the pain and hate of life itself, Dark Quartz taints and takes control of everything it touches.",
+        "developers": [
+            "SOUTHPAW GAMES"
+        ],
+        "publishers": [
+            "NEOWIZ"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 80,
+            "url": "https://www.metacritic.com/game/pc/skul-the-hero-slayer?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "recommendations": {
+            "total": 50444
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jan 20, 2021"
+        }
+    }
+}

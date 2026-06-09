@@ -1,0 +1,65 @@
+{
+    "ingested_at": "2026-06-08T19:34:48.961816",
+    "app_id": "39140",
+    "metadata": {
+        "type": "game",
+        "name": "FINAL FANTASY VII",
+        "steam_appid": 39140,
+        "required_age": "13",
+        "is_free": false,
+        "short_description": "The RPG classic FINAL FANTASY VII returns to PC, now with brand new online features!",
+        "detailed_description": "<p class=\"bb_paragraph\" >In Midgar, a city controlled by the mega-conglomerate Shinra Inc., the No. 1 Mako Reactor has been blown up by a rebel group, AVALANCHE. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >AVALANCHE was secretly formed to wage a rebellion against Shinra Inc., an organisation which is absorbing Mako energy, destroying the natural resources of the planet. Cloud, a former member of Shinra's elite combat force, SOLDIER, was involved with the bombing of the Mako Reactor.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Can Cloud and AVALANCHE protect the planet from the huge, formidable enemy, Shinra Inc.?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The RPG classic FINAL FANTASY VII returns to PC, now with brand new online features! </p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Achievements – Whether you’re a seasoned FINAL FANTASY VII veteran or exploring this RPG classic for the very first time, show off your in-game accomplishments and put your gaming skills to the test with 36 brand new achievements to unlock. Share your profile with friends online to find out who is the ultimate FINAL FANTASY fan.'</p></li><li><p class=\"bb_paragraph\" > Cloud Saves – If you’re away from home or simply using a different computer to play, enjoy FINAL FANTASY VII wherever you are. With cloud save support in FINAL FANTASY VII you can continue your game progress right where you left off (Requires Internet Connection. Saves can only be transferred between a maximum of 3 computers at any one time).</p></li><li><p class=\"bb_paragraph\" > Character Booster – Find yourself stuck on a difficult section or lacking the funds to buy that vital Phoenix Down? With the Character Booster you can increase your HP, MP and Gil levels to their maximum, all with the simple click of a button, leaving you to enjoy your adventure.</p></li><li><p class=\"bb_paragraph\" > Optimized for PC – FINAL FANTASY VII has been updated to support the latest hardware and Windows Operating Systems.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >To back up your save files, remember to turn on Cloud Saving in the Network Settings panel on the FINAL FANTASY VII launcher. Uninstalling the game will delete any save files stored locally on your PC.</p>",
+        "developers": [
+            "Square Enix"
+        ],
+        "publishers": [
+            "Square Enix"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 26102
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": ""
+        }
+    }
+}

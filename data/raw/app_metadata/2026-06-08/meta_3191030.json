@@ -1,0 +1,64 @@
+{
+    "ingested_at": "2026-06-08T20:03:00.655065",
+    "app_id": "3191030",
+    "metadata": {
+        "type": "game",
+        "name": "Nubby's Number Factory",
+        "steam_appid": 3191030,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "A plinko-style roguelike where you work at a number factory. Launch your spherical friend, Nubby, down a pegboard to make bigger and bigger numbers! But beware, if you fail to meet your number quota, the sun will explode.",
+        "detailed_description": "<h1>Welcome to the factory!</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191030/extras/407e630c67023c89117da4aec0e882d7.poster.avif?t=1777324745\" width=800 height=452 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191030/extras/407e630c67023c89117da4aec0e882d7.webm?t=1777324745\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191030/extras/407e630c67023c89117da4aec0e882d7.mp4?t=1777324745\" type=\"video/mp4\"></video></span></p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191030/extras/70ef490a70740ff4fc1fc11d3c07e608.avif?t=1777324745\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191030/extras_big/70ef490a70740ff4fc1fc11d3c07e608.avif?t=1777324745 width=800 height=378 /></span></p><p class=\"bb_paragraph\" >Welcome aboard to Nubby's Number Factory! Your only job here is to make numbers, so you can make bigger numbers, so you can make even <strong>BIGGER</strong> numbers!<br></p><p class=\"bb_paragraph\" >In this plinko-style roguelike, you'll launch your spherical friend, Nubby, down a pegboard to rack up increasingly large numbers. However, it's not all fun and games. You're still a low-ranking employee at this facility, which means that you need to meet your production quota. To make stakes even higher, your work at the number factory is directly responsible for keeping the fabric of space and time intact. One screw up could cause the sun to immediately explode. <br></p><p class=\"bb_paragraph\" >Luckily, you can increase your output of numbers by harnessing the magical powers of over 50 unique items. You can use these items to create diverse and creative solutions to surpass your ever-expanding quotas. Feel that sweet surge of dopamine as the components of your factory synergize to make those numbers big!</p>",
+        "developers": [
+            "MogDogBlog Productions"
+        ],
+        "publishers": [
+            "MogDogBlog Productions"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 499,
+            "final": 499,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$4.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 17214
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 7, 2025"
+        }
+    }
+}

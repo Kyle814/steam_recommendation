@@ -1,0 +1,95 @@
+{
+    "ingested_at": "2026-06-08T18:42:25.944050",
+    "app_id": "219740",
+    "metadata": {
+        "type": "game",
+        "name": "Don't Starve",
+        "steam_appid": 219740,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Don’t Starve is an uncompromising wilderness survival game full of science and magic. Enter a strange and unexplored world full of strange creatures, dangers, and surprises. Gather resources to craft items and structures that match your survival style.",
+        "detailed_description": "<p class=\"bb_paragraph\" >Don’t Starve is an uncompromising wilderness survival game full of science and magic.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You play as Wilson, an intrepid Gentleman Scientist who has been trapped by a demon and transported to a mysterious wilderness world. Wilson must learn to exploit his environment and its inhabitants if he ever hopes to escape and find his way back home. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Enter a strange and unexplored world full of strange creatures, dangers, and surprises. Gather resources to craft items and structures that match your survival style. Play your way as you unravel the mysteries of this strange land.</p><h2 class=\"bb_tag\" >Key Features:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Uncompromising Survival &amp; World Exploration:</strong></p><p class=\"bb_paragraph\" >No instructions. No help. No hand holding. Start with nothing and craft, hunt, research, farm and fight to survive.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Dark and Whimsical Visuals:</strong></p><p class=\"bb_paragraph\" >2D characters and odd creatures inhabiting a unique 3D world. </p></li><li><p class=\"bb_paragraph\" ><strong>Randomly Generated New Worlds:</strong></p><p class=\"bb_paragraph\" >Want a new map? No problem! At any time you can generate a new living and breathing world that hates you and wants you to die. </p></li></ul>",
+        "developers": [
+            "Klei Entertainment"
+        ],
+        "publishers": [
+            "Klei Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 999,
+            "final": 999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$9.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 79,
+            "url": "https://www.metacritic.com/game/pc/dont-starve?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            }
+        ],
+        "recommendations": {
+            "total": 96210
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 23, 2013"
+        }
+    }
+}

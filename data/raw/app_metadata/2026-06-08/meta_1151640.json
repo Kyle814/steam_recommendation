@@ -1,0 +1,73 @@
+{
+    "ingested_at": "2026-06-08T20:03:12.221482",
+    "app_id": "1151640",
+    "metadata": {
+        "type": "game",
+        "name": "Horizon Zero Dawn™ Complete Edition",
+        "steam_appid": 1151640,
+        "required_age": "16",
+        "is_free": false,
+        "short_description": "Experience Aloy’s legendary quest to unravel the mysteries of a future Earth ruled by Machines. Use devastating tactical attacks against your prey and explore a majestic open world in this award-winning action RPG!",
+        "detailed_description": "EARTH IS OURS NO MORE<br />\r\n<br />\r\nExperience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines.<br />\r\n<br />\r\nAn outcast from her tribe, the young hunter fights to uncover her past, discover her destiny… and stop a catastrophic threat to the future.<br />\r\n<br />\r\nUnleash devastating, tactical attacks against unique Machines and rival tribes as you explore an open world teeming with wildlife and danger.<br />\r\n<br />\r\nHorizon Zero Dawn™ is a multi-award-winning action role-playing game – and this Complete Edition for PC includes the huge expansion The Frozen Wilds, featuring new lands, skills, weapons and Machines.<br />\r\n<br />\r\nINCLUDES:<br />\r\n• Horizon Zero Dawn<br />\r\n• The Frozen Wilds expansion<br />\r\n• Carja Storm Ranger Outfit and Carja Mighty Bow<br />\r\n• Carja Trader Pack<br />\r\n• Banuk Trailblazer Outfit and Banuk Culling Bow<br />\r\n• Banuk Traveller Pack<br />\r\n• Nora Keeper Pack<br />\r\n• Digital art book",
+        "developers": [
+            "Guerrilla"
+        ],
+        "publishers": [
+            "PlayStation Publishing LLC"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 95449
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "7 Aug, 2020"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "ingested_at": "2026-06-08T19:48:34.507134",
+    "app_id": "404790",
+    "metadata": {
+        "type": "game",
+        "name": "Godot Engine",
+        "steam_appid": 404790,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that you can focus on making games without having to reinvent the wheel.",
+        "detailed_description": "<h2 class=\"bb_tag\" >2D and 3D cross-platform game engine</h2><p class=\"bb_paragraph\" >Godot Engine is a feature-packed, cross-platform game engine to <strong>create 2D and 3D games</strong> from a unified interface. It provides a comprehensive set of common tools, so that you can focus on making games without having to reinvent the wheel. Games can be exported with one click to a number of platforms, including the major desktop platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as Web-based platforms and consoles.</p><h2 class=\"bb_tag\" >Free, open source and community-driven</h2><p class=\"bb_paragraph\" >Godot is completely free and open source under the very permissive MIT license. No strings attached, no royalties, nothing. <strong>Your game is yours</strong> down to the last line of engine code. Godot's development is fully independent and community-driven, empowering users to help shape their engine to match their expectations. It is supported by the Godot Foundation not-for-profit.</p>",
+        "developers": [
+            "Godot Engine"
+        ],
+        "publishers": [
+            "Godot Engine"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            }
+        ],
+        "genres": [
+            {
+                "id": "60",
+                "description": "Game Development"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Feb 23, 2016"
+        }
+    }
+}

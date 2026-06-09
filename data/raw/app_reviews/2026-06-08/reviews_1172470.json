@@ -1,0 +1,27 @@
+{
+    "ingested_at": "2026-06-08T19:27:02.120312",
+    "app_id": "1172470",
+    "review_count": 2,
+    "reviews": [
+        {
+            "review_id": "226736819",
+            "steam_id": "76561198091459004",
+            "playtime_minutes": 10619,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "locked all the legends i previously had but ok"
+        },
+        {
+            "review_id": "227414372",
+            "steam_id": "76561198411210674",
+            "playtime_minutes": 57029,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "♥♥♥♥♥♥♥♥ these devs"
+        }
+    ]
+}

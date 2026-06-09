@@ -1,0 +1,95 @@
+{
+    "ingested_at": "2026-06-08T19:32:16.169889",
+    "app_id": "251060",
+    "metadata": {
+        "type": "game",
+        "name": "Wargame: Red Dragon",
+        "steam_appid": 251060,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "The new reference in RTS at its best! The Wargame series returns to duty, larger, richer and more spectacular than ever before. In Wargame Red Dragon, you are engaged in a large-scale conflict where Western forces clash against the Communist bloc.",
+        "detailed_description": "<h1>Check out our new real-time strategy World War III battle simulator</h1><p></p><br><h1>About the Game</h1><strong>The new reference in RTS at its best!</strong><br><br>The Wargame series returns to duty, larger, richer and more spectacular than ever before. In Wargame Red Dragon, you are engaged in a large-scale conflict where Western forces clash against the Communist bloc.<br><br><i>1991: the two blocs confront each other in a new theater of war, Asia, joined by various other countries: Japan, China, North Korea, South Korea, Australia and New Zealand.</i><br><br>You command the military resources of all <strong>17 nations</strong> involved, assembling your fighting force from a phenomenal selection of <strong>1,450 units that have been meticulously reproduced from their source</strong>! Command tanks, planes, helicopters, <strong>new warships</strong> and amphibious units in intense battles of unequaled tactical depth. Master the relief of varied, ultra realistic battlefields, dominate the new maritime areas and rewrite history in a conflict that has been directed and designed in stunning detail by development studio Eugen Systems.<br><br>Wargame Red Dragon is thrilling in single-player mode with its <strong>new dynamic campaign system</strong>, and also offers an <strong>extensive multiplayer </strong>mode where <strong>up to 20 players</strong> can compete against each other simultaneously.",
+        "developers": [
+            "Eugen Systems"
+        ],
+        "publishers": [
+            "Eugen Systems"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 2999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$29.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 78,
+            "url": "https://www.metacritic.com/game/pc/wargame-red-dragon?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 15678
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 17, 2014"
+        }
+    }
+}

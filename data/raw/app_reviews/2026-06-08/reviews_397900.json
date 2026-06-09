@@ -1,0 +1,17 @@
+{
+    "ingested_at": "2026-06-08T19:58:08.124941",
+    "app_id": "397900",
+    "review_count": 1,
+    "reviews": [
+        {
+            "review_id": "218465239",
+            "steam_id": "76561198064558759",
+            "playtime_minutes": 214,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good but poor connection"
+        }
+    ]
+}

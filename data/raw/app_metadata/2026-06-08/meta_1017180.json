@@ -1,0 +1,80 @@
+{
+    "ingested_at": "2026-06-08T19:20:48.490234",
+    "app_id": "1017180",
+    "metadata": {
+        "type": "game",
+        "name": "The Long Drive",
+        "steam_appid": 1017180,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Random generated open world semi-post apocalyptic survival car driving game.",
+        "detailed_description": "<h1>Coop/Multiplayer Current State</h1><p></p><br><h1>Few videos you may want to watch</h1><p><br><br><br></p><br><h1>About the Game</h1>This is a <strong>road trip</strong> game in an almost <strong>infinite</strong> random generated <strong>desert</strong>. The focus is on <strong>freedom</strong>, <strong>driving</strong>, <strong>exploration</strong> and <strong>immersion</strong>. It has <strong>minimal</strong> car <strong>maintenance</strong> and <strong>survival</strong> elements.<h2 class=\"bb_tag\" >Infinite Desert, Freedom and Driving:</h2><br>There are <strong>no invisible walls</strong> or <strong>unable to jump over</strong> small fences, or <strong>blinking red &quot;wrong direction&quot; signs</strong> on the hud. The car won't need <i>10-20</i> liter <strong>fuel</strong> over just only a <strong>few hundred meters</strong>, with a full tank, you could go approximately <strong><i>500</i> kilometers</strong>. If you see a <strong>distant big mountain</strong>, you can <strong>go there</strong> and if you are capable, you can climb it. If you don't like where the <strong>mirrors</strong> are facing you can <strong>adjust</strong> them however you want or <strong>throw</strong> them away while driving at <strong>full speed</strong>. If you want to <strong>lean</strong> out of the car, or closer to the radio or near anything, <i>you can</i>.",
+        "developers": [
+            "Genesz"
+        ],
+        "publishers": [
+            "Genesz"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1599,
+            "final": 1599,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$15.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "70",
+                "description": "Early Access"
+            }
+        ],
+        "recommendations": {
+            "total": 48808
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 25, 2019"
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "ingested_at": "2026-06-08T18:54:40.024622",
+    "app_id": "500",
+    "metadata": {
+        "type": "game",
+        "name": "Left 4 Dead",
+        "steam_appid": 500,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "From Valve (the creators of Counter-Strike, Half-Life and more) comes Left 4 Dead, a co-op action horror game for the PC and Xbox 360 that casts up to four players in an epic struggle for survival against swarming zombie hordes and terrifying mutant monsters.",
+        "detailed_description": "From Valve (the creators of Counter-Strike, Half-Life and more) comes Left 4 Dead, a co-op action horror game for the PC and Xbox 360 that casts up to four players in an epic struggle for survival against swarming zombie hordes and terrifying mutant monsters.<br><br>Set in the immediate aftermath of the zombie apocalypse, L4D's survival co-op mode lets you blast a path through the infected in four unique “movies,” guiding your survivors across the rooftops of an abandoned metropolis, through rural ghost towns and pitch-black forests in your quest to escape a devastated Ground Zero crawling with infected enemies. Each &quot;movie&quot; is comprised of five large maps, and can be played by one to four human players, with an emphasis on team-based strategy and objectives.  <br><br>New technology dubbed &quot;the AI Director&quot; is used to generate a unique gameplay experience every time you play. The Director tailors the frequency and ferocity of the zombie attacks to your performance, putting you in the middle of a fast-paced, but not overwhelming, Hollywood horror movie. <br><br><ul class=\"bb_ul\"><li>Addictive single player, co-op, and multiplayer action gameplay from the makers of Counter-Strike and Half-Life                    <br>\t\t\t\t\t</li><li>Versus Mode lets you compete four-on-four with friends, playing as a human trying to get rescued, or as a zombie boss monster that will stop at nothing to destroy them.<br>\t\t\t\t\t</li><li>See how long you and your friends can hold out against the infected horde in the new Survival Mode<br>\t\t\t\t\t</li><li>An advanced AI director dynamically creates intense and unique experiences every time the game is played                     <br>\t\t\t\t\t</li><li>20 maps, 10 weapons and unlimited possibilities in four sprawling &quot;movies&quot;                     <br>\t\t\t\t\t</li><li>Matchmaking, stats, rankings, and awards system drive collaborative play                     <br>\t\t\t\t\t</li><li>Designer's Commentary allows gamers to go &quot;behind the scenes&quot; of the game                     <br>\t\t\t\t\t</li><li>Powered by Source and Steam                     </li></ul><h2 class=\"bb_tag\" >THE SACRIFICE</h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://cdn.akamai.steamstatic.com/steam/apps/550/extras/pageRibbon.jpg\" /></span>&quot;The Sacrifice” is  the new add-on for Left 4 Dead.<br><br>&quot;The Sacrifice&quot; is the prequel to &quot;The Passing,&quot; and takes place from the L4D Survivors' perspective as they make their way South. In addition to advancing the story, &quot;The Sacrifice&quot; introduces a new style finale featuring &quot;Sacrificial Gameplay&quot; where players get to decide who will give their life so the others may live.<br><br>In The Sacrifice for Left 4 Dead owners receive &quot;The Sacrifice&quot; campaign playable in Campaign, Versus,  and Survival modes.",
+        "developers": [
+            "Valve"
+        ],
+        "publishers": [
+            "Valve"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 999,
+            "final": 999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$9.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 89,
+            "url": "https://www.metacritic.com/game/pc/left-4-dead?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 8,
+                "description": "Valve Anti-Cheat enabled"
+            },
+            {
+                "id": 15,
+                "description": "Stats"
+            },
+            {
+                "id": 25,
+                "description": "Steam Leaderboards"
+            },
+            {
+                "id": 16,
+                "description": "Includes Source SDK"
+            },
+            {
+                "id": 14,
+                "description": "Commentary available"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 57032
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 17, 2008"
+        }
+    }
+}

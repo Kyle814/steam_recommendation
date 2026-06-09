@@ -1,0 +1,167 @@
+{
+    "ingested_at": "2026-06-08T18:47:07.962923",
+    "app_id": "275850",
+    "metadata": {
+        "type": "game",
+        "name": "No Man's Sky",
+        "steam_appid": 275850,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "No Man's Sky is a game about exploration and survival in an infinite procedurally generated universe.",
+        "detailed_description": "<p class=\"bb_paragraph\" >Inspired by the adventure and imagination that we love from classic science-fiction, No Man's Sky presents you with a galaxy to explore, filled with unique planets and lifeforms, and constant danger and action. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In No Man's Sky, every star is the light of a distant sun, each orbited by planets filled with life, and you can go to any of them you choose. Fly smoothly from deep space to planetary surfaces, with no loading screens, and no limits. In this infinite procedurally generated universe, you'll discover places and creatures that no other players have seen before - and perhaps never will again. </p><h2 class=\"bb_tag\" >Now including...</h2><p class=\"bb_paragraph\" >Play with all major updates since launch: Foundation, Pathfinder, Atlas Rises, NEXT, The Abyss, Visions, the 2.0 BEYOND update, Synthesis, Living Ship, Exo Mech, Desolation and the 3.0 update, ORIGINS, Next Generation, Companions, Expeditions, Prisms, Frontiers, Sentinel, Outlaws, Endurance, Waypoint (4.0),  Fractal, Interceptor, Echoes, Omega, Orbital, Worlds Part I (5.0), Worlds Part II, Relics, Beacon, VOYAGERS (6.0), Remnant, Xeno Arena and The Swarm.</p><p class=\"bb_paragraph\" >And now with added <strong>Cross-Save</strong>! No Man’s Sky now supports <strong>Cross-Play</strong> and <strong>Cross-Save</strong> between a huge number of platforms including PC, PlayStation 4, PlayStation 5, PlayStation 5 Pro, Xbox One and Series X/S, Game Pass, GOG, Nintendo Switch, Steam Deck, PlayStation VR 1 &amp; 2 and PCVR.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Available for PC and Mac (see recommended and minimum specs for details). </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >An epic voyage to the centre of a shared universe awaits, allowing you to explore, trade, fight and survive alone or with friends. </p><h2 class=\"bb_tag\" >Embark on an epic voyage</h2><p class=\"bb_paragraph\" >At the centre of the galaxy lies an irresistible pulse which draws you on a journey towards it to learn the true nature of the cosmos. But, facing hostile creatures and fierce pirates, you'll know that death comes at a cost, and survival will be down to the choices you make over how you upgrade your ship, your weapon and suit.  </p><h2 class=\"bb_tag\" >Find your own destiny</h2><p class=\"bb_paragraph\" >Your voyage through No Man's Sky is up to you. Will you be a fighter, preying on the weak and taking their riches, or taking out pirates for their bounties? Power is yours if you upgrade your ship for speed and weaponry. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Or a trader? Find rich resources on forgotten worlds and exploit them for the highest prices. Invest in more cargo space and you'll reap huge rewards. </p><p class=\"bb_paragraph\" >Or perhaps an explorer? Go beyond the known frontier and discover places and things that no one has ever seen before. Upgrade your engines to jump ever farther, and strengthen your suit for survival in toxic environments that would kill the unwary. </p><h2 class=\"bb_tag\" >Share your journey</h2><p class=\"bb_paragraph\" >The galaxy is a living, breathing place. Trade convoys travel between stars, factions vie for territory, pirates hunt the unwary, and the police are ever watching. Every other player lives in the same galaxy, and you can choose to share your discoveries with them on a map that spans known space. Perhaps you will see the results of their actions as well as your own...</p>",
+        "developers": [
+            "Hello Games"
+        ],
+        "publishers": [
+            "Hello Games"
+        ],
+        "price_overview": {
+            "currency": "CAD",
+            "initial": 7799,
+            "final": 7799,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "CDN$ 77.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 61,
+            "url": "https://www.metacritic.com/game/pc/no-mans-sky?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 52,
+                "description": "Tracked Controller Support"
+            },
+            {
+                "id": 53,
+                "description": "VR Supported"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 72,
+                "description": "Chat Speech-to-text"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 65,
+                "description": "Subtitle Options"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 307923
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "12 Aug, 2016"
+        }
+    }
+}

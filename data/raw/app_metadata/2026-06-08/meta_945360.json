@@ -1,0 +1,111 @@
+{
+    "ingested_at": "2026-06-08T19:13:40.217398",
+    "app_id": "945360",
+    "metadata": {
+        "type": "game",
+        "name": "Among Us",
+        "steam_appid": 945360,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "An online and local party game of teamwork and betrayal for 4-15 players...in space!",
+        "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/extras/6bbe13c19eac2f3aeaadddbc7bb40fdc.avif?t=1757444903\" width=620 height=330 /></span><br><br>Play with 4-15 player online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone!<br><br>Originally created as a party game, we recommend playing with friends at a LAN party or online using voice chat. Enjoy cross-platform play between Android, iOS, PC, and console.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/extras/76bef22d1af309e719a8f2b578ef63dc.avif?t=1757444903\" width=600 height=124 /></span><br><ul class=\"bb_ul\"><li> Win by completing tasks to prepare the ship or ejecting all Impostors.<br></li><li> React quickly to undo the Impostor's sabotages.<br></li><li> Check the Admin map and Security cameras to keep tabs on other Crewmates.<br></li><li> Report any dead bodies immediately to start discussion of who the suspected Impostor is.<br></li><li> Call emergency meetings to discuss suspicious behavior.<br></li><li> Vote to eject suspected Impostors.</li></ul><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/extras/a00136b10c71226d0cb43d07d88efbf7.avif?t=1757444903\" width=600 height=125 /></span><br><ul class=\"bb_ul\"><li> Kill Crewmates and frame bystanders.<br></li><li> Pretend to run tasks to blend in with the crewmates.<br></li><li> Sneak through the vents to quickly move about the ship.<br></li><li> Use sabotages to cause chaos and divide the crew.<br></li><li> Close doors to trap victims and kill in private.</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/extras/c2ae1f9084de411d71d9c73d345d9622.avif?t=1757444903\" width=600 height=315 /></span><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Customization: Pick your color, hat, visor, skin, and pet.<br></li><li> Lots of game options: Add more Impostors, more tasks, different roles, and so much more!<br></li><li> Different modes to choose from: Classic or Hide n Seek. <br></li><li> 4 different maps to play in: The Skeld, MIRA HQ, Polus, and the Airship.<br></li><li> Quickly find a game online from the host list.<br></li><li> In-game text chat.<br></li><li> Rich Discord integration.<br></li><li> Cross-platform play between PC, console, Android, and iOS!</li></ul>",
+        "developers": [
+            "Innersloth"
+        ],
+        "publishers": [
+            "Innersloth"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 499,
+            "final": 299,
+            "discount_percent": 40,
+            "initial_formatted": "$4.99",
+            "final_formatted": "$2.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 85,
+            "url": "https://www.metacritic.com/game/pc/among-us?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 47,
+                "description": "LAN PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 48,
+                "description": "LAN Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "4",
+                "description": "Casual"
+            }
+        ],
+        "recommendations": {
+            "total": 644422
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 16, 2018"
+        }
+    }
+}

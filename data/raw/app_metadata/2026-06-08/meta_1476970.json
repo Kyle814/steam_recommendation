@@ -1,0 +1,91 @@
+{
+    "ingested_at": "2026-06-08T20:04:57.778099",
+    "app_id": "1476970",
+    "metadata": {
+        "type": "game",
+        "name": "IdleOn",
+        "steam_appid": 1476970,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "The management RPG where your heroes keep fighting even when you're gone! Spend their loot on upgrades, unlock classes from Elemental Wizard to Cannon Pirate, and level up 19 unique skills like Farming, Sailing, and even Construction!",
+        "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/31600282221af3fb58f34d0323e8bbd5.poster.avif?t=1776472527\" width=600 height=231 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/31600282221af3fb58f34d0323e8bbd5.webm?t=1776472527\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/c40dc38e20e9520a1e08f2aa93d46328.poster.avif?t=1776472527\" width=598 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/c40dc38e20e9520a1e08f2aa93d46328.webm?t=1776472527\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/c40dc38e20e9520a1e08f2aa93d46328.mp4?t=1776472527\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/115e535b9acfe36c537d017effe1109e.poster.avif?t=1776472527\" width=598 height=113 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/115e535b9acfe36c537d017effe1109e.webm?t=1776472527\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/758e1f7b33f5eb8dd0bf409c9a85a0a4.poster.avif?t=1776472527\" width=598 height=294 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/758e1f7b33f5eb8dd0bf409c9a85a0a4.webm?t=1776472527\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/758e1f7b33f5eb8dd0bf409c9a85a0a4.mp4?t=1776472527\" type=\"video/mp4\"></video></span> </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/6033a6436ca0f8c5140bbbf9d90d312a.poster.avif?t=1776472527\" width=106 height=148 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/6033a6436ca0f8c5140bbbf9d90d312a.webm?t=1776472527\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/bc3d22894ef6fd3b7147500af21a2f16.apng?t=1776472527\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/bc3d22894ef6fd3b7147500af21a2f16.poster.avif?t=1776472527\" class=\"bb_img\" width=100 height=116 /></picture></span> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/e974a0dd269ffc8e35b62d06058d0c7d.poster.avif?t=1776472527\" width=152 height=120 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/e974a0dd269ffc8e35b62d06058d0c7d.webm?t=1776472527\" type=\"video/webm; codecs=vp9\"></video></span> <span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/43b5836e32f1828dd2cbe6075bc3b89f.apng?t=1776472527\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/43b5836e32f1828dd2cbe6075bc3b89f.poster.avif?t=1776472527\" class=\"bb_img\" width=138 height=104 /></picture></span> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/d52605cd841307d02d35c3465d6500f6.poster.avif?t=1776472527\" width=72 height=88 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/d52605cd841307d02d35c3465d6500f6.webm?t=1776472527\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/077ff129a100debb95d8c18045a8f5d3.apng?t=1776472527\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/077ff129a100debb95d8c18045a8f5d3.poster.avif?t=1776472527\" class=\"bb_img\" width=609 height=295 /></picture></span></p><p class=\"bb_paragraph\" ><strong>I'm LavaFlame2, the developer of IdleOn!<br>Come join me over at  I host Free Gem Contests, post about Future Content, and we have 100,000+ members who love chatting and helping others through the game!</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/811aae38bde629112e26e81bd78a5981.avif?t=1776472527\" width=598 height=70 /></span></p>",
+        "developers": [
+            "Lavaflame2"
+        ],
+        "publishers": [
+            "Lavaflame2"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            }
+        ],
+        "genres": [
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 6, 2025"
+        }
+    }
+}

@@ -1,0 +1,647 @@
+{
+    "ingested_at": "2026-06-08T19:33:35.946115",
+    "app_id": "933110",
+    "review_count": 64,
+    "reviews": [
+        {
+            "review_id": "225120046",
+            "steam_id": "76561199052180840",
+            "playtime_minutes": 99661,
+            "voted_up": true,
+            "votes_up": 34,
+            "weighted_score": 0.7646607160568237,
+            "steam_purchase": true,
+            "review_text": "This is the funniest, the most creative and complex game of the franchise. Abandoning their players with no patches, no support and no new DLCs was just the dumbest thing Microsoft ever did to a game."
+        },
+        {
+            "review_id": "225234366",
+            "steam_id": "76561199090750492",
+            "playtime_minutes": 13426,
+            "voted_up": true,
+            "votes_up": 15,
+            "weighted_score": 0.6853165030479431,
+            "steam_purchase": true,
+            "review_text": "This is the best game of all the Age of Empires. Graphics and physics are the best, the ability to be unique and \"theory craft\" decks. I think the developers suck for ending support for this game. No more updates or bug fixes. I also Play AOE 4 and its also very good. but some major points that entirely suck are the siege in AOE 4.... 100% dumpsters. how can you go from what it is in AOE 3 to what they are now in AOE 4. entirely lame and not cool at all. AOE 4 has a fluid like playability to it, and that is nice. Also some uniqueness to each civ, but the decks are in my opinion a huge part of the creativity and fun within the game. and not to mention the small consistent shots of dopamine when you earn a shipment throughout entire match. AOE 4 is good, but AOE 3 is king, and i think they should be using this as a template for any further xpaks. the siege.. cmon man.. how do u drop the ball like that. thats literally my only gripe abt 4. its good, just not as good as 3, and any chance i get, i will repeat myself until theres an army of us and we can revolt and have 3 back with continued support and as a baseline for any new content going forward. this game rocks. buy it, install it. show em they made a mistake buy ending support for this one."
+        },
+        {
+            "review_id": "226201222",
+            "steam_id": "76561198042614175",
+            "playtime_minutes": 790,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5373396873474121,
+            "steam_purchase": true,
+            "review_text": "classic game sprinkled with history and real life facts"
+        },
+        {
+            "review_id": "227352066",
+            "steam_id": "76561198182860485",
+            "playtime_minutes": 4799,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "I'm only interested in single player and it's the sole reason I bought it.\n\nPersonally I found Asian campaigns best part of solo experiences for experienced rts players. On high difficulty it's challenging without being frustrating or making you lose for a totally random ♥♥♥♥.\nAnd first three campaigns are also fine.\n\n\nBut fire and shadows :\nStory wise half baked and games-play difficulty curve makes zero sense. Apparently they changed it in this edition to  make it historically \"accurate\"."
+        },
+        {
+            "review_id": "227236903",
+            "steam_id": "76561199886598639",
+            "playtime_minutes": 6009,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Dating myself when I say I first played the original AOEIII on a demo CD that came in a computer magazine. I was immediately hooked, and I got the full game that Christmas. Played it for years and loved it. \r\n\r\nI recently discovered this updated version on Steam for a good price, and I was blown away by how much more content there is compared to the original. The gameplay and art style are true to the original, with improved graphics and so many more nations and maps. The variety is stunning. I also appreciate the cultural sensitivity embedded in the game, but it fundamentally glorifies colonialism an g*enocide, so this is something you want to discuss with kids before they play it.  \r\n\r\nIt runs great on my semi-modern PC with a real graphics card; I also tried it on a mini PC with integrated graphics (i7-10700), but it struggled on the lowest settings."
+        },
+        {
+            "review_id": "227166385",
+            "steam_id": "76561199816695693",
+            "playtime_minutes": 6056,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Came for the history, stayed for the cannon spam. Also, my villagers work harder than I do. Great game."
+        },
+        {
+            "review_id": "226910660",
+            "steam_id": "76561198059355033",
+            "playtime_minutes": 553,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A weird entry personally for the AoE family, but still a recommend. Definitely quicker gameplay all around. Ship combat is kind of wonky, but still a great entry if you wanted a quickened pace for AoE."
+        },
+        {
+            "review_id": "226762400",
+            "steam_id": "76561198063075392",
+            "playtime_minutes": 9449,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Core memory, core RTS game of any age. Well done, and thank you for such a game."
+        },
+        {
+            "review_id": "226283163",
+            "steam_id": "76561198011465790",
+            "playtime_minutes": 426,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Value for money game with very smooth gameplay and interesting mechanics. I especially like the voiced and campaign with animations."
+        },
+        {
+            "review_id": "226117759",
+            "steam_id": "76561199168204883",
+            "playtime_minutes": 6073,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game. As always the AOE Definitive Edition's are amazing, so much new content."
+        },
+        {
+            "review_id": "226014127",
+            "steam_id": "76561198904513558",
+            "playtime_minutes": 98061,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love this game, it's been a classic and a way for me to numb out the stress of life while focusing on aging up my empire. <3 My dad started me on the OG over 25 years ago and I'm still enjoying this game years later. RIP Pops <3"
+        },
+        {
+            "review_id": "225960281",
+            "steam_id": "76561198074079772",
+            "playtime_minutes": 3503,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of my all time favorites. Played the original all the time and really enjoy this one as well. \r\n\r\nIf you like RTS games, then this one is a must have since its unique in that it covers an era of history not often touched on by other games."
+        },
+        {
+            "review_id": "225889360",
+            "steam_id": "76561197977909655",
+            "playtime_minutes": 4756,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Still so much fun in 2026 - blasting infantry with artillery never gets old.  The colonial time period is the best.  Highly recommend!"
+        },
+        {
+            "review_id": "225610776",
+            "steam_id": "76561198128500138",
+            "playtime_minutes": 780,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "weew runs on potato pc too. great game, alot different from aoe4 n aom. worth every penny and try to get dlc thats even better."
+        },
+        {
+            "review_id": "225522097",
+            "steam_id": "76561198111997501",
+            "playtime_minutes": 41447,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Best game mechanics and graphics in RTS"
+        },
+        {
+            "review_id": "225163553",
+            "steam_id": "76561198301318959",
+            "playtime_minutes": 73164,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is a do-or-die game!\r\nYour victory depends on the team you're with. If it's a cooperative and disciplined team, you'll undoubtedly achieve victory   - Inşallah - !!"
+        },
+        {
+            "review_id": "225389528",
+            "steam_id": "76561198054501469",
+            "playtime_minutes": 180,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.484496146440506,
+            "steam_purchase": true,
+            "review_text": "Age of Empires II's lesser successor. It's good, but not great."
+        },
+        {
+            "review_id": "225420519",
+            "steam_id": "76561198763402630",
+            "playtime_minutes": 167,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.45517241954803467,
+            "steam_purchase": true,
+            "review_text": "I thought I'll enjoy the game more than I did when it came out back in the day but I face the same problem, like I don't feel any pleasure when playing it. It doesn't have the same soul as Age of Empires II. I dislike the point of view, the dark graphics, the campaigns and even the civs of this one. I even regret buying it and it's too late for a refund. And the additional content and DLC are too much. Trying to compensate those weaknesses and bad style but I prefer quality over quantity 100%. :/"
+        },
+        {
+            "review_id": "226185342",
+            "steam_id": "76561198339517622",
+            "playtime_minutes": 74,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4545454680919647,
+            "steam_purchase": true,
+            "review_text": "if you have the original game I don't see any point in buying this & strongly encourage nobody that does. \nthe updated graphics are gross, they take a game that was ageing gracefully & poorly insert a new style that highlights all the ways the game looks bad, makes it less clear to see whats happening & finally somehow makes the game more than 10 times the original size! \nthe new game-modes also don't offer much, having the option for more teams is theoretically nice but doesn't really improve the game for me. its just far more fun playing on the original version\n\n(original aoe3)"
+        },
+        {
+            "review_id": "225954737",
+            "steam_id": "76561199064746863",
+            "playtime_minutes": 278,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Although I've played Age of Empires I and II D.E., I like the new challenges of III and I am sure that anyone who has played I and II will enjoy II and find it challenging!"
+        },
+        {
+            "review_id": "227304290",
+            "steam_id": "76561198164613732",
+            "playtime_minutes": 10460,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Step 1: Get into a Skirmish Game with Diplomacy ON\r\nStep 2: Give tribute to every AI opponent and make them an ally\r\nStep 3: Send your hero to capture every tribe/trading post\r\nStep 4: Build the Great wall of <insert civilization name here>\r\nStep 5: Extend the Great wall to enclose the map into divisions.\r\nStep 6: Ensure each ally (player) owns only one complete division\r\nStep 7: Command them to focus on defense and build units.\r\nStep 8: Enter your army in the first division. Teach them freedom by telling them they can't handle their resources. Snatch it all\r\nStep 9: Repeat until all divisons only show one star (hero) each, be the hero of the day by giving them heft tributes to build up.\r\nStep 10: Repeat the loop until your wife comes back home\r\nStep 11: Accept everyone's surrender and enjoy looking at the stats.\r\n\r\n20/10 would recommend"
+        },
+        {
+            "review_id": "226914851",
+            "steam_id": "76561198009629342",
+            "playtime_minutes": 638,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A classic and must play for RTS fans"
+        },
+        {
+            "review_id": "225240565",
+            "steam_id": "76561199770064427",
+            "playtime_minutes": 6496,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Childhood memories, great soundtrack and sandboxy feeling that i love!\r\n"
+        },
+        {
+            "review_id": "225714867",
+            "steam_id": "76561198974039891",
+            "playtime_minutes": 56,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5683453679084778,
+            "steam_purchase": true,
+            "review_text": "The black sheep of the franchise has evolved into a spectacular, gunpowder-infused modern masterpiece.\n\nFor years, Age of Empires III lived in the massive shadow of its older brother, often criticized by purists for drifting away from medieval sword fights into the gunpowder-heavy era of colonial expansion. However, Age of Empires III: Definitive Edition proves that its unique, bold ideas were simply ahead of their time. Tantalus Media and Forgotten Empires delivered a stunning 4K Ultra HD visual overhaul, completely rebuilt 3D assets, and a beautifully remastered soundtrack. The physics engine here is spectacular; watching cannonballs realistically tear through stone walls, send infantry flying, and smash pirate ships into wooden splinters offers a level of cinematic, battlefield chaos that no other entry in the franchise can match.\n\nThe core gameplay loop is a radical, high-adrenaline departure from traditional RTS mechanics, defined by the brilliant and fast-paced Home City Card Deck system. Instead of just harvesting resources on the map, you customize a deck of shipments before the match, allowing your capital city to send down crucial military reinforcements, economic crates, or game-changing technologies right when you need them most. Combined with the addition of dynamic map objectives like trading posts and native alliances, the game plays out at a much faster, more aggressive clip. The civilizational asymmetry is incredibly deep here; playing as the highly mobile, mercenary-heavy Swedes feels like a completely different video game compared to managing the defensive, macro-heavy Inca.\n\nUltimately, this definitive remaster secures the third game's rightful spot as a phenomenal strategy game in its own right. It bundles all original expansions alongside brand-new civilizations, a highly polished multiplayer infrastructure, and excellent \"Art of War\" challenge missions to teach you the mechanical ropes. It gracefully sheds the historical insensitivities of the original release and leans entirely into what made it fun: loud cannons, massive fortress sieges, and an immensely satisfying level of customization. For anyone tired of the standard medieval RTS formula, this is a loud, chaotic, and beautifully polished \"no-brainer\" classic that demands to be played.\n\n10/10 — I customized an absolute meme-deck of shipment cards, ordered 20 exploding fire hoops to the front lines, and accidentally blew up an entire cavalry charge. Pure satisfaction."
+        },
+        {
+            "review_id": "226445923",
+            "steam_id": "76561198211007777",
+            "playtime_minutes": 10154,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "please continue development of this game, it deserves so much more love!"
+        },
+        {
+            "review_id": "226909419",
+            "steam_id": "76561198165355417",
+            "playtime_minutes": 24958,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good game to just play after work against hard PCs in a skirmish game"
+        },
+        {
+            "review_id": "227434208",
+            "steam_id": "76561198399650985",
+            "playtime_minutes": 70359,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Awesome game, that just got screwed over by the management, Its so unique as an RTS not only in its  chosen setting - time period, but also the deck system is a stellar innovation to spruce up and deepen the strategy and replayability, I just always find myself coming back to this game, and with enough hope the devs might even renew support"
+        },
+        {
+            "review_id": "225265194",
+            "steam_id": "76561199474936337",
+            "playtime_minutes": 1481,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "brings back the nostalgic feel of OG AOE 3 + new civilization"
+        },
+        {
+            "review_id": "226876649",
+            "steam_id": "76561198011031951",
+            "playtime_minutes": 1166,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Game good, def recommend buy at full price or on sale!"
+        },
+        {
+            "review_id": "226083999",
+            "steam_id": "76561198436126976",
+            "playtime_minutes": 21507,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Steam is ♥♥♥♥♥♥♥ ♥♥♥♥ for this game\r\n"
+        },
+        {
+            "review_id": "225318812",
+            "steam_id": "76561198313536615",
+            "playtime_minutes": 1812,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5199999809265137,
+            "steam_purchase": true,
+            "review_text": "wish more people played this one. I luv it"
+        },
+        {
+            "review_id": "226545144",
+            "steam_id": "76561199242507773",
+            "playtime_minutes": 9157,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49182966351509094,
+            "steam_purchase": true,
+            "review_text": "GG but don't ever try to complete the archivement"
+        },
+        {
+            "review_id": "226914495",
+            "steam_id": "76561199833023367",
+            "playtime_minutes": 402,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Really well done reverb of the old game"
+        },
+        {
+            "review_id": "226900201",
+            "steam_id": "76561198087916284",
+            "playtime_minutes": 6042,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is the game that made me want to get a PC"
+        },
+        {
+            "review_id": "225397883",
+            "steam_id": "76561199465958207",
+            "playtime_minutes": 4200,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good game great memories."
+        },
+        {
+            "review_id": "226197829",
+            "steam_id": "76561198263314017",
+            "playtime_minutes": 4949,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great game for thinkers"
+        },
+        {
+            "review_id": "225419581",
+            "steam_id": "76561199050521219",
+            "playtime_minutes": 70228,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Best RTS game of all time"
+        },
+        {
+            "review_id": "227414692",
+            "steam_id": "76561198005017845",
+            "playtime_minutes": 349,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Classic old game."
+        },
+        {
+            "review_id": "226811222",
+            "steam_id": "76561199068098124",
+            "playtime_minutes": 2304,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good game"
+        },
+        {
+            "review_id": "226354568",
+            "steam_id": "76561199062499726",
+            "playtime_minutes": 10624,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "yes, very fun"
+        },
+        {
+            "review_id": "225997689",
+            "steam_id": "76561198316027024",
+            "playtime_minutes": 298,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great game"
+        },
+        {
+            "review_id": "225556444",
+            "steam_id": "76561198050000725",
+            "playtime_minutes": 2567,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good"
+        },
+        {
+            "review_id": "225451277",
+            "steam_id": "76561198771872179",
+            "playtime_minutes": 362,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It is very customizable"
+        },
+        {
+            "review_id": "226572315",
+            "steam_id": "76561198277502300",
+            "playtime_minutes": 188,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49182966351509094,
+            "steam_purchase": true,
+            "review_text": "good game"
+        },
+        {
+            "review_id": "226496623",
+            "steam_id": "76561199433558161",
+            "playtime_minutes": 18473,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49182966351509094,
+            "steam_purchase": true,
+            "review_text": "Great game"
+        },
+        {
+            "review_id": "226994626",
+            "steam_id": "76561198017284178",
+            "playtime_minutes": 1441,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "love it"
+        },
+        {
+            "review_id": "226346197",
+            "steam_id": "76561199445010313",
+            "playtime_minutes": 32852,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the rts goat"
+        },
+        {
+            "review_id": "225970902",
+            "steam_id": "76561198068141588",
+            "playtime_minutes": 1320,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun"
+        },
+        {
+            "review_id": "227484728",
+            "steam_id": "76561198827053636",
+            "playtime_minutes": 767030,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Interesting ."
+        },
+        {
+            "review_id": "225087427",
+            "steam_id": "76561199517757909",
+            "playtime_minutes": 58684,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Been playing for 5 years."
+        },
+        {
+            "review_id": "225960958",
+            "steam_id": "76561198089922935",
+            "playtime_minutes": 2411,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "goated, theres no way"
+        },
+        {
+            "review_id": "226457108",
+            "steam_id": "76561198324140687",
+            "playtime_minutes": 1434,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's great"
+        },
+        {
+            "review_id": "225540532",
+            "steam_id": "76561198362826522",
+            "playtime_minutes": 601,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "amazing"
+        },
+        {
+            "review_id": "226558435",
+            "steam_id": "76561198360072156",
+            "playtime_minutes": 4395,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49182966351509094,
+            "steam_purchase": true,
+            "review_text": "keshappa  wena"
+        },
+        {
+            "review_id": "227255300",
+            "steam_id": "76561198757217620",
+            "playtime_minutes": 957,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its fun"
+        },
+        {
+            "review_id": "226652290",
+            "steam_id": "76561198328851110",
+            "playtime_minutes": 3340,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49182966351509094,
+            "steam_purchase": true,
+            "review_text": "Time suck"
+        },
+        {
+            "review_id": "226155822",
+            "steam_id": "76561198116948374",
+            "playtime_minutes": 23400,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Yeah, I mean, yeah"
+        },
+        {
+            "review_id": "226865905",
+            "steam_id": "76561198046293851",
+            "playtime_minutes": 1779,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Goated."
+        },
+        {
+            "review_id": "226436196",
+            "steam_id": "76561198768196925",
+            "playtime_minutes": 1563,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i will never get boared of this game even if i keep losing to my unc"
+        },
+        {
+            "review_id": "225281640",
+            "steam_id": "76561197963743500",
+            "playtime_minutes": 190849,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "i think i like it"
+        },
+        {
+            "review_id": "225116824",
+            "steam_id": "76561198033847004",
+            "playtime_minutes": 743,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "NOTHING"
+        },
+        {
+            "review_id": "226005253",
+            "steam_id": "76561198273908613",
+            "playtime_minutes": 1160,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "yes"
+        },
+        {
+            "review_id": "226939817",
+            "steam_id": "76561198168511749",
+            "playtime_minutes": 2516,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fire"
+        },
+        {
+            "review_id": "225276254",
+            "steam_id": "76561199697717406",
+            "playtime_minutes": 12910,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "mn,m"
+        }
+    ]
+}

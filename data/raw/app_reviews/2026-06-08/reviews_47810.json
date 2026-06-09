@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T18:42:04.670115",
+    "app_id": "47810",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "225869516",
+            "steam_id": "76561198188710555",
+            "playtime_minutes": 4342,
+            "voted_up": false,
+            "votes_up": 27,
+            "weighted_score": 0.7404152750968933,
+            "steam_purchase": true,
+            "review_text": "*WARNING* Fantastic game. Cannot recommend now as the game is broken without a third party fix. Buy the GOG version. EA is the worst."
+        },
+        {
+            "review_id": "225895781",
+            "steam_id": "76561199487749417",
+            "playtime_minutes": 13640,
+            "voted_up": true,
+            "votes_up": 12,
+            "weighted_score": 0.6808510422706604,
+            "steam_purchase": true,
+            "review_text": "Unplayable as is. You will need to modify DirectX, download external patches and software, and heavily modify graphics settings in and outside of the game (Youtube videos and reddit threads will need to be tracked down for details). \n\nIt's alot of work and effort to make a paid game function, but the game itself is amazing."
+        },
+        {
+            "review_id": "225327579",
+            "steam_id": "76561198067509348",
+            "playtime_minutes": 5,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5582329630851746,
+            "steam_purchase": true,
+            "review_text": "Astounding game, don't pass it up, but DO NOT play it on Steam. The GOG version is much more stable on modern Windows."
+        },
+        {
+            "review_id": "226929991",
+            "steam_id": "76561198404169156",
+            "playtime_minutes": 14,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.54356849193573,
+            "steam_purchase": true,
+            "review_text": "I couldn't even launch the game.  Hard to give a good review to a game that won't even launch."
+        },
+        {
+            "review_id": "227300320",
+            "steam_id": "76561198259504426",
+            "playtime_minutes": 3276,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.541284441947937,
+            "steam_purchase": true,
+            "review_text": "Unplayeble as of 2026. Constant crashes on loading. If you do manage to load there are lots of texture issues. Get it on GOG or hoist the colors."
+        },
+        {
+            "review_id": "225847621",
+            "steam_id": "76561197995749775",
+            "playtime_minutes": 1893,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5409541130065918,
+            "steam_purchase": true,
+            "review_text": "This game is a classic. It does require a couple of mods to run properly."
+        },
+        {
+            "review_id": "226810292",
+            "steam_id": "76561198374227998",
+            "playtime_minutes": 11959,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.53125,
+            "steam_purchase": true,
+            "review_text": "Very great game, and very often crashes too. Some outside help may help stabilize it during long sessions. As for the RPG elements this is well done, I can see the obvious Baldur's Gate I and II influence throughout, which is fitting since BioWare years ago made the first two games. Seeing the modern BioWare is unfortunate as the modern titles are nowhere near a fraction of greatness compared to Origins. And no I don't have nostalgia as this is the first I have ever played Origins.\nOnly DLC I hated was the Golems of Amgarrak, that one was short but ♥♥♥♥♥♥♥♥ did it make it so clear not having a mage, Runic Golem is NOT a good substitute, in your party was torture, having to cheese two group fights.\nBeyond that the DLC is alright, Awakening was good and I liked the epilogue of Morrigan and my Warden in Witch Hunt. Will give 200 hours more in a future playthrough, maybe a Blood Mage. For now I am satisfied and recommend this to anyone who wants to understand why old BioWare is sorely missed."
+        },
+        {
+            "review_id": "225207381",
+            "steam_id": "76561198781539343",
+            "playtime_minutes": 6,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "it wont open, I've spent a few hours with youtube videos and tutorials from reddit to no avail.  Won't even get to the title page.  I have a great PC, that's not the issue.  As it stands the game is unplayable."
+        },
+        {
+            "review_id": "225163550",
+            "steam_id": "76561199175322981",
+            "playtime_minutes": 42,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "genuinely un-♥♥♥♥♥♥♥-playable. maybe i would've loved the game if it doesn't crash every 5 minutes!"
+        },
+        {
+            "review_id": "227052790",
+            "steam_id": "76561199072303957",
+            "playtime_minutes": 4975,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5128045082092285,
+            "steam_purchase": true,
+            "review_text": "Combat is pretty tedious and it's literally impossible to play without modding the game/ tailoring your settings. The game itself is still incredible and has one of the best fantasy worlds oat."
+        },
+        {
+            "review_id": "227443134",
+            "steam_id": "76561199487366837",
+            "playtime_minutes": 1922,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5081967115402222,
+            "steam_purchase": true,
+            "review_text": "best dragon age game oat. I don't understand why they kept changing and dumbing down things every game after this one. give us more of this."
+        },
+        {
+            "review_id": "227048373",
+            "steam_id": "76561198797618515",
+            "playtime_minutes": 5686,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5047618746757507,
+            "steam_purchase": true,
+            "review_text": "Needs major fixes especially for more modern hardware, all in all still a good game."
+        },
+        {
+            "review_id": "225435403",
+            "steam_id": "76561198064484651",
+            "playtime_minutes": 14053,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5046970844268799,
+            "steam_purchase": true,
+            "review_text": "Origins has aged REALLY damn poorly and dragon age as an overall game series is ♥♥♥♥♥♥♥ awful compared to bioware's other games. Just go play Mass Effect, KOTOR or Baldurs Gate instead they are worth your time so much more and are relatively timeless."
+        },
+        {
+            "review_id": "227463501",
+            "steam_id": "76561198400315187",
+            "playtime_minutes": 227,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "busted ass port that stole my money and doesnt work no matter how much you ♥♥♥♥ with the launcher steam options etc. worthless, just like EA staff"
+        },
+        {
+            "review_id": "227383194",
+            "steam_id": "76561199591670615",
+            "playtime_minutes": 261,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is one of my favorite games I've ever played.  I wish it had a better more console orientated set up for steam deck (im sure this is possible im just unsure how to do it).  None the less, so much content to soak up amd a world to fall in love with"
+        },
+        {
+            "review_id": "227310021",
+            "steam_id": "76561199532197678",
+            "playtime_minutes": 202,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love Origins! I originally played this on the Xbox 360 when it was originally released. I have missed the playable origin story mode for the different classes that the most current games have omitted. Also the customized combat tactics is a lot more complex and refined."
+        },
+        {
+            "review_id": "227300646",
+            "steam_id": "76561198043446880",
+            "playtime_minutes": 2072,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Pretty nice cRPG but too MMO-like elements and some simplified mechanics stop me from calling it one of the best cRPGs ever."
+        },
+        {
+            "review_id": "227179578",
+            "steam_id": "76561198085385151",
+            "playtime_minutes": 213,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Top tier game, with a bottom tier port.\nIn 3 hours I experienced over a dozen crashes, some of them back-to-back.\n\n• Get the game off GOG. I don't use GOG, I was skeptical, but it works.\n• It comes pre-installed with bug fixes and compatibility updates. Comparatively, I only crashed about once every couple hours.\n• 100% worth it on GOG. Oldie but still a goldie."
+        },
+        {
+            "review_id": "227112964",
+            "steam_id": "76561198286157782",
+            "playtime_minutes": 40,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "do not buy this game in the year 2026. it will not run it will crash. the textures? not stable, the resolution? unfixable. They should be giving this software out for free, not charging real human money for it."
+        },
+        {
+            "review_id": "227108865",
+            "steam_id": "76561198039896624",
+            "playtime_minutes": 4661,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "An extremely fun and deep RPG, especially if you play it like a turn based game with automatic pauses after each action. On higher difficulties, this becomes a really tough game that is very satisfying to master. Voice acting is great and story is pretty good too. Graphics are dated but dont really matter, the characters are strong even if they arent that many pixels."
+        },
+        {
+            "review_id": "227089991",
+            "steam_id": "76561198179414034",
+            "playtime_minutes": 8601,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "When i first played this game i had no idea what to expect i just new it was a fantasy, really well liked RPG with my childhood hero Steve Valentine so i had no idea how good it was going to be. I didn't think i would even enjoy this game that much but i ended up loving the characters the choices and the storyline and the world so much it was my first true rpg game and i felt a connection with it even bigger and better than i did with Skyrim. There is so much to love about this game i loved the feeling of completing the original series. the openings are a bit of a drag to get through but at the same time very sissifying i love the lore of this series and also the online community. This game also has such a pretty artstyle, a bit violent at times but still fun i love how the fighting system works, the battles feel so epic and so tense too. I love the iconic sounds of the fade which are now featured in almost every reality tv show. I even found myself really enjoying minor characters who aren't even involved in the main storyline the writing of this game is fantastic. I played this way before mass effect and by far Bioware's best game."
+        },
+        {
+            "review_id": "227064881",
+            "steam_id": "76561197995238149",
+            "playtime_minutes": 52877,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Oh my goodness! Can't believe I haven't reviewed this up till now. This is a flawed masterpiece. It's unfortunately a little tough to play on modern hardware, you'll need the 4gb update, but after that Vanilla is still amazing. The game has a depth of writing and character design we don't get anymore. The gameplay is really solid, it starts off a bit slow in my mind, I remember back when I got it as a teenager I struggled landing hits in the early game since it does have that DnD core design. That said it far surpasses it in the mid to end game in my mind. I wish games like this were made more often these day. The only thing that's solidly trounced it was BG3, which is poetry in a way. This was Bioware's way to escape BG after making 1 and 2 and the skill and talent they had at that time wasn't topped until the next generation of passionate game creators came in and picked up were they left off. \n\nI'd say even now in 2026 this is 100% a worthwhile play if you like strong character and story writing and don't mind a slower more tactical character system.\n\nUpdate: I still believe this is a crazy good game, but EA has done what it can to make sure this is not a great way to get it.. Personally, I despise EA, I say buy this here because you don't have to use the EA launcher, then follow a guide on how to get this working as of 2024, there is an awesome guide on doing it. Don't give EA anything more than you have to. They do not care about the consumers, and if they did, they wouldn't have \"updated\" the files in 2021 just to make it so the DLC doesn't work and the game itself crashes constantly. \nI owned this version since 2012 and it's always been solid. Just EA wanting to force people onto their not very good platform."
+        },
+        {
+            "review_id": "227048629",
+            "steam_id": "76561199194281443",
+            "playtime_minutes": 704,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "only played 11 hours on pc but have replayed the game an obscene amount on console. the entire series is a work of art"
+        },
+        {
+            "review_id": "226898731",
+            "steam_id": "76561198162099880",
+            "playtime_minutes": 6755,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Incredibly fun if you're into old school RPG games. Real time pause & decide, then unpause and watch it play out, rinse and repeat. On easier difficulties you can just play your own character in real time like WoW or other MMO's, but on higher difficulties you really gotta make use of the pausing and team coordination. Very fun if you can get the game to work on your newer machine!"
+        },
+        {
+            "review_id": "226830880",
+            "steam_id": "76561198973655833",
+            "playtime_minutes": 94,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love the game but can't get past the CC screen, the 2 times ive been able to complete my guy it instantly crashes. \n\nTldr: it's broken rn, and probably will remain that way."
+        },
+        {
+            "review_id": "226757759",
+            "steam_id": "76561199136689292",
+            "playtime_minutes": 16748,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A bit of an old game, but a classic when it comes to cRPGs. This game is what made me fall in love with the Dragon Age franchise. Just my first playthrough was of 80 hours, 'cause I wanted to explore the whole world.\nThe world feels alive and your decisions matter. I'll always recommend this game, even if it does have some issues when it comes to running in newer computers."
+        },
+        {
+            "review_id": "226723218",
+            "steam_id": "76561198000742914",
+            "playtime_minutes": 2692,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Have retried getting trough this game a few times but always end up with it crashing at some point or another, probably should have prayed more to the rng gods since the crashes dont always seem consistent. Otherwise a game i quite enjoy and would have rated quite high."
+        },
+        {
+            "review_id": "226688027",
+            "steam_id": "76561198762293506",
+            "playtime_minutes": 2319,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Dragon Age: Origins aged horribly in some ways and unbelievably well in others.\n\nThe combat can be clunky, inventory management is painful, and random ambushes nearly drove me insane.\n\nBut the writing? Incredible. The companions, the politics, the choices — everything feels messy, human, and real.\n\nAlso, mage is ridiculously fun. By the end my Arcane Warrior/Blood Mage felt completely broken.\n\nStill one of the best RPGs I’ve ever played."
+        },
+        {
+            "review_id": "226658764",
+            "steam_id": "76561198296063127",
+            "playtime_minutes": 1736,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "TOP TIER GAME, look I wont say much but characters, story and gameplay are top tier. Just download it trust."
+        },
+        {
+            "review_id": "226542680",
+            "steam_id": "76561198045706517",
+            "playtime_minutes": 28625,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "AMAZING GAME,\r\n\r\nit's older so some graphics setting may crash game, I found keeping textures at medium in window mode work lol"
+        },
+        {
+            "review_id": "226533904",
+            "steam_id": "76561198357319578",
+            "playtime_minutes": 127,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "sadly i love this game, but if your anything like me and not to tech savvy in general, then you shouldnt pick it up. Even using vortex form nexus mod cant get this game to start and up and running.\nWith every Guide telling you to use this NTCore thing and such make it nearly impossible to understand unless your uptodate on tech knowledge.\nSo sadly as much as i would love to come back and play the game, i just simple cant cause the memory leak issue is still prevalent to this day"
+        },
+        {
+            "review_id": "226489028",
+            "steam_id": "76561198185790098",
+            "playtime_minutes": 249,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Get the game off GOG, not here. It has several game-breaking bugs and the like. I've since bought and installed the game on GOG and am having a blast."
+        },
+        {
+            "review_id": "226418393",
+            "steam_id": "76561198767212007",
+            "playtime_minutes": 3987,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Dragon Age Origins is a fantastic RPG. Easy Reccomend if you are a fan of party based rpgs with rich story and choice & consequence. The world setting is the love child of dark fantasty + high fantasy, which ends up being this epic gritty dark world. If you are curious about the Dragon Age franchise then I really reccomend taking this classic for a spin! It holds up years later and was truly an awesome time."
+        },
+        {
+            "review_id": "226408482",
+            "steam_id": "76561197986507874",
+            "playtime_minutes": 47,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "An absolute masterpiece. Truly an epic RPG and the best fantasy lore of all time for me."
+        },
+        {
+            "review_id": "226382470",
+            "steam_id": "76561198849607814",
+            "playtime_minutes": 9114,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Dragon Age: Origins is not just my favorite game in the Dragon Age franchise — it’s one of my favorite RPGs ever made. This is where the franchise started, and even after all these years, it still stands as the gold standard for player choice and storytelling.\r\n\r\nWhat makes this game so special is how much freedom it gives you to truly shape your character. You can be a noble hero, a ruthless monster, a sarcastic ♥♥♥♥♥♥♥, or somewhere in between. The game doesn’t force you into being “good” or “evil” — it genuinely lets you roleplay however you want, and the world reacts to your choices in meaningful ways. So many RPGs claim your decisions matter, but Dragon Age: Origins actually delivers on that promise.\r\n\r\nThe origin stories alone are incredible and immediately make your character feel personal and connected to the world. Then the story just keeps getting better from there. The political conflicts, the companions, the betrayals, the emotional moments — it all feels so well written and memorable. The companions especially are some of the best in gaming, with conversations and relationships that still stick with me years later.\r\n\r\nYou can tell the developers poured their hearts into this game. Every choice feels intentional, every companion has depth, and every playthrough can feel completely different depending on the type of character you create.\r\n\r\nDragon Age: Origins is a masterpiece of RPG design and storytelling. Games like this are the reason people fall in love with the genre."
+        },
+        {
+            "review_id": "226366687",
+            "steam_id": "76561197997382179",
+            "playtime_minutes": 12988,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The Last Great CRPG from Bioware. From here on out, they became an action game company. \r\n\r\nThat said, this is one of the best games in the entire genre. A genuine, interesting game with good story, good characters, and fantastic gameplay. It's not perfect. The character building could be more complex and better balanced. Fighters really only have 1 really useful spec, mages are op as ♥♥♥♥, and bows are useless. \r\n\r\nThe story is typical Bioware: exciting pulp with good cahracter writing. It doesn't really try and say anything complex. It makes no statements about life, society, or philosphy like some other CRPGs do, but that's fine. It's just fun, and that is something that can be lacking.\r\n\r\nSo yeah, good game. Get it."
+        },
+        {
+            "review_id": "226316968",
+            "steam_id": "76561198309713473",
+            "playtime_minutes": 2130,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I am finally giving up. I pushed through various attempted fixes but none of them stop the incessant crashing. I can't enjoy the game when every 15 minutes I get a new crash. I've heard nothing but good things about this game, and loved Inquisition, but I am so frustrated and disappointed that they would put such a buggy and broken version of this game out to the public."
+        },
+        {
+            "review_id": "226316157",
+            "steam_id": "76561199253442206",
+            "playtime_minutes": 103388,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great game love the lore and characters"
+        },
+        {
+            "review_id": "226213872",
+            "steam_id": "76561198882107165",
+            "playtime_minutes": 2776,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good engaging story and characters, however the gameplay is really weak. \r\n\r\nScore: 6.5/10"
+        },
+        {
+            "review_id": "226066894",
+            "steam_id": "76561198011864930",
+            "playtime_minutes": 9669,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Having only played this to the end for the first time in 2026, it aged very well. Great, dark story that is often lacking in games these days. Uplifted by unique banter between your party. \r\nI'll probably return one day to play again, and select different characters to be in my party to listen to the various conversations"
+        },
+        {
+            "review_id": "226061898",
+            "steam_id": "76561198289411498",
+            "playtime_minutes": 3090,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "EA keeps ruining everything we love and turning it into garbage. I hope a good studio takes over the franchise and make a perfect game like this again."
+        },
+        {
+            "review_id": "226036031",
+            "steam_id": "76561198123090414",
+            "playtime_minutes": 43618,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Others have asked on my sparse other reviews: this is my favorite game. \n\nI have put the archdemon (Archie to my friends) in the ground 21 times. \n\nI have romanced every character, sometimes four at once. \n\nI have killed every companion except Alistair, Dog, and Roland. \n\nI have drunk of the forbidden blood magic potion and encouraged a mother to let her child die of exposure. \n\nMost of the time, though, I'm the monogamous dual-wield assassin and Hero of Ferelden. I choose all the best and moral options on most playthroughs, but the game made me curious enough to see what evil looked like.\n\nThis game is endlessly moddable. You can play it however you like. If you want the dog with you all the time, that's a (highly recommended) option. Want the bad guy on your team? The base game allows that (for a price). Want to lead a dragon cult, become a blood mage, or summon druidic creatures from the aether? Go for it. People have created fully voiced companions for this game (Roland being the best, and recommended). There are new maps to explore, fan-made puzzles and armors and locations and tavern music. Even past its heyday, the Dragon Age Nexus Mods forum is hoppin' with options to customize your play experience to exactly what you want it to be.\n\nThis game is about 60% cutscene. You are in a slow apocalypse, trying to save the world with your friends (or enemies). The only choice you have to make is kill Archie. Everything else is completely up to you. A villain can save the world, if that's what you choose. Or you can marry Alistair, return to Antiva with Zev, join Leliana on her pilgrimages... there are many kinds of happy ending for you and your companions, who are uniformly well-written and likable, with their own mechanics; getting to know them makes them stronger and more capable throughout the game. Morrigan, Alistair, Leliana, Zevran, Sten, Wynne, and Shale were the friends I made in quarantine, and I feel no shame over it. Game writing does not get much better than this.\n\nIt is a time suck. (See my play time? It's actually more; I started on a different account.) It is a wonderful distraction that will likely keep you up until midnight at least once. It is what every grimdark fantasy thing wants to be, only bursting with hope. If you've never played this game, your life is missing something."
+        },
+        {
+            "review_id": "225822110",
+            "steam_id": "76561197996307549",
+            "playtime_minutes": 19,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is an incredible experience. Although the graphics have not aged well, everything else about it has. It is like playing Lord Of The Rings crossed with A Song Of Ice And Fire. The plot and lore are well crafted and compelling, and it truly gives you different choices that truly have good and bad consequences. It also has a high replayability since there are different races, classes, and backgrounds to choose from. You could play this game at least 10 times and get a different narrative. It is easy to see why this is considered one of the greatest videogames of all time"
+        },
+        {
+            "review_id": "225805153",
+            "steam_id": "76561198099241575",
+            "playtime_minutes": 3051,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fantastic storytelling and group banter"
+        },
+        {
+            "review_id": "225666978",
+            "steam_id": "76561198325058817",
+            "playtime_minutes": 2793,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "An amazing game that's unfortunately hindered by its publisher. It's amazing how you need a guide to actually start the game. BUT, if you managed to get through that, the game is well and truly worth it. Companions are great, Combat is suprisingly in-depth for how old the game is, and the decisions you made matters. The overall story I find very interesting, felt like there's a good balance on how much side quest you have and the main quest.\nEdit: Alistair is one of the funniest companions I have ever seen from all the games I played"
+        },
+        {
+            "review_id": "225579808",
+            "steam_id": "76561199089352067",
+            "playtime_minutes": 18529,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This classic fantasy game has withstood the test of time. Dragon Age Origins is & will remain a favorite RPG for me. It is the standard I compare all RPGs towards."
+        },
+        {
+            "review_id": "225464729",
+            "steam_id": "76561198094248051",
+            "playtime_minutes": 265,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game is constantly crashing, there is nothing else to say, except don't buy.."
+        },
+        {
+            "review_id": "225463551",
+            "steam_id": "76561198054186759",
+            "playtime_minutes": 178,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game refuses to be played on my machine, I've tried everything. Spent more time troubleshooting than actually playing the game and it still won't behave. \nI've tried reinstalling it, I've tried reinstalling ancient reditributables, I've tried editing XML files, I've tried modding in unofficial patches, nothing will tame this program.\nCrashes constantly and when it doesn't textures fail to load in, visual effects becoming permanent, the lighting doesn't know what it's supposed to be doing as it rapidly flickers back and forth, menus becoming stuck and so many others."
+        },
+        {
+            "review_id": "225402778",
+            "steam_id": "76561198997489543",
+            "playtime_minutes": 394,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "2026 already and back to the game to get the taste of childhood, still a masterpiece to me"
+        },
+        {
+            "review_id": "225396864",
+            "steam_id": "76561198007250024",
+            "playtime_minutes": 3364,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the best role-playing games of all times, no doubt. Amazing characters, great storytelling, meaningful decisions. 10/10."
+        },
+        {
+            "review_id": "225384047",
+            "steam_id": "76561198092676874",
+            "playtime_minutes": 5480,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "What an incredible game! The main story is really engaging, with great companions. I don't understand the hate for Alistair and Oghren. Morrigan forever <3\nIt took me a while to play, but it was worth it. The side quests are also very cool.\nThe big problem is that the game has many problems running on newer hardware. It would crash frequently, causing loss of progress, requiring more saving than usual. At other times, I couldn't load a saved game, but aside from all those problems, is a game that if very worth until nowdays."
+        },
+        {
+            "review_id": "225316548",
+            "steam_id": "76561197972567161",
+            "playtime_minutes": 459,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the greatest RPGs ever conceived...or so I've always been told. I wouldn't know, because this release is a buggy, crash-ridden pile of trash. It was when I bought it years ago, and it remains so. It just doesn't run well on modern hardware, leading me to wonder why EA is still allowed to sell it on STEAM under the pretense that it does.\n\nThere are mods and various other fixes out there that claim to make this playable. They don't. Don't waste your time. Don't waste your money. If you want to play this, you apparently want to play the console version."
+        },
+        {
+            "review_id": "225296512",
+            "steam_id": "76561198038625716",
+            "playtime_minutes": 4765,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A classic of the genre. Gripping storytelling, enjoyable gameplay and decent graphics for its age. Include the banter of your companions during your trips and you can't go wrong."
+        },
+        {
+            "review_id": "225234405",
+            "steam_id": "76561198052623660",
+            "playtime_minutes": 24935,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "If you can get this classic to start up and work properly then you wil be in for one of the most epic grim stories you have ever played regardless of what race or position in society you choose."
+        },
+        {
+            "review_id": "226420161",
+            "steam_id": "76561198766718856",
+            "playtime_minutes": 20,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.49714285135269165,
+            "steam_purchase": true,
+            "review_text": "♥♥♥♥♥♥♥ port, trash controls, filled with bugs. I couldn't handle the first hour without refunding it. One of the best RPG games ive ever played, wonderful game on the ps3, ♥♥♥♥♥♥♥ port on pc"
+        },
+        {
+            "review_id": "226775911",
+            "steam_id": "76561197981135637",
+            "playtime_minutes": 6,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.4887952208518982,
+            "steam_purchase": true,
+            "review_text": "[h1]Disclaimer: This review isn't for Dragon Age Origins itself, it's for the version/state of the game that you can purchase on Steam as of writing in 2026.[/h1]\n\nDragon Age Origins is a fantastic game, arguably one of the best RPG's we've ever been graced with, however I cannot recommend purchasing it at the current time, as getting to run at all is a genuine struggle, let alone how I can only imagine it actually runs.\n\nIf EA/Bioware ever decides to go back and do the bare minimum to get the game running I will happily change my review (Followed by happily doing a playthrough), but until that day or we get even more blessed by a Legendary Edition for the trilogy of Dragon Age's..Well...."
+        },
+        {
+            "review_id": "226913567",
+            "steam_id": "76561198138500918",
+            "playtime_minutes": 210,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.4566037654876709,
+            "steam_purchase": true,
+            "review_text": "Unfortunate that I can't get a refund for this unplayable piece of trash. Idk why steam sells games that they can't support. I only got two hours into the game before it started crashing. My Xbox version of this old game doesn't have this problem. I'm not gonna buy any more games from an unethical scamming company like steam. I recommend you all stop buying from this company too. There are other options."
+        },
+        {
+            "review_id": "227098042",
+            "steam_id": "76561198389868642",
+            "playtime_minutes": 2904,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "🎮 Finished? Thankfully, yes!\n\nI loved the story of this game. The combat drove me insane. If it weren’t for mods, I don’t think I could have finished it. That said, it was incredible seeing how Dragon Age’s narrative started, and I can’t wait to see what Dragon Age II brings 👀"
+        },
+        {
+            "review_id": "225455080",
+            "steam_id": "76561199626054735",
+            "playtime_minutes": 7455,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Came for Thirty Seconds To Mars (before Jared lost his marbles; if you know, you know)\nStayed for the amazing story, interesting characters and in-depth tactics mechanic"
+        },
+        {
+            "review_id": "225248216",
+            "steam_id": "76561199386679820",
+            "playtime_minutes": 1727,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "got it off a nolstagia kick, netter than i remember having fun as a mage rn and as a dwarwen warrior the tactics management is good too"
+        },
+        {
+            "review_id": "225368398",
+            "steam_id": "76561198112001426",
+            "playtime_minutes": 2834,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.43478259444236755,
+            "steam_purchase": true,
+            "review_text": "Started as a fun \"mmorpg-ish\" combat/party management game. Died for me when I understood level scaling is omnipresent + no new good fun tactics after level 12-ish + no re-specs (yup). Oh, and supposedly there's a story somewhere also? The elves' location quest reminded me of Witcher 1 in a good way, but the rest is mostly \"you must care about this rando because your character has history with them!!!!\" meanwhile these people I know for maybe a couple minutes tops on screentime? And it's not like it's an amazingly written short novel which can genuinely make you empathize with characters you knew for 5 minutes, it's generic fantasy slop tier writing (which can also be good, but) that puts you into the \"I know all these people really well\" stage as often as possible without the actual \"getting to know them\" part. Oh, and unlike other big boy party rpgs, the party members don't strike up convos with you, nor notify you they'd wish to discuss something or whatever. I only realized a character from my party had something to say once BECAUSE I ACCIDENTALLY CLICKED ON THEM. ffs."
+        },
+        {
+            "review_id": "225538464",
+            "steam_id": "76561198009605246",
+            "playtime_minutes": 2421,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.3766607344150543,
+            "steam_purchase": true,
+            "review_text": "This game has aged horribly.  Awful dumbed down game coming off Baldur's Gate 2. Less tactics, shallow combat that is basically nuke everything with your mage. Everyone moves like they're on ice skates and melee classes are extremely dull.  Insufferable characters who whine and moan and a major player choice in this game involving the death of a companion gets completely retconned in the later games.  Ur ChOicEz MaDDuR....not after BG2 apparently.  For all the turds thrown at Veilguard, DAO is FILLED with just as many problems but nostalgia glasses make people dumb.  \"Dark fantasy\" because it was dark for YOU since you were 11 when you played it.  It is not dark at all.  It feels like nü-metal Lord of the Rings at best.\n\nThis game is one of the main reasons gamers are weird dorks about demanding romance in all RPGs these days because people are too scared to talk to someone in the real world.  Four thumbs down."
+        },
+        {
+            "review_id": "226093562",
+            "steam_id": "76561198814897980",
+            "playtime_minutes": 908,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5675675868988037,
+            "steam_purchase": true,
+            "review_text": "still the best game in the Dragon Age franchise. Dragon Age: Origins I love you so dearly"
+        },
+        {
+            "review_id": "225753205",
+            "steam_id": "76561199042251503",
+            "playtime_minutes": 84,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5148531198501587,
+            "steam_purchase": true,
+            "review_text": "it doesnet work no more many others complain too ea bad as always"
+        },
+        {
+            "review_id": "227132192",
+            "steam_id": "76561198838474211",
+            "playtime_minutes": 11,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "doesn't run currently rn on june 2026 :( crashes every loading screen ouughhh"
+        },
+        {
+            "review_id": "225923353",
+            "steam_id": "76561198760558199",
+            "playtime_minutes": 31294,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "ive played this game repeatedly over the years and it is one of my absoulte favorites"
+        },
+        {
+            "review_id": "225620391",
+            "steam_id": "76561199575554496",
+            "playtime_minutes": 36066,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Lots of fun, already finished twice most campaigns, i really recomend for fans of this tipe of games.\r\nAnd now that i have a new pc, i will probably be trying another time at maximum video settings... ;)"
+        },
+        {
+            "review_id": "227033223",
+            "steam_id": "76561198114903244",
+            "playtime_minutes": 12817,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great storyline, I've played this game serval times and enjoyed it each time."
+        },
+        {
+            "review_id": "225815905",
+            "steam_id": "76561198193412793",
+            "playtime_minutes": 10,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5096763968467712,
+            "steam_purchase": true,
+            "review_text": "Does not work even with the fan made patches. waste of money."
+        },
+        {
+            "review_id": "226244724",
+            "steam_id": "76561198044977519",
+            "playtime_minutes": 9864,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "First time playing and beating in over 16 years (Nightmare). Game is still as good as I remember. Top 5 RPG of all time."
+        },
+        {
+            "review_id": "226406795",
+            "steam_id": "76561198165437489",
+            "playtime_minutes": 1323,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I loved this game backwhen, but this version is too bugged  :("
+        },
+        {
+            "review_id": "226183155",
+            "steam_id": "76561198121429192",
+            "playtime_minutes": 671,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "The things I'd let Morrigan and Alistair do to me...."
+        },
+        {
+            "review_id": "226905508",
+            "steam_id": "76561199074349598",
+            "playtime_minutes": 864,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this is THE best game ever made its not up for debate."
+        },
+        {
+            "review_id": "227241504",
+            "steam_id": "76561198348535047",
+            "playtime_minutes": 56,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "broken without third party support"
+        },
+        {
+            "review_id": "225858689",
+            "steam_id": "76561199041158440",
+            "playtime_minutes": 316,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5047618746757507,
+            "steam_purchase": true,
+            "review_text": "One of the best fantasy RPGs ever made."
+        },
+        {
+            "review_id": "227033567",
+            "steam_id": "76561198397601635",
+            "playtime_minutes": 41,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "DONT BUY ON STEAM!!!! YOU WILL NOT GET ANY DLCS THAT COME WITH IT!!!!!!!"
+        },
+        {
+            "review_id": "225207488",
+            "steam_id": "76561198000547489",
+            "playtime_minutes": 386,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game is broken it crashes too much"
+        },
+        {
+            "review_id": "225237306",
+            "steam_id": "76561199471420960",
+            "playtime_minutes": 1724,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "one of the best RPG game ever made!"
+        },
+        {
+            "review_id": "227442137",
+            "steam_id": "76561198065106120",
+            "playtime_minutes": 6297,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5474138259887695,
+            "steam_purchase": true,
+            "review_text": "My favorite game of all time. The GOAT"
+        },
+        {
+            "review_id": "227346461",
+            "steam_id": "76561198819640384",
+            "playtime_minutes": 1800,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the best RPG ever made."
+        },
+        {
+            "review_id": "227226306",
+            "steam_id": "76561198111447903",
+            "playtime_minutes": 1443,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "bioware rest in pieces old friend"
+        },
+        {
+            "review_id": "226671215",
+            "steam_id": "76561198319960366",
+            "playtime_minutes": 13564,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fantastic game."
+        },
+        {
+            "review_id": "226658638",
+            "steam_id": "76561198002095899",
+            "playtime_minutes": 20804,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the great games of the PC gaming era."
+        },
+        {
+            "review_id": "226314926",
+            "steam_id": "76561198043908755",
+            "playtime_minutes": 4400,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "one of the greatest games ever made"
+        },
+        {
+            "review_id": "225344036",
+            "steam_id": "76561198299075248",
+            "playtime_minutes": 42,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the best games ever made."
+        },
+        {
+            "review_id": "226523190",
+            "steam_id": "76561198259772126",
+            "playtime_minutes": 10943,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "best game ever"
+        },
+        {
+            "review_id": "225977839",
+            "steam_id": "76561199038482416",
+            "playtime_minutes": 5547,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "amazing game."
+        },
+        {
+            "review_id": "225786821",
+            "steam_id": "76561198321119605",
+            "playtime_minutes": 183,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "crashes but can be fixed"
+        },
+        {
+            "review_id": "225134064",
+            "steam_id": "76561198706798436",
+            "playtime_minutes": 265,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "still a very great game"
+        },
+        {
+            "review_id": "226794300",
+            "steam_id": "76561199817454187",
+            "playtime_minutes": 234,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i now understand why this is a classic"
+        },
+        {
+            "review_id": "226035230",
+            "steam_id": "76561198094152259",
+            "playtime_minutes": 1478,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "fun game."
+        },
+        {
+            "review_id": "227309538",
+            "steam_id": "76561199848324783",
+            "playtime_minutes": 739,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "just as good as i remberd"
+        },
+        {
+            "review_id": "227431314",
+            "steam_id": "76561198115303891",
+            "playtime_minutes": 215,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "OLD BUT GOLD"
+        },
+        {
+            "review_id": "226104347",
+            "steam_id": "76561198119699448",
+            "playtime_minutes": 2319,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "they don't make them like this anymore <3"
+        },
+        {
+            "review_id": "225954449",
+            "steam_id": "76561198260005923",
+            "playtime_minutes": 940,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "wheres the remaster5"
+        },
+        {
+            "review_id": "226831675",
+            "steam_id": "76561198281698791",
+            "playtime_minutes": 7430,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "peak Bioware."
+        },
+        {
+            "review_id": "226203243",
+            "steam_id": "76561199016964006",
+            "playtime_minutes": 3929,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "DA before the bs"
+        },
+        {
+            "review_id": "226381709",
+            "steam_id": "76561199834646921",
+            "playtime_minutes": 1930,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "w\r\n"
+        },
+        {
+            "review_id": "225977986",
+            "steam_id": "76561198825479165",
+            "playtime_minutes": 216,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "yay"
+        },
+        {
+            "review_id": "226584591",
+            "steam_id": "76561199237962904",
+            "playtime_minutes": 4272,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "+++"
+        }
+    ]
+}

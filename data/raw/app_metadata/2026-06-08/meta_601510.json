@@ -1,0 +1,75 @@
+{
+    "ingested_at": "2026-06-08T18:44:02.687154",
+    "app_id": "601510",
+    "metadata": {
+        "type": "game",
+        "name": "Yu-Gi-Oh! Duel Links",
+        "steam_appid": 601510,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Take on Duelists around the world with &quot;Yu-Gi-Oh! Duel Links&quot;! Step into a world that crosses dimensions and connects all Duelists. In Duel World, any location transforms into a Duel Field where heated Duels unfold!",
+        "detailed_description": "Take on Duelists around the world with &quot;Yu-Gi-Oh! Duel Links&quot;!<br>- Star-studded lineup includes: Yugi, Kaiba, Joey, Mai and more!<br>- Voices from the anime heighten the Dueling experience!<br>- Intuitive controls for beginners! The depth to satisfy &quot;Yu-Gi-Oh!&quot; veterans!<br>- Signature monsters with stunning 3D animations!<br>- Build your ultimate Deck and aim for the top!<br><br>Step into a world that crosses dimensions and connects all Duelists. In Duel World, any location transforms into a Duel Field where heated Duels unfold!<br><br>* Japanese text can only be selected if you started the game in Japan.<br><br>[FEATURES]<br><br>-Duels<br>The &quot;Yu-Gi-Oh!&quot; TCG (Trading Card Game) can be played digitally with newly designed, intuitive controls optimized for your personal computer! Also, signature monsters like &quot;Dark Magician&quot; and &quot;Blue-Eyes White Dragon&quot; make their appearance with dynamic visuals!<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601510/extras/e4eead93ece2e3a04885907b8a6ff95a.poster.avif?t=1778872860\" width=640 height=460 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601510/extras/e4eead93ece2e3a04885907b8a6ff95a.webm?t=1778872860\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601510/extras/e4eead93ece2e3a04885907b8a6ff95a.mp4?t=1778872860\" type=\"video/mp4\"></video></span><br><br>-Single Campaign (Duel World)<br>Duel as your favorite characters from the &quot;Yu-Gi-Oh!&quot; world and complete Stage Missions to earn various rewards!<br>New cards can be obtained from the Shop! <br><br>-Duelists<br>Challenge Yugi, Kaiba, Joey, Mai and other Legendary Duelists! Complete specific Missions to unlock and these characters!<br>Earn Skills and rewards by leveling up your favorite characters!<br><br>-Online PvP<br>With &quot;Yu-Gi-Oh! Duel Links,&quot; engage in heated Duels anytime and anywhere against players around the world! Climb through the rankings and claim the title of King of Games!<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601510/extras/0ed09bb4c4c3aced7f2e53f64c5dc754.poster.avif?t=1778872860\" width=640 height=460 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601510/extras/0ed09bb4c4c3aced7f2e53f64c5dc754.webm?t=1778872860\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601510/extras/0ed09bb4c4c3aced7f2e53f64c5dc754.mp4?t=1778872860\" type=\"video/mp4\"></video></span><br><br>-Decks<br>Build your very own Deck with cards you collect in-game and take on opponents!<br>Stay tuned for future card additions!<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601510/extras/d75094961ec92d28a65b8db90cc2a7d4.poster.avif?t=1778872860\" width=634 height=348 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601510/extras/d75094961ec92d28a65b8db90cc2a7d4.webm?t=1778872860\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601510/extras/d75094961ec92d28a65b8db90cc2a7d4.mp4?t=1778872860\" type=\"video/mp4\"></video></span><br><br>[ABOUT &quot;Yu-Gi-Oh!&quot;]<br>&quot;Yu-Gi-Oh!&quot; is a popular manga created by Kazuki Takahashi that was serialized in SHUEISHA Inc.'s &quot;WEEKLY SHONEN JUMP&quot; from 1996. Konami Digital Entertainment Co., Ltd. provides a Trading Card Game (TCG) and video games, based on the &quot;Yu-Gi-Oh!&quot; anime series created from the original manga, that are enjoyed around the world.",
+        "developers": [
+            "KONAMI"
+        ],
+        "publishers": [
+            "KONAMI"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            }
+        ],
+        "genres": [
+            {
+                "id": "2",
+                "description": "Strategy"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 16, 2017"
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "ingested_at": "2026-06-08T19:33:09.907610",
+    "app_id": "1850570",
+    "metadata": {
+        "type": "game",
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "steam_appid": 1850570,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded in this definitive DIRECTOR’S CUT. As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America. Can you reunite the shattered world, one step at a time?",
+        "detailed_description": "<h1>DEATH STRANDING Upgrade</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850570/extras/f0ef41c299c437e2f335a534308ec104.avif?t=1773400635\" width=600 height=336 /></span><br><br>Please make sure you purchase right version of DEATH STRANDING DIRECTOR'S CUT.<br><br>If you already own DEATH STRANDING then you can upgrade your version of the game to DEATH STRANDING DIRECTOR'S CUT for a lower price. Please purchase the DEATH STRANDING DIRECTOR'S CUT UPGRADE. You must have previously purchased DEATH STRANDING on this platform, and have it installed on your system.<br><br>If you have not purchased DEATH STRANDING then you may purchase DEATH STRANDING DIRECTOR'S CUT at the stated full price.<br><br>We recommend you do not remove DEATH STRANDING from your PC until you have completed the download of DEATH STRANDING DIRECTOR’S CUT and you have transferred your save files to DEATH STRANDING DIRECTOR’S CUT.</p><br><h1>About the Game</h1>From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded in this definitive DIRECTOR’S CUT. <br> <br>In the future, a mysterious event known as the Death Stranding has opened a doorway between the living and the dead, leading to grotesque creatures from the afterlife roaming the fallen world marred by a desolate society. <br> <br>As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America. <br> <br>Can you reunite the shattered world, one step at a time? <br> <br>DEATH STRANDING DIRECTOR’S CUT on PC includes HIGH FRAME RATE, PHOTO MODE and ULTRA-WIDE MONITOR SUPPORT. Also includes cross-over content from Valve Corporation’s HALF-LIFE series and CD Projekt Red’s Cyberpunk 2077. Stay connected with players around the globe with the Social Strand System™. <br> <br>All copies of the game will also additionally include: <br>• “Selections From ‘The Art of DEATH STRANDING’” Digital Book (by Titan Books) <br>• Backpack Patches <br>• Bridges Special Delivery Team Suit (Gold) <br>• BB pod customization (Chiral Gold) <br>• Power Gloves (Gold) <br>• Bridges Special Delivery Team Suit (Silver) <br>• BB pod customization (Omnireflector) <br>• Power Gloves (Silver)",
+        "developers": [
+            "KOJIMA PRODUCTIONS"
+        ],
+        "publishers": [
+            " 505 Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 85,
+            "url": "https://www.metacritic.com/game/pc/death-stranding-directors-cut?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 65,
+                "description": "Subtitle Options"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 47444
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 30, 2022"
+        }
+    }
+}

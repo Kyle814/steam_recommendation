@@ -1,0 +1,907 @@
+{
+    "ingested_at": "2026-06-08T19:51:13.052585",
+    "app_id": "899770",
+    "review_count": 90,
+    "reviews": [
+        {
+            "review_id": "225175961",
+            "steam_id": "76561198177596682",
+            "playtime_minutes": 2177,
+            "voted_up": false,
+            "votes_up": 464,
+            "weighted_score": 0.8835435509681702,
+            "steam_purchase": true,
+            "review_text": "Traitors\n\nbefore 1.0: All dlc's are gonna be only cosmetic\nafter 1.0: new class is not gonna be free\n\nTraitors"
+        },
+        {
+            "review_id": "225595457",
+            "steam_id": "76561198047524140",
+            "playtime_minutes": 785,
+            "voted_up": false,
+            "votes_up": 113,
+            "weighted_score": 0.8143728971481323,
+            "steam_purchase": true,
+            "review_text": "Yet another company has lied to us and gone back on their promises, with egregious monetization that they promised wouldn't happen. Last time I ever pay money for a game like this one."
+        },
+        {
+            "review_id": "225853893",
+            "steam_id": "76561197998262613",
+            "playtime_minutes": 11457,
+            "voted_up": false,
+            "votes_up": 24,
+            "weighted_score": 0.6150914430618286,
+            "steam_purchase": true,
+            "review_text": "They sold their souls to Krafton. Even if it was for a good cause, the ends doesn't justify the means imo."
+        },
+        {
+            "review_id": "226037497",
+            "steam_id": "76561198036757307",
+            "playtime_minutes": 14,
+            "voted_up": false,
+            "votes_up": 27,
+            "weighted_score": 0.6012554168701172,
+            "steam_purchase": true,
+            "review_text": "Buyers remorse - refunded due to dead game trying to squeeze cash out of people as much as possible  before it is fully abandoned."
+        },
+        {
+            "review_id": "226627762",
+            "steam_id": "76561198028352361",
+            "playtime_minutes": 1271,
+            "voted_up": false,
+            "votes_up": 16,
+            "weighted_score": 0.5940358638763428,
+            "steam_purchase": true,
+            "review_text": "Don’t bother with this one.\nThe devs went back on their promises about monetization. \nWhen a studio builds trust one way, then changes direction later to satisfy investors, it doesn’t inspire confidence in the future of the game. Especially considering this game started as a small Kickstarter project with around a $250k budget.\nPretty disappointing."
+        },
+        {
+            "review_id": "226781804",
+            "steam_id": "76561197989188703",
+            "playtime_minutes": 5925,
+            "voted_up": false,
+            "votes_up": 14,
+            "weighted_score": 0.5850335955619812,
+            "steam_purchase": true,
+            "review_text": "It's a fun game overall, with a unique take on skill evolution. You're able to greatly modify each ability - changing how the ability works, the elements, and more. There are a lot of synergies between abilities, and even items can alter how an ability works. The story is interesting and the end game content is an interesting twist.\n\nThe reason I give it a thumbs down is because after over 2 years of being released, the story remains unfinished. It ends on a very unsatisfying cliffhanger."
+        },
+        {
+            "review_id": "226361310",
+            "steam_id": "76561198094090192",
+            "playtime_minutes": 17964,
+            "voted_up": false,
+            "votes_up": 8,
+            "weighted_score": 0.5798319578170776,
+            "steam_purchase": true,
+            "review_text": "With 300 hours, this game has held my interest for a lot longer than other titles have over the years. \n\nIt's a middling experience, the scaling mechanics of your character aren't too interesting and skills being bound like they are with the big multipliers on their tree that can only be changed by the devs is not my taste. If you think you're a casual, that 50 hours of a game is a long time, this game has it for you and more. \n\nIt's not abandondware and definitely don't like the choice of a class behind DLC but I've seen worse predatory practices, you pay for the class instead of stash tabs, personally I take the stash tabs cause they aren't ''mandatory'', I can play the game and micro manage my inventory and filter to fit the experience or after trialing the game for 40 hours I decide to spend 30 bucks to get tabs that heavily lift off the need to filter a lot of items. Which is what I did in that other game and never regretted it.\n\nAesthetics aren't my thing again, a lot better than others games and it is distinct in the UI elements and other aspects of the presentation that set it apart from UE5 and Unity slop you see being loved by American audiences.\n\n''Why don't you recommend this then?'' Because if I knew then what I know now, the inconsistent release cycle with very straight forward mechanics that give you reward you don't even need to beat their first real and only end boss or content, what's the point of them really? They haven't given me an incentive to tailor a build to do a mechanic better than all-rounders, you just get the best corruption, endgame system, build and it can do anything and everything. \n\nThis game makes me appreciate what the game that inspired it already has, how much effort it takes to make it so and that those devs had it figured out years ago & having only improved since. \nSo if you think you want to play this for a week or weekend, a dad gamer with 2 hours in his evening, I recommend. \nFor guys who want a game to truly sink in their teeth, hours and life, you're better off reading books or going on a walk."
+        },
+        {
+            "review_id": "226819744",
+            "steam_id": "76561197970639666",
+            "playtime_minutes": 9737,
+            "voted_up": false,
+            "votes_up": 12,
+            "weighted_score": 0.5679857730865479,
+            "steam_purchase": true,
+            "review_text": "Constant disconnects. Completely unplayable at times. Constantly need to re-clear areas and lose progress after a disconnect."
+        },
+        {
+            "review_id": "225553015",
+            "steam_id": "76561198087491748",
+            "playtime_minutes": 12988,
+            "voted_up": false,
+            "votes_up": 9,
+            "weighted_score": 0.55288165807724,
+            "steam_purchase": true,
+            "review_text": "Promising game with boring campaign, good endgame and many flaws. After 2 years and 3 seasons i would expect a bit more than week of playing every season.\nSeason 3 boring as hell - corruption mainly for late game with crappy bonuses, time fragments worthless, echo chains boring, servers working soo slow.\nSkill system praised by many in my opinion is crap - to many options too early, respecing and gaining new exp is waste of time.\nGame terribly explains itself - especially lacks stats on skills eg. crit chances.\nSkills triggers other skills and the next - it's hard to know what is actually better.\nProphecies are good and fun idea, but later it gets way too long rerolling and finding ones you look for.\nFarming memory amber, bones is boring - same locations all over again.\nWeaver faction memory amber requirements needs rebalancing - too much grind.\nGame lacks in combat weight feeling.\nItems on character and mobs looks crappy, boring skills.\nGame still has stupid QOL problems: \n- you open inventory, and then shop, inventory will close\n- opening shop in endgame takes 2 clicks, why there is even option to speak?\n- why there is no respec guy in every timeline?\n- why clicking on map right button takes you to selected map, but clicking right in faction \"Go to observatory\" not?\n- replacing item +skill with the same item respecs randomly skill points, and you have to remember to distribute them again - it's SO frustrating\n\nTo all that, devs promised all content free and now wants money for future classes - liars.\n\nGood things:\n- great loot filter\n- fun idols system\n- lots of stash space"
+        },
+        {
+            "review_id": "226946549",
+            "steam_id": "76561198014959569",
+            "playtime_minutes": 2500,
+            "voted_up": true,
+            "votes_up": 5,
+            "weighted_score": 0.5503066182136536,
+            "steam_purchase": true,
+            "review_text": "After hundreds of hours poured into Path of Exile and Diablo, I can honestly say that Last Epoch has completely won me over and taken the top spot for me. It hits that perfect sweet spot that the other two seem to have lost along the way.\nThe leveling is incredibly smooth and actually fun, while the itemization and crafting system are by far the best designed out of anything I've ever played—you feel real progression instead of just being at the mercy of absurd RNG.\nAnother huge plus is that you can play completely offline, without the headache of server crashes or lag. On top of that, I absolutely love that you aren't forced into leagues to enjoy the game. You can just chill in Legacy and still have access to all the content, without that constant pressure to start from scratch every few months if you don't have the time. For me, it respects the player's time so much better and is exactly what an ARPG should be."
+        },
+        {
+            "review_id": "225156403",
+            "steam_id": "76561198125176964",
+            "playtime_minutes": 19891,
+            "voted_up": false,
+            "votes_up": 10,
+            "weighted_score": 0.5488090515136719,
+            "steam_purchase": true,
+            "review_text": "I've been playing this game for awhile and I mostly enjoy it besides the occasional boredom. Recently though i haven't been able to even log into offline mode without the game giving me a LE-51 error. I've verified all the files and restarted everything many times but it just glitches out. If you spam it, you can get into the server but you can't type in global chat even though you can see people running around and right click on player. Idk wtf happened but to go from no issues for years to not being able to log in for months is insane. So hopefully its just me having this issue."
+        },
+        {
+            "review_id": "226404364",
+            "steam_id": "76561198923372813",
+            "playtime_minutes": 2033,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5443572998046875,
+            "steam_purchase": true,
+            "review_text": "[h2] Gameplay [/h2]\r\nThe game shares elements with most other ARPG style games, especially PoE. There are five classes: Mage, Rogue (bow and knife gal), Primalist (Barbarian/Druid), Acolyte (Necromancer), and Sentinel (Paladin/Warrior). These later turn into 3 different masteries. In the game, skills are divided into active and passive. You can unlock and use all active skills of the characters in their raw form, but it only offers the opportunity to specialize 5 skills. For passive skills, you can upgrade them with points after each level in a classic way. Since there are too many skills, you can develop your character in different ways. Unique items are plenty and this is a good contribution to the game. However, despite all this, the story part is too short. After the story ends, an endless game mode awaits you, but I thought the endless mode was unnecessary and started again with another class. I can say that there is a lack of content in the game. Maybe we can see other mechanics as the game receives updates. \r\n[h2] Graphics [/h2]\r\nThe graphics remind me of PoE. They are very good and show the dark atmosphere well. I love the corrupted feel of some areas. Because of time travel, you see the same places change across eras. A bright town in the ancient era becomes a dark ruin in the future. The desert maps also look great with nice sand details. Every era has a unique style. \r\n[h2] Audio [/h2]\r\nThe sound design in the game is pretty good. Both the character dialogues and the combat sound effects are decent enough for this type of game.\r\n[h2] Story [/h2]\r\nThe story is about saving the world by traveling to the past and the future using pieces of an ancient device called the Epoch. In the beginning, one of the four gods, Rahyeh, starts a war against the others and throws the world into chaos. The situation becomes even worse in the future because a dark void consumes everything. You must travel through different timelines to change history and save the world.\r\n[h2] Difficulty [/h2]\r\nThe game did not offer any real challenge for me, and I can even say it was a bit too easy. The campaign feels smooth and rarely punishes you. The only part where you actually need to think and plan carefully is when you design your character and choose how to distribute your skill points."
+        },
+        {
+            "review_id": "225955989",
+            "steam_id": "76561198109466071",
+            "playtime_minutes": 5253,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5372480750083923,
+            "steam_purchase": true,
+            "review_text": "For me Last Epoch is better than D4 and PoE but to each his own. I sink 4 or 5 hours a night into this game without even realizing the time went by. If you liked Diablo 3 you will like this. My favorite part is every single skill has it's own skill tree of customization so all 5 skills that you can equip at a time can be customized and theyre not just small customizations, for example on Necromancer (Acolyte) you can customize each minion, bone golem for example can be customized to have more hp/armor, can be a fire golem, ice golem, your golems hits can inflict bleed or poison, your golems hits against enemies that are poisoned turn into armor for you, your golems hits can leech hp to itself and you. Thats just skill tree for 1 minion but like I said every single skill has its own tree with branching paths. So in theory 2 people with the same  class and same 5 skills in use can have completely different looking/acting playstyles.\r\nThe bosses are WAY harder than any Diablo 3/4 offered, later bosses have multiple phases, really cool looking late game bosses too like a Lovecraftian style tentacle monsters that have like 5 different 1 shot mechanics, but the game never feels unfair and you can respec as much as you want.\r\nAlso I should go into more detail about classes, at around level 15 each of the 5 classes have 3 masteries you can choose from. So again I'll use Acolyte as an example, with Acolyte you can choose between Necromancer which is a pure summoning minion class and you get access to a bunch of different minions each with their own pros/cons, next mastery is Lich which I've never really dove into but it a transformation class with a lot of DoTs and spells that do massive damage at the cost of your own HP, Lastly and my person favorite is the Warlock which is a pure damage based mastery with minion use, you can throw out giant spells that create fissures in the ground that spirits come out of and attack enemies and with the Fissue customization you can make the fissure poison so any enemy that stands on it get an instant poison DoT, than theres DoTs that you can cast out that will jump from enemy to enemy and again you can customize it to where if an enemy dies from the DoT it doubles it's damage when it jumps to the next enemy and that stacks up to like 8 times. \r\nTheres so much more I could go into but honestly it's worth just playing for yourself, it's so much fun, it's like if PoE didn't have the annoying complicated gem/socket and passive tree system. It's my personal pick for best ARPG on Steam right now."
+        },
+        {
+            "review_id": "225084097",
+            "steam_id": "76561198423517163",
+            "playtime_minutes": 1856,
+            "voted_up": false,
+            "votes_up": 9,
+            "weighted_score": 0.5368021726608276,
+            "steam_purchase": true,
+            "review_text": "Game runs good, looks great, and provides a step in complexity in-between POE and Diablo, but that's where my positives end. \n\n- The game is insanely buggy, to the point where some skills straight up don't even work. \n- Controller support has not gotten like any updates in 3 years and menus are practically unusable with one. \n- The story sucks and is incomplete. \n- Only the main story characters are voiced and some other random things very early on. \n- Less actual build variety than it initially appears.\n- Loot filters don't work correctly.\n- Crafting is very restricted and SUPER rng.\n- Respecing is atrocious.\n- Game is incredibly grindy thanks to multiple layers of rng that can instantly brick your item."
+        },
+        {
+            "review_id": "226946760",
+            "steam_id": "76561198082074743",
+            "playtime_minutes": 11914,
+            "voted_up": false,
+            "votes_up": 16,
+            "weighted_score": 0.5356871485710144,
+            "steam_purchase": true,
+            "review_text": "Devs got bought out and went back on promises. the game itself is solid but i won't be supporting that."
+        },
+        {
+            "review_id": "226397882",
+            "steam_id": "76561198171069767",
+            "playtime_minutes": 1201,
+            "voted_up": false,
+            "votes_up": 12,
+            "weighted_score": 0.5813605189323425,
+            "steam_purchase": true,
+            "review_text": "Can't support devs that go back on their word. Said in early access that DLCs after 1.0 will be cosmetic only, now they want you to pay for classes."
+        },
+        {
+            "review_id": "227070266",
+            "steam_id": "76561198092249230",
+            "playtime_minutes": 14112,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "I had a read of some of the reviews for this game and thought I'd drop my two cents.\nSeems a lot of people are just focused on the direction the parent company is going in the future vs. the state of the game.\nFor me personally:\nI think the gameplay is very enjoyable, I enjoy the customization on a number of different levels and the interactions that the unique items and forging brings to the game.\nVisually, I think the game looks great! I think that the engine is not the best and there is some occasionally choppy gameplay, but for me doesn't detract from the beauty of the world, and how impressive and impactful I find most of the skills and abilities.\nThe systems in the game take a long time to uncover fully and sometimes they are not very well explained, but I think for me this only added to the depth of the gameplay after a few hundred hours there was still more for me to learn/discover.\nI invested hundreds of hours into grinding Diablo 3, and I would say that this is maybe the closest representation I've found to that gameplay (far moreso than the current state of DIV) and is something that I can pick up and play for an hour at a time and enjoy it or playing for an entire day.\nThe offline mode this game has, puts it in a tier above for me for playing on handheld and travelling - bad on steamdeck (more based on the engine than the specs) great on Legion Go 2 Z2 Extreme\nLast Epoch for me scratches a lot of itches and I believe the game is a great balanced middle ground between the smoothness of DIV and the complexity of POE/2\n\nI'll caveat this whole review by saying that I will be disappointed to see this game head down a path focused on profits over serving the community (where I think most of the devs would probably align) but right now I think the game is fantastic."
+        },
+        {
+            "review_id": "226977271",
+            "steam_id": "76561198048715401",
+            "playtime_minutes": 7334,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5161290168762207,
+            "steam_purchase": true,
+            "review_text": "The controller detection method has rendered the game unplayable for me. I have multiple devices on my PC which remain connected at all times, which this games interprets as a controller with no option to override (even if all controllers are removed from settings). This is the dumbest decision in a game I've ever seen."
+        },
+        {
+            "review_id": "225363501",
+            "steam_id": "76561198138942665",
+            "playtime_minutes": 12355,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.5081433057785034,
+            "steam_purchase": true,
+            "review_text": "Boring and repetitive endgame, with bad skill balance and questionable decisions from devs. It gets worse with each patch, because devs are incompetent. Not even gonna go in details about 8 month of waiting for a patch that didn't deliver anything interesting, probably even made game worse with imprint changes."
+        },
+        {
+            "review_id": "227161467",
+            "steam_id": "76561198027005738",
+            "playtime_minutes": 65664,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5063093900680542,
+            "steam_purchase": true,
+            "review_text": "They sold out to Krafton.\nJudging by the announcements made since, it seems to me like Krafton is intending to make that money back ASAP, by breaking promises the devs made about the monetization of the game. Apparently they're cashing in on the good reputation that was build by the devs.\n\nHere is to hoping that everyone, who agreed to this sale, always has a hole in one of their socks that fits exactly their big toe. Always."
+        },
+        {
+            "review_id": "227137467",
+            "steam_id": "76561197962786553",
+            "playtime_minutes": 3494,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5034722089767456,
+            "steam_purchase": true,
+            "review_text": "Solid game. Duplicitous and greedy developers.\n\nYou don't get another red cent from me."
+        },
+        {
+            "review_id": "227369245",
+            "steam_id": "76561198014496301",
+            "playtime_minutes": 14215,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5020576119422913,
+            "steam_purchase": true,
+            "review_text": "Absolutely terrible performance.  Play something else where the devs actually respect optimizing their product."
+        },
+        {
+            "review_id": "227448796",
+            "steam_id": "76561198709700588",
+            "playtime_minutes": 516,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its very fun to level up classes are cool but needs more and more updates would be nice for each season that comes out"
+        },
+        {
+            "review_id": "227393465",
+            "steam_id": "76561198214553753",
+            "playtime_minutes": 3410,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game. it will be good if the developers add some interesting endgame content not only monolith of faith."
+        },
+        {
+            "review_id": "227364265",
+            "steam_id": "76561199854254635",
+            "playtime_minutes": 7986,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "As a first time PC Gamer learning M&K. This game scratches the itch to play RPG while being keeping me entertained like D4."
+        },
+        {
+            "review_id": "227076062",
+            "steam_id": "76561198052682336",
+            "playtime_minutes": 17107,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "If i could give a neutral review i would because i can understand the Frustration many players have about the krafton buyout and that the new class is gonna cost some Money .\nHowever i think the game is a very fun and good gameplay experience with a lot of Potential to become even better in the seasons to come.\nI also read the Statements they put up after the buyout in which they Said that their cosmetics werent able to generate enough income to stay profitable and they would have needed to change something anyway and i think the class costing Money but the expansion itself gonna be free IS a fair compromise and i rather have them going Back on some promisses instead of the game dieing \n\nHowever this review being positive is subject to change If the monetization gets to aggressive"
+        },
+        {
+            "review_id": "225831784",
+            "steam_id": "76561198870497044",
+            "playtime_minutes": 5557,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49523353576660156,
+            "steam_purchase": true,
+            "review_text": "Its got a great story, all the mechanics are easy to understand and master, there is a certain amount of grinding involved to get everything you want but all in all I would say its better than Diablo IV"
+        },
+        {
+            "review_id": "225947660",
+            "steam_id": "76561198038557193",
+            "playtime_minutes": 2662,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.49413883686065674,
+            "steam_purchase": true,
+            "review_text": "Top Arpg.....like Diablo 3 and 4 its seasonal and has plenty to offer . The story is a bit confusing and very forgettable ,but in an Arpg its about gameplay and progressions and here the game truly shines. Some seasons are better than others but its like that wih all seasonal games. I can easily recommend this gem to any Arpg fan 100%"
+        },
+        {
+            "review_id": "227134034",
+            "steam_id": "76561198022158236",
+            "playtime_minutes": 21307,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.49354982376098633,
+            "steam_purchase": true,
+            "review_text": "Immediately lost interest in playing the game as soon as I logged in to my old character and saw that my gear was faction locked and would have to grind that faction again..."
+        },
+        {
+            "review_id": "227424231",
+            "steam_id": "76561198123388820",
+            "playtime_minutes": 20749,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.48995983600616455,
+            "steam_purchase": true,
+            "review_text": "After almost 10 years, there's still no attack-move option ( See Grim Dawn).\n\nAdditionally, the devs decided to arbitrarily delete a very interesting part of the game: building characters around procs.\n\nThe standard defensive and offensive tools the game provides are, by themselves, really weak. This is fine in a vacuum (albeit very boring), since you can finish the campaign with them, and special items like sets, uniques, and special idol effects would be expected to bridge this gap as the player delves into end-game.\nBuuuut, some skills are extremely over-represented, while many others skills have nothing, or as mentioned at the start - what little they had has been completely destroyed since 1.3\n\nAs an example for combat skills, with reflect you can kill most anything before it has a chance to move, all that needs to happen is for the thing to look at you to oneshot itself.\n  By contrast, thorns totem, an otherwise completely trash and useless skill on its own, had an amazing and fun interaction with itself and a few other skills where you could proc it to spawn when hitting something, then use the spawned totem as fodder for other skills, sometimes as often as 50 times per second. No other supporting items (after almost a decade) so the viability was poor, but it was fun. The devs randomly capped this to once per second, completely killing the skill.\n\nSome of the various defensive tools the player has, like dodge, armor, crit mitigation and block protect only from half of the damage sources, so the player is fully unprotected against the rest. Life scales very poorly. Endurance is now heavily restricted and capped. Resistances effectively set your protection to 0, else you would take extra damage...\nWhich leaves ward, with hundreds of uniques and effects dedicated to it, as the only meaningful form of defence.\n\nBoring.\n\nI've been trying this game since beta but every change has been one step forward, two steps back; every single time, with no exception."
+        },
+        {
+            "review_id": "226127952",
+            "steam_id": "76561198010084771",
+            "playtime_minutes": 15158,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.4881109297275543,
+            "steam_purchase": true,
+            "review_text": "Better than Diablo, worse than Path of Exile.\n\nThey have some unique progression and build mechanics that are fun to explore. If you are an ARPG enjoyer, it's worth playing!"
+        },
+        {
+            "review_id": "226249324",
+            "steam_id": "76561198113981641",
+            "playtime_minutes": 12193,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.4859085977077484,
+            "steam_purchase": true,
+            "review_text": "LE is somewhere between D4 and PoE.  Fun game but endgame gets pretty repetitve with limited ways to change things up."
+        },
+        {
+            "review_id": "226865152",
+            "steam_id": "76561199737157300",
+            "playtime_minutes": 5534,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4852440357208252,
+            "steam_purchase": true,
+            "review_text": "one of the best arpg game &totally underated , good content every season"
+        },
+        {
+            "review_id": "226777869",
+            "steam_id": "76561198012699293",
+            "playtime_minutes": 3031,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.484202116727829,
+            "steam_purchase": true,
+            "review_text": "The game is ok, but it can be way too easy and the lack of incentives and rewards like cosmetics or titles makes it uninteresting. The loot systems and character building are good, but the crafting is pretty lame because it's just layers of RNG."
+        },
+        {
+            "review_id": "227251036",
+            "steam_id": "76561197979346923",
+            "playtime_minutes": 16294,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "My hot take. I don't really care that the new class is going to cost money. \n\nIn today's market game studios have to make money. I'd much rather have a great ARPG like this. As long as they don't get too crazy with pricing I would much rather they add paid premium content. Last Epoch is by far my favorite ARPG. It's the perfect amount of build flexibility and complexity without being too boring or too difficult to get creative but viable builds.\n\nI definitely get why the community is upset. It sucks when a dev says one thing and does another later on. But looking at other studios that have promised games and never delivered or the final product is garbage, at least this is a VERY good ARPG. I can't fault them for trying to keep their business afloat. That said I think going forward they are going to need to be really careful about how they communicate with the player base. \n\nIf you are on the fence about this one and seeing the review bombs just know, the game is great. The dev communication and monetization aren't the best. But it's way better than D4 and a lot more enjoyable to try new builds than PoE. I prefer to mostly play my ARPGs Solo self found and like to work out creative or weird builds. The only games I've found that really work well with this playstyle are Grim dawn and Last Epoch."
+        },
+        {
+            "review_id": "225421245",
+            "steam_id": "76561198019520472",
+            "playtime_minutes": 841,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4756413996219635,
+            "steam_purchase": true,
+            "review_text": "nice game. player a bit.. but each time i open i get LE-51 error. i'm tired. tried everything. 6-7 years old game and still silly issues."
+        },
+        {
+            "review_id": "227162241",
+            "steam_id": "76561198122115987",
+            "playtime_minutes": 8640,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.47508761286735535,
+            "steam_purchase": true,
+            "review_text": "You could pick any other current ARPG and it will be better, just load up TLI,Poe 1/2, Diablo 4 and youll have more fun.\n"
+        },
+        {
+            "review_id": "226891528",
+            "steam_id": "76561198010127663",
+            "playtime_minutes": 5198,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.46059364080429077,
+            "steam_purchase": true,
+            "review_text": "The game works because all classes have fun and/or viable builds"
+        },
+        {
+            "review_id": "225501944",
+            "steam_id": "76561198052492574",
+            "playtime_minutes": 1213,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.4543050527572632,
+            "steam_purchase": true,
+            "review_text": "While I have played it roughly to completion, I can't recommend it it's so boring & trivially easy. They've wasted 20 hours of game potential and my time. There's literally no challenge during the entire campaign, your character's a tank. No difficulty setting either. The game mechanics are in place and it's a very detailed game when it comes to systems but not as intimidating as PoE, which is good. The graphics are dated - the story no one cares about. 4/10, avoid as it's unlikely to get exciting."
+        },
+        {
+            "review_id": "226607548",
+            "steam_id": "76561198154211433",
+            "playtime_minutes": 1403,
+            "voted_up": false,
+            "votes_up": 8,
+            "weighted_score": 0.4345446228981018,
+            "steam_purchase": true,
+            "review_text": "An RPG with no character creation? And all those preset characters are ugly. I don't wanna choose any of them. The story and gameplay are also boring as well. The graphic is mid."
+        },
+        {
+            "review_id": "226966489",
+            "steam_id": "76561198172045137",
+            "playtime_minutes": 6,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.33432406187057495,
+            "steam_purchase": true,
+            "review_text": "Gender locked classes... \nI didn't want to waste my time with this as a result... especially since both of the classes I was interested in playing were female. \nRefunded... maybe the game is good maybe it's bad, but I see no reason why a multiplayer game that released in 2024, should have gender lock on anything... they can use AI if they can't afford it, I couldn't care less as long as they deliver a better product."
+        },
+        {
+            "review_id": "225561038",
+            "steam_id": "76561198138986731",
+            "playtime_minutes": 13154,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "Hands down the best game i played. The story line is amazing"
+        },
+        {
+            "review_id": "226589803",
+            "steam_id": "76561197962668198",
+            "playtime_minutes": 2606,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.5148979425430298,
+            "steam_purchase": true,
+            "review_text": "Hot damn are you serious? This long and you still can't put transmog in the game?"
+        },
+        {
+            "review_id": "225920195",
+            "steam_id": "76561198092178213",
+            "playtime_minutes": 29,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4880359172821045,
+            "steam_purchase": true,
+            "review_text": "With some tweaking on the SD, it runs great at a solid 40fps."
+        },
+        {
+            "review_id": "227455459",
+            "steam_id": "76561198081851637",
+            "playtime_minutes": 354,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love Last Epoch, it's one of my favorite games to play. It's fun and challenging! The graphics are not bloated, no explosions all over the screen like some other action rpgs lol!"
+        },
+        {
+            "review_id": "227011324",
+            "steam_id": "76561198438041726",
+            "playtime_minutes": 31266,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Its a good game with fairly good replay value and an endless ceiling for difficulty."
+        },
+        {
+            "review_id": "226367501",
+            "steam_id": "76561198074940407",
+            "playtime_minutes": 43319,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Way too many bugs that have been there for years.  Devs have no interest in fixing game mechanics, only in pushing out more buggy features and cosmetics.  You're better off with POE/POE2."
+        },
+        {
+            "review_id": "226345958",
+            "steam_id": "76561199766446233",
+            "playtime_minutes": 1913,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game has come a long way. Wish there was more endgame content, and wish that it was growing faster, but it's a blast, and it's getting better and better."
+        },
+        {
+            "review_id": "226148257",
+            "steam_id": "76561198288721622",
+            "playtime_minutes": 10723,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I wish that there are more companions (like Zerrick) who fight alongside you in the monolith of fate. It would make this game more interesting."
+        },
+        {
+            "review_id": "225811220",
+            "steam_id": "76561198134544671",
+            "playtime_minutes": 2506,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's fun and i'll be honest i played it while waiting for poe2 \n\nI liked the dark knight build and the game loop"
+        },
+        {
+            "review_id": "225794215",
+            "steam_id": "76561198941489003",
+            "playtime_minutes": 30334,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "For an 'unfinished game' it's very polished. Shame its future is kinda sketch with Krafton holding the cards. Still recommend to give it a shot if you're a fan of ARPGs"
+        },
+        {
+            "review_id": "225572993",
+            "steam_id": "76561198420431012",
+            "playtime_minutes": 150,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Eu torci o nariz um pouco mas tenho que reconhecer, o jogo é exatamente o que ele se proproe a fazer, não insulta a sua inteligencia porque não achou um combo quebrado obscuro com 3 gemas igual POE.\nÉ perfeitamente possivel jogar e criar uma build, apenas lendo o que cada nó da skill faz, sem segredos, ele para literalmente entre Diablo e POE, no meio do caminho, aberto com possibilidades mas sem um numero insano de alternativas sem sentido.\nSe você quer um arpg pra criar a sua build sem ter que seguir um guia de alguém que faz um combo totalmente sem sentido só pra ver numeros, esse game é pra você."
+        },
+        {
+            "review_id": "225418719",
+            "steam_id": "76561197988619352",
+            "playtime_minutes": 3344,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Last Epoch offers the same satisfying ARPG loop as its genre brothers like Diablo 2-4 and Path of Exile 1 & 2, but with its own identity built around the fractured time mechanics and endgame systems.\n\nI originally played this back around release and honestly couldn’t get into it at the time. Coming back a couple of years later though, the game feels far more complete and enjoyable. I rolled a fresh seasonal character and was able to jump straight into the action without feeling overwhelmed.\n\nThe loot variety is excellent and the build depth feels comparable to the bigger names in the genre. What I really appreciate is that my build works without needing to follow some ultra-meta guide. It feels rewarding to experiment and still make meaningful progress into the endgame.\n\nThe whole gameplay loop just clicks now — leveling, gearing, crafting, and pushing into endgame content all feel smooth and satisfying. If you enjoy ARPGs and bounced off Last Epoch at launch like I did, it’s absolutely worth revisiting in its current state."
+        },
+        {
+            "review_id": "227431657",
+            "steam_id": "76561198063462075",
+            "playtime_minutes": 41899,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is my Fav ARPG to date, each new season is better then the last"
+        },
+        {
+            "review_id": "226674988",
+            "steam_id": "76561198009702753",
+            "playtime_minutes": 33171,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "visually stunning, long storyline, credible endgame"
+        },
+        {
+            "review_id": "225572024",
+            "steam_id": "76561198093822920",
+            "playtime_minutes": 1397,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I have never played a \"Diablo-like\" ARPG before and I went into this game blind. No guides, no help, no looking things up. It was an enjoyable experience for me. I am around level 65 at the time of this review. I completed the campaign and have done a handful of monoliths. It was fun to make a build based on the skills and then sift through all the items I got for stats to help synergize with my fire and ice Sorcerer theme. I ignored crafting and I killed every enemy on my screen. I simply focused on picking my passives, skills, and gear to scale and I just played the game. My time was not optimized in the slightest, but I had fun! This endgame system has me a little confused, so I plan to start properly learning the ins and outs of this game. Perhaps I wait until next season and pick a new build I want to do? Who knows!? Something I DO know though is, \"I'm not a man of many pockets\"."
+        },
+        {
+            "review_id": "225648685",
+            "steam_id": "76561198156536881",
+            "playtime_minutes": 7695,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.524736762046814,
+            "steam_purchase": true,
+            "review_text": "Much more forgiving than POE yet more technical than Diablo. Loving it <3"
+        },
+        {
+            "review_id": "226649049",
+            "steam_id": "76561198828779867",
+            "playtime_minutes": 1626,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.51031893491745,
+            "steam_purchase": true,
+            "review_text": "More depth than D4. Unity engine is a minus visually. Devs are cool."
+        },
+        {
+            "review_id": "226192994",
+            "steam_id": "76561198001851314",
+            "playtime_minutes": 3192,
+            "voted_up": false,
+            "votes_up": 20,
+            "weighted_score": 0.5763391256332397,
+            "steam_purchase": true,
+            "review_text": "Solid choices.\n\nNow watch your game die"
+        },
+        {
+            "review_id": "226269607",
+            "steam_id": "76561198326548489",
+            "playtime_minutes": 32634,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4963235557079315,
+            "steam_purchase": true,
+            "review_text": "One of the best games to relax and play solo ...."
+        },
+        {
+            "review_id": "227050950",
+            "steam_id": "76561198333988922",
+            "playtime_minutes": 2860,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5110593438148499,
+            "steam_purchase": true,
+            "review_text": "Another krafton classic."
+        },
+        {
+            "review_id": "225116055",
+            "steam_id": "76561198361262225",
+            "playtime_minutes": 356,
+            "voted_up": false,
+            "votes_up": 7,
+            "weighted_score": 0.46901392936706543,
+            "steam_purchase": true,
+            "review_text": "BORING uninteresting. feels like a mobile game"
+        },
+        {
+            "review_id": "227448993",
+            "steam_id": "76561198023785211",
+            "playtime_minutes": 11871,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.4417670667171478,
+            "steam_purchase": true,
+            "review_text": "To lie or not to lie? That is the question..."
+        },
+        {
+            "review_id": "225278642",
+            "steam_id": "76561199038264740",
+            "playtime_minutes": 11791,
+            "voted_up": false,
+            "votes_up": 10,
+            "weighted_score": 0.5175737142562866,
+            "steam_purchase": true,
+            "review_text": "Rest easy Last Epoch ... Im gonna miss you."
+        },
+        {
+            "review_id": "226036584",
+            "steam_id": "76561198066067749",
+            "playtime_minutes": 4742,
+            "voted_up": false,
+            "votes_up": 25,
+            "weighted_score": 0.6546021103858948,
+            "steam_purchase": true,
+            "review_text": "Sellouts. You'll never get another dime."
+        },
+        {
+            "review_id": "226966869",
+            "steam_id": "76561198109388414",
+            "playtime_minutes": 8977,
+            "voted_up": false,
+            "votes_up": 14,
+            "weighted_score": 0.5427393317222595,
+            "steam_purchase": true,
+            "review_text": "Betrayal and greed"
+        },
+        {
+            "review_id": "227291786",
+            "steam_id": "76561197962602220",
+            "playtime_minutes": 10895,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "Please describe what you liked or disliked about this product."
+        },
+        {
+            "review_id": "227356138",
+            "steam_id": "76561198766586677",
+            "playtime_minutes": 190,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5248447060585022,
+            "steam_purchase": true,
+            "review_text": "Great game having a blast."
+        },
+        {
+            "review_id": "226408941",
+            "steam_id": "76561197972860065",
+            "playtime_minutes": 274,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4166666567325592,
+            "steam_purchase": true,
+            "review_text": "What Path of Exhile 2 should have been."
+        },
+        {
+            "review_id": "225863177",
+            "steam_id": "76561199076711721",
+            "playtime_minutes": 10856,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.45744261145591736,
+            "steam_purchase": true,
+            "review_text": "♥♥♥♥♥♥♥♥ game\r\n"
+        },
+        {
+            "review_id": "227024855",
+            "steam_id": "76561198085457570",
+            "playtime_minutes": 237,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Enjoyable game"
+        },
+        {
+            "review_id": "225280805",
+            "steam_id": "76561198966814946",
+            "playtime_minutes": 69060,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Addictive and Fun"
+        },
+        {
+            "review_id": "225581194",
+            "steam_id": "76561198800196116",
+            "playtime_minutes": 6652,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49668875336647034,
+            "steam_purchase": true,
+            "review_text": "Fun game"
+        },
+        {
+            "review_id": "227272000",
+            "steam_id": "76561198413205180",
+            "playtime_minutes": 1037,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.5265923738479614,
+            "steam_purchase": true,
+            "review_text": "the classes should be free"
+        },
+        {
+            "review_id": "226114723",
+            "steam_id": "76561198714674936",
+            "playtime_minutes": 133,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.4709624648094177,
+            "steam_purchase": true,
+            "review_text": "gud game cuh"
+        },
+        {
+            "review_id": "227441312",
+            "steam_id": "76561199058215193",
+            "playtime_minutes": 61300,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun"
+        },
+        {
+            "review_id": "227121642",
+            "steam_id": "76561198149761275",
+            "playtime_minutes": 4903,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4803149700164795,
+            "steam_purchase": true,
+            "review_text": "Better than diablo 4 imo"
+        },
+        {
+            "review_id": "226568297",
+            "steam_id": "76561198997149120",
+            "playtime_minutes": 34852,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4545454680919647,
+            "steam_purchase": true,
+            "review_text": "goat arpg poe suck on my sack"
+        },
+        {
+            "review_id": "226640873",
+            "steam_id": "76561198972919190",
+            "playtime_minutes": 7933,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game is a game would recommend"
+        },
+        {
+            "review_id": "227396610",
+            "steam_id": "76561198437492651",
+            "playtime_minutes": 834,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "fajne fajne"
+        },
+        {
+            "review_id": "226637134",
+            "steam_id": "76561197961463127",
+            "playtime_minutes": 40403,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "spin to win"
+        },
+        {
+            "review_id": "227388089",
+            "steam_id": "76561198353424505",
+            "playtime_minutes": 724,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "goty for me"
+        },
+        {
+            "review_id": "225155297",
+            "steam_id": "76561198048747485",
+            "playtime_minutes": 41662,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun Arpg."
+        },
+        {
+            "review_id": "227191232",
+            "steam_id": "76561199152007308",
+            "playtime_minutes": 14432,
+            "voted_up": false,
+            "votes_up": 7,
+            "weighted_score": 0.5098170042037964,
+            "steam_purchase": true,
+            "review_text": "Liars!!"
+        },
+        {
+            "review_id": "226854555",
+            "steam_id": "76561198066993293",
+            "playtime_minutes": 9302,
+            "voted_up": false,
+            "votes_up": 7,
+            "weighted_score": 0.4436083436012268,
+            "steam_purchase": true,
+            "review_text": "Just no."
+        },
+        {
+            "review_id": "227043887",
+            "steam_id": "76561198003192265",
+            "playtime_minutes": 3884,
+            "voted_up": false,
+            "votes_up": 8,
+            "weighted_score": 0.5454798936843872,
+            "steam_purchase": true,
+            "review_text": "Liars."
+        },
+        {
+            "review_id": "225805333",
+            "steam_id": "76561197994452110",
+            "playtime_minutes": 6151,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "yes"
+        },
+        {
+            "review_id": "225138735",
+            "steam_id": "76561198110501880",
+            "playtime_minutes": 1374,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.38309037685394287,
+            "steam_purchase": true,
+            "review_text": "no arachnophobia"
+        },
+        {
+            "review_id": "227220864",
+            "steam_id": "76561198136577124",
+            "playtime_minutes": 1557,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "1"
+        },
+        {
+            "review_id": "225714253",
+            "steam_id": "76561199075277596",
+            "playtime_minutes": 1221,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4600484073162079,
+            "steam_purchase": true,
+            "review_text": ""
+        }
+    ]
+}

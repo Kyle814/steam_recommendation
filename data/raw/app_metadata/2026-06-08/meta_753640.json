@@ -1,0 +1,123 @@
+{
+    "ingested_at": "2026-06-08T19:11:03.719163",
+    "app_id": "753640",
+    "metadata": {
+        "type": "game",
+        "name": "Outer Wilds",
+        "steam_appid": 753640,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Named Game of the Year 2019 by Giant Bomb, Polygon, Eurogamer, and The Guardian, Outer Wilds is a critically-acclaimed and award-winning open world mystery about a solar system trapped in an endless time loop.",
+        "detailed_description": "Winner of Best Game at the 2020 BAFTA Games Awards and named Game of the Year 2019 by Giant Bomb, Polygon, Eurogamer, and The Guardian, <i>Outer Wilds</i> is a critically-acclaimed and award-winning open world mystery about a solar system trapped in an endless time loop.<br><br><strong> Welcome to the Space Program!</strong><br>You're the newest recruit of Outer Wilds Ventures, a fledgling space program searching for answers in a strange, constantly evolving solar system.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/extras/dc371e0b46534bf7ec7cd293f7672eef.poster.avif?t=1779137571\" width=600 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/extras/dc371e0b46534bf7ec7cd293f7672eef.webm?t=1779137571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/extras/dc371e0b46534bf7ec7cd293f7672eef.mp4?t=1779137571\" type=\"video/mp4\"></video></span><br> <br><strong>Mysteries of the Solar System...</strong><br>What lurks in the heart of the ominous Dark Bramble? Who built the alien ruins on the Moon? Can the endless time loop be stopped? Answers await you in the most dangerous reaches of space.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/extras/97dbc4fecd7fc7e5ae3216863fd80fc4.poster.avif?t=1779137571\" width=600 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/extras/97dbc4fecd7fc7e5ae3216863fd80fc4.webm?t=1779137571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/extras/97dbc4fecd7fc7e5ae3216863fd80fc4.mp4?t=1779137571\" type=\"video/mp4\"></video></span><br> <br><strong>A World That Changes Over Time</strong><br>The planets of <i>Outer Wilds</i> are packed with hidden locations that change with the passage of time. Visit an underground city before it's swallowed by sand, or explore the surface of a planet as it crumbles beneath your feet. Every secret is guarded by hazardous environments and natural catastrophes.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/extras/41258490e3c0156e97cf91700d870b13.poster.avif?t=1779137571\" width=600 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/extras/41258490e3c0156e97cf91700d870b13.webm?t=1779137571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/extras/41258490e3c0156e97cf91700d870b13.mp4?t=1779137571\" type=\"video/mp4\"></video></span><br> <br><strong>Grab Your Intergalactic Hiking Gear!</strong><br>Strap on your hiking boots, check your oxygen levels, and get ready to venture into space. Use a variety of unique gadgets to probe your surroundings, track down mysterious signals, decipher ancient alien writing, and roast the perfect marshmallow.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/extras/d84741ec933fe51b7302c218fc5f0638.poster.avif?t=1779137571\" width=600 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/extras/d84741ec933fe51b7302c218fc5f0638.webm?t=1779137571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/extras/d84741ec933fe51b7302c218fc5f0638.mp4?t=1779137571\" type=\"video/mp4\"></video></span>",
+        "developers": [
+            "Mobius Digital"
+        ],
+        "publishers": [
+            "Annapurna Interactive"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2499,
+            "final": 2499,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$24.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 85,
+            "url": "https://www.metacritic.com/game/pc/outer-wilds?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 75,
+                "description": "Keyboard Only Option"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 85521
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jun 18, 2020"
+        }
+    }
+}

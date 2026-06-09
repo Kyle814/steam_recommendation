@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T18:53:50.801761",
+    "app_id": "227300",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "225675696",
+            "steam_id": "76561198877766749",
+            "playtime_minutes": 1334,
+            "voted_up": true,
+            "votes_up": 80,
+            "weighted_score": 0.8471035361289978,
+            "steam_purchase": true,
+            "review_text": "This game saved me on lonely nights, which are pretty much all of them"
+        },
+        {
+            "review_id": "225736058",
+            "steam_id": "76561198173732778",
+            "playtime_minutes": 349,
+            "voted_up": true,
+            "votes_up": 13,
+            "weighted_score": 0.6764705777168274,
+            "steam_purchase": true,
+            "review_text": "Great game, run without problems max graphics."
+        },
+        {
+            "review_id": "225679757",
+            "steam_id": "76561198712622348",
+            "playtime_minutes": 288,
+            "voted_up": true,
+            "votes_up": 17,
+            "weighted_score": 0.6528609991073608,
+            "steam_purchase": true,
+            "review_text": "Euro Truck Simulator 2, a game that i wanted to play for nearly 10y now! I finally bought it and honestly coming to the PC after been on consoles since PS2, I can tell you that there is absolutely not a single truck game that give's you the expirience that ETS2 does! Not at all I've played ( On The Road, Truck Driver )  The only trucking game that was descent was the \"Alaskan Road Trucker's\", And to be fair that still is far beyond of ETS2 in every single possible way! I'm not exaggerating at all, I've tried every single truck game and i just cannot describe how peaceful is to finally have my own PC and specifically to be able to play ETS2 on the best possible graphics with mods! Even my stepson that was never into trucks is playing ETS2, i can tell you how vicious this game makes you on a positive way! And SCS earned it i played the 18 wheels of steel, back in the days with my father, I absolutely reccomend it to anyone how want's to sit back relax, play online, have fun, best simulator ever."
+        },
+        {
+            "review_id": "227082394",
+            "steam_id": "76561198748745436",
+            "playtime_minutes": 2917,
+            "voted_up": true,
+            "votes_up": 9,
+            "weighted_score": 0.6416938304901123,
+            "steam_purchase": true,
+            "review_text": "The perfect game for a quiet evening, a remarkably relaxing experience."
+        },
+        {
+            "review_id": "225916631",
+            "steam_id": "76561199546285060",
+            "playtime_minutes": 70067,
+            "voted_up": true,
+            "votes_up": 8,
+            "weighted_score": 0.6153846383094788,
+            "steam_purchase": true,
+            "review_text": "hello guys i would like to recommend all of you this game as euro truck simulator 2, according to my enjoyment on it, it is nice one in the trucking game i know"
+        },
+        {
+            "review_id": "226181428",
+            "steam_id": "76561198198615382",
+            "playtime_minutes": 712,
+            "voted_up": true,
+            "votes_up": 8,
+            "weighted_score": 0.589616060256958,
+            "steam_purchase": true,
+            "review_text": "Another cozy marvelous driving game from the same company that I'm loving so far. My only issue is that I've never been to Europe which is probably why I'm severely struggling with the road rules lol. But I do love the narrow roads compared to \"ATS (American Truck Simulator)\" it feels more challenging to navigate into steep roads compared to an \"open highway\". \n\nHad a few drive sessions with this and I'm still finding the \"grip\" or the feel to the roads or highways. Regardless, I'll still buy all the map DLCs for sure in the near future in which I'm also excited with the incoming \"coaches DLC\" \n-\nFriendly Reminder for Handheld users like me who plays in systems like the steam deck or rog ally etc, that ALL BUTTONS are DYSFUNCTIONAL on the first boot of the game. You'll need to remap the buttons to the keyboard for full control support. \nBut in my case, I just copied my \"ATS Layout\" to my \"ETS 2 Layout\" which saves me time as to manual remapping of the buttons.\n-\nEasy 9/10 so far with the base game. Excited to purchase the DLCs"
+        },
+        {
+            "review_id": "225886974",
+            "steam_id": "76561198152022863",
+            "playtime_minutes": 2475,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5513666272163391,
+            "steam_purchase": true,
+            "review_text": "depresif gecelerimin vazgeçilmezi. arabesk şarkılarla şehirlerarası melankoli teslimatı yaparken aldığım zevk orgazmsal düzeyde. oynayın oynatın çok da tribe girmeyin"
+        },
+        {
+            "review_id": "227353496",
+            "steam_id": "76561199479701055",
+            "playtime_minutes": 3235,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5454545617103577,
+            "steam_purchase": true,
+            "review_text": "I really enjoy Euro Truck Simulator 2. The game is relaxing and fun, with plenty to explore. The only downside is that the DLCs are quite expensive, but they are high quality and add a lot of content.\n9/10"
+        },
+        {
+            "review_id": "225370088",
+            "steam_id": "76561199219719306",
+            "playtime_minutes": 1573,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5454545617103577,
+            "steam_purchase": true,
+            "review_text": "Great game, better to play with controller."
+        },
+        {
+            "review_id": "227246768",
+            "steam_id": "76561198854140982",
+            "playtime_minutes": 19490,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5258620381355286,
+            "steam_purchase": true,
+            "review_text": "Convoy mode is honestly a mess.\r\n\r\nNeither my convoy nor my friend's convoy shows up when searching the server browser, even though our download regions are the same and all filters are set correctly. The only workaround is joining through Steam, but that just throws a mod mismatch error.\r\n\r\nThe worst part is that I can manually send my friend the exact mods and load order and make it work, but I shouldn't have to do that. The game should handle that automatically, the same way it does when joining convoys through the server browser. If the system can detect and sync mods there, it should not completely fall apart when joining through Steam.\r\n\r\nOn top of that, the server browser itself is horribly optimized. I am running an RTX 3080 and the browser sits at a solid 24 FPS, which is ridiculous for what is basically just a list of servers.\r\n\r\nEuro Truck Simulator 2 is a great game in many ways, but Convoy mode feels unreliable, clunky, and unfinished. Multiplayer should not require this much troubleshooting just to play with one friend.\r\n\r\nJust stick to TruckersMP if you want to play with a friend, only downside is no traffic and no mods."
+        },
+        {
+            "review_id": "227015507",
+            "steam_id": "76561199383817116",
+            "playtime_minutes": 7652,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "This game's topic is very good very balanced but not very much with DLCs\r\nI know You need MONEY. But For American's 6$ isn't that much to you but for other  countries(like Turkey etc.) It is TOO much for it because now 6$ is equal to 300 Turkish Lira. I m saying to Steam. Please make the Pricing system to all country money type so every game/DLC can be balanced. For SCS, You can make DLC BUT please Don't narrow our map in Without any DLC maps. If You are gonna remove the Britian, I won't play this game ANYMORE. Because if you remove the Britian, you can go the much KM from Italian to Germany's Kiel City that it is the much farther away.\r\nI know you need literaly MONEY for this but Please don't narrow our map. I ll give 2.5/5"
+        },
+        {
+            "review_id": "226642680",
+            "steam_id": "76561199635439970",
+            "playtime_minutes": 170,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Calm, and really fun game absolutely love it"
+        },
+        {
+            "review_id": "226624501",
+            "steam_id": "76561199549362664",
+            "playtime_minutes": 642,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "if u download truckersmp (not advertising) its actasully good the game by itself is good the graphics and mechanics yk all that"
+        },
+        {
+            "review_id": "226260360",
+            "steam_id": "76561199501836891",
+            "playtime_minutes": 2778,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Can someone give me 200 points please I need for animated background\r\nI reccomend the game btw and thanks"
+        },
+        {
+            "review_id": "225939517",
+            "steam_id": "76561199707122473",
+            "playtime_minutes": 1596,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Great game. Never gets boring and you explore while doing work🔥"
+        },
+        {
+            "review_id": "225808541",
+            "steam_id": "76561197963526647",
+            "playtime_minutes": 953,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "The scenery is not as impressive as American Truck Simulator (I may be biased as I am a sucker for North American landscapes), but the fun of driving these short nosed Euro trucks can't be beat. The two games compliment eachother really well with Euro feeling a little bit more difficult to progress quickly money wise, but that could just be my playing."
+        },
+        {
+            "review_id": "225771355",
+            "steam_id": "76561198120273245",
+            "playtime_minutes": 5158,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "- Enter the game\n\n- Take out a massive loan\n\n- AI be like : \"Let's brake check this mf 25 ton of truck\"\n\n- Hit him in the ass\n\n- Received 20% Damage and 400 euros fine\n\n- Get annoyed. Start speeding\n\n- Speeding fines every 2 minutes.\n\n- Anger intensifies. No need brake anymore\n\n- Flip the truck \n\n- Repair costs put me in debt\n\n- Rage quit\n\n--> Repeat the next day\n\n10/10 Most realistic truck driving simulator ever."
+        },
+        {
+            "review_id": "225521347",
+            "steam_id": "76561198136751254",
+            "playtime_minutes": 1765,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5233051180839539,
+            "steam_purchase": true,
+            "review_text": "If you like to drive, this is the game for you. It's relaxing and nice to play after a long day."
+        },
+        {
+            "review_id": "227383696",
+            "steam_id": "76561199180745631",
+            "playtime_minutes": 1446,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "0/10 No deers :<\n\njk this game is ♥♥♥♥♥♥♥ beautiful oh my gawd, I keep stopping every few minutes to take a picture cuz the sceneries and just Aaghh it's so GORGEOUS!!✨\nAlso bergentruck haha 🦌🛻\nVery chill game, the thing about just driving a truck feels calming and refreshing after a long, long day, and honestly I could play this all the time."
+        },
+        {
+            "review_id": "225190767",
+            "steam_id": "76561198385911692",
+            "playtime_minutes": 137591,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5195178985595703,
+            "steam_purchase": true,
+            "review_text": "In the year of 2026 the textures (=grapics) aren't presentable anymore. The game gets updated regularly, but sadly those new features mostly benefit the arcade side of the game. Train Sim World did a far better job mostly in terms of graphics and changed from railworks engine to Unreal engine 4.\nFeatures to simulate real driving parameters, freight and freight security, specific loading procedures for each freight and different regulations and forms for specific freights don't get presented at all in this game. For comparison, Train Sim World offers a few \"Expert Locomotives\" which come very close to having all features of the real locomotive. TSW is a good example of a new game which deserves being called a Simulator.\n\n"
+        },
+        {
+            "review_id": "225421648",
+            "steam_id": "76561198749323739",
+            "playtime_minutes": 2501,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5652173757553101,
+            "steam_purchase": true,
+            "review_text": "I went into my truck ,drove to Spain, loaded some immigrants ,drove them to Norway went home, Loaded ets2 played and had fun 10 out of 10 game"
+        },
+        {
+            "review_id": "225397932",
+            "steam_id": "76561199030404646",
+            "playtime_minutes": 494,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5114006400108337,
+            "steam_purchase": true,
+            "review_text": "Exactly what you think it is, exactly the way you would think it would play, exactly the way you would expect it to look packaged in an amazing ui/campaign.\nGreat game.\nGreat sound design.\nRuns amazing too, as you would expect for a game this old."
+        },
+        {
+            "review_id": "226192134",
+            "steam_id": "76561198361786666",
+            "playtime_minutes": 35840,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5034482479095459,
+            "steam_purchase": true,
+            "review_text": "SCS does most of the things very well.\nEvery Update introduces something Gamplay related or QOL features, UI is not one of these things.\nThe UI went from charming high quality icons that were easely understandable and recognizable to boring sterile gray icons with no immediate features/colors that set them apart from eachother making it hard to navigate the Menu. Same goes for the Route Advisor, boring corporate design with no life or feellings behind it.\nThis is why the game sadly deserves the Negativ Review for me at this time since its something you interact with all the time."
+        },
+        {
+            "review_id": "227494833",
+            "steam_id": "76561199858283742",
+            "playtime_minutes": 30454,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "🕒 Hours Played: 500+\r\n\r\nAfter more than 500 hours in ETS2, I can confidently say this is one of the best driving simulators ever made.\r\n\r\n👍 Pros\r\n🚛 Huge map with beautiful scenery.\r\n🛣️ Relaxing long-distance driving experience.\r\n🌦️ Great weather and day/night cycle.\r\n🔧 Excellent truck customization.\r\n🌍 Massive modding community (ProMods, graphics mods, etc.).\r\n👥 Multiplayer support through TruckersMP.\r\n🎧 Perfect game to play while listening to music or podcasts.\r\n👎 Cons\r\nSome older areas could use visual updates.\r\nAI traffic can be unpredictable at times.\r\n⭐ Final Verdict\r\n\r\nWhether you enjoy realistic trucking, exploring Europe, or simply relaxing after a long day, Euro Truck Simulator 2 delivers an incredible experience.\r\n\r\n500+ hours later, I'm still discovering new roads and enjoying every journey.\r\n\r\nRating: ⭐⭐⭐⭐⭐ 10/10\r\n\r\n\"It's not just a truck game—it's a road trip across Europe.\" 🚛❤️"
+        },
+        {
+            "review_id": "227483911",
+            "steam_id": "76561198838787998",
+            "playtime_minutes": 1548,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The best truck simulator game I have ever played. Been playing this game for the last 12 years and it just keeps getting better"
+        },
+        {
+            "review_id": "227480902",
+            "steam_id": "76561198074482127",
+            "playtime_minutes": 856,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Most relaxing game, turn on the radio and start trucking"
+        },
+        {
+            "review_id": "227426412",
+            "steam_id": "76561199556151602",
+            "playtime_minutes": 711,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I can't explain but absolutely incredible gameplay."
+        },
+        {
+            "review_id": "227423880",
+            "steam_id": "76561198312741243",
+            "playtime_minutes": 4847,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Really relaxing just driving across Europe and doing transport jobs."
+        },
+        {
+            "review_id": "227410547",
+            "steam_id": "76561199599247379",
+            "playtime_minutes": 2586,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the best game for when you get home from work to just drive and stick on some music - with a vibrant community and regular sale prices of a fiver its a must buy"
+        },
+        {
+            "review_id": "227409143",
+            "steam_id": "76561198278899821",
+            "playtime_minutes": 2315,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I just love ETS. Got nearly all the dlc's and its a blast! Mod community is amazing and i like the immersion. Especially with a wheel!"
+        },
+        {
+            "review_id": "227397490",
+            "steam_id": "76561198829767344",
+            "playtime_minutes": 12341,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Highly recommended.\r\nIt looks like a simple driving game, but it's incredibly relaxing and addictive. Perfect to play while listening to music."
+        },
+        {
+            "review_id": "227388263",
+            "steam_id": "76561198160451526",
+            "playtime_minutes": 428,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": " This game relieves my stress and put me in another stress because I suck at parking. 10/10 Great game!"
+        },
+        {
+            "review_id": "227369181",
+            "steam_id": "76561198147323427",
+            "playtime_minutes": 2204,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game by itself is great, i recommend at least a single region expension for even more variety tho you're not running out of regions to explore for a good godd*m while even without them. Mods are great too!"
+        },
+        {
+            "review_id": "227350921",
+            "steam_id": "76561198707823857",
+            "playtime_minutes": 2817,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The most beautiful and amazing game out there just it being on service with new updates and expansions still after all these years is more than enough proof of that"
+        },
+        {
+            "review_id": "227347611",
+            "steam_id": "76561198091257196",
+            "playtime_minutes": 10002,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I liked the part when my cargo was bigger than the road and multiple highways and roads were closed for me. Flight is sadly optional in this game."
+        },
+        {
+            "review_id": "227347097",
+            "steam_id": "76561199551595512",
+            "playtime_minutes": 242,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the most relaxing yet exiting game on Steam. Totally worth the money for anyone who likes trucks and that wants a nice calming game."
+        },
+        {
+            "review_id": "227321608",
+            "steam_id": "76561199554623490",
+            "playtime_minutes": 20507,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "best game very fun with mods without its unplayable"
+        },
+        {
+            "review_id": "227308522",
+            "steam_id": "76561199563044851",
+            "playtime_minutes": 1188,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its funnnn, just wished it ran a little better on the m2 chip, but thats apples fault\r\n"
+        },
+        {
+            "review_id": "227308014",
+            "steam_id": "76561199784654127",
+            "playtime_minutes": 1809,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i like being abused by the ai while im doing a delivery e.g. cutting me of suddenly on the motorway causing me to crash when i have driven across half of europe losing all of my progress.  great game apart from that though :)"
+        },
+        {
+            "review_id": "227299987",
+            "steam_id": "76561198051292524",
+            "playtime_minutes": 8025,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Maybe it's my old age or the weariness of life itself, I don't know and I don't care. I have no scientific explanation for why I find myself returning to this game, but Euro Truck Simulator 2 is the best thing to end the day with, except for my wife of course. driving a truck and that's it. That's the whole story."
+        },
+        {
+            "review_id": "227290343",
+            "steam_id": "76561198418964973",
+            "playtime_minutes": 17330,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Euro Truck Simulator 2 is one of the few games that successfully turns having a job into entertainment.\n\nOn paper, it sounds incredibly boring. You drive a truck. You pick up cargo. You deliver cargo. Then you do it again. Somehow, against all logic and common sense, it's one of the most relaxing and enjoyable games I've ever played.\n\nThe graphics are great, the map is massive, and there's something oddly satisfying about spending hours driving across Europe while obeying traffic laws more carefully than I do in most racing games. Nothing gets the adrenaline pumping quite like using your turn signal correctly and successfully backing a trailer into a loading dock on the first attempt.\n\nThe progression is surprisingly addictive. You start out taking jobs for other companies, scraping together enough money to buy your first truck. Before you know it, you're managing a fleet, hiring drivers, expanding garages, and checking your company's finances like you're the CEO of a multinational trucking empire. All because you delivered a few pallets of frozen fish on time.\n\nThe attention to detail is impressive. Weather, traffic, customization, and the variety of roads make every trip feel different. Even after hundreds of hours, I still find myself saying, \"Just one more delivery,\" before realizing it's somehow 3 a.m. and I've spent the evening transporting industrial machinery across three countries.\n\nOf course, the game isn't perfect. Sometimes the AI drivers seem to have obtained their licenses from the back of a cereal box, and GPS directions can occasionally inspire more confidence than accuracy. But honestly, those moments just add character to the experience.\n\nEuro Truck Simulator 2 proves that you don't need explosions, zombies, or world-ending threats to make a great game. Sometimes all you need is a truck, a destination, and enough patience to drive 500 miles without clipping a guardrail.\n\n10/10.\n\nI bought it expecting to drive a truck for a few hours. Instead, I accidentally started a logistics company and now I get excited about fuel prices and trailer configurations. I have become the very thing I never thought I'd be: a virtual truck driver who complains about traffic while voluntarily sitting in more traffic."
+        },
+        {
+            "review_id": "227289082",
+            "steam_id": "76561199124508670",
+            "playtime_minutes": 11684,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "After hundreds of hours, I still find myself coming back to ETS2. The map is huge, the trucks feel great to drive, and the constant updates keep the game fresh. Whether you want a relaxing drive after a long day or enjoy building your own trucking company, this game delivers. Definitely one of the best simulation games on Steam."
+        },
+        {
+            "review_id": "227284148",
+            "steam_id": "76561199820701398",
+            "playtime_minutes": 1183,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "see truck, gets in truck, drive truck, ram cars off the road, end shift, get home, get on Euro Truck Simulator, drive truck, follow the law to not lose money, fun game!"
+        },
+        {
+            "review_id": "227269368",
+            "steam_id": "76561198711769279",
+            "playtime_minutes": 4147,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Relaxing game,nice map,many dlc's,trucks,city's and much more. Really worth getting if you like long drives. Recommend it for nearly anyone."
+        },
+        {
+            "review_id": "227249518",
+            "steam_id": "76561199577307647",
+            "playtime_minutes": 8395,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The best truck simulator for its money. With my specs, I can play on max graphics with no problems. Deffinitly recommend"
+        },
+        {
+            "review_id": "227248955",
+            "steam_id": "76561198040500566",
+            "playtime_minutes": 45550,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "⭐⭐⭐⭐⭐ 5/5\r\n\r\nEuro Truck Simulator 2 is one of the best truck simulation games available. The game offers a huge map with many countries, realistic trucks, and an immersive driving experience. I enjoy building my own trucking company, hiring drivers, and expanding my garage network across Europe. The graphics are beautiful, especially with map expansions and mods, and the attention to detail makes every journey feel realistic. The game is relaxing, yet it also provides a sense of progression and achievement. There are countless customization options for trucks, and the modding community adds even more content. Whether you enjoy long drives, logistics, or simply exploring Europe, ETS2 is a fantastic game that I highly recommend. 🚛🌍⭐"
+        },
+        {
+            "review_id": "227248132",
+            "steam_id": "76561199572168979",
+            "playtime_minutes": 748,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "There’s something genuinely relaxing about cruising through Europe with a good playlist on. The progression system keeps you hooked — building your company, buying new trucks, hiring drivers.\n\nThe modding community is insane too, keeps the game fresh years later. Only complaint is some of the older map regions feel dated compared to newer DLC areas."
+        },
+        {
+            "review_id": "227237734",
+            "steam_id": "76561199252073028",
+            "playtime_minutes": 2191,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game is so relaxing compared to other games, i fell in love with it immediately without even being into trucks"
+        },
+        {
+            "review_id": "227228729",
+            "steam_id": "76561199163875609",
+            "playtime_minutes": 9732,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Game is very relaxing and I like going vroom vroom down the freeway at night to chill\nVery fun game"
+        },
+        {
+            "review_id": "227222923",
+            "steam_id": "76561198323230216",
+            "playtime_minutes": 6353,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is by far the best simulator game i have ever had to play, i have leant a lot  from the game and by the time i started playing the game i had never driven a real truck before but had an idea of what is expected. years later i became a truck driver and with the experience of what i used to do in the game came to live when i applied it in real life as it was fitting. This game is a real deal."
+        },
+        {
+            "review_id": "227212998",
+            "steam_id": "76561198360230386",
+            "playtime_minutes": 4337,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is a very fun and immersive game! I would definitely recommend playing it. Besides making horrible choices which could lead to you to go into debt, it is still a good game overall. I would definitely recommend this!"
+        },
+        {
+            "review_id": "227211947",
+            "steam_id": "76561199394165506",
+            "playtime_minutes": 604,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The graphics are okay as long as you make adjustments to the default setting, changing them to Ultra. The game teaches you how to theoretically control a large diesel truck in the real world. It's definitely not as easy as many might  imagine. You have to constantly pay attention or the consequences can be catastrophic, as demonstrated in this game. I like that the driver can call a tow truck to get back to the side of the road or to the repair garage, depending on what is going on. Also, you learn the importance of sleep, too."
+        },
+        {
+            "review_id": "227203843",
+            "steam_id": "76561199209877653",
+            "playtime_minutes": 261,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "If you want a chill and peaceful game that also includes driving then this is for you. Its even better if you get truckersmp very funny when you honk at person and they honk back like its tradition. Safe to say this is probably my go to game to get a break from a long day. Definitely recommend."
+        },
+        {
+            "review_id": "227200917",
+            "steam_id": "76561199258585711",
+            "playtime_minutes": 629,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Strangely addictive, while this isn't the total Microsoft Flight Simulator level recreation of the European countries and road networks I would have liked, it gives a really good rendering, and feels surprisingly realistic.  The trucks handle well, there are accidents, weather conditions and live radio stations that all add to the immersion.  If your idea of fun is trucking, then this may be hard to beat.  This game seems to have vast amounts of DLC but honestly the base game is plenty for a casual like me who enjoys just dipping in to do a hauling job from time to time."
+        },
+        {
+            "review_id": "227185124",
+            "steam_id": "76561197991022492",
+            "playtime_minutes": 2397,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Dude, if i were to have to play a game for the rest of me enternal childhood years, it would be this. The graphics are incredible if you have good specs, and the mod community is incredible! I feel like that anybody else that dares to try will be at the midst of a keyboard soon, writing a review about how good that game is."
+        },
+        {
+            "review_id": "227170342",
+            "steam_id": "76561199070292107",
+            "playtime_minutes": 60003,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Just the open road, a good playlist, and absolute peace. One of the most wonderful and relaxing games you could ever play.\r\n\r\n\r\n\r\n\r\n"
+        },
+        {
+            "review_id": "227152018",
+            "steam_id": "76561198327160371",
+            "playtime_minutes": 17882,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "mate love this game! even when playing with WASD on a macbook, it still remains super fun to play! i pick it up from time to time to chill out, and sometimes its like a 2 week marathon haha!"
+        },
+        {
+            "review_id": "227147634",
+            "steam_id": "76561199437323670",
+            "playtime_minutes": 4246,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The physics in this game make it feel truly authentic. Unlike most other simulator titles that focus mainly on flashy graphics or eye‑catching gimmicks, SCS prioritizes delivering a genuine simulation experience grounded in real‑world physics. The better your PC or system, the more realistic and immersive the visuals become, enhancing the overall gameplay. I’ve been thoroughly enjoying the experience so far. That said, it would be fantastic if SCS expanded its focus to include Asian countries and roads—especially places like India—where the unpredictability of traffic, diverse terrains, and unique road conditions could add a whole new layer of realism and exploration."
+        },
+        {
+            "review_id": "227105775",
+            "steam_id": "76561199102480032",
+            "playtime_minutes": 880,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "adoro jogar com as musicas do DJ WAGNER fora os 1000 vezes que capotei o caminhão fazendo quebra de asa... mais o jogo provou que tem uma física muito realista"
+        },
+        {
+            "review_id": "227077744",
+            "steam_id": "76561199223615543",
+            "playtime_minutes": 55946,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Yeah. After 900 hours of driving, I must say it is good. Combined with mods, it is perfect."
+        },
+        {
+            "review_id": "227042703",
+            "steam_id": "76561198711165302",
+            "playtime_minutes": 340,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good game i recommend playing this game with cans of beer to really get in to the realisem of real life trucking and running over bikers and random children with illegal immigrants being in youre cargo without youre knowledge"
+        },
+        {
+            "review_id": "227031227",
+            "steam_id": "76561198239356610",
+            "playtime_minutes": 1762,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I just wanted to say why ETS feels stiffer than ATS. but playing ETS feels more busy and fun because the map goes around Europe while America wants to have it just for America. However, both of these games have a fun side that is almost the same even though the methods are different."
+        },
+        {
+            "review_id": "227025218",
+            "steam_id": "76561199438982450",
+            "playtime_minutes": 1645,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good game. Fun to drive across the Europe, especially when you are drunk like a skunk"
+        },
+        {
+            "review_id": "227009689",
+            "steam_id": "76561199545738523",
+            "playtime_minutes": 3218,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "An amazing game if you love European trucks and a very active community and the mods and mod support is amazing I would absolutely recommend this game to every truck enthusiast I know"
+        },
+        {
+            "review_id": "227009612",
+            "steam_id": "76561199679221478",
+            "playtime_minutes": 17675,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game is good, but \"Absolutely Hot Radio\" from Germany isn't included. I would really appreciate it if you could add that station. Thanks for the updates! Best regards, your player."
+        },
+        {
+            "review_id": "227000498",
+            "steam_id": "76561198775600179",
+            "playtime_minutes": 1783,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "worth playing its good fun a lot of things to do only thing is the fact the speed limit is wrong iv never known 110,120,130 all to be 50 mph the speed limit should be 60mph on a motorway at least as someone who has been in trucks myself i saw alot how the road speeds work this is ment to be the most upto date version of the game yet they cant fix the speed limits its a good game but fix the speed limits"
+        },
+        {
+            "review_id": "226983256",
+            "steam_id": "76561197970238505",
+            "playtime_minutes": 724,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "You'd think this would be boring but it's surprisingly fun. Very relaxing, like solitaire. Don't worry about getting speeding tickets or crashing, it's easy to earn money. Just have fun."
+        },
+        {
+            "review_id": "226977543",
+            "steam_id": "76561199866740764",
+            "playtime_minutes": 1858,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "incredible and realistic game"
+        },
+        {
+            "review_id": "226970546",
+            "steam_id": "76561199840756995",
+            "playtime_minutes": 4486,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I ended up in debt and had to use loans multiple times because of my horrible truck driving causing me to crash, and flip multiple different times.\r\nI likely will never recover from all of this ever, even if I do, it will not last.\r\nI also missed multiple turns due to not paying attention or reading the GPS wrong causing more traffic or me to take more time transporting my cargo.\r\nAbsolutely great game, I love it."
+        },
+        {
+            "review_id": "226969590",
+            "steam_id": "76561199879653016",
+            "playtime_minutes": 1483,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I`ve spent many enjoyable hours in Euro Tuck Simulator 2, and the latest update makes the game feel even better. The improved map areas look more detailed and realistic, and the overall driving experience remains relaxing and immersive. The developers continue to support the game with meaningful updates, which is impressive for a title that`s been around for many years. If you enjoy simulation games and long-haul trucking, ETS2 is still one of the best options available."
+        },
+        {
+            "review_id": "226946759",
+            "steam_id": "76561199246264722",
+            "playtime_minutes": 925,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A great driving simulator, although I do wish I had a proper steering wheel setup to get the full experience. Unfortunately, I can't really justify buying all the equipment just for one game. Even so, Euro Truck Simulator 2 is still very enjoyable with a keyboard or controller.\n\nThe game runs extremely well and is well-optimized. If you ever get tired of the vanilla experience, there's an enormous selection of Steam Workshop mods that can enhance everything from graphics and trucks to gameplay mechanics and realism. The modding community is one of the game's strongest features and helps keep it fresh even after hundreds of hours.\n\nAnother great feature is TruckersMP, which allows you to drive alongside thousands of other players. Seeing real drivers on the roads, participating in convoys, and simply sharing the experience with others adds a whole new layer of immersion to the game.\n\nPersonally, driving games aren't usually my thing, which is why I tend to take long breaks from it. However, there's something incredibly relaxing about loading up the game on a quiet evening, putting on some music, and making deliveries across Europe. I can definitely see myself coming back during the winter months when I'm in the mood for a calmer gaming experience.\n\nOverall, Euro Truck Simulator 2 is a fantastic simulator with smooth performance, endless modding possibilities, and a surprisingly relaxing gameplay loop. Even if you're not a huge fan of driving games, it's worth trying at least once."
+        },
+        {
+            "review_id": "226945305",
+            "steam_id": "76561199075769798",
+            "playtime_minutes": 8938,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Such a goated game. The graphics is great, the map is massive, and the trucks are highly customizable. There are plenty of mods available, allowing you to explore your creativity and tailor the game to your liking. The UI is clean and easy to use, the optimization is solid, and there are many multiplayer servers to choose from, keeping the experience fresh and enjoyable. Overall, I give it a 10/10.\n"
+        },
+        {
+            "review_id": "226940636",
+            "steam_id": "76561199555525575",
+            "playtime_minutes": 10238,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The best truck game in my opinion, very good access to mods and also access to various things like old road maps and etc. in my opinion, it is the best simulator game I have ever played!"
+        },
+        {
+            "review_id": "226924441",
+            "steam_id": "76561198782425689",
+            "playtime_minutes": 1431,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "SEHR SEHR Gutes game man muss es auf jeden fall mal gespielt haben. Grade einfach zum entschpannen nach einem langen tag gut. Mit Tastatur ist es Schlecht zu spielen ich empfehle deswegen einen Controller, Steamdeck oder Lenkrad."
+        },
+        {
+            "review_id": "226886605",
+            "steam_id": "76561198161571108",
+            "playtime_minutes": 7706,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "best trucking simulator game been playing since 2017 scs have change a lot totally recomended"
+        },
+        {
+            "review_id": "226881817",
+            "steam_id": "76561199553014487",
+            "playtime_minutes": 287,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "nothing bad is with the game just you have to make sure that youre playing or youll crash"
+        },
+        {
+            "review_id": "226846865",
+            "steam_id": "76561199188396184",
+            "playtime_minutes": 9204,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Thorougly enjoy ETS2. Coming from being a long time Sim Racer (AMS2, AC, ACC, RF2) I find myself on ETS2 more often than on racing sim in the ast 6 months. Fantastic emersion and great community Mods as well as ongoing game improvements by SCS."
+        },
+        {
+            "review_id": "226832947",
+            "steam_id": "76561199869796955",
+            "playtime_minutes": 823,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "yes and no. I only recommend this to people with steering wheel sims. If you use keyboard, don't bother buying this game. i recommend you get steering wheels like pxn v900 gen2, pxn v9 gen 2, Moza racing r5 trucking bundle, and moza racing r3 racing bundle for pc"
+        },
+        {
+            "review_id": "226830297",
+            "steam_id": "76561198808153271",
+            "playtime_minutes": 2292,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "after buying all the DLC's game started to alt tab it self. i try to delete all the DLCs frrom my game but the problem still occur. even it efectted my extended monitors. if i open a video on my extended monitor while playin the game the video started to got fps drop. i hope developers could solve this issue so i can play the game in future. i recommend to the people who is going to buy this game is do not buy the DLCs so atleast you can play the game without problem."
+        },
+        {
+            "review_id": "226807003",
+            "steam_id": "76561199001841354",
+            "playtime_minutes": 139,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Peak game, 100%. Basically Forza Horizon, but for European trucks."
+        },
+        {
+            "review_id": "226783280",
+            "steam_id": "76561199465600448",
+            "playtime_minutes": 3350,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It is a very chill but sometimes hard driving sim which is what you expect. Nothing more, nothing less."
+        },
+        {
+            "review_id": "226780896",
+            "steam_id": "76561198872886605",
+            "playtime_minutes": 39460,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun and chill game would recommend for someone who likes trucks definitely worth a go I’ve put many hours on the road and I’d do all again 💯"
+        },
+        {
+            "review_id": "226764883",
+            "steam_id": "76561198053586300",
+            "playtime_minutes": 3877,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love both simulators, fallow Truck an trailer driver as a career, so absolutely into theses games"
+        },
+        {
+            "review_id": "226721157",
+            "steam_id": "76561198031151447",
+            "playtime_minutes": 293,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Started my carreer with an electrical truck, turns out none of the gasstations can charge it. Got stuck on the highway with an empty battery. Thanks obama"
+        },
+        {
+            "review_id": "226720960",
+            "steam_id": "76561198767210096",
+            "playtime_minutes": 1162,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "More than a game, it’s a peaceful journey across Europe. Very immersive and relaxing! ^^"
+        },
+        {
+            "review_id": "226720498",
+            "steam_id": "76561199591831076",
+            "playtime_minutes": 1722,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Honestly really fun game, it brought me back some nostalgia too from playing when I was little. 9/10 highly recommend."
+        },
+        {
+            "review_id": "226718615",
+            "steam_id": "76561199519052680",
+            "playtime_minutes": 2692,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "hear me out guys so this game is good you can drive where ever you want and do drives to earn money and its fantastic but there are some bad things. number one. the game is  good but it gets boring  when you play it a lot and also the speed sign  says 110 but it tells you like euro trucks speed limit is 90 so i would recommend to install a mod for those and yea thats it thanks for reading.\n"
+        },
+        {
+            "review_id": "226693110",
+            "steam_id": "76561199139471854",
+            "playtime_minutes": 798,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game out of syllabus for me but i enjoyed so much while playing this game and this is really amazing and i want to play such more games and i want kiss the developer on forehead and want to tell them he is really awesome......."
+        },
+        {
+            "review_id": "226661859",
+            "steam_id": "76561199801848306",
+            "playtime_minutes": 1887,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "enjoable and relaxing game, perfect for using a wheel, can drive endlessly and relax and pass the time. the mods work really well in game and making it way more fun with the custimizations. with my specs on everything bacially on max I never experience any bad frame drops or stutters."
+        },
+        {
+            "review_id": "226643213",
+            "steam_id": "76561198749413634",
+            "playtime_minutes": 6720,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "PEAK GAME. \nThe game is very realistic, graphics very good, keeps you entertained for many hours, real roads, real map.\nBUY IT NOW!"
+        },
+        {
+            "review_id": "226642293",
+            "steam_id": "76561198014588708",
+            "playtime_minutes": 10177,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Of the many things I've found in this game is that Tromso isn't permanently cold and frozen, as well as \"Midnight Sun\", although I wouldn't particularly want to drive there in real life.\n\nAfter doing so well I ended up with 30 drivers, and trucks and essentially couldn't lose money, I started again, and made it more difficult - incrementally upping the realism settings. Oh and I found that most trucks are automatic now.\n\nSince I live in the UK, after driving trucks in this mostly left hand drive, and driving on the right, its easy to be slightly confused when driving in reality. At first I found LHD trucks to be odd. Mastering reversing a truck in ever more difficult or tight spaces, gives an insight into real truck driving, and has given me more empathy when encountering trucks on the road.\n\nAnyway, that's my blather out of the way. Now onto the review... or maybe just get it."
+        },
+        {
+            "review_id": "226636204",
+            "steam_id": "76561199482908176",
+            "playtime_minutes": 1071,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love this game, it's so fun to play with friends.\nOnly downside is it gets a bit repetitive if you play solo."
+        },
+        {
+            "review_id": "226629855",
+            "steam_id": "76561199874855692",
+            "playtime_minutes": 95922,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very good simulator game with steering ewheel bc i use one i dont know about normal keyboard players but simulator wise this game is the best for peaceful driving"
+        },
+        {
+            "review_id": "226624891",
+            "steam_id": "76561199515874023",
+            "playtime_minutes": 4680,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Surprisingly addictive. I just turn on some music, haul some cargo, and completely zone out. Perfect game to relax after a stressful day. Highly recommend.\n7/10 Trucks/Vehicles (with mods 10/10)\n8/10 Physics\n7/10 Graphics (with mods 9/10)\n9/10 Optimization\nTotal : 31/40 (or with mods 36/40) MY FAVOURITE GAME !"
+        },
+        {
+            "review_id": "226609593",
+            "steam_id": "76561198722990127",
+            "playtime_minutes": 341,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The best game I have ever played. I really liked the moment when I was going 150 Km/h and it turned out that I almost missed the exit on a highway and I had to turn sharply and of course I fell on the roof. But overall it's a great game."
+        },
+        {
+            "review_id": "226606781",
+            "steam_id": "76561197986410910",
+            "playtime_minutes": 624,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Super immersive and fun. Plenty of details, yet easy to get into. AWESOME!"
+        },
+        {
+            "review_id": "226579929",
+            "steam_id": "76561199550574571",
+            "playtime_minutes": 7418,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "it is very fun and its very chill i would recomend this game to everyone because it is cheap and you get a good game for that amount of money. this is the best game i everplayd thaks you"
+        },
+        {
+            "review_id": "226569809",
+            "steam_id": "76561199872381441",
+            "playtime_minutes": 10421,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its soo good game but it would be better to add ukranes chernobly and prypryat city and we could explore the enterance and we could deliver thongs there and things like that also abt grapichs its so beautiful"
+        },
+        {
+            "review_id": "226568245",
+            "steam_id": "76561198256087041",
+            "playtime_minutes": 1015,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Really fun game, simple yet has so much to offer. Costs a bit with DLC's but I think it's worth it, if you really get into it. Great classic, would recommend."
+        },
+        {
+            "review_id": "226566326",
+            "steam_id": "76561197990421346",
+            "playtime_minutes": 5350,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very good never driven a truck before but it feels very realistic and good fun either way"
+        }
+    ]
+}

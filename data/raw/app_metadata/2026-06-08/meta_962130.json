@@ -1,0 +1,91 @@
+{
+    "ingested_at": "2026-06-08T19:20:18.891892",
+    "app_id": "962130",
+    "metadata": {
+        "type": "game",
+        "name": "Grounded",
+        "steam_appid": 962130,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "The world is a vast, beautiful and dangerous place – especially when you have been shrunk to the size of an ant. Can you thrive alongside the hordes of giant insects, fighting to survive the perils of the backyard?",
+        "detailed_description": "<h1>Get Ready to Flex in 'Grounded' with the Upcoming 'Fully Yoked' 1.4 Update</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/extras/8fcccf69085d445ec55b34df93c6aba2.avif?t=1768264530\" width=616 height=232 /></span><br><br>Hey, Grounded friends! We're absolutely buzzing to introduce the upcoming &quot;Fully Yoked&quot; 1.4 update – the ultimate Grounded experience bulging with new content that's sure to get you pumped! Check out the announcement post for more details!<br><br>",
+        "developers": [
+            "Obsidian Entertainment"
+        ],
+        "publishers": [
+            "Xbox Game Studios"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 1999,
+            "discount_percent": 50,
+            "initial_formatted": "$39.99",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 83,
+            "url": "https://www.metacritic.com/game/pc/grounded?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 74127
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 27, 2022"
+        }
+    }
+}

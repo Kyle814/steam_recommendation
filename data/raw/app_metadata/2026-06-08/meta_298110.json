@@ -1,0 +1,75 @@
+{
+    "ingested_at": "2026-06-08T19:58:56.021182",
+    "app_id": "298110",
+    "metadata": {
+        "type": "game",
+        "name": "Far Cry® 4",
+        "steam_appid": 298110,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Hidden in the towering Himalayas lies Kyrat, a country steeped in tradition and violence. You are Ajay Ghale. Traveling to Kyrat to fulfill your mother’s dying wish, you find yourself caught up in a civil war to overthrow the oppressive regime of dictator Pagan Min.",
+        "detailed_description": "Hidden in the towering Himalayas lies Kyrat, a country steeped in tradition and violence. You are Ajay Ghale. Traveling to Kyrat to fulfill your mother’s dying wish, you find yourself caught up in a civil war to overthrow the oppressive regime of dictator Pagan Min. Explore and navigate this vast open world, where danger and unpredictability lurk around every corner. Here, every decision counts, and every second is a story. Welcome to Kyrat.<br />\r\n<br />\r\nKey Features<br />\r\n<br />\r\n• EXPLORE AN OPEN WORLD FILLED WITH POSSIBILITIES<br />\r\nDiscover the most diverse Far Cry world ever created. With terrain spanning from lush forests to the snowcapped Himalayas, the entire world is alive…and deadly.<br />\r\n- From leopards, rhinos, black eagles, and vicious honey badgers, Kyrat is home to abundant wildlife. As you embark on your hunt for resources, know that something may be hunting you...<br />\r\n- Scout enemy territory from above in the all-new gyrocopter and then plummet back to earth in your wing suit. Climb aboard the back of a six-ton elephant and unleash its raw power on your enemies.<br />\r\n- Choose the right weapon for the job, no matter how insane or unpredictable that job might be. With a diverse arsenal, you’ll be prepared for anything.<br />\r\n<br />\r\n• CO-OP: BRING A FRIEND<br />\r\nNot every journey should be taken alone. Far Cry 4 allows for a second player to drop in and drop out at any point, re-imagining the cooperative experience in the true spirit of Far Cry for the next generation. You’ll now be able to discover and explore the living open world of Kyrat together.",
+        "developers": [
+            "Ubisoft Montreal, Red Storm, Shanghai, Toronto, Kiev"
+        ],
+        "publishers": [
+            "Ubisoft"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 2999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$29.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 80,
+            "url": "https://www.metacritic.com/game/pc/far-cry-4?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 64551
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 17, 2014"
+        }
+    }
+}

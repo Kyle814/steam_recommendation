@@ -1,0 +1,88 @@
+{
+    "ingested_at": "2026-06-08T19:35:41.105778",
+    "app_id": "2916430",
+    "metadata": {
+        "type": "game",
+        "name": "Fast Food Simulator",
+        "steam_appid": 2916430,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Welcome to the world's most chaotic place! Play solo or co-op with up to 6 players. Run a fast-food restaurant, and work with your friends to expand your business. Take orders, make burgers, and increase your earnings by dealing with customers.",
+        "detailed_description": "<p class=\"bb_paragraph\" >Play solo or co-op with up to 6 players. Open your single-player session to other players and friends to play together. Or you can join a game from the lobby and start serving fast food with others via voice and text chat. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/extras/5b354349b23c90df9742849f2d404b16.poster.avif?t=1762536253\" width=618 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/extras/5b354349b23c90df9742849f2d404b16.webm?t=1762536253\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/extras/5b354349b23c90df9742849f2d404b16.mp4?t=1762536253\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Handle everything it takes to keep a fast food joint running smoothly. Experience the realistic operation of authentic drink machines, grills, and fryers.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/extras/5ba833081b342a7624f4832f0b989ee9.poster.avif?t=1762536253\" width=618 height=348 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/extras/5ba833081b342a7624f4832f0b989ee9.webm?t=1762536253\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/extras/5ba833081b342a7624f4832f0b989ee9.mp4?t=1762536253\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Explore the chaotic nature of fast-food restaurants where unexpected and bizarre events can occur at any moment, challenging you and your restaurant crew to navigate through teamwork.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/extras/81164ff959849c8bb695e3af06a9689c.poster.avif?t=1762536253\" width=618 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/extras/81164ff959849c8bb695e3af06a9689c.webm?t=1762536253\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/extras/81164ff959849c8bb695e3af06a9689c.mp4?t=1762536253\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Managing your time wisely is critical as you prioritize tasks to keep customers happy and the line moving smoothly. Team coordination is key, so delegate tasks effectively to ensure seamless operations. Get ready to take on the fast-paced world of fast food.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/extras/f4d6d07475d5054f17ad75656155b59b.poster.avif?t=1762536253\" width=618 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/extras/f4d6d07475d5054f17ad75656155b59b.webm?t=1762536253\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/extras/f4d6d07475d5054f17ad75656155b59b.mp4?t=1762536253\" type=\"video/mp4\"></video></span></p>",
+        "developers": [
+            "No Ceiling Games"
+        ],
+        "publishers": [
+            "No Ceiling Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1499,
+            "final": 1499,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$14.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "70",
+                "description": "Early Access"
+            }
+        ],
+        "recommendations": {
+            "total": 8164
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Dec 10, 2024"
+        }
+    }
+}

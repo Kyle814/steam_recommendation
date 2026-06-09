@@ -1,0 +1,140 @@
+{
+    "ingested_at": "2026-06-08T19:38:16.895917",
+    "app_id": "252950",
+    "metadata": {
+        "type": "game",
+        "name": "Rocket League®",
+        "steam_appid": 252950,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition. Rocket League includes casual and competitive Online Matches, a fully-featured offline Season Mode, special “Mutators” that let you change the rules entirely, hockey and...",
+        "detailed_description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition. Rocket League includes casual and competitive Online Matches, a fully-featured offline Season Mode, special “Mutators” that let you change the rules entirely, hockey and basketball-inspired Extra Modes, and more than 500 trillion possible cosmetic customization combinations.<br><br>Winner or nominee of more than 150 “Game of the Year” awards, Rocket League is one of the most critically-acclaimed sports games of all time. Boasting a community of more than 57 million players, Rocket League features ongoing free and paid updates, including new DLCs, content packs, features, modes and arenas.<br><br><strong>What's New:</strong><br><ul class=\"bb_ul\"><li>Rocket Pass - Purchase Rocket Pass Premium to get an initial 50% XP bonus and earn up to 70 unique rewards, including a new Battle-Car, Goal Explosion, Keys, and more!<br></li><li>Challenge System - Play Online Matches and complete Weekly Challenges to tier up and unlock unique rewards only found in Rocket Pass.<br></li><li>Esports Shop - Show off your team pride for your favorite teams in Rocket League Esports! The Rocket League Esports Shop pilot program brings new Decals, Wheels, and Player Banners that represent some of the best teams in the sport. of the best teams in the sport. <br><br><strong>SteamOS and Mac Beta Versions</strong><br>As we continue to upgrade <strong>Rocket League®</strong> with new technologies like DirectX 11 and a 64-bit client, it is no longer viable for us to maintain support for the macOS and Linux (SteamOS) platforms. As a result, the final patch for the macOS and Linux versions of Rocket League was released on March 10, 2020. This update disabled online functionality (such as Casual and Competitive Playlists) for players on macOS and Linux, but offline features including Local Matches, and splitscreen play are still accessible.<br><br>Please note that Rocket League® on SteamOS and macOS may have bugs and stability issues not seen in the Windows version of the game, and these issues may not be fixed in future updates.<br><br><i>NOTE: Because of agreements with our online service provider, there are certain regions that are unable to connect to Rocket League®’s online multiplayer component. As a result, server access is restricted in China, Crimea, Cuba, Iran, North Korea, Sudan, and Syria. Apologies to our customers in those regions.</i><br><br>Software and online features are subject to license, terms of use, and privacy policy (  ,  ,  and  ).</li></ul>",
+        "developers": [
+            "Psyonix LLC"
+        ],
+        "publishers": [
+            "Psyonix LLC"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 86,
+            "url": "https://www.metacritic.com/game/pc/rocket-league?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 39,
+                "description": "Shared/Split Screen Co-op"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 15,
+                "description": "Stats"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "9",
+                "description": "Racing"
+            },
+            {
+                "id": "18",
+                "description": "Sports"
+            }
+        ],
+        "recommendations": {
+            "total": 435413
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jul 6, 2015"
+        }
+    }
+}

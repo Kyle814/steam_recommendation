@@ -1,0 +1,80 @@
+{
+    "ingested_at": "2026-06-08T18:56:29.784432",
+    "app_id": "1296830",
+    "metadata": {
+        "type": "game",
+        "name": "暖雪 Warm Snow",
+        "steam_appid": 1296830,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "'Warm Snow' is a Rogue-like action game with a background set in a dark fantasy world, where the eerie 'Warm Snow' holds sway. You will play as the Warrior 'Bi-an' on a crusade against the Five Great Clans, in order to save a world teetering on the brink of destruction.",
+        "detailed_description": "<h1>Full game now available!</h1><p>Please feel free to leave us feedback in our community.<br>Join our discord channel to get more information and chat with the devs: </p><br><h1>About the Game</h1>While the rich stinks of meat and wine, the bones of the poor litter the roadside..<br>Great injustice often leads to strange occurrences.<br>Snow in July can only be remedied through blood.<br><br>Join our discord channel to get more information and chat with the devs: <br><br>【A Dark Tale of Sword and Snow】<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/extras/c3bef45677b47fddfb8d85fdb60fdf86.poster.avif?t=1773940169\" width=600 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/extras/c3bef45677b47fddfb8d85fdb60fdf86.webm?t=1773940169\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/extras/c3bef45677b47fddfb8d85fdb60fdf86.mp4?t=1773940169\" type=\"video/mp4\"></video></span><br>A strange phenomenon appeared during the 27th Year of the Longwu Era. Snow fell from the sky, which was warm rather than cold to the touch, and did not melt. <br>People who breathed in the 'Warm Snow' lost their minds and became monsters. This phenomenon was later known as 'Warm Snow'. <br>Embark on a journey as Warrior 'Bi-an' to search for the truth behind the 'Warm Snow' and put an end to the this never-ending darkness.<br><br>【Countless Combinations】<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/extras/74001eb035a46bd2b5501512c531b364.poster.avif?t=1773940169\" width=600 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/extras/74001eb035a46bd2b5501512c531b364.webm?t=1773940169\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/extras/74001eb035a46bd2b5501512c531b364.mp4?t=1773940169\" type=\"video/mp4\"></video></span><br>Six sects, varied Relics, unpredictable excaliburs, the game is full of Rogue-like elements which will keep each challenge in your journey fresh and unique.<br>Each time you venture into the world would be a whole-new experience, pick your favorite playing style and challenge yourself.<br><br>【Thrilling Flying Sword System】<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/extras/52d1de9c2cb4bd3f262a3df2cd56f5f9.poster.avif?t=1773940169\" width=600 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/extras/52d1de9c2cb4bd3f262a3df2cd56f5f9.webm?t=1773940169\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/extras/52d1de9c2cb4bd3f262a3df2cd56f5f9.mp4?t=1773940169\" type=\"video/mp4\"></video></span><br>Perform critical destruction with swords that flicker between shadow and light. Control your flying swords with different attributes, attack modes and Relic boosts. <br><br>【Reincarnate and Collect the Fragments of Truth】<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/extras/6e7a0966c9a6c9d0a9f7c8b7abde1402.poster.avif?t=1773940169\" width=600 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/extras/6e7a0966c9a6c9d0a9f7c8b7abde1402.webm?t=1773940169\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/extras/6e7a0966c9a6c9d0a9f7c8b7abde1402.mp4?t=1773940169\" type=\"video/mp4\"></video></span><br>You decide how you will grow stronger!<br>Boost your abilities with talent points that you can assign at will.<br>The truth about this world is hidden in the randomly dropped 'Memory Fragments'.<br>Are you ready to discover the secrets behind the Five Great Clans and reveal the truth of this world?",
+        "developers": [
+            "BadMudStudio"
+        ],
+        "publishers": [
+            "bilibili"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1799,
+            "final": 1799,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$17.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 35000
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jan 18, 2022"
+        }
+    }
+}

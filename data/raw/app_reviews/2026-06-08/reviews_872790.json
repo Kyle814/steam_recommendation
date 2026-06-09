@@ -1,0 +1,67 @@
+{
+    "ingested_at": "2026-06-08T18:59:43.382974",
+    "app_id": "872790",
+    "review_count": 6,
+    "reviews": [
+        {
+            "review_id": "218179542",
+            "steam_id": "76561198154201748",
+            "playtime_minutes": 6442,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "feels refreshing to go back to previous titles of the beautifule game, better than fm26"
+        },
+        {
+            "review_id": "213897424",
+            "steam_id": "76561198211356493",
+            "playtime_minutes": 136917,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i just started playing a couple of hours ago what do you mean i have over 2k hrs playtime. \r\nits a fun game for me. exeter all the way."
+        },
+        {
+            "review_id": "217568662",
+            "steam_id": "76561198302330744",
+            "playtime_minutes": 16112,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Still better than 26"
+        },
+        {
+            "review_id": "215017400",
+            "steam_id": "76561197983461246",
+            "playtime_minutes": 16284,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Still better than FM2026"
+        },
+        {
+            "review_id": "216500057",
+            "steam_id": "76561198041745116",
+            "playtime_minutes": 256832,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love it"
+        },
+        {
+            "review_id": "215008019",
+            "steam_id": "76561198152866985",
+            "playtime_minutes": 160010,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great"
+        }
+    ]
+}

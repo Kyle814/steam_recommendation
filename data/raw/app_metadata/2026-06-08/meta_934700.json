@@ -1,0 +1,116 @@
+{
+    "ingested_at": "2026-06-08T19:20:59.867526",
+    "app_id": "934700",
+    "metadata": {
+        "type": "game",
+        "name": "Dead Island 2",
+        "steam_appid": 934700,
+        "required_age": "18",
+        "is_free": false,
+        "short_description": "A deadly virus is spreading across Los Angeles, turning its inhabitants into zombies. Bitten, infected, but more than just immune, uncover the truth behind the outbreak and discover who - or what - you are. Survive, evolve and become the ultimate Zombie Slayer.",
+        "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/c4de458907e778f6cabdb40fd5473ab6.poster.avif?t=1761231459\" width=620 height=236 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/c4de458907e778f6cabdb40fd5473ab6.webm?t=1761231459\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/c4de458907e778f6cabdb40fd5473ab6.mp4?t=1761231459\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/755ce10a8914be9c7738e6a88c4968c9.poster.avif?t=1761231459\" width=620 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/755ce10a8914be9c7738e6a88c4968c9.webm?t=1761231459\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/755ce10a8914be9c7738e6a88c4968c9.mp4?t=1761231459\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/99a71f3b408415cd015d542e57b6e702.poster.avif?t=1761231459\" width=620 height=236 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/99a71f3b408415cd015d542e57b6e702.webm?t=1761231459\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/99a71f3b408415cd015d542e57b6e702.mp4?t=1761231459\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/af394bb165bad4251e154078aa3218ea.poster.avif?t=1761231459\" width=620 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/af394bb165bad4251e154078aa3218ea.webm?t=1761231459\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/af394bb165bad4251e154078aa3218ea.mp4?t=1761231459\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/87714938a08be3481d3ae2076b899b0b.poster.avif?t=1761231459\" width=620 height=236 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/87714938a08be3481d3ae2076b899b0b.webm?t=1761231459\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/87714938a08be3481d3ae2076b899b0b.mp4?t=1761231459\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/12c6cf4e9ced53534c2dc5d17a7d9746.poster.avif?t=1761231459\" width=620 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/12c6cf4e9ced53534c2dc5d17a7d9746.webm?t=1761231459\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/extras/12c6cf4e9ced53534c2dc5d17a7d9746.mp4?t=1761231459\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>For customers in Germany - Once zombies are defeated, players can no longer deal damage to or further dismember zombie corpses. USK players can play co-op sessions with international players through friend invites and joining friends. For public matchmaking, USK players can only play with other USK players.</i></p>",
+        "developers": [
+            "Dambuster Studios"
+        ],
+        "publishers": [
+            "Deep Silver"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 4999,
+            "final": 999,
+            "discount_percent": 80,
+            "initial_formatted": "$49.99",
+            "final_formatted": "$9.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 75,
+                "description": "Keyboard Only Option"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 65,
+                "description": "Subtitle Options"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 20535
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 22, 2024"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "ingested_at": "2026-06-08T19:21:49.542576",
+    "app_id": "1608450",
+    "review_count": 3,
+    "reviews": [
+        {
+            "review_id": "227447022",
+            "steam_id": "76561198049170369",
+            "playtime_minutes": 659,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good game, everything fits nicely, like in old times"
+        },
+        {
+            "review_id": "227143484",
+            "steam_id": "76561198054841422",
+            "playtime_minutes": 376,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "So far...pretty darn good. Good turn based gameplay, the right balance of difficulty, great esthetic...the joystick implementation isn't the best, but it's passable. Otherwise, spot on."
+        },
+        {
+            "review_id": "227279195",
+            "steam_id": "76561198063268397",
+            "playtime_minutes": 286,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "\"The first goal of your life is to try and get a soul. Very few men are capable of it. The second goal is to keep that soul. Because everyone will want you to lose it.\""
+        }
+    ]
+}

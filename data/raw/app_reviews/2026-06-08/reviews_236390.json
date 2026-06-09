@@ -1,0 +1,47 @@
+{
+    "ingested_at": "2026-06-08T18:41:23.722684",
+    "app_id": "236390",
+    "review_count": 4,
+    "reviews": [
+        {
+            "review_id": "226982254",
+            "steam_id": "76561199812782857",
+            "playtime_minutes": 60055,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its tough and hard to grind but very rewarding if you are smart and is an easy game to learn"
+        },
+        {
+            "review_id": "227138495",
+            "steam_id": "76561198151102775",
+            "playtime_minutes": 12,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Game is buns, I definitely don't have +4,000 hours on PSN"
+        },
+        {
+            "review_id": "226340915",
+            "steam_id": "76561197996544448",
+            "playtime_minutes": 90730,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Don't do it, don't hate yourself like me, it's not worth it."
+        },
+        {
+            "review_id": "226631795",
+            "steam_id": "76561199588681754",
+            "playtime_minutes": 12855,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i like war thunder bcaus of how imrsiv it is \n"
+        }
+    ]
+}

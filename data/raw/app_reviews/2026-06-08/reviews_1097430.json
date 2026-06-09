@@ -1,0 +1,37 @@
+{
+    "ingested_at": "2026-06-08T19:26:44.821614",
+    "app_id": "1097430",
+    "review_count": 3,
+    "reviews": [
+        {
+            "review_id": "158423354",
+            "steam_id": "76561199522179968",
+            "playtime_minutes": 17,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5022624135017395,
+            "steam_purchase": true,
+            "review_text": "the game has been out for over a year, as soon as i try to play i get a black screen. i have to restart the game. the game finally loads and its a lag fest every 3 seconds game just freezes and loads. cant refund the so called \"DLCs\" because they add some consumable items in the packs, pretty much a scam. it is free, you don't have to spend money. maybe it works for you. (i have a 4070) ."
+        },
+        {
+            "review_id": "171619950",
+            "steam_id": "76561198023828884",
+            "playtime_minutes": 1208,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.4858066737651825,
+            "steam_purchase": true,
+            "review_text": "This game is impressive, offering plenty of activities even in the late stages. Updates are frequent, typically introducing a new character each month. While new players might encounter some challenges initially, the game becomes significantly more engaging once you reach level 400. The gear system is extensive, providing numerous combinations to experiment with."
+        },
+        {
+            "review_id": "152817376",
+            "steam_id": "76561198192790473",
+            "playtime_minutes": 207,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Every now and then it goes into re-connection forever, can't play."
+        }
+    ]
+}

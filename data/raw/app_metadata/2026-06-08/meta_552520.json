@@ -1,0 +1,100 @@
+{
+    "ingested_at": "2026-06-08T19:11:43.511511",
+    "app_id": "552520",
+    "metadata": {
+        "type": "game",
+        "name": "Far Cry® 5",
+        "steam_appid": 552520,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Discover the open world of Hope County, Montana, besieged by a fanatical doomsday cult. Dive into the action solo or two-player co-op in the story campaign, use a vast arsenal of weapons and allies, and free Hope County from Joseph Seed and his cult.",
+        "detailed_description": "<h1>Edition Comparison</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/extras/63f35fd3ff2443f53ed6d4e5fd3a2d30.avif?t=1762190084\" width=600 height=600 /></span></p><br><h1>Gold Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/extras/575e6987190d8b7d7a00ef0380d0a267.avif?t=1762190084\" width=600 height=600 /></span><br><br>The Gold Edition features all Deluxe Edition content, plus the season pass, which includes Far Cry® 3. Far Cry® 3 available May 29th with the Far Cry 5 Season Pass.</p><br><h1>About the Game</h1>Welcome to Hope County, Montana, the land of the free and brave, but also the home of a fanatical doomsday cult. Stand up to cult leader Joseph Seed and his siblings, the Heralds, to spark the fires of resistance and liberate the besieged community.<br><br>Play solo or two-player co-op in the vast open world of Hope County. Use a vast arsenal of weapons from rocket launchers to shovels, and take control of iconic muscle cars, ATVs, planes, and more to engage the cult forces in epic fights.<br><br>DISCOVER ONE OF THE MOST ACCLAIMED FAR CRY GAMES<br>Join the millions of players in the Far Cry® 5 community and discover what IGN describes as “fast-paced fun.”<br><br>FIGHT AGAINST THE DEADLY CULT OF JOSEPH SEED<br>Free Hope County from the Eden's Gate cult and the Seed family. Discover the first appearance of the charismatic antagonist Joseph Seed, before his return in Far Cry® New Dawn and his own dedicated DLC in Far Cry® 6, Collapse.<br><br>EXPLORE THE HOPE COUNTY OPEN WORLD SOLO OR CO-OP AND MAKE YOUR OWN RULES<br>Play solo or two-player co-op in the vast open world of Hope County. Use a vast arsenal of weapons from rocket launchers to shovels, and take control of iconic muscle cars, ATVs, planes, and more to engage the cult forces in epic fights. Ally with the Fangs for Hire group, including fan-favorite bear Cheeseburger and dog Boomer, and free Hope County from its oppressors.",
+        "developers": [
+            "Ubisoft Montreal",
+            "Red Storm",
+            "Ubisoft Shanghai",
+            "Ubisoft Toronto",
+            "Ubisoft Kiev"
+        ],
+        "publishers": [
+            "Ubisoft"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 5999,
+            "final": 5999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$59.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 170322
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 26, 2018"
+        }
+    }
+}

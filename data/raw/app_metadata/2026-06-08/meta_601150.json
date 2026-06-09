@@ -1,0 +1,95 @@
+{
+    "ingested_at": "2026-06-08T19:36:58.224807",
+    "app_id": "601150",
+    "metadata": {
+        "type": "game",
+        "name": "Devil May Cry 5",
+        "steam_appid": 601150,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "The ultimate Devil Hunter is back in style, in the game action fans have been waiting for.",
+        "detailed_description": "<h1>Devil May Cry 5 + Vergil</h1><p>The ultimate Devil Hunter is back in style, in the game action fans have been waiting for. Now includes the Playable Character: Vergil downloadable content (also available separately).<br><br>A brand new entry in the legendary action series, Devil May Cry 5 brings together its signature blend of high-octane action and otherworldly original characters with the latest Capcom gaming technology to deliver a graphically groundbreaking action-adventure masterpiece.<br><br>Please check your previous purchases to avoid duplication.</p><br><h1>Devil May Cry 5 Deluxe + Vergil</h1><p>The ultimate Devil Hunter is back in style, in the game action fans have been waiting for.<br><br>The Deluxe Edition includes the full game, Playable Character: Vergil (also available separately),  and the following additional content:<br><br>- Devil Breaker weapons: Gerbera GP01, Pasta Breaker, Sweet Surrender, Mega Buster<br>- Dante weapon: Cavaliere R<br>- Battle music: 3 tracks each from Devil May Cry, Devil May Cry 2, Devil May Cry 3, and Devil May Cry 4<br>- Alternative voices: Style Rank Announcers, Title Calls<br>- Live Action Cutscenes<br><br>Note: Devil Breakers and alternative music/voices/cutscenes are usable from mission 2 onwards. Dante weapon Cavaliere R can be used after acquiring the the Cavaliere. Use the Gallery &gt; Jukebox option to change music/voices and the Options &gt; Cutscene Customize option to change cutscenes. Live Action Cutscenes voice audio is in Japanese only.<br><br>Please check your previous purchases to avoid duplication.</p><br><h1>Digital Deluxe Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/extras/01d6a30401891c491cc748a472931f8b.avif?t=1768869803\" width=576 height=324 /></span></p><br><h1>About the Game</h1>The Devil you know returns in this brand new entry in the over-the-top action series available on the PC. Prepare to get downright demonic with this signature blend of high-octane stylized action and otherworldly &amp; original characters the series is known for. Director Hideaki Itsuno and the core team have returned to create the most insane, technically advanced and utterly unmissable action experience of this generation!<br><br>The threat of demonic power has returned to menace the world once again in <strong>Devil May Cry 5</strong>. The invasion begins when the seeds of a “demon tree” take root in Red Grave City. As this hellish incursion starts to take over the city, a young demon hunter Nero, arrives with his partner Nico in their “Devil May Cry” motorhome. Finding himself without the use of his right arm, Nero enlists Nico, a self-professed weapons artist, to design a variety of unique mechanical Devil Breaker arms to give him extra powers to take on evil demons such as the blood sucking flying Empusa and giant colossus enemy Goliath.<h2 class=\"bb_tag\" ><strong>FEATURES</strong></h2><ul class=\"bb_ul\"><li><strong>High octane stylized action</strong> – Featuring three playable characters each with a radically different stylish combat play style as they take on the city overrun with demons<br></li><li><strong>Groundbreaking graphics</strong> – Developed with Capcom’s in-house proprietary RE engine, the series continues to achieve new heights in fidelity with graphics that utilize photorealistic character designs and stunning lighting and environmental effects.<br></li><li><strong>Take down the demonic invasion</strong> – Battle against epic bosses in adrenaline fueled fights across the over-run Red Grave City all to the beat of a truly killer soundtrack. <br></li><li><strong>Demon hunter</strong> – Nero, one of the series main protagonists and a young demon hunter who has the blood of Sparda, heads to Red Grave City to face the hellish onslaught of demons, with weapons craftswoman and new partner-in-crime, Nico. Nero is also joined by stylish, legendary demon hunter, Dante and the mysterious new character, V.</li></ul>",
+        "developers": [
+            "CAPCOM Co., Ltd."
+        ],
+        "publishers": [
+            "CAPCOM Co., Ltd."
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 2999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$29.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 89,
+            "url": "https://www.metacritic.com/game/pc/devil-may-cry-5?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 114690
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 7, 2019"
+        }
+    }
+}

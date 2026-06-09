@@ -1,0 +1,83 @@
+{
+    "ingested_at": "2026-06-08T19:24:41.159024",
+    "app_id": "1056640",
+    "metadata": {
+        "type": "game",
+        "name": "Phantasy Star Online 2 New Genesis",
+        "steam_appid": 1056640,
+        "required_age": "17",
+        "is_free": true,
+        "short_description": "Phantasy Star Online 2 New Genesis is a free-to-play action MMO. Join players around the world to explore the planet Halpha and fight in epic battles as ARKS Defenders! Unleash your imagination with our ultimate character creation experience and creative spaces to create your own phantasy.",
+        "detailed_description": "Phantasy Star Online 2 New Genesis, the latest chapter in the Phantasy Star Online 2 series, is here at last!<br><br>It's time to jump into adventures beyond imagination!<br><br>This new adventure takes place on a vast open field! Up to 32 people can enjoy the adventure in a new world with beautifully evolved graphics!<br><br>The simple and intuitive controls developed in the series up to now have also evolved! A new dimension of battle with a variety of powerful enemies awaits! The new actions Photon Dash and Photon Glide allow you to traverse across the vast open field with ease!<br><br>Of course, the ultimate in character creation has also evolved. Create your own main character that will be unique throughout the world, and head out to a new adventure!<br><br><ul class=\"bb_ul\"><li>The core game is Free-to-Play, but there is certain paid content that can be purchased.<br><br></li><li>Proceeding with play in Phantasy Star Online 2 New Genesis will allow you to play Phantasy Star Online 2.<br><br></li><li>Please log in with an administrator account to play this game.</li></ul>",
+        "developers": [
+            "SEGA"
+        ],
+        "publishers": [
+            "SEGA"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Aug 5, 2020"
+        }
+    }
+}

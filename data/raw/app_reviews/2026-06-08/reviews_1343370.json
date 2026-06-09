@@ -1,0 +1,17 @@
+{
+    "ingested_at": "2026-06-08T19:21:13.673267",
+    "app_id": "1343370",
+    "review_count": 1,
+    "reviews": [
+        {
+            "review_id": "220730511",
+            "steam_id": "76561198098475378",
+            "playtime_minutes": 9279,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5081967115402222,
+            "steam_purchase": true,
+            "review_text": "In NZ now its nearly $200 a year for this one game, have to rip the bandaid off. Don't start if you haven't already, just play something you pay for once."
+        }
+    ]
+}

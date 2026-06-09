@@ -1,0 +1,116 @@
+{
+    "ingested_at": "2026-06-08T18:45:46.246759",
+    "app_id": "602960",
+    "metadata": {
+        "type": "game",
+        "name": "Barotrauma",
+        "steam_appid": 602960,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Barotrauma is a 2D co-op submarine simulator – in space, with survival horror and RPG elements. Steer your submarine, complete missions, fight monsters, fix leaks, operate machinery, man the guns and craft items, and stay alert: danger in Barotrauma doesn’t announce itself!",
+        "detailed_description": "<h1>DISCORD</h1><p></p><br><h1>About the Game</h1><strong>&quot;Work together to explore and survive, and/or sabotage one another and let the ship go down in fire and flood.&quot;</strong><br>- Rock Paper Shotgun<h2 class=\"bb_tag\" >WELCOME TO EUROPA</h2>Barotrauma is a 2D co-op survival horror submarine simulator, inspired by games like FTL: Faster Than Light, Rimworld, Dwarf Fortress and Space Station 13. It’s a Sci-Fi game that combines ragdoll physics and alien sea monsters with teamwork and existential fear.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/extras/dbcedaab25a755a30ae2c31f0a2a5a6b.poster.avif?t=1776271911\" width=616 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/extras/dbcedaab25a755a30ae2c31f0a2a5a6b.webm?t=1776271911\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/extras/dbcedaab25a755a30ae2c31f0a2a5a6b.mp4?t=1776271911\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >EMBRACE THE ABYSS</h2>In the not too distant future, humanity has fled to Jupiter’s moon. With its irradiated icy surface, life can only be found in the ocean below. Travel through a punishing underwater environment and make friends or rivals of the four factions of the world. Discover what lies in the depths of Europa.<h2 class=\"bb_tag\" >HELP YOUR CREW SUCCEED, OR MAKE SURE NO ONE DOES</h2>There are as many ways to enjoy Barotrauma as there are ways to die in it. Work together with your crew to achieve your goals, or brace for betrayal when you have a traitor on board. Play with friends, strangers, or your worst enemies.<h2 class=\"bb_tag\" >EXPLORE, OPERATE, COMMUNICATE</h2>Navigate underwater, complete missions for the last remnants of humankind, explore the ruins of an alien civilization, flee or fight monsters. Operate complex on-board systems and devices like the sonar, nuclear reactor, weapons, engines and pumps. Communication is key!<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/extras/7b4ebb62c7e26bbf525315bb6e62ad7f.poster.avif?t=1776271911\" width=616 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/extras/7b4ebb62c7e26bbf525315bb6e62ad7f.webm?t=1776271911\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/extras/7b4ebb62c7e26bbf525315bb6e62ad7f.mp4?t=1776271911\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >EXPERIMENT, CRAFT, CREATE</h2>Master the complex on-board wiring and the comprehensive crafting and medical systems. Create your own submarines and monsters with built-in editors to rival the standard ones. Even tap directly into our source code and mod away.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Play with up to 16 players on board a submarine. Supplement your player count with bots as needed in either singleplayer or multiplayer game modes.<br></li><li>6 player classes with different skills and tasks: Captain, Engineer, Mechanic, Medic, Security officer and Assistant. <br></li><li>Talent system: Gain experience and unlock talents to improve your character. Each class has three specialization talent trees to customize your playstyle.<br></li><li>Faction and reputation mechanics: Choose who to ally with, help their cause, reap the benefits or suffer the consequences. <br></li><li>Procedurally generated world and missions with multiple game modes for virtually endless replayability.<br></li><li>Comprehensive crafting system: gather materials, craft equipment, weapons, medicines and more to help your crew survive on Europa. <br></li><li>Built-in Submarine, Character and Procedural Animation editors. Share and discover mods directly via Steam Workshop.<br></li><li>Most game data exposed in .xml and the game’s source code publicly available on GitHub for modding.</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/extras/5de098d3ee52e264270bf221e8adeecf.poster.avif?t=1776271911\" width=616 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/extras/5de098d3ee52e264270bf221e8adeecf.webm?t=1776271911\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/extras/5de098d3ee52e264270bf221e8adeecf.mp4?t=1776271911\" type=\"video/mp4\"></video></span>",
+        "developers": [
+            "FakeFish",
+            "Undertow Games"
+        ],
+        "publishers": [
+            "Daedalic Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3499,
+            "final": 1749,
+            "discount_percent": 50,
+            "initial_formatted": "$34.99",
+            "final_formatted": "$17.49"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 81,
+            "url": "https://www.metacritic.com/game/pc/barotrauma?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            },
+            {
+                "id": 63,
+                "description": "Steam Timeline"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 59826
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 13, 2023"
+        }
+    }
+}

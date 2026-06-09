@@ -1,0 +1,96 @@
+{
+    "ingested_at": "2026-06-08T18:45:39.559259",
+    "app_id": "387990",
+    "metadata": {
+        "type": "game",
+        "name": "Scrap Mechanic",
+        "steam_appid": 387990,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Enter the creative paradise of Scrap Mechanic! Build fantastic machines, go on adventures with your friends and defend against waves of evil Farmbots in this imaginative multiplayer survival sandbox. With Scrap Mechanic’s powerful creation tools you can engineer your own adventures!",
+        "detailed_description": "PLEASE NOTE: We’re still hard at work on Scrap Mechanic! New content is being added and optimizations being made regularly. Get started right away in Survival Mode, Creative Mode and Challenge Mode! Please watch the latest Scrap Mechanic trailers to see the game’s latest state.<h2 class=\"bb_tag\" ><strong>Tool up and enter the creative paradise of Scrap Mechanic! Build fantastic machines, go on adventures with your friends and defend against evil Farmerbots in this imaginative multiplayer survival sandbox. With Scrap Mechanic’s powerful creation tools you can engineer your own adventures!</strong></h2><br><br>‘Be a robot mechanic’, they said. ‘Easy money’, they said. We’re pretty sure the job description didn’t mention crash landing on a far away planet, with thousands of crazed worker robots out for blood! You’re stranded on a faraway agriculture planet where the Farmbots working the fields have gone haywire. With your tool belt tightly fastened, there’s only one way to survive: using your quick thinking, creativity and a wily knack of turning your surroundings to your advantage!<br><br><strong>Survival Mode! </strong><br>In Survival Mode mechanics explore a dynamically generated open-world environment filled with enemies, treasure and dangerous robots! Team up with friends and build bases to protect yourself and your valuables. The most creative will survive!<br><br><strong>Challenge Mode! </strong><br>Put your imagination to the test in the Master Mechanic Trials, an amazing roster of 40 fun and testing challenges which every wannabe mechanic should master before embarking on the wide-open world. Plus create your own challenges and share them with friends!<br><br><strong>Creative Mode!</strong><br>Choose from over 400+ building parts and create a transforming vehicle, a walking house or anything you and your friends can imagine! Scrap Mechanic mod support offers an easy way to download over 1000+ new player made building parts for your creations! <br><br><br>For all the latest news, follow us on:<br>Twitter<br>Facebook<br><br><br>For more info: ",
+        "developers": [
+            "Axolot Games"
+        ],
+        "publishers": [
+            "Axolot Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "70",
+                "description": "Early Access"
+            }
+        ],
+        "recommendations": {
+            "total": 104946
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jan 19, 2016"
+        }
+    }
+}

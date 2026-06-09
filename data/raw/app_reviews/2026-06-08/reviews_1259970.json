@@ -1,0 +1,37 @@
+{
+    "ingested_at": "2026-06-08T19:51:18.564093",
+    "app_id": "1259970",
+    "review_count": 3,
+    "reviews": [
+        {
+            "review_id": "224538178",
+            "steam_id": "76561198057712614",
+            "playtime_minutes": 5334,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The last good PES. they have completely ruined this franchise it is a real shame. But this is a great game a solid 8 out of 10 for me"
+        },
+        {
+            "review_id": "221534181",
+            "steam_id": "76561199127482096",
+            "playtime_minutes": 1113,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great"
+        },
+        {
+            "review_id": "224613232",
+            "steam_id": "76561199128751212",
+            "playtime_minutes": 33599,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "......................."
+        }
+    ]
+}

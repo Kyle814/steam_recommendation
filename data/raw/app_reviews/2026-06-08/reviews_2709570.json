@@ -1,0 +1,17 @@
+{
+    "ingested_at": "2026-06-08T18:54:36.847877",
+    "app_id": "2709570",
+    "review_count": 1,
+    "reviews": [
+        {
+            "review_id": "226911808",
+            "steam_id": "76561199385942442",
+            "playtime_minutes": 3835,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I wish the game had new items to place out. ^.^"
+        }
+    ]
+}

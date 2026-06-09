@@ -1,0 +1,103 @@
+{
+    "ingested_at": "2026-06-08T19:47:43.343641",
+    "app_id": "242760",
+    "metadata": {
+        "type": "game",
+        "name": "The Forest",
+        "steam_appid": 242760,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator.",
+        "detailed_description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. <br><br>Build, explore, survive in this terrifying first person survival horror simulator.<h2 class=\"bb_tag\" >Key  features</h2><br>Enter a living, breathing world, where every tree and plant can be chopped down. Below ground explore a vast network of caves and underground lakes. <br><br><ul class=\"bb_ul\"><li>Chop down trees to build a camp, or start a fire to keep warm. Scavenge food to keep yourself from starving. <br></li><li>Build a small shelter or a large ocean side fortress. Lay traps and defences to keep a safe perimeter. <br></li><li>Explore and build during the day. Defend your base at night. Craft weapons and tools. Bunker down during the evening or bring the fight directly to the enemy. <br></li><li>Defend yourself against a clan of genetic mutant enemies that have beliefs, families, morals and that appear almost human. <br></li><li>Use stealth to evade enemies, or engage them directly with crude weapons built from sticks and stones. </li></ul>",
+        "developers": [
+            "Endnight Games Ltd"
+        ],
+        "publishers": [
+            "Endnight Games Ltd"
+        ],
+        "price_overview": {
+            "currency": "EUR",
+            "initial": 1679,
+            "final": 369,
+            "discount_percent": 78,
+            "initial_formatted": "16,79€",
+            "final_formatted": "3,69€"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 83,
+            "url": "https://www.metacritic.com/game/pc/the-forest?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 48,
+                "description": "LAN Co-op"
+            },
+            {
+                "id": 52,
+                "description": "Tracked Controller Support"
+            },
+            {
+                "id": 53,
+                "description": "VR Supported"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            }
+        ],
+        "recommendations": {
+            "total": 571880
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "30 Apr, 2018"
+        }
+    }
+}

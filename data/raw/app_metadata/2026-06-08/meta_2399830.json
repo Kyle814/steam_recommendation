@@ -1,0 +1,139 @@
+{
+    "ingested_at": "2026-06-08T18:56:40.786921",
+    "app_id": "2399830",
+    "metadata": {
+        "type": "game",
+        "name": "ARK: Survival Ascended",
+        "steam_appid": 2399830,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame &amp; breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
+        "detailed_description": "<p class=\"bb_paragraph\" >Respawn into a new dinosaur survival experience beyond your wildest dreams… as ARK is reimagined from the ground-up into the next-generation of videogame technology with Unreal Engine 5! You awake on a mysterious island, your senses overwhelmed by the blinding sunlight and brilliant colors bouncing off every surface around you, the azure waters of a verdant Island lapping at your bare feet. A deep roar echoes from the misty jungle, jolting you into action, and you stand up – not afraid, but intrigued. Are you ready to form a tribe, tame and breed hundreds of species of dinosaurs and other primeval creatures, explore, craft, build, and fight your way to the top of the food-chain? Your new world awaits… step through the looking-glass and join it!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>FEATURES</strong></p><p class=\"bb_paragraph\" >ARK: Survival Ascended has completely recreated and redesigned the artwork and worlds of ARK to take advantage of the latest in videogame technology, Unreal Engine 5, using high-end graphics features such as fully dynamic Global Illumination (“Lumen”), so that light bounces realistically off of surfaces and provides realistic reflections, and advanced mesh streaming (“Nanite”) of hundreds of millions of triangles for extreme detail.</p><p class=\"bb_paragraph\" >Advanced new physics systems such as dynamic water so that every creature creates waves, ripples, splashes, and bubbles as they move through fluids, and fully interactive physical foliage where every blade of grass, bush, and tree reacts to characters, explosions, projectiles, and physics objects. Knock down a tree, and see it crash into other trees and disturb all the foliage on its way down to smacking into the grass below! Detect an enemy moving sneakily through the grass as it shifts and sways in response to their presence. Demolish a building and watch the pieces break apart realistically, interacting with the grass and water as they fall.</p><p class=\"bb_paragraph\" >ARK: Survival Ascended includes access to all of ARK’s worlds, including Scorched Earth, Aberration, Extinction, ARK Genesis Part 1, ARK Genesis Part 2, and more. The Island, Scorched Earth, Aberration and The Center are released now, Extinction will be released on December 16<strong>, </strong>with the subsequent expansion worlds to be added at no additional cost on a regular basis.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The definitive survival experience returns better than ever: design your Survivor, form a tribe, and tame, train, breed &amp; ride dinosaurs within a living ecosystem. Watch your food, water, temperature, and weather patterns. Slowly expand outwards as you harvest, build structures, farm crops, customize your visual designs, and proceed to explore to uncover the true nature of The Island and the worlds beyond. </p><p class=\"bb_paragraph\" >Thorough Quality of Life revamps in every area: redesigned User Interfaces, dynamic navigation for intelligent creature pathfinding, Wild Babies, Photo Mode, new Camera systems, new Map system, Tracking System, new Structures and Items, new Creatures, and much more.</p><p class=\"bb_paragraph\" >Cross-Platform Modding: Download &amp; play new custom content created by players, including new maps, creatures, items, and game modes, through a dedicated mod collection directly within the game! Enjoy an endless stream of new ARK content as the creativity and talent of the community is fully unleashed for the first time ever across gaming platforms!</p><p class=\"bb_paragraph\" >Cross-Platform Multiplayer: form your online tribe across different gaming platforms as you work together to survive and thrive on the ARK!</p><p class=\"bb_paragraph\" >Supports public online multiplayer for up to 70 players, private-session multiplayer for up to 8 players, and local split-screen for 2 players.</p>",
+        "developers": [
+            "Studio Wildcard",
+            "Grove Street Games",
+            "Instinct Games"
+        ],
+        "publishers": [
+            "Studio Wildcard",
+            "Snail Games USA"
+        ],
+        "price_overview": {
+            "currency": "EUR",
+            "initial": 4499,
+            "final": 4499,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "44,99€"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 47,
+                "description": "LAN PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 48,
+                "description": "LAN Co-op"
+            },
+            {
+                "id": 39,
+                "description": "Shared/Split Screen Co-op"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "70",
+                "description": "Early Access"
+            }
+        ],
+        "recommendations": {
+            "total": 97406
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "25 Oct, 2023"
+        }
+    }
+}

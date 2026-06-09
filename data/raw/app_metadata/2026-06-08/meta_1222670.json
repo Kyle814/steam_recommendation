@@ -1,0 +1,89 @@
+{
+    "ingested_at": "2026-06-08T20:00:06.186988",
+    "app_id": "1222670",
+    "metadata": {
+        "type": "game",
+        "name": "The Sims™ 4",
+        "steam_appid": 1222670,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Play with life and discover the possibilities. Unleash your imagination and create a world of Sims that’s wholly unique. Explore and customize every detail from Sims to homes–and much more.",
+        "detailed_description": "<h1>The Sims is on Discord!</h1><p></p><br><h1>About the Game</h1>Unleash your imagination and create a unique world of Sims that’s an expression of you. Download for free, and customize every detail from Sims to homes and much more. Choose how Sims look, act, and dress, then decide how they’ll live out each day. Design and build incredible homes for every family, then decorate with your favorite furnishings and décor. Travel to different neighborhoods where you can meet other Sims and learn about their lives. Discover beautiful locations with distinctive environments and go on spontaneous adventures. Manage the ups and downs of Sims’ everyday lives, and see what happens when you play out scenarios from your own real life. Tell your stories your way while developing relationships, pursuing careers and life aspirations, and immersing yourself in this extraordinary game, where the possibilities are endless.<br><br><strong>Download for free</strong> — The base game of The Sims™ 4 is free to download. Get a plethora of options for building homes, styling Sims, and customizing their personalities. Craft their life stories while exploring vibrant worlds and discovering more ways of being you.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/32632444436cc4e53f853e8e5f4010f9.poster.avif?t=1778778231\" width=610 height=342 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/32632444436cc4e53f853e8e5f4010f9.webm?t=1778778231\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/32632444436cc4e53f853e8e5f4010f9.mp4?t=1778778231\" type=\"video/mp4\"></video></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/21214f9d3a64eb2ff80ba86d76ded647.poster.avif?t=1778778231\" width=610 height=342 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/21214f9d3a64eb2ff80ba86d76ded647.webm?t=1778778231\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/21214f9d3a64eb2ff80ba86d76ded647.mp4?t=1778778231\" type=\"video/mp4\"></video></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e83e446ab7181b21cf6665757899d9e0.poster.avif?t=1778778231\" width=610 height=342 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e83e446ab7181b21cf6665757899d9e0.webm?t=1778778231\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e83e446ab7181b21cf6665757899d9e0.mp4?t=1778778231\" type=\"video/mp4\"></video></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e1b83641d3e1e64f2b3e800ebca9e625.poster.avif?t=1778778231\" width=610 height=342 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e1b83641d3e1e64f2b3e800ebca9e625.webm?t=1778778231\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/e1b83641d3e1e64f2b3e800ebca9e625.mp4?t=1778778231\" type=\"video/mp4\"></video></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/604cc8efec678aeda4d286a1482e5899.poster.avif?t=1778778231\" width=610 height=342 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/604cc8efec678aeda4d286a1482e5899.webm?t=1778778231\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/extras/604cc8efec678aeda4d286a1482e5899.mp4?t=1778778231\" type=\"video/mp4\"></video></span><br><br><strong>Get more with EA Play</strong> — EA Play members can expand their career possibilities with The Sims 4 Get to Work Expansion Pack.",
+        "developers": [
+            "Maxis"
+        ],
+        "publishers": [
+            "Electronic Arts"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 76,
+                "description": "Mouse Only Option"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 83066
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jun 18, 2020"
+        }
+    }
+}

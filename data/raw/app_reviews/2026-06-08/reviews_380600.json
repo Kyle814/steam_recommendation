@@ -1,0 +1,17 @@
+{
+    "ingested_at": "2026-06-08T19:09:28.446004",
+    "app_id": "380600",
+    "review_count": 1,
+    "reviews": [
+        {
+            "review_id": "224315698",
+            "steam_id": "76561198710360762",
+            "playtime_minutes": 422,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Made a new steam account dedicated to this game, can sink countless hours into this game, very relaxing. Recommend highly."
+        }
+    ]
+}

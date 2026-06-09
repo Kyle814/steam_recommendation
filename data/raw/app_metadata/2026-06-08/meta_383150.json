@@ -1,0 +1,96 @@
+{
+    "ingested_at": "2026-06-08T19:52:43.291247",
+    "app_id": "383150",
+    "metadata": {
+        "type": "game",
+        "name": "Dead Island Definitive Edition",
+        "steam_appid": 383150,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Welcome to the zombie apocalypse experience of a lifetime – and now more beautiful than ever. Caught in the midst of an epic zombie outbreak on the tropical island of Banoi, your only thought is: Survive!",
+        "detailed_description": "The game that re-defined the zombie genre - fully remastered.<h2 class=\"bb_tag\" >Paradise meets Hell!</h2>Welcome to the zombie apocalypse experience of a lifetime – and now more beautiful than ever. Caught in the midst of an epic zombie outbreak on the tropical island of Banoi, your only thought is:<i> Survive!</i><h2 class=\"bb_tag\" >The Dead Island Experience</h2>Smash heads, crack skulls and slice ‘em up with visceral astounding melee combat and true story-based 4 player co-op in a sprawling open world just waiting for exploration.<h2 class=\"bb_tag\" ><strong>Features</strong></h2><ul class=\"bb_ul\"><li>Includes all previously released DLC!</li></ul><ul class=\"bb_ul\"><li><i>Fully remastered:</i> Experience Dead Island in crisp full HD with Improved graphics, game models and a photorealistic lighting system with physically based shading</li></ul><ul class=\"bb_ul\"><li><i>Adrenaline-Fuelled Combat:</i> Smash heads, crack skulls and slice ‘em up with the weapon of your choice in the visceral astounding melee combat</li></ul><ul class=\"bb_ul\"><li><i>Seamless Coop Multiplayer:</i> Collaborate with your friends, live through a story of the struggle for survival in a world gone mad</li></ul><ul class=\"bb_ul\"><li><i>Discover the Island:</i> Explore the island paradise; from the deserted city, secluded beaches and vast highlands – discover the story behind the zombie outbreak</li></ul><ul class=\"bb_ul\"><li><i>Experience the atmosphere:</i> Experience the dense atmosphere - feel the destruction, the horror and madness. Immerse yourself in the turmoil that is taking place on the Island.</li></ul>",
+        "developers": [
+            "Techland"
+        ],
+        "publishers": [
+            "Deep Silver"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 199,
+            "discount_percent": 90,
+            "initial_formatted": "$19.99",
+            "final_formatted": "$1.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 15,
+                "description": "Stats"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 23516
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 31, 2016"
+        }
+    }
+}

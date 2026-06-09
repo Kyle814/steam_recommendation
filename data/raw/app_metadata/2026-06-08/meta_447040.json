@@ -1,0 +1,76 @@
+{
+    "ingested_at": "2026-06-08T19:14:08.503678",
+    "app_id": "447040",
+    "metadata": {
+        "type": "game",
+        "name": "Watch_Dogs® 2",
+        "steam_appid": 447040,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Welcome to San Francisco. Play as Marcus, a brilliant young hacker, and join the most notorious hacker group, DedSec. Your objective: execute the biggest hack of history.",
+        "detailed_description": "<h1>Gold Edition</h1><p>The Gold Edition includes:<br>- The game <br>-  The Deluxe Pack: 2 personalisation packs <br>- The Season Pass<br><br>Continue your Hacker's journey with several hours of additional mission content, new co-op difficulty modes, outfits, vehicles, and many other customization items. All at one great price with the Watch Dogs® 2  Season Pass.</p><br><h1>Deluxe Edition</h1><p>Play as Marcus Holloway, a brilliant young hacker living in the birthplace of the tech revolution, the San Francisco Bay Area. <br><br>The Watch Dogs®2 Deluxe Edition includes :<br>- The game <br>- The Deluxe Pack: 2 personalisation packs</p><br><h1>About the Game</h1>Play as Marcus Holloway, a brilliant young hacker living in the birthplace of the tech revolution, the San Francisco Bay Area.<br>Team up with Dedsec, a notorious group of hackers, to execute the biggest hack in history; take down ctOS 2.0, an invasive operating system being used by criminal masterminds to monitor and manipulate citizens on a massive scale.<br><br><ul class=\"bb_ul\"><li>Explore the dynamic open-world, full of gameplay possibilities<br></li><li>Hack into every connected device and take control of the city infrastructure.<br></li><li>Develop different skills to suit your playstyle, and upgrade your hacker tools – RC cars, Quadcopter drone, 3D printed weapons and much more.<br></li><li>Stay seamlessly connected to your friends with a brand new co-op and adversarial multiplayer Watch Dogs experience.</li></ul><br>PUT YOUR EYES IN CTRL<br>Get the upper hand with Tobii Eye Tracking. Let your gaze aid you in weaponizing the “internet of things”, aim at enemies and take cover while you naturally explore the environment. Combine the extensive eye tracking feature set to pinpoint enemies, interact with your surroundings, locate shelter points, and rapidly select hackable targets. Let your vision lead the hacking of the city’s digital brain.<br><br>Compatible with all Tobii Eye Tracking gaming devices.<br>----<br>Additional notes:<br>Eye tracking features available with Tobii Eye Tracking.",
+        "developers": [
+            "Ubisoft"
+        ],
+        "publishers": [
+            "Ubisoft"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 4999,
+            "final": 4999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$49.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 85679
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 28, 2016"
+        }
+    }
+}

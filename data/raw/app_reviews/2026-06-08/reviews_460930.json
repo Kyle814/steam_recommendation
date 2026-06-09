@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T19:20:04.212227",
+    "app_id": "460930",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "225423143",
+            "steam_id": "76561198006645999",
+            "playtime_minutes": 4157,
+            "voted_up": true,
+            "votes_up": 25,
+            "weighted_score": 0.7070325613021851,
+            "steam_purchase": true,
+            "review_text": "Its a good coop game, but you cant make it work on modern machines without disabling e-cores."
+        },
+        {
+            "review_id": "225457017",
+            "steam_id": "76561198013066702",
+            "playtime_minutes": 27,
+            "voted_up": false,
+            "votes_up": 22,
+            "weighted_score": 0.6967983841896057,
+            "steam_purchase": true,
+            "review_text": "Doesn't run on modern computers using Intel chips with P and E cores. I tried everything but the game sits on my last two efficiency cores. Shame as it looked like a very nice game, regardless of sale to play with my friends, i even bought them copies while it was on sale. Shame i will need to refund it.\n\nUbisoft response: Just go into BIOS everytime you want to play and disable your E cores.\n\nThis is why Ubisoft is trash, they just dont care."
+        },
+        {
+            "review_id": "225900563",
+            "steam_id": "76561198841073542",
+            "playtime_minutes": 782,
+            "voted_up": true,
+            "votes_up": 18,
+            "weighted_score": 0.6829066276550293,
+            "steam_purchase": true,
+            "review_text": "! ! ! READ TO FIX INFINITE LOADING SCREEN ! ! !\r\n\r\ngo into your bios, disable \"E cores\". i just saved you 5 hours. \r\n\r\nubisoft suck my ♥♥♥♥♥♥♥ ♥♥♥♥.\r\n\r\ngreat game! \r\n\r\n"
+        },
+        {
+            "review_id": "225795770",
+            "steam_id": "76561198217153469",
+            "playtime_minutes": 4839,
+            "voted_up": true,
+            "votes_up": 7,
+            "weighted_score": 0.6296296119689941,
+            "steam_purchase": true,
+            "review_text": "8.5/10 for me. It's a massive open world game that isn't doing anything crazy, but for me it's one of my favorite comfort games."
+        },
+        {
+            "review_id": "225759426",
+            "steam_id": "76561198014174528",
+            "playtime_minutes": 3178,
+            "voted_up": false,
+            "votes_up": 8,
+            "weighted_score": 0.5944746136665344,
+            "steam_purchase": true,
+            "review_text": "So to preface I will say; I do really like this this game. I remember 100% completing it on Ps4 way back in 2017 when it first came out, and it was such a blast. Now, 9 years later, playing it again is just as great as it was back then. Wildlands is 1000% the go-to for modern Ghost Recon games, and is definitely a lot better than Breakpoint (with no always-online requirement, so that alone wins out). The map, the story, the atmosphere, the visuals - all chef's kiss.\n\nThere's only one major issue (and the reason for my thumbs down review): the game does not run on modern intel processors. This is because newer processors have hybid efficiency cores (E-cores) and the version of Easy Anti Cheat the game is shipped with is not compatible with E-cores. Once you launch the game you are met with an infinite loading screen that never actually loads. Many other users also have this issue, and Ubisoft themselves have acklowledged it - yet stated that no fix is planned.\n\nThe only way to actually play this game involves either going into BIOS and disabling E-cores + Hyperthreading (NOT RECOMMENDED), or by using the EAC Bypass mod (found via Steam Guides > Modding or Config > \"Fixing Ghost Recon Infinite Loading Screen\"). The latter is how I managed to get the game to work, but it only works for singleplayer (can't play online without EAC running).\n\nSo basically, if you do have a newer processor then maybe think twice about purchasing this game. Whilst the game itself is probably my favourite GR game of the series (even beating out Vegas 2), it's a complete joke that Ubisoft, a company with multiple hundreds of employees, can't assign 1 small team for like a week to actually make this game playable. Nope. Spent your hard-earnt money on our product that doesn't even work? Too bad - but we'll still take your money anyway....\n\nSpeaking of Ubislop, there is also now a 'lootbox' system that has been tacked on years after launch, and it SUCKS. Most cosmetics are now locked behind RNG-based lootboxes, with the only method of aquiring them being through ludicrously priced in-game currency, or ultra slow/tedious daily challenge grind. And at the end of all of it, you're STILL bound by RNG. Classic moneygrubbing Ubisoft. Ugh.\n\n"
+        },
+        {
+            "review_id": "225513475",
+            "steam_id": "76561198121468624",
+            "playtime_minutes": 493,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5739348530769348,
+            "steam_purchase": true,
+            "review_text": "It doesn't feel like a ghost recon game but rather a game like farcry your with a crew but its basically like a open world territorial game where you clear people out, and gather weapons so from this perspective i did not find it as enjoyable or reward worthy as its sort of just a repetitive npcs, and sort of that difficulty open world typical view where you enter a zone thats harder or easier as the game goes on.\n\nHow is the concept of the game? From an overall view i like the aspect they were going for but i dislike how poor they made the entire territorial system as it feels like your just doing a repeat with no real gain in anything you do your always going to be with your squad and the back up system feels poor there's a ton of cars whether they be sports to like a shooter car but poorly displayed as a way of just grabbing what you want without reason\n\nWhat would i rate this game? From an overall view i would give it a valid 6/10 its decent but its repetitive its something you would put at least 1-2 hours max and you'd get bored of the repetitiveness\n\nWould i recommend it overall? If you had a poor amount of games its not the worst but from an aspect you would want and expect better so Yes from this view but no at full price defo worth $10-5 Its like a farcry game but when you clear an area you dont get it, or nobody take it as a team you just move onto the next so from this view id say farcry is better"
+        },
+        {
+            "review_id": "225946794",
+            "steam_id": "76561197997968932",
+            "playtime_minutes": 34,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.5543421506881714,
+            "steam_purchase": true,
+            "review_text": "Can't run the game on my new PC, it just goes into an infinite loading screen no matter what I do from the fixes suggested online, bad support from Ubisoft and Steam should remove dead games with no support like this."
+        },
+        {
+            "review_id": "225365614",
+            "steam_id": "76561198104763956",
+            "playtime_minutes": 8003,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5312463045120239,
+            "steam_purchase": true,
+            "review_text": "Alright, I can't lie, it's not a great game, it's an ok game in my opinion.\n\nThe first few hours of the game are fun, lots of unique interactions and missions feeling like you're actually taking down the big bad guys. Makes sense when doing a video game to hook people to play your game, but afterwards the quality of missions goes down and they just feel numb. \n\nLots of bugs plague the missions and even the achievement. I usually go to 100% an achievement when I play a game, but the progress ones like \"Mission Master\", the one with the medals and the one with collectibles didn't register my stuff properly, forcing me to restart a campaign. At least I've unlocked them halfway through but cmon, Some missions just bug halfway through, forcing you to abandon the mission or restart your game. (I won't lie tho, some of the bugs with friends are hilarious)\n\nThat being said, the game, at least when it was released, was fun. Cool little easter eggs and side missions. The weapon and caracter customization are great, quite a lot of stuff you can add. The DLCs are OK. I wasn't a big fan of the Narco Road, felt too goofy compared to the main game but Fallen Ghost was good and brought quite a lot of new enemy types.\n\nIn 2026, I would honestly rather buy Breakpoint, but I think Wildlands can still be fun to play with friends so I would get it on sales."
+        },
+        {
+            "review_id": "227070167",
+            "steam_id": "76561198132963766",
+            "playtime_minutes": 3930,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5251306295394897,
+            "steam_purchase": true,
+            "review_text": "Better than Ghost Recon Breakpoint. \n\nThis game is so fun and chill to play! you can choose how you want to play, do you want to sit at the top of the mountain with a suppressed sniper with a clear view into the cartels compound, taking out the enemies one by one or skydive into the base during the night from a helicopter sneaking your way about, taking out the electric generator so the enemies cannot see properly while you put your night vision on or can just go in loud, guns blazing day or night calling in reinforcements of your own. blowing up everything!!"
+        },
+        {
+            "review_id": "225537135",
+            "steam_id": "76561199702794159",
+            "playtime_minutes": 49,
+            "voted_up": false,
+            "votes_up": 7,
+            "weighted_score": 0.5242452025413513,
+            "steam_purchase": true,
+            "review_text": "Not launching,  stays on splash's page. make no sense in 2026 you selling games that not launch (EDIT)  NOT GONNA Perform 10 steps on a video game, while i play 3 other games including the division 2 and have zero issues."
+        },
+        {
+            "review_id": "225461032",
+            "steam_id": "76561198338218878",
+            "playtime_minutes": 1130,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5232558250427246,
+            "steam_purchase": true,
+            "review_text": "how the frick are your servers this bad you are a 700 MILLION DOLLAR COMPANY!!!!!!!! LET ME PLAY WITH MY FRIENDS!!!!!!!!! the game is fun the servers are just a pain in the friggin butt. thank god the store works without issue though pheeeyew!!"
+        },
+        {
+            "review_id": "226668712",
+            "steam_id": "76561198137076801",
+            "playtime_minutes": 4744,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "great game\n\nrequires me to tinker with my BIOS settings to run on an intel CPU in order to play. insane.\n\ndo not buy"
+        },
+        {
+            "review_id": "225928196",
+            "steam_id": "76561199073370187",
+            "playtime_minutes": 125,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5208567976951599,
+            "steam_purchase": true,
+            "review_text": "NAT Offline\nRibera 40002\nDownloaded the Game for coop, But spent 120 Minutes trying to find a solution.\nStill having the issue..............................................\nWhy sell and release a game with Coop tag when there is only solo and NAT Offline\nRibera 40002"
+        },
+        {
+            "review_id": "225607803",
+            "steam_id": "76561197997914315",
+            "playtime_minutes": 851,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5196856260299683,
+            "steam_purchase": true,
+            "review_text": "An amazing game....plagued by crashed and ♥♥♥♥♥♥ support for modern systems with a ton of guns and gear still locked behind obscenely overpriced Ubisoft microtransactions.\r\n\r\nA sad reminder of a great game."
+        },
+        {
+            "review_id": "226085189",
+            "steam_id": "76561199166210334",
+            "playtime_minutes": 319,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5186801552772522,
+            "steam_purchase": true,
+            "review_text": "Game has a lot of things to do, there is a whole map which is very big and interesting. Campaign is really good with immersive stories, I 100% recomend if you like exploring worlds."
+        },
+        {
+            "review_id": "226322812",
+            "steam_id": "76561198125355015",
+            "playtime_minutes": 6618,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5172847509384155,
+            "steam_purchase": true,
+            "review_text": "How hell can they still be charging £84.96 for a game that is 9 years old is a complete rip off, pure ubisoft corporate greed , do not pay full price for this you can get it for pennies anywhere else.\n\nEDIT: Also the DLC for this game is utter rubbish"
+        },
+        {
+            "review_id": "225450957",
+            "steam_id": "76561198104676595",
+            "playtime_minutes": 1178,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.517241358757019,
+            "steam_purchase": true,
+            "review_text": "man i just wanna unlock the black hawk\nthere used to be a vehicle packs page in the store but these idiots removed it for no reason\nthey instead moved those packs into a cycling limited offers section, so i basically have to check the store every day potentially for weeks just to get it\n\nthat aside, i bought the most expensive edition of the game, so why are all these vehicles locked away from me in the first place?\n\ni should either have them by default or be able to unlock them from progressing the story, which i cant\n\nstupid nonsense Ubislop tactics"
+        },
+        {
+            "review_id": "225635299",
+            "steam_id": "76561198104976024",
+            "playtime_minutes": 1458,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5111110806465149,
+            "steam_purchase": true,
+            "review_text": "Feels like Far Cry Lite. \n\nIt could have been an incredible game. World is beautiful. Shooting feels great when aiming down sights. The rest is really frustrating.\n\nMoving around the world is tedious as vehicles are terrible to control (worst in any game I can think of). The AI sucks - your squad is slow and can (and will) ruin stealth, and if a single enemy spots you, every enemy spots you. Worst of all, it is a buggy mess. It semi-frequently crashes, and frequently has game breaking bugs (like immortal enemies, enemies teleporting close, missions not ending despite having done the objectives, missing characters, etc.\n\nCan provide many hours of fun, IF you are patient as all hell, as the bugs, crashes, AI and vehicles really ruined a game which when working (almost half of the time) is very fun. To put into context, about every second mission was struck with one of these bugs, and every two to three hours it crashed."
+        },
+        {
+            "review_id": "227117119",
+            "steam_id": "76561199196607012",
+            "playtime_minutes": 675,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.510869562625885,
+            "steam_purchase": true,
+            "review_text": "i liked this game. I played it on my first computer, which could barely handle the game. but what I did play of it I thoroughly enjoyed. So I figured now that Ive got a beefier computer Ill go back to it and play it for real this time. However, after installing the game. I sit on a loading screen indefinitely. I can't recommend a game that doesn't work. Even if I was a fan of it when it was."
+        },
+        {
+            "review_id": "226859871",
+            "steam_id": "76561199181482152",
+            "playtime_minutes": 820,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5096377730369568,
+            "steam_purchase": true,
+            "review_text": "Game is extremely buggy. Cars go flying when you try drive them, helicopters explode the second you get in. NPCs you need to interrogate get shot by other NPCs before you even get a chance to get close. Unless you are a diehard fan of ghost recon, don't buy this game."
+        },
+        {
+            "review_id": "225438772",
+            "steam_id": "76561199474518054",
+            "playtime_minutes": 45,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5061728358268738,
+            "steam_purchase": true,
+            "review_text": "This \"game\" literally does not work and, judging by the other reviews, Ubisoft knows about it and wont fix it. Even for 80% off this game is a waste of money. If it were free it would be a waste of time and space. I enjoyed this game on ps4 but this isn't even a game anymore, it's a folder full of broken files. The 40ish minutes I have on this are all just the splash screen."
+        },
+        {
+            "review_id": "225762621",
+            "steam_id": "76561199850219983",
+            "playtime_minutes": 53,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5056179761886597,
+            "steam_purchase": true,
+            "review_text": "bought the game, very happy to try after spending a whole night downloading it (bad internet ofc lol) wake next day very excited to try it skipping breakfast and everything just to spend the next 3h troubleshooting problems with the ubi connect from not being able to create an acc into ubi launcher not realizing I have the game, then after all this mess I get finally being able to launch the game till the loading window (*syncing achievements with cloud*) then the launcher disappears without the game and steam telling me the game is running seriously I don't understand with game companies need other launchers to launch the game if you want ppl to play ur game on your launcher then sell on your platform, anyways I don't recommend pulling an all night to down and play the game to end up suffering, if anybody reading this is really eager to play give jack sparrow a call he knows a girl that's FIT , currently waiting for the refund  (ghost recon and farcry 4)"
+        },
+        {
+            "review_id": "225997764",
+            "steam_id": "76561198079168138",
+            "playtime_minutes": 25,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5029411911964417,
+            "steam_purchase": true,
+            "review_text": "Bought, installed, launch, it says directx error, verify files, still directx error, reinstalled, launch again, it says can't locate uplay (yeah uplay, not ubisoft connect, update your games ubisoft), tried launching through ubisoft connect, still can't locate uplay, verified the files and reinstalled, same issue. searched online for fix, too much work and hassle. \n\nRefund."
+        },
+        {
+            "review_id": "226344478",
+            "steam_id": "76561198797986015",
+            "playtime_minutes": 3937,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5017793774604797,
+            "steam_purchase": true,
+            "review_text": "Janky and buggy, but that's half of what makes it fun. Best with 2-4 people."
+        },
+        {
+            "review_id": "227450784",
+            "steam_id": "76561198106071777",
+            "playtime_minutes": 25,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Just bought this game to play with my brother, it litterally doesnt even start, just and infinite loading screen"
+        },
+        {
+            "review_id": "227430804",
+            "steam_id": "76561197985661363",
+            "playtime_minutes": 4509,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's a very good game, eventhough it's 9 years old.\nThe open world/map is huge, the storyline and missions are great.\nSome missions are just fire and kill, some you need tactics or sneak and hidden, tail, capture, hijack, detroy, and more.\nYou can run, swimm, use motorbikes, cars, tanks, heli's, planes, boats, etc.\nThe game has a lot of weapons, drone and other military items.\nYou can upgrade those items and your own skills.\nA variety of enviroments like jungle, mountains, rivers, desert, snow, city's, countrysides, etc.\n\nIt took me 75 hours to finish the game.\nAnd after that I still like to play the game and (side)missions over again.\n\nAbout 20+ years ago I've played the first Ghost Recon (game set in Georgia, Tbilisi and Russia).\nI have played all the other Ghost Recon too, till Breakpoint.\nBut WILDLANDS and the first one are the BEST of all Tom Clancy games!\n"
+        },
+        {
+            "review_id": "227355349",
+            "steam_id": "76561198795614387",
+            "playtime_minutes": 956,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game does not function on modern hardware. It is abandonware, do not purchase this game."
+        },
+        {
+            "review_id": "227350993",
+            "steam_id": "76561197985564576",
+            "playtime_minutes": 6918,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is awesome. However, I'm in a weird situation where this game won't work on Windows at all, it starts to a black screen and never loads, but it runs perfectly in Bazzite as of June 2026.\r\n\r\nWhat world do we live in where a Ubisoft game works on Linux but not Windows?"
+        },
+        {
+            "review_id": "227189680",
+            "steam_id": "76561198035961443",
+            "playtime_minutes": 6372,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing game! I love open world stealth. The main game has it's issues and bugs, but other than that the main game is AMAZING! I have now played through the main story 3 times. Thankfully, I didn't need to play the game a fourth to get all the achievements. \n\nThe DLC is where my issues started with this game. Just buggy all around... Sometimes I would be seen through walls and cliffs. Other times everything would be fine. I would have times where I would ride a bike, hit a pole, and die immediately. Sometimes I wouldn't.\n\nRegardless, AMAZING GAME. A true grind for the achievements.\n\nPerfect completed 6/4/26 around like 4 PM EST"
+        },
+        {
+            "review_id": "227075031",
+            "steam_id": "76561198132522986",
+            "playtime_minutes": 742,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Ubisoft Cook an awesome game and forgot the recipy after that"
+        },
+        {
+            "review_id": "227049713",
+            "steam_id": "76561198118663490",
+            "playtime_minutes": 669,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good game but takes 10-15 min for the game to start but to be expected from a AAA game."
+        },
+        {
+            "review_id": "227049207",
+            "steam_id": "76561197978523967",
+            "playtime_minutes": 301,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good game for those who want a fast-paced arcade like military shooter. But for those who want the intense, one-shot, one k1ll experience, this isn't it. Not saying its a bad game, but was on the lookout for something realistic."
+        },
+        {
+            "review_id": "227020763",
+            "steam_id": "76561198249176532",
+            "playtime_minutes": 11921,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game is superb, BUT it´s Ubislop, so it doesnt work anymore. No support, i´m not buying Ubisoft games never again, no matter how good. Shame."
+        },
+        {
+            "review_id": "227004867",
+            "steam_id": "76561198985259687",
+            "playtime_minutes": 4537,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good playtime, decent storyline, fun AI, but PLEASE get actual people to play with you, AI teammates suck ass."
+        },
+        {
+            "review_id": "226835257",
+            "steam_id": "76561198066248620",
+            "playtime_minutes": 3693,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Its an ubisoft game. You tag the enemies, sneak around, get detected and sometimes Sam Fisher is there. Also the guy who did the voice of Spike from Cowboy Bebop pops up for five whole minutes.\r\n\r\n3rd person Far Cry 4 with squad tactics and lots of expensive cameos."
+        },
+        {
+            "review_id": "226793438",
+            "steam_id": "76561198059286938",
+            "playtime_minutes": 356,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game feels more complete after just 6 hours of play than most games i've beaten in their entirety in the last 10 years."
+        },
+        {
+            "review_id": "226722579",
+            "steam_id": "76561199816839189",
+            "playtime_minutes": 1127,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love it, its very realistic. Wouldn't recommend to ages 14 and under"
+        },
+        {
+            "review_id": "226685607",
+            "steam_id": "76561199213730407",
+            "playtime_minutes": 4967,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great co-op experience in Ghost Recon Wildlands. Fun missions, beautiful world, and even better with friends. Thanks to FreeLemons, Blobvis0op & Owen for the good times."
+        },
+        {
+            "review_id": "226583850",
+            "steam_id": "76561198202424518",
+            "playtime_minutes": 4026,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I can't recommend this game. Ubislop did in another one with this mess, certain companies can pull of open world and Ubislop is not one of them. So much potential, the setting, the antagonists, the potential for challenge. The only real challenge is can you avoid the game breaking and infuriating bugs Ubislop left in here years after the game released. If you wouldn't pay someone to get you stuck in traffic, you shouldn't pay game devs who's game effectively does the same thing"
+        },
+        {
+            "review_id": "226570733",
+            "steam_id": "76561198083287760",
+            "playtime_minutes": 4540,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "There are a large number of missions, which eventually becomes a bit repetitive, Also I encountered few bugs throughout the game, nothing major. It has a rich story. If you can buy it cheaply, I think it's worth it."
+        },
+        {
+            "review_id": "226561860",
+            "steam_id": "76561199818589657",
+            "playtime_minutes": 2759,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "top tier Ghost Recon, atmosphere and world design is amazing, Bolivia is such a good setting, some might say its too repetitive and even tho it is, its fun repetitive, my only complaint is that the movement is a bit clunky"
+        },
+        {
+            "review_id": "226524518",
+            "steam_id": "76561198145249473",
+            "playtime_minutes": 3186,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game and story dont make up for how frustrating the optimization is, such a shame cause its actually really fun with friends"
+        },
+        {
+            "review_id": "226517503",
+            "steam_id": "76561198990346186",
+            "playtime_minutes": 18562,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun game. stealth is awesome, story is great. 9 out of 10, bullets hurt"
+        },
+        {
+            "review_id": "226515218",
+            "steam_id": "76561199221544616",
+            "playtime_minutes": 5392,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "So I, like many others, have been experiencing the failure to run issue. To be clear my issue is from steam hitting the green button to start the game, the button turns blue and says cancel, the button turns blue and says stop, and then turns green and says play all in a matter of about 3 seconds. \n\nI went through every recommended fix for the game from overlays, to the ubisoft connect app, uninstalling both the ubisoft connect app and game, all document files, reinstalling the recommended newest VC+ files etc. \n\nI did one thing that actually pointed me in the right direction. Go to your hardrive (C:) folder, Program Files (x86), Steam, steamapps, common, Wildlands. Scroll down to the GRW application file and right click. Click Run as an Administrator. Immediately i had an error that said \"MSVCR110.DLL was not found. This pointed me to an older version of Visual Studio 2012 (VC++ 11.0) was not installed. \n\nI would guess that a major update to windows caused this older version of C++ 2012 to be removed.  I reinstalled and BAM it works again. Hope this helps someone. I am running an AMD CPU so this is not to be confused with the intel issues others have had.\n\nGame Review:\nI like game. Game is good. Game is better than breakpoint. The end."
+        },
+        {
+            "review_id": "226513959",
+            "steam_id": "76561199624407302",
+            "playtime_minutes": 3703,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game is really fun. I like the easter eggs and a lot of the hidden items. Its just very fun to play. While constant grinding can get boring, its fun in the end."
+        },
+        {
+            "review_id": "226512188",
+            "steam_id": "76561198351982851",
+            "playtime_minutes": 2747,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Game is good especially on older PCs. Newer PC might have issues so if that is the case I suggest going to : RUN, msconfig, boot tab, advanced options, change the number of processors to 10. Reboot PC and run game. It might have the occasional lag. You may have to adjust the video setting to make the game run smoother."
+        },
+        {
+            "review_id": "226486072",
+            "steam_id": "76561199195201470",
+            "playtime_minutes": 1848,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "game good. credits took 1/3 of the total game and end game gun is some bull but overall w game"
+        },
+        {
+            "review_id": "226465552",
+            "steam_id": "76561199027961049",
+            "playtime_minutes": 2262,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game overall, misses checkpoints within the missions which can be frustrating, still 7/10"
+        },
+        {
+            "review_id": "226439297",
+            "steam_id": "76561198057344692",
+            "playtime_minutes": 2676,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Is unnaceptable that this is the only game in my library that wont let me play with friends just because my NAT type..."
+        },
+        {
+            "review_id": "226428332",
+            "steam_id": "76561198082818713",
+            "playtime_minutes": 2332,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's ubislop alright, but not the worst ubislop out there.\nDo not pay above 10 dollars for this game."
+        },
+        {
+            "review_id": "226375779",
+            "steam_id": "76561198707140783",
+            "playtime_minutes": 1052,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Ubisoft's typical buggy games and stupid AI teammates"
+        },
+        {
+            "review_id": "226333028",
+            "steam_id": "76561199242656744",
+            "playtime_minutes": 2937,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very good story,graphics and open world capacity."
+        },
+        {
+            "review_id": "226330793",
+            "steam_id": "76561198030372613",
+            "playtime_minutes": 9222,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I've been playing this game for years. Always fun to come back to it and go ♥♥♥♥ ♥♥♥♥ up. 10/10. Best Ghost Recon ever made."
+        },
+        {
+            "review_id": "226307799",
+            "steam_id": "76561198080955427",
+            "playtime_minutes": 6195,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "For a solo game yes, but for coop... Cant even connect to the servers. Simply bricked by goobysoft"
+        },
+        {
+            "review_id": "226275528",
+            "steam_id": "76561198048347972",
+            "playtime_minutes": 71,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Game Never Ran!\n\nGame is stuck on the loading screen, everyone suggests going to BIOS to disable E cores on Intel CPU but won't be doing that just to play a game. \n\nThis is sad as I really had good reviews about it, it's just sad that they do not update this type of issues."
+        },
+        {
+            "review_id": "226259971",
+            "steam_id": "76561198775552940",
+            "playtime_minutes": 46,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Trash game, cant get through the loading screen. Should've known better than to buy a POS Ubisoft game. 0/10. Suck my balls Ubisoft"
+        },
+        {
+            "review_id": "226232370",
+            "steam_id": "76561198074668805",
+            "playtime_minutes": 7448,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I had it on a different platform before Steam and played 2-3 times through the campaign. To play it with m friends I got it on PC and I have to say it is still a good game in 2026. Obviously there is no raytracing, but overall the Graphics are still stunning and the map is gigantic. The only thing I dislike is the requirement for Uplay."
+        },
+        {
+            "review_id": "226228139",
+            "steam_id": "76561199480153043",
+            "playtime_minutes": 8159,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Atmosphere: \n\nThis game is visually stunning. The environment, lighting, weather, and landscapes are all very amazing and make you feel like your in the world. The world also feels very 'lived in' as there are actually people walking around, not just in towns and cities, but also along the road. There are people driving around, so be careful when speeding around places. You can 'borrow' cars from people if needed and the car destruction is also very nice. Also, unlike in Breakpoint, if you lose your headlights, yo still keep them as there is just light sources coming from in front of the car. \n\nStory:\n\nThis game has an amazing story to go with its outstanding visuals. The story is cohesive, understandable, and generally more though out and executed better. I feel like I'm actually taking down a cartel, you can feel it weakening after your actions. This ties into the atmosphere, but throughout the world you can hear citizens and sicarios alike talking about your actions and how Buchons are going missing. All of the intel that you can collect throughout the world actually ties into the story, unlike Breakpoint where it tells the story of the ISLAND or leads you to 'treasures'. The information videos sent by Bowman are also very engaging, help with telling the story, and just look nice. Additionally, the optional collaboration missions\nwith Rainbow 6, other Ghosts, and Sam Fisher are also very enjoyable to play through.\n\nGuns and Gunplay:\n\nThe guns are amazing in this game. They sound powerful when a suppressor isn't equipped, they look nice, they feel good to use. However, I do like how Breakpoint has a few more different weapons (Boss weapons and weapon designs don't count) and that there are many more attachments for your guns. A lot of the attachments in Breakpoint have the same stats yes, but I don't care. I want my guns to look cool and having a bunch of random attachments helps with that. I think encounters with enemies are also really good. They properly communicate and use tactics and don't act like complete idiots. I also like the different levels of enemies. A basic sicario patrol is much different then an Unidad patrol, it makes you think before rushing into a base.\n\nGhost Customization:\n\nI think its a win for Breakpoint tbh. Wildlands has good customization, but Breakpoint has more, at least in terms of clothing. It is also much easier to get a lot of the clothing items as you can find most of it in the world or buy it from Maria's store. Of course some who have to get at the Ubisoft store, but you don't need to for most of it. As for body customization, its basically the same, I have no notes.\n\nMiscellaneous:\n\n* Menus are practical and easy to navigate\n* Sound design is amazing; the music is awesome and its nice to hear people talking and vehicles humming\n* The loading screens are imo, much cooler than those in Breakpoint\n* It hasn't bee a buggy mess for me, game runs smooth as warm butter\n\nI will note that you may have to change some settings to properly play. If you try and move around while ADS-ing and the camera shakes and you pop in and out of ADS, you will have to change a setting. You just have to make the game fullscreen, even if it already looks like it is. I can't recall what it is or where its located, but you can check google and find a Reddit thread.\n\nTL;DR: Game looks good, plays good, has a good story, has decent customization and could be better, but still good, and make sure you're in FULLSCREEN. 9/10, amazing game."
+        },
+        {
+            "review_id": "226149357",
+            "steam_id": "76561198753445891",
+            "playtime_minutes": 219,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Deadass lost my progress because dumbass ubisoft connect failed to save, would've been a great game if it didn't have to go through that moronic launcher"
+        },
+        {
+            "review_id": "226077613",
+            "steam_id": "76561199121091267",
+            "playtime_minutes": 2955,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i only had one region left to clear and the main villain to kill switched to a new pc and now the game doesn't even open. Very cool thank you Ubisoft"
+        },
+        {
+            "review_id": "226074814",
+            "steam_id": "76561198782858164",
+            "playtime_minutes": 189,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "HEAR ME OUT this probably ONE of my fav game i love the open world the stelph but for cons tho the story and its kinda repetive"
+        },
+        {
+            "review_id": "226055610",
+            "steam_id": "76561198870047725",
+            "playtime_minutes": 2318,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game has great immersion in my opinion, it does get tedious with the grind. Only buy if you have lots of time to spare. Playing this for a short duration won't be as fun."
+        },
+        {
+            "review_id": "226042604",
+            "steam_id": "76561199058894155",
+            "playtime_minutes": 799,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Nothing beats diving outta a helicopter, killing every Narco you see in sight, and then leaving."
+        },
+        {
+            "review_id": "226032146",
+            "steam_id": "76561198034240393",
+            "playtime_minutes": 2022,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The best word to describe this game is lazy. \r\n\r\nThe mission design is unbelievably repetitive, every village/location looks the same, the characters are cardboard, the story is forgettable, vehicles feel awful to drive/pilot other than the chopper, stealth/tactics feel half-baked compared to even old ghost games, if you play solo your AI teammates are completely useless and can't figure out where to go, AI npcs you have to escort/protect are determined to get themselves killed, Unidad added nothing to the game other than being the equivalent of GTA infinite cop respawn, etc. etc. \r\n\r\nI feel like I could list 100 more annoying things about this game but this should give you enough of an idea. The whole game feels like some half-assed thrown together pile of ♥♥♥♥ on top of a generic battle royal map. I can't believe people were hyping this up as an underrated modern ghost recon game, breakpoint must be just that bad. The only positive I really have is some of the environments look nice but you'll get tired of that pretty quickly with how annoying and samey the rest of the game feels.\r\n\r\nI don't even know what the point of the game saving during some of the missions is btw because if you fail you have to redo the whole thing anyway, thanks Ubisoft. Oh and whoever designed that Sam Fisher cameo mission should never be employed again. Oh the cool stealth op guy from splinter cell this should be fun, how about no, enjoy this ♥♥♥♥♥♥♥ room defense mission where you are swarmed by 100 guys shooting you from every angle while he ♥♥♥♥♥ with the computer and your AI teammates are eating glue.\r\n\r\nWaste of everyone's time."
+        },
+        {
+            "review_id": "226025401",
+            "steam_id": "76561198799579236",
+            "playtime_minutes": 2760,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the game is fun but like half way thru the game one of the team members are stuck saying one line \" Shall we return to are regularly-schedule program of liberating\" wish there was a way it fix it."
+        },
+        {
+            "review_id": "226010097",
+            "steam_id": "76561198887805798",
+            "playtime_minutes": 47,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I and many others who bought this on newer computers have had major issues attempting to get past an infinite loading screen glitch that Ubisoft does not seem to take seriously, giving only copy and paste advice for a game that is completely broken to many players. I have played this game for years prior on my old Xbox One when it released and while the game itself is great, this current state is completely unacceptable to those who bought it. Lastly, I highly recommend anyone who has had this issue to make a review and a support claim so that they hopefully (but unlikely) will fix this major issue.\n\n(50 dollars for this game still by the way)"
+        },
+        {
+            "review_id": "226007872",
+            "steam_id": "76561198279194206",
+            "playtime_minutes": 575,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "1 Star no game save exist on deck after reset. yet it found my account without logging in."
+        },
+        {
+            "review_id": "225966561",
+            "steam_id": "76561198378735585",
+            "playtime_minutes": 1352,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is perfect for someone who wants a stealthy tactical shooter. It is not hard to get into and the controls are fairly simple. Take down the cartel in the beautiful map of Bolivia. Upgrade your arsenal, get some interesting gadgets and see how far you can into the cartel, maybe you will reach the boss, or maybe you wont? Overall the game is great and I love hoping in this game from time to time because i never forget how to play and it does a great job of allowing you to carefully plan out on how to take out an entire camp of cartel man. 9/10, the only thing that would make this a 10/10 for me is nothing really, it is basically a 10/10 in my book lol."
+        },
+        {
+            "review_id": "225882774",
+            "steam_id": "76561199439203489",
+            "playtime_minutes": 191,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Jogo completo, longo, bom pra passar o tempo, só acho que deveriam adicionar configuração de distância de renderização."
+        },
+        {
+            "review_id": "225827992",
+            "steam_id": "76561198062518011",
+            "playtime_minutes": 2610,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great to just chill and unwind after a long day. I actually liked discovering each of the cartel members and watching their cinematics. The story is mediocre but the way it's not too in-your-face made me want to keep playing just to unlock the next cutscene."
+        },
+        {
+            "review_id": "225800627",
+            "steam_id": "76561199179525320",
+            "playtime_minutes": 1314,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "No recomiendo esta basura de juego, la ia no sirve, las mecanicas no sirven, nunca en mi vida habia visto un juego tan mierda como este de verdad, no se como aun lo tienen subido en esta plataforma, de verdad me alegro tanto que expedition 33 hayan ganado el goty, y esos empleados se hayan ido de esta empresas de mierda llamada ubisoft, tantos años y aun no saben hacer un juego bueno definitifvamente no lo recomiendo 0/10"
+        },
+        {
+            "review_id": "225727321",
+            "steam_id": "76561198055384699",
+            "playtime_minutes": 406,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i dunno man, i just nostalgia with OG ghost recon, and i thought about buying this game, i've tried this one back then but i was thought the game is less enjoyable due my rig back then (fx6300 + rx560) but even with my current PC it's actually gameplay that made the game were not really enjoyable\r\n\r\ni can enjoy OG ghost recon, play the campaign twice then repeatedly play the quickmissions for the lulz\r\n\r\nbut this... i don't know what is this, the equipment is strange, did someone send an elit squad with a \"naked\" equipment? even M40 just given ACOG, and for Assault Rifle and SMG, why the heck these just 20 rounds mag? does bolivia got californian gun law there?\r\n\r\nalso the 4 man squad consist of even dumber AI compared to OG ghost recon, i think their skill set for stealth are just one point\r\n\r\ninstead ghost recon, i think this game is more MGSTPP + FarCry 2+ series\r\n\r\nbut for positive one this game sure present a beautiful landscape and that's really something"
+        },
+        {
+            "review_id": "225718834",
+            "steam_id": "76561199474984033",
+            "playtime_minutes": 838,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very fun for a lot of it up until the mission watchman where you cant kill anyone it is complete ♥♥♥♥♥♥♥♥ at that point the worst mission in all of gaming"
+        },
+        {
+            "review_id": "225698349",
+            "steam_id": "76561198766960547",
+            "playtime_minutes": 745,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It takes forever to load, I've had no other issues with any of my various games. However I enjoy the game and its a fun time. Ubisoft needs to fix this..."
+        },
+        {
+            "review_id": "225672550",
+            "steam_id": "76561199089580092",
+            "playtime_minutes": 3409,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "1.Wildlands can be quiet a bit of fun, love the gunplay \n\n2. i absolutely hate that they theoreticaly have pay 2 win by locking pretty decent guns behind a paywall using \"ingame currency\" \n\n3. Lootboxes that are mostly PAID \n\nOverall tho its a decent game if you ignore the stupid  p2w stuff, do reccomend the game \n\nif i had to rate it from 0 to 10 id say 6.5/10"
+        },
+        {
+            "review_id": "225647999",
+            "steam_id": "76561198254202690",
+            "playtime_minutes": 4858,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "[h1] ONLY BUY THIS GAME ON DISCOUNT, DON'T PAY FULL PRICE FOR THIS OLD GAME [/h1]\n\n[h2]Having that said, god this game is fun.[/h2] This was basically my entrance to the \"Tom Clancy'/Ghost Recon[i](?)[/i]'' saga and i enjoyed it so much.\n\nStory is great, its not a bible perse, but its a great introduction for what it will happen throughout the whole playthrough. Althought for what i've heard, this was suppossed to be on Mexico instead of Bolivia, [b] AND IT SHOWS [/b] because some dialogues, enemies or even places look more ''mexico related'' than bolivian, but for obvious reasons that i don't think i need to share about my magical country of Mexico, this didn't happen and Ubisoft moved it to Bolivia. [i] (Im speaking mostly from ignorace so please don't take this part too seriously and you're welcome to correct me if im wrong on this [/i].\n[h3] SPOILER FOR THE FINAL MISSION[/h3]\n[spoiler] The final mission is the most pain in the ass i have ever experienced and i hope to ever replay that ♥♥♥♥ ever again. Literally hell to play when you have EVERYONE shoot at you and unless you have your vehicule upgrades maxxed out, its almost impossible to finish it because of the \"betrayal\" of the Bolivian rebellion [/spoiler]\n\nThe Game is good for what it offers, and i love the stealth mode althought it has its problems i love having to use the sniper from far away and get rewarded really good for it.\nAlso, have fun trying to drive the cars and/or bikes on this game, is like driving with tires coated on ♥♥♥♥♥♥♥ butter. is hard not to crash onto the first tree you find.\nWeapons feel good to shoot, although it has its \"realism\" and it's not that easy to spray and pray onto the enemies sometimes.\nSpeaking of, the AI is....most of the time OKAY, but i will admit that while travelling throught the map, its ♥♥♥♥♥♥♥♥ because the minimal glance these guys have on you, you're done. I wish i could say the same about your teammates, these ♥♥♥♥♥♥♥♥♥♥♥♥♥ are almost NEVER useful other than the ''multishot'' ability that they have when you enter stealth mode onto the enemies.\n\n\n\nIdk what else to say other than, its a good entrance for the Franchise, but since its Ubisoft you will encounter some problems as a surprise to no one.\nAlso, i have never tried the multiplayer mode and its probably dead either way so i don't have anything to review for it.\n\n\n[h1]8/10[/h1]"
+        },
+        {
+            "review_id": "225502824",
+            "steam_id": "76561198396798582",
+            "playtime_minutes": 99,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I am fricking glad that i cannot even play the co-op game in co-op thanks Oruro-01000"
+        },
+        {
+            "review_id": "225460028",
+            "steam_id": "76561199417295065",
+            "playtime_minutes": 3742,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "overall a great experienced after played it for awhile, it's a great game in my opinion the graphic is pretty solid too even my pc specs isn't that high, one that triggered me sometimes is the movement is kinda clancky so sometime's you'll get caught by the enemeis or killed by them, well I don't blame the game I gues it's just me who's skill issue XD"
+        },
+        {
+            "review_id": "225387706",
+            "steam_id": "76561198341372959",
+            "playtime_minutes": 5831,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good story, the walking simulation gets boring real fast, even tho u got fast traveling. the game is very badly optimazed, for some reason it has dlc's more expensive than the game, and the worst part, those dlc's got achievements so it means unless u wanna spend more money u wont be getting a 100% achievement. getting to rank one its complete cancer, + leveling every weapon to 30 its even more cancerous, its so ♥♥♥♥♥♥♥ boring. But the main thing its the story, and that, was very well done."
+        },
+        {
+            "review_id": "225381314",
+            "steam_id": "76561198116374176",
+            "playtime_minutes": 1008,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "spend 10-15 mins just to load the game in and you have a 50/50 chance of it crashing during loading or 5 mins in even on high end computers.. So than you have to wait another 10-15 mins to play it again. im done with ubisoft and al of their issues. i don't recommend buying any of their games because they half a$$ everything now and wont fix problems the yare well aware of. I am tired of always trying to get their games to work on 3 thousand dollar equipment is stupid. optimization is crap, updates are crap, sup[port is crap. Ubisoft is just crap."
+        },
+        {
+            "review_id": "225364330",
+            "steam_id": "76561199181771468",
+            "playtime_minutes": 7014,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun game all in all. Kinda tedious towards the end, and both endings are pretty pathetic, but I enjoyed it non the less."
+        },
+        {
+            "review_id": "225357254",
+            "steam_id": "76561197997939807",
+            "playtime_minutes": 16767,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its a good game that stood the test of time and seems to have less bugs than breakpoint !\r\nShame though that Ubisoft turn their backs on their software and their customers and wont support their software !"
+        },
+        {
+            "review_id": "225308272",
+            "steam_id": "76561198316183692",
+            "playtime_minutes": 2885,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game, much better than wildlanss. I think picking this up 10 years after it dropped would still be worth it. It has a very simple, but very interesting gameplay loop. Some missions feel stupid and easy while others felt incredibly new and interesting. I loved the variety of locations due to the immense map. I dont have too much i want to say other than a great game! Catch it on sale for $5 and spend the next 40 hours killing gangs."
+        },
+        {
+            "review_id": "225257423",
+            "steam_id": "76561198956416490",
+            "playtime_minutes": 6912,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A very fun game if you are into Tactical Shooters 3rd Person. Although, watch out for Ubisoft servers as I also have Breakpoint (the next game in this series) and the server connectivity is always an issue with these games for Online Mode.\r\n"
+        },
+        {
+            "review_id": "225167124",
+            "steam_id": "76561198050278530",
+            "playtime_minutes": 3811,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "10-year old game that holds up pretty well. Bought on sale for $3 or $4 USD. Perfect for turning off your brain, and spending an hour or two just doing various missions. Only played the main story mode. Not much story depth, but fun lore if you wanna immerse yourself. Game bugged out in one of the final zones, making it impossible to 100%, and I couldn't be bothered by the 60-hour mark.\n\nI think 10-20 hours in, the enemy scaling kinda just stops? Mid-game and end-game zones, it was basically just different environments.\n\nFinal thoughts: Good if you're a casual shooter player that wants a little bit of tactical sandbox fun. Buy it on sale, and enjoy yourself."
+        },
+        {
+            "review_id": "225155400",
+            "steam_id": "76561198050436437",
+            "playtime_minutes": 27675,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I have had lots of fun playing this game, it is an excellent TPS, with fun mechanics and missions. However, because I recently upgraded my hardware to a Intel 9 285, I can no longer launch the game without waiting for a long period of time, or disabling hyper threading in my BIOS. Since I don't wish to handicap my CPU, nor wait 20 minutes, I cannot in any seriousness recommend this game. If Ubisoft fixes this issue, and doesn't treat their old titles like abandonware, I'll change my review to reflect."
+        },
+        {
+            "review_id": "225073512",
+            "steam_id": "76561199073636726",
+            "playtime_minutes": 7465,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is one of my all time favorite games it was able to set the tone for what gaming has become today Redownloading it to play it again now that my kids hit an age where they like this style gameplay"
+        },
+        {
+            "review_id": "225973180",
+            "steam_id": "76561199587315262",
+            "playtime_minutes": 789,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49705880880355835,
+            "steam_purchase": true,
+            "review_text": "its open world astetic is amazing and the quests and gameplay feel immersive"
+        },
+        {
+            "review_id": "225598288",
+            "steam_id": "76561199159628480",
+            "playtime_minutes": 4942,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4938271641731262,
+            "steam_purchase": true,
+            "review_text": "It's an ok third person stealth/military shooter, it doesn't help that it's made by ubisoft and requires your life savings to do anything outside of the campaign including new guns and cosmetics. If you REALLY want this, I recommend you just wait for a sale to get it. If not this one, wait for the second version of this game to go on sale; Breakpoint.\n\nMicrotransactions and attempts at a money vacuuming aside, it's a perfectly fine third person shooting game, just ignore ubisofts \"Give us money\" slop and it should be a fine game with a plot that doesn't have any issues with it at all!\n\nI would pick the \"Maybe\" option if steam had one for reviews, but since that doesn't exist I'll just pick Yes for I do recommend."
+        },
+        {
+            "review_id": "225618660",
+            "steam_id": "76561198160942898",
+            "playtime_minutes": 44,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.48963093757629395,
+            "steam_purchase": true,
+            "review_text": "I couldn't run it at all - stuck on endless loading screen. I tried to disable E-cores in UEFI - no luck. I turned off hyperthreading - no luck. I couldn't limit the CPUs through the task manager, so did it through msconfig - then the screen didn't even show loading. Waste of time and money."
+        },
+        {
+            "review_id": "225771241",
+            "steam_id": "76561199261183731",
+            "playtime_minutes": 2725,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.4871090352535248,
+            "steam_purchase": true,
+            "review_text": "May 17, 2026\n\nThe French idiots at UbiSoft Paris continue to show just how incompetent they really are. AND how YOU the PLAYER are not important to what they do. This review is a comparison between Wildlands and Breakpoint and it blows my mind.  Do your own research and make up your own mind after reading this. This is MY view. \n\nPros: \n\nThe character moves like a character. Breakpoint is 80's arcade movement plus the character 'slides' when moving. Absolutely junk. Wildlands has the better character.\n\nVehicles are better in Wildlands. Not by much but they are better than Breakpoint.\n\nMissions are more fun in Wildlands than Breakpoint.\n\nCons:\n\nEnemy spawning is just as stupid as Breakpoint. \n\nHelicopters really suck in Wildlands & Breakpoint.\n\nAuto-Detection is excessively annoying.\n\nLevel Designers suck in Wildlands & Breakpoint when at rocky areas and cliffs.\n\nUniDad BS is BS. They spawn in, know exactly where you are, and they are bullet sponges.\n\nCamera is atrocious in Wildlands and Breakpoint.\n\nSummarize:\n\nYes there are more cons than pros but Wildlands character and behavior makes it worth dealing with the frustration of French Idiots at UbiSoft Paris. Usually no more than a couple of hours, then I have to stop playing from the aggravation of stupid crap. This company is so stupid, mostly because they don't listen to gamers, and they need to quit saying it's completed when it's not.  Then beg you to pay them more money for another game that is just as much crap as the last one. I also noticed the Tom Clancy's Ghost Recon: Wildlands has Tom Clancy's name on it and Breakpoint doesn't. It came out with it but now it doesn't. This is how a company treats others. Take what they want, make a slop game, and hope we are all stupid enough to take it. \n\nIf you're stupid...then you take it. The rest of us will do whatever we can to hold them accountable. Including, making them go bankrupt from not buying their sloppy games anymore."
+        },
+        {
+            "review_id": "227057433",
+            "steam_id": "76561198093604134",
+            "playtime_minutes": 534,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "The game is okay really boring missions and there all the same (if you think i'm exaggerating they are all the exact same) but otherwise good"
+        },
+        {
+            "review_id": "226277864",
+            "steam_id": "76561198331297461",
+            "playtime_minutes": 437,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "game is fine, but you should not have to download a whole launcher just to play this game. The game will not work without downloading ubisoft connect."
+        },
+        {
+            "review_id": "225860866",
+            "steam_id": "76561199118409753",
+            "playtime_minutes": 18,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "I am not going to spend hours trying to troubleshoot for a nine year old game. That is insane to me. I would for other (actually) older games, but this game is only nine years old and it is an insane expectation to troubleshoot for to get past the loading screen. This is a triple-A game and is currently being sold as a ten dollar waste of space."
+        },
+        {
+            "review_id": "225658588",
+            "steam_id": "76561199154059856",
+            "playtime_minutes": 13,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "I highly recommend Tom Clancy's Ghost Recon Wildlands!\nIt has a massive open world, great graphics, and an amazing co-op experience with friends. The missions are fun and varied, and you can play stealthy or go full action depending on your style. The game offers many hours of gameplay with exploration, customization, and a really immersive atmosphere. One of the best tactical shooter games I’ve played. Definitely worth it! 🎮"
+        },
+        {
+            "review_id": "226740330",
+            "steam_id": "76561199098520188",
+            "playtime_minutes": 228,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Best Game in The Universe, True Story. \r\n\r\nWill Sacrifice my First Born Again 10/10"
+        },
+        {
+            "review_id": "225440658",
+            "steam_id": "76561198044056333",
+            "playtime_minutes": 16,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.4677261710166931,
+            "steam_purchase": true,
+            "review_text": "I saw the reviews about the game not working, but my friends were playing it without issue. I have been stuck in the forever loading screen while my friends are having fun playing the game without me. I tried all their \"fixes\" but to no avail. 0/10, do not recommend."
+        },
+        {
+            "review_id": "225512670",
+            "steam_id": "76561198062300749",
+            "playtime_minutes": 458,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.46404552459716797,
+            "steam_purchase": true,
+            "review_text": "*Executes a civilian in broad daylight*\r\nSquad member - tHAts A cIvILiaN!\r\nMe -  oh\r\n*does it again with no repercussions* \r\n10/10 for immersion, I truely get to feel like an american pmc commiting heinous war crimes playing this\r\n\r\nOn a more serious note, The game is so incredibly bad that it makes me wanna throw up in a bucket and eat from said bucket rather than play this slop for another minute. The enemy ai is completley oblivious to you unless you're hugging them. You're ai teammates are invisible to the enemy and doesn't really do anything other than break your 'immersion' and potentially revive you if get downed. \r\n\r\nThe difficulties doesn't really seem to change anything other than how much damage you and your enemies can take. Also the game of course adheres to ubisofts classic over cooked open world formula with the only thing sticking out with this one, is that there aren't any big towers you have to climb to unlock a new part of the map. Which is sad because the game would probably have been somewhat enjoyable if it was just a linear mission based game, but instead you'll spend most of your time roaming this really uninspired and very forgettable landscape getting from mission to mission which are generally really short and also quite forgettable. \r\n\r\nThen there is the customization which is... mid for lack of better words. its not bad persay but it also got ubisoft written all over it with lootboxes and whack pay walls.\r\n\r\nThe game is probably kind of fun if you're playing with four players, but otherwise its so incredibly bad that I felt a need to vent it out by writing a review like a nerd\r\n"
+        },
+        {
+            "review_id": "225333528",
+            "steam_id": "76561197987795996",
+            "playtime_minutes": 4863,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.4531550109386444,
+            "steam_purchase": true,
+            "review_text": "[h1]PROs:[/h1]\n✅ Large weapon arsenal\n✅ Weapon customization\n✅ Jolly co-op on lower difficulties\n✅ Stealth is mostly fun (though it becomes too reliant on it in the end-game)\n✅ Fun shooter as long as you avoid Tier 1 Extreme stages\n✅ Diverse scenic world with dynamic weather and day/night cycle\n✅ Rebel assist mechanics\n✅ Solid sound design\n✅ Plenty of gadgets\n✅ Scouting-to-action preplanning is genuinely fun\n✅ Lots of great comical moments\n✅ Revive Drone and EMP Drone are absolute game-savers on ♥♥♥♥♥♥♥♥ difficulties\n[h1]CONs:[/h1]\n❌ Lot of multiplayer issues (sync problems, missions bugging out, etc.)\n❌ Insane amount of enemy AI ♥♥♥♥♥♥♥♥ on Tier 1 Extreme (instant reactions, pixel-perfect aim, tankiness, spawning, ally NPCs killing mission targets, detection, matrix dodging)\n❌ Vehicle handling is abysmal (though the physics can be funny)\n❌ Unreal number of places where you get stuck or fall through the world\n❌ Can’t reliably use drones from choppers (character throws them into the blades)\n❌ No material penetration consistency\n❌ Parachute deployment is wildly inconsistent\n❌ Blurry visual fidelity unless you use 1.5x+ resolution scaling\n❌ Noise makers and baits are very inconsistent\n❌ Boring, stereotypical American corporate/drug cartel story\n❌ Flying unit seating inconsistency\n❌ Object hitboxes are all over the place\n❔ Certain generation Intel CPUs won’t load the game with hyperthreading enabled\n[h1]Comments:[/h1]\nLong story short: the game is genuinely fun to play with friends [b]as long as you don’t touch Tier 1 Extreme difficulty.[/b] (Which sucks if you’re a completionist who wants to unlock everything.)\n\nThe world looks nice, is fun to explore and travel through, and the weapon arsenal is large, giving you plenty of options to find your favourite playstyle. Weapons can also be heavily customized (although in Tier 1 Extreme mode it’s not as relevant since you can upgrade damage/stats anyway).\n\nGunplay and stealth are fairly enjoyable up to mid-game when you’re not forced into Tier 1 Extreme. It feels like a semi-realistic tactical shooter that unfortunately goes in the wrong direction once the difficulty spikes because of all the jank and AI issues.\nI really liked the sound design (weather, terrain, guns, etc.) and the rebel assist system for scouting and distractions. Drones are extremely useful too — especially on higher difficulties. Marking enemies, preplanning, and sabotaging convoys feels great. On Tier 1 Extreme the revive drones basically became mandatory just to survive the ♥♥♥♥♥♥♥♥ enemy AI.\n\nNow the problems.\n[b]Co-op has some annoying issues:[/b]\n    • Anti-air (SAM sites) and helicopter missiles aren’t synced between players — each person sees projectiles flying differently, so dodging becomes pure luck. \n    • Missions bug out constantly. We had to restart lobbies or redo missions multiple times because progress wasn’t the same for everyone. \n\n[b]Enemy AI on Tier 1 Extreme[/b] is the main reason the game became miserable for us (and since a lot of unlocks are gated behind it, you can’t really avoid it).\n    • Split-second reactions even from enemies who shouldn’t know you’re there yet. \n    • Pixel-perfect aimbot shooting through the tiniest gaps. \n    • You need around 5-9 body shots to down one enemy or 2 headshots (unless using .50cal which one-shots anywhere), while they one- or two-shot you from any distance or angle with any gun. \n    • Instant 1-frame reactions the moment you try to knock someone out or shoot. Still haunts me that I was about to execute a sitting enemy, but he just teleport-turned around and killed me once I reached behind him. \n    • Once combat starts they instantly know your entire squad’s position, even if your teammates haven’t been spotted. \n    • Matrix dodging — they flail and dodge bullets like they have spider-sense, especially when you line up headshots. Which ruined many stealth runs. \nThere are also tons of consistency issues:\n    • Material penetration is odd — you can shoot through most wooden materials (but not wooden pallets). You can shoot through various thin metals, but not some. And you can also shoot through multiple meters thick oil pumps because why not. \n    • Object hitboxes. Again… some things have great hitboxes whilst some objects have 5x bigger hitboxes than the object itself. (I.E. trees.) Which again ruins tactical stealth approach. See a direct line of sight on an enemy? Nope, tree leaves apparently have a 5m hitbox radius. Shoot a sniper in the tower? Nope, the railing is apparently 5m tall/thick. \n    • Vehicle seating makes no sense (big helicopters only seat 4, small ones seat 6, same with trucks and cars). \n    • Parachute deployment is completely unreliable — you can free-fall for 4-5 seconds from some tall cliff and the game still won’t allow you to deploy parachute. Whilst sometimes you jump off a much lower and cramped height and it lets you deploy. \nVehicle handling feels very floaty and the speeds are odd. Manageable, but not enjoyable.\nThe story is the typical stereotypical American corporate/drug cartel drama — nothing special.\n\nVisuals are decent stylistically but suffer from blurriness unless you crank resolution scaling to 1.5x or higher.\n\nMoral of the story: It’s a fun tactical shooter with great stealth, scouting, and weapon variety in a beautiful world. Just cap the difficulty at Hard and enjoy it that way. Tier 1 Extreme is not worth the sanity loss for a few cosmetics and special weapons.\n\nWe ruined our own experience by stubbornly sticking to Tier 1 the whole way. Solo is actually easier as the squad AI are the same cheating ♥♥♥♥♥♥♥ as the enemies.\nProbably forgot a few things, but this review is already long enough.\n\n[h1]🔴Total score: [b] 4/10[/b]👎[/h1]\n[b]Game status:[/b]\n✅ Finished\n[b]Reviewing info:[/b] How I review/rate & other info on my website through my profile. (desozone)"
+        },
+        {
+            "review_id": "227008930",
+            "steam_id": "76561198025243568",
+            "playtime_minutes": 3184,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.45267486572265625,
+            "steam_purchase": true,
+            "review_text": "I went in to the game knowing it was nearly a decade old at this point but wow, I didn't expect it to be THAT bad. Ubislop of the highest order.\r\n\r\nTL;DR: Janky, uninspired, derivative, formulaic, arbitrary. Stay away.\r\n\r\nGunplay is mediocre with the weird 3rd person-1st person hybrid crap, and bullets suffering 10x earth gravity. \r\n\r\nTravel and traversal is tedious in the sense that the world will always fight against you with janky hitboxes for climbing stuff, hilariously inconsistent fall damage, bad pathing for allies and enemies alike, and gods forbid you want to fly because the enemy is sporting respawning surface-to-air missiles, so best leave that chopper on the ground buddy.\r\n\r\nEnemy AI is almost as bad as your companion AI. Holy moly the movements of your \"team\" do not make sense most of the time. As long as you don't order them to do anything they remain hidden. The second you tell them to get to your position because you are about to have a forced fight and need them /inside/ the enemy camp instead of on the road outside, they'll get spotted by any enemy immediately. And don't even get me started on the enemies that instantly respawn in the same place after being dispatched from stealth.\r\n\r\nStealth is so bad. Think of the bare minimum stealth in a video game, and you'll be thinking of Wildlands. It starts out with high difficulty, and once you have some levels and upgrades, it becomes laughably easy. To the point where you can clear an entire LARGE enemy encampment by just crouchwalking with a silenced pistol, and then think to yourself five minutes later \"wow, was that it?\".\r\n\r\nProgression is awful. In true Ubisoft fashion, they made a gameplay loop, split the map in about a dozen different zones, and have you play that same loop a dozen times on repeat, without any variation whatsoever.\r\n\r\nThe game is pretty to look at but it is just not worth it. I'm not even sure it would have been worth it on release.\r\n\r\nGive your money to a publisher-developer who actually cares instead."
+        }
+    ]
+}

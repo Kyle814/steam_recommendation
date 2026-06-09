@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T19:58:52.765956",
+    "app_id": "1599600",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "225301260",
+            "steam_id": "76561198093498857",
+            "playtime_minutes": 8746,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5634920597076416,
+            "steam_purchase": true,
+            "review_text": "Today I finally got the last achievement in this game, and it was awesome! So I desided, that this great game deserves a good review.\n\nI can highly recommend this game for those, who likes planning processes and placement, dynamic coops and reaction speed games. Also, \"Plate Up!\" provides great opportunity for automation, but it's unnecessary, and the game is not about automation foremost. IMO this game is about interaction with your team in two different modes: Alexander the Great (while planning a kitchen) and Gordon Ramsey (directly during cooking). And switching between them is the most fun part!\n\nAlthough some of my friends found this graphics a little bit unprepossessing, I think it's just fine — nice minimalist style! Moreover, this game has unique replayability (wich is rare for cooking coops). \n\nSo thanks \"it's happening\" for such a tresure! And I wish everyone the opportunity to spend some time cooking together! 😉"
+        },
+        {
+            "review_id": "227060572",
+            "steam_id": "76561198083919060",
+            "playtime_minutes": 4398,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5278970003128052,
+            "steam_purchase": true,
+            "review_text": "Great game. Great devs are still updating it, even though there is enough content to keep you going for a long time. Great with friends, but also works just fine solo."
+        },
+        {
+            "review_id": "226775985",
+            "steam_id": "76561198799359558",
+            "playtime_minutes": 234,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5258620381355286,
+            "steam_purchase": true,
+            "review_text": "Fun with friends, but somewhat less Solo. Good Game if you want to play a different game than Overcooked"
+        },
+        {
+            "review_id": "225751729",
+            "steam_id": "76561198433740769",
+            "playtime_minutes": 97,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "This game is the funniest that I've every played, I have not laughed like this since many years ago.\n\nIf you have a friend is 500% worth it, and is super engaging\nThis game was made with hearth"
+        },
+        {
+            "review_id": "225226049",
+            "steam_id": "76561198124197414",
+            "playtime_minutes": 3655,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5205215215682983,
+            "steam_purchase": true,
+            "review_text": "very good fun, especially in coop. Just not as hyjinx-y as the art might make it seem, it is kind of a sweaty game haha"
+        },
+        {
+            "review_id": "227436066",
+            "steam_id": "76561198096513036",
+            "playtime_minutes": 5983,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great game, is fun to play around with friends, and has interesting depth and late game automation that always surprises me with different challenges"
+        },
+        {
+            "review_id": "227375013",
+            "steam_id": "76561198365994839",
+            "playtime_minutes": 3786,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun game to play either casually or seriously. The only problem is finding other people who want to play this instead of overcooked."
+        },
+        {
+            "review_id": "227293894",
+            "steam_id": "76561198112395969",
+            "playtime_minutes": 6076,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love this game!!! It is addictive, fun, and a good way to wind down during the evening. Its just as enjoyable solo as with friends. My favorite is being a barista in my own coffee shop xD"
+        },
+        {
+            "review_id": "227201929",
+            "steam_id": "76561198329020436",
+            "playtime_minutes": 5779,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The best cooking game :D \nit has multiplayer to cause chaos or a remarkable teamwork\nit gives you the option how challenging you wish to play without a difficulty slider\nThe assets are spot on for it's cartoonish design, while being recognisable and easy to understand\nMany roguelike games give you frustration when a run fails, but this manages to somehow make it a happy ending\nIt is not reliant on upgrades from previous runs, so you can hop in and have all the fun without the grind for useless runs."
+        },
+        {
+            "review_id": "227073140",
+            "steam_id": "76561198842028279",
+            "playtime_minutes": 1721,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Pretty fun, way better in multiplayer tho, rec at least 3 ppl"
+        },
+        {
+            "review_id": "226925985",
+            "steam_id": "76561198103810699",
+            "playtime_minutes": 13912,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is not your average restaurant management simulator. It is a co-op roguelike... and it slaps. Takes a minute to get into, but once you do it's got layers of depth you would just not expect from a title that looks like this. Def worth your time."
+        },
+        {
+            "review_id": "226575532",
+            "steam_id": "76561198126576419",
+            "playtime_minutes": 4246,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game. Won't be playing it ever again until they add the option to delete save files manually from the open game and stop blocking play time."
+        },
+        {
+            "review_id": "226391510",
+            "steam_id": "76561198165074745",
+            "playtime_minutes": 6684,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Honestly one of the few games my friends and I keep coming back to. Simple yet super fun, allows for a lot of variety in playstyle by choosing different cards and buying different items to place in the kitchen, layouts or types of food to cook. Very replayable due to its roguelite nature. Definitely recommend.\n\nP.S. if you play like us, you definitely try to automate the entire kitchen Factorio style with conveyors, mixers and what have you."
+        },
+        {
+            "review_id": "226385075",
+            "steam_id": "76561198011801455",
+            "playtime_minutes": 31537,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "intense without being a rage game, fun especially with extra food mods added on."
+        },
+        {
+            "review_id": "226280254",
+            "steam_id": "76561198052479802",
+            "playtime_minutes": 665,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great way to build teamwork and communication skills with friends."
+        },
+        {
+            "review_id": "226120073",
+            "steam_id": "76561199388045127",
+            "playtime_minutes": 2794,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Nice game, even when playing solo. Good replayability due to the card bufs."
+        },
+        {
+            "review_id": "226109432",
+            "steam_id": "76561198743567325",
+            "playtime_minutes": 304,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is even more fun when you get shut down by the government because your friends don't know how to wash dishes"
+        },
+        {
+            "review_id": "226028357",
+            "steam_id": "76561198051004418",
+            "playtime_minutes": 11161,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A long time ago I saw this game and laughed at it for being a bad-looking Overcooked clone, but man... once I gave it a chance, I found that the roguelite formula works surprisingly well for party cooking gameplay and I'm upset I didn't think of this concept first as I'm something of a game developer myself. I've 100%d this game and continue to play it with my gf as an endlessly replayable couch co-op game.\r\n\r\nSometimes we play with her mom who is 68 and doesn't speak English. She refers to it as \"cocinita\" which means \"little kitchen\" in Spanish. She really enjoys playing with us even though we mainly stick her with simple tasks like doing the dishes and interacting with desks. We've had some pretty memorable moments like when she threw a fully cooked turkey directly in the trash or when she yelled \"wat ze hail\" as a robot buffer I placed in her area messed up her walking with randomly faster tiles.\r\n\r\nThe weakest point of the game is definitely its aesthetics. I hate to say it but the first thing I did was turn off the in-game music. The art style is also pretty bland. Like, it's functional, but doesn't really have any personality or meaningful stylistic choice. However, I will take these shortcomings over not being able to tell what a food item is.\r\n\r\nAdditionally, after playing the game for a long time, you'll start to notice little inconsistencies like if you are serving Sundaes as a main dish (with an ice cream bowl), the customers are able to grab individual scoops of ice cream from buffet tables, but if you get Sundaes as an add-on dessert, you have to manually grab the correct number of ice cream scoops in the correct flavors for customers to accept them. Also it can be a bit confusing what is allowed to be placed in a prep station and what isn't. A lot of times we'll go into practice mode to try putting different food items in them to figure it out.\r\n\r\nLastly, I have a small game design gripe with the restaurant layout system. I find myself cycling through restaurant layout blueprints a bunch of times before settling on a really ideal one. Roguelikes typically try to stick players with some kind of randomized situation (think of the long walk to your weapon choices in deadcells or the lack of unique starting options in slay the spire if you abandon your run immediately) and the ability to endlessly cycle for no penalty seems like a big miss to me. I would rather be stuck with a suboptimal layout for the sake replayability than feel the need to layoutmaxx every time I play. Blueprints that allow players to knock down walls and add/remove doors/halfwalls would be a cool way to let players mitigate the layout randomness. To be clear, I don't actually expect the developers to make this change because it would upset a lot of players who don't dislike the current system, but it's food for thought!\r\n\r\nOne last gripe: the tile targeting system can sometimes be infuriating on corners. I've had cases where I'm facing a table diagonally and the dish I'm holding ends up being given to a table on the other side of me that happens to have ordered the same thing, and then we lose the run because we now have 2 tables waiting on a second dish that isn't prepared yet. I would love to know what the code looks like for deciding what tile to highlight. I imagine it involves a series of raycasts and the behavior I'm describing is a side-effect of a different bug fix.\r\n\r\nOverall, the game is a 9/10. Despite its shortcomings, it manages to be something really special that can be enjoyed by gamers and non-gamers alike. Keep up the great work, devs!"
+        },
+        {
+            "review_id": "226013380",
+            "steam_id": "76561198184746538",
+            "playtime_minutes": 2008,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Scream at my friends for not cooking fast enough or taking the orders too fast. After this game if you still talk to your friends they will help you get away with murder even by making it into a fine stake pie 10/10"
+        },
+        {
+            "review_id": "225967721",
+            "steam_id": "76561198405446963",
+            "playtime_minutes": 674,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I played this game for a few hours after I bought it and I didn't enjoy my time. After coming back to it a few months later I rediscovered a hidden gem in my library and I can confidently say that PlateUp! has earned it's place as the best game I've ever personally played.\n\nThe game play in PlateUp! is unlike anything that I've ever played. You can feel like the most powerful creature in the game while still knowing that you are only one mistake away from losing. The game is difficult in an unfair way that can initially be very frustrating as it feels that you have no control over your environment. One of the best parts of this game is it's simulated environments. Due to the fact that everything is simulated independently from you, it really makes you feel like you're just an observer in a real restaurant. The creature AI in this game is really detailed and helps the feeling of an actual ecosystem with both chefs and customers.\n\nYou play this game as a creature known as a chef/waiter. The best feeling in this game is the feel of getting stronger, not from in-game upgrades or weapons, but from your skill increasing and learning new mechanics and techniques with the tools available to you. The movement in this game is incredibly nuanced, which leads to the movement sometimes feeling unnatural or clunky, but then as you learn new movement techniques the movement becomes far more fluid and natural, which leads to some of the best feeling movements in a game that I've ever played.\n\nThere's so much more to this game that I haven't covered here, but I'll leave that up to you to decide if you would like to try the game and become more familiar with it. This game is truly one-of-a-kind and itself is an experience. It certainly isn't for everyone but it is so unique and enjoyable that if you can make it past the first few hours of game play and get the game to \"click\" with you, then you may just find one of the best gaming experiences that you've ever had."
+        },
+        {
+            "review_id": "225949324",
+            "steam_id": "76561198366414983",
+            "playtime_minutes": 974,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun game to play with a small group! Its easy to learn, fast-paced, and engaging!"
+        },
+        {
+            "review_id": "225885780",
+            "steam_id": "76561199888637626",
+            "playtime_minutes": 359,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing game, terrible multiplayer. Unplayable lag."
+        },
+        {
+            "review_id": "225844149",
+            "steam_id": "76561198101389879",
+            "playtime_minutes": 5276,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "PlateUp! is a great family-friendly game and is fun to play with all your friends and family."
+        },
+        {
+            "review_id": "225830575",
+            "steam_id": "76561199025497502",
+            "playtime_minutes": 177,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun cute little game to play with friends or girlfriend"
+        },
+        {
+            "review_id": "225734840",
+            "steam_id": "76561198246966968",
+            "playtime_minutes": 17211,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "If you like simple cooking and automation aspects this game is for you! A wonderful game to play with friends."
+        },
+        {
+            "review_id": "225685119",
+            "steam_id": "76561198308228432",
+            "playtime_minutes": 1191,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "So chaotic, so fun. Crazy how they expect a small restaurant to serve an entire city."
+        },
+        {
+            "review_id": "225649401",
+            "steam_id": "76561199165123520",
+            "playtime_minutes": 327,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "PlateUp! is the only game where I tried to run a restaurant and somehow became a full-time dishwasher with emotional damage.\n\nYou start with “this is easy,” and 10 minutes later your kitchen is on fire, customers are judging your life choices, and your friend just blocked the only path with a table.\n\n10/10 would get yelled at by virtual customers again!"
+        },
+        {
+            "review_id": "225551067",
+            "steam_id": "76561199699062879",
+            "playtime_minutes": 360,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game is great, like i had a LOT of fun screaming at my sister as we lose\r\nBUT, shes busy so im unavailable\r\nany1 else able to play coop?\r\n(please be -13)\r\nanyway game is AMAZING i love it\r\nfree excuse to scream at friends"
+        },
+        {
+            "review_id": "225381933",
+            "steam_id": "76561198118731722",
+            "playtime_minutes": 1434,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun co-op game, great for friends and family who are not gamers. There is some actual depth to the gameplay but it still is simple to start."
+        },
+        {
+            "review_id": "225335931",
+            "steam_id": "76561198804137731",
+            "playtime_minutes": 1279,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Overcooked does not compare to be honest.  Overcooked is neat because the levels were designed so people will have a specific experience. But what's cool about this is that its up to chance, this is Overcooked but RNG ROGUELITE."
+        },
+        {
+            "review_id": "225228218",
+            "steam_id": "76561198151748298",
+            "playtime_minutes": 49,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "it feels like a needlessly complex version of overcooked that focuses a lot more on the boring parts. whereas overcooked has speed and chaos and rapid delivery of foods, this game focuses a lot more on restaurant management and taking it slow and preparing. while that is a niche that i can understand/see someone having, it is absolutely not for me and not for anyone that i'd like to introduce this game to. \n\nif you have played too much overcooked and are looking for something similar, this isn't it. legitimately feels like overcooked with the fun parts removed. alongside so many basic qol features missing, that isn't making the game harder, but just more annoying. i really don't like this game"
+        },
+        {
+            "review_id": "225139065",
+            "steam_id": "76561198087665051",
+            "playtime_minutes": 4821,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.48975512385368347,
+            "steam_purchase": true,
+            "review_text": "this game. every time i want to upgrade to a fancy table it gives me bar table or metal table.. unbelievable bro"
+        },
+        {
+            "review_id": "225577718",
+            "steam_id": "76561198090354406",
+            "playtime_minutes": 184,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.48701971769332886,
+            "steam_purchase": true,
+            "review_text": "So laggy on multiplayer. Cannot play at all. \r\n\r\nWhen joining, there is a blue screen that makes you can't do anything. Eventually, when you join the game is so laggy and unplayable."
+        },
+        {
+            "review_id": "227457797",
+            "steam_id": "76561199455232095",
+            "playtime_minutes": 684,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "we might piss in the food, but we make good food still. W chef cooking bussing game. im a 12 ounce steak, yeah. play this today with your friends"
+        },
+        {
+            "review_id": "227131156",
+            "steam_id": "76561199245994629",
+            "playtime_minutes": 1080,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Turbo mode, Black coffee, and a dumb friend is the BEST combo for the WORST time\r\n\r\n10/10"
+        },
+        {
+            "review_id": "225313605",
+            "steam_id": "76561198008978770",
+            "playtime_minutes": 8916,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is what you get if you wanted a highly customizable cooking-themed rogue-lite. Fail often. Retry often. Learn and master your craft and, most importantly, don't forget to do the dishes."
+        },
+        {
+            "review_id": "225259707",
+            "steam_id": "76561198169119951",
+            "playtime_minutes": 4423,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun figuring out procedures that help you succeed. Enjoyable chaos when playing with others"
+        },
+        {
+            "review_id": "225246924",
+            "steam_id": "76561198080100447",
+            "playtime_minutes": 2793,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The customers are animals. When I serve them a salad, nearly all of it ends up on the floor."
+        },
+        {
+            "review_id": "227111579",
+            "steam_id": "76561197989863313",
+            "playtime_minutes": 2179,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "An absolute blast with friends. My girlfriend and I beat every recipe and the variety, plus problem solving together, was fun.\r\nFiguring out the order of operations and everything works great. Much less gimmicky than things like Overcooked.\r\nIf you want something more focused on putting recipes together, managing customer needs, and some light logistics, this is for you."
+        },
+        {
+            "review_id": "226753624",
+            "steam_id": "76561199228656794",
+            "playtime_minutes": 837,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Like Overcooked, but without the levels and you own your own restraunt."
+        },
+        {
+            "review_id": "226699021",
+            "steam_id": "76561198186429159",
+            "playtime_minutes": 5341,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "My go-to suggestion when hanging out in a call with a few people and we don’t know what to play. I love yelling at the chefs to hurry up with the food that they are obviously already hurrying up with and then ranting about how I don’t get paid enough and storming out after we already beat the day. And I’ll still be back tomorrow."
+        },
+        {
+            "review_id": "225809605",
+            "steam_id": "76561199331318340",
+            "playtime_minutes": 751,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love this game! So much better than overcooked. I play it with friends & its soooo fun!"
+        },
+        {
+            "review_id": "225585162",
+            "steam_id": "76561198268341828",
+            "playtime_minutes": 492,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I came here to cook sweet glazed yams (of course)-- not experience combat stress. 10/10 The food wasn’t the only thing getting steamy in the kitchen  ;) \n\n\n\n\n    - it was ALSO my insufferably bad attitude :)"
+        },
+        {
+            "review_id": "225501184",
+            "steam_id": "76561199826451763",
+            "playtime_minutes": 262,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very Fun a \"relaxing\" game, best experiance for two frends"
+        },
+        {
+            "review_id": "227039647",
+            "steam_id": "76561199086137809",
+            "playtime_minutes": 1292,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "My friend watched me zip tie my balls making apple salad."
+        },
+        {
+            "review_id": "226570448",
+            "steam_id": "76561198251000220",
+            "playtime_minutes": 122,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Overcooked if it was a Roguelike created by the developers of Dark Souls."
+        },
+        {
+            "review_id": "225604764",
+            "steam_id": "76561199554602869",
+            "playtime_minutes": 26,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "So fun and challenging if u play solo."
+        },
+        {
+            "review_id": "225210812",
+            "steam_id": "76561198150564720",
+            "playtime_minutes": 250,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4967055320739746,
+            "steam_purchase": true,
+            "review_text": "A good game to play with friends, I do suggest waiting on a sale however. \n\nAlso like, why is coffee so messy?"
+        },
+        {
+            "review_id": "225289512",
+            "steam_id": "76561198260222003",
+            "playtime_minutes": 1347,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "truly addicting. I haven't played anything else since buying this lol"
+        },
+        {
+            "review_id": "225245991",
+            "steam_id": "76561198004673604",
+            "playtime_minutes": 13,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "controls are awkward and it's not fun\n"
+        },
+        {
+            "review_id": "227324625",
+            "steam_id": "76561199109529218",
+            "playtime_minutes": 16611,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "love love this game so much, if you love overcooked, you'll adore this one. <3"
+        },
+        {
+            "review_id": "226747449",
+            "steam_id": "76561199646119797",
+            "playtime_minutes": 325,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The soup is cold and the salad is hot. how is that even possible?!"
+        },
+        {
+            "review_id": "226107321",
+            "steam_id": "76561198052913328",
+            "playtime_minutes": 1819,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Its like Overcooked but in my opinion better.\r\n"
+        },
+        {
+            "review_id": "227082164",
+            "steam_id": "76561198302742682",
+            "playtime_minutes": 214,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun as a solo or coop (my played hours are all on switch)"
+        },
+        {
+            "review_id": "226613178",
+            "steam_id": "76561199689125855",
+            "playtime_minutes": 115,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good game. Fun with friends"
+        },
+        {
+            "review_id": "225721539",
+            "steam_id": "76561198343684373",
+            "playtime_minutes": 4282,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4739336371421814,
+            "steam_purchase": true,
+            "review_text": "i love playing i really enjoy trying new set up for plates\r\n"
+        },
+        {
+            "review_id": "226422576",
+            "steam_id": "76561197981021155",
+            "playtime_minutes": 9,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.41560351848602295,
+            "steam_purchase": true,
+            "review_text": "These reviews must be fake because this game is HORRIBLE."
+        },
+        {
+            "review_id": "225157595",
+            "steam_id": "76561199089470240",
+            "playtime_minutes": 489,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4967055320739746,
+            "steam_purchase": true,
+            "review_text": "funny restaurant ownership"
+        },
+        {
+            "review_id": "227037877",
+            "steam_id": "76561199123121859",
+            "playtime_minutes": 396,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Apple salad made my friend zip-tie his balls."
+        },
+        {
+            "review_id": "226095819",
+            "steam_id": "76561198063637955",
+            "playtime_minutes": 13800,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I don't have 230 hours in this game, you have 230 hours in this game! You're drunk, go home!"
+        },
+        {
+            "review_id": "226015040",
+            "steam_id": "76561198016747063",
+            "playtime_minutes": 1147,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great little cooking game"
+        },
+        {
+            "review_id": "225332185",
+            "steam_id": "76561199884720802",
+            "playtime_minutes": 244,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "SOOOO GOOOOOD. IM ADDICITED TO PLAYING IT WITH MY BF! THE MECHANICS ARE SO FUN:)"
+        },
+        {
+            "review_id": "225108152",
+            "steam_id": "76561199562185208",
+            "playtime_minutes": 528,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "MUY BUENO, suelo jugar con mis amigos"
+        },
+        {
+            "review_id": "226588338",
+            "steam_id": "76561197960380828",
+            "playtime_minutes": 7076,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Don't put chocolate in the oven."
+        },
+        {
+            "review_id": "226469411",
+            "steam_id": "76561198162475157",
+            "playtime_minutes": 3562,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun with friends if you like unbridled chaos"
+        },
+        {
+            "review_id": "226167492",
+            "steam_id": "76561199403322309",
+            "playtime_minutes": 3553,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The funniest way to yell at your friends"
+        },
+        {
+            "review_id": "226345066",
+            "steam_id": "76561198081219721",
+            "playtime_minutes": 583,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i like it but overcooked is better 7/10"
+        },
+        {
+            "review_id": "226737699",
+            "steam_id": "76561198151406705",
+            "playtime_minutes": 2743,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "game is really fun, i recommend it."
+        },
+        {
+            "review_id": "226509867",
+            "steam_id": "76561198176702442",
+            "playtime_minutes": 27751,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I have played for 462 hours. I think I like it...a lot!"
+        },
+        {
+            "review_id": "225950347",
+            "steam_id": "76561199546995972",
+            "playtime_minutes": 695,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Pisses my bf off...funny as hell tho"
+        },
+        {
+            "review_id": "227351482",
+            "steam_id": "76561198911316639",
+            "playtime_minutes": 8580,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It gets good after 144 hours"
+        },
+        {
+            "review_id": "226282852",
+            "steam_id": "76561199249188149",
+            "playtime_minutes": 1030,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very fun, very cool"
+        },
+        {
+            "review_id": "225125233",
+            "steam_id": "76561199451954569",
+            "playtime_minutes": 275,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4967055320739746,
+            "steam_purchase": true,
+            "review_text": "very good games to play with friends"
+        },
+        {
+            "review_id": "225313446",
+            "steam_id": "76561198010240288",
+            "playtime_minutes": 945,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "banger cooking coop"
+        },
+        {
+            "review_id": "226826465",
+            "steam_id": "76561199162078815",
+            "playtime_minutes": 2381,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "so addicting"
+        },
+        {
+            "review_id": "226587660",
+            "steam_id": "76561198039636996",
+            "playtime_minutes": 3512,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Played for hours with the family"
+        },
+        {
+            "review_id": "226187757",
+            "steam_id": "76561199549646791",
+            "playtime_minutes": 292,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "fun fun easy game"
+        },
+        {
+            "review_id": "226639824",
+            "steam_id": "76561199208480787",
+            "playtime_minutes": 332,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "fun with friends"
+        },
+        {
+            "review_id": "226380964",
+            "steam_id": "76561198120471111",
+            "playtime_minutes": 10167,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game"
+        },
+        {
+            "review_id": "225937828",
+            "steam_id": "76561198974403193",
+            "playtime_minutes": 642,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "fun,even solo"
+        },
+        {
+            "review_id": "227376625",
+            "steam_id": "76561198045625459",
+            "playtime_minutes": 1969,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "game of the year"
+        },
+        {
+            "review_id": "226670848",
+            "steam_id": "76561199562091317",
+            "playtime_minutes": 337,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "IT IS RAW HOW IS THE SALAD RAW"
+        },
+        {
+            "review_id": "226191578",
+            "steam_id": "76561198303246722",
+            "playtime_minutes": 360,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great game"
+        },
+        {
+            "review_id": "225416183",
+            "steam_id": "76561199178188059",
+            "playtime_minutes": 210,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great game"
+        },
+        {
+            "review_id": "226674839",
+            "steam_id": "76561199813829703",
+            "playtime_minutes": 451,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good"
+        },
+        {
+            "review_id": "226605001",
+            "steam_id": "76561199766113974",
+            "playtime_minutes": 334,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "♥♥♥♥ you stupid ice cream i hate you"
+        },
+        {
+            "review_id": "226400223",
+            "steam_id": "76561199792892586",
+            "playtime_minutes": 359,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "fun with friends"
+        },
+        {
+            "review_id": "226374502",
+            "steam_id": "76561198922360232",
+            "playtime_minutes": 768,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "w game"
+        },
+        {
+            "review_id": "226254108",
+            "steam_id": "76561198096318612",
+            "playtime_minutes": 4662,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Add sushi please!!!\r\n"
+        },
+        {
+            "review_id": "226105481",
+            "steam_id": "76561198296122741",
+            "playtime_minutes": 741,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good"
+        },
+        {
+            "review_id": "225968149",
+            "steam_id": "76561198101995629",
+            "playtime_minutes": 234,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "jessie, its time to cook"
+        },
+        {
+            "review_id": "226233558",
+            "steam_id": "76561199016873246",
+            "playtime_minutes": 1583,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "fun"
+        },
+        {
+            "review_id": "226709995",
+            "steam_id": "76561198121861480",
+            "playtime_minutes": 690,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "\"All you're drinking is coffee HOW ARE YOU MAKING SUCH A HUGE MESS?!\""
+        },
+        {
+            "review_id": "226357328",
+            "steam_id": "76561198059852442",
+            "playtime_minutes": 242,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "serve me up on a plate I'm cooked"
+        },
+        {
+            "review_id": "227362580",
+            "steam_id": "76561198015524184",
+            "playtime_minutes": 788,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One tomato"
+        },
+        {
+            "review_id": "225800129",
+            "steam_id": "76561198991815775",
+            "playtime_minutes": 510,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.3476768732070923,
+            "steam_purchase": true,
+            "review_text": "this game sucks"
+        },
+        {
+            "review_id": "225230582",
+            "steam_id": "76561199811977634",
+            "playtime_minutes": 4679,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4967055320739746,
+            "steam_purchase": true,
+            "review_text": "good\r\n"
+        },
+        {
+            "review_id": "227240544",
+            "steam_id": "76561199210032291",
+            "playtime_minutes": 391,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I CANT SLEEP. WE KEEP ON PLAYING I CANT SLEEEEEP"
+        },
+        {
+            "review_id": "225735455",
+            "steam_id": "76561198011376522",
+            "playtime_minutes": 2946,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4739336371421814,
+            "steam_purchase": true,
+            "review_text": "very feedings"
+        },
+        {
+            "review_id": "226036982",
+            "steam_id": "76561199204554559",
+            "playtime_minutes": 405,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "waltuh we need to cook"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "ingested_at": "2026-06-08T19:38:11.172794",
+    "app_id": "337410",
+    "metadata": {
+        "type": "game",
+        "name": "Karos",
+        "steam_appid": 337410,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Karos: Rebirth is a classic online MMORPG with dynamic combat, deep progression, and complete freedom of choice. Explore the vast world of Azmara, join PvP battles, castle sieges, and raids — create your unique hero and join thousands of players today!",
+        "detailed_description": "<p class=\"bb_paragraph\" style=\"text-align: center\"><strong>Karos: Rebirth</strong> is a classic MMORPG full of adventures, freedom, and epic battles in the magical world of Azmara. Explore diverse landscapes, uncover hidden dungeons, help the locals, and challenge ancient monsters. Every step is a new story, every battle — a chance to prove your strength.</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337410/extras/c5457918a5b45180330ef020a99f69cd.avif?t=1765458751\" width=700 height=150 /></span><i></i></p><p class=\"bb_paragraph\" style=\"text-align: center\"> In Azmara, you don’t have to follow a strict path. Play the way you want! Battle other players in PvP arenas, defend your guild’s honor in massive castle sieges, gather rare resources, or focus on crafting. You earn experience and rewards simply by playing the way you enjoy most.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337410/extras/fc365e9e9783ce3c264c23fd5086e862.avif?t=1765458751\" width=700 height=150 /></span><i></i></p><p class=\"bb_paragraph\" style=\"text-align: center\"> Create your own unique hero by choosing from <strong>4 races</strong>, <strong>7 classes</strong>, and <strong>42 professions</strong>. Master the <strong>Fletta System</strong> — an ancient magic that enhances your skills and equipment, making your character truly one of a kind.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337410/extras/a3e386c9d09d317e445d05b2cf67b498.avif?t=1765458751\" width=700 height=150 /></span><i></i></p><p class=\"bb_paragraph\" style=\"text-align: center\"> Customize your hero with costumes, wings, pets, and mounts to express your style. Each new item unlocks fresh customization options — mix and match to create a look that’s uniquely yours.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337410/extras/df8303d85395b780381134dddb4a7e9e.avif?t=1765458751\" width=700 height=150 /></span><i></i></p><p class=\"bb_paragraph\" style=\"text-align: center\"> Become a part of a living world: join guilds, take part in large-scale castle and mine sieges, and earn valuable resources and fame. Across all servers, you’ll find an active community and endless opportunities to start your adventure.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337410/extras/5b9efe9874ca5f61eb7f8415c37dc8d9.avif?t=1765458751\" width=700 height=150 /></span><i></i></p><p class=\"bb_paragraph\" style=\"text-align: center\"> <strong>Karos: Rebirth</strong> is a world where victory depends not only on strength but also on strategy. Easy to start, yet deep enough for those who seek mastery — it’s a true MMORPG experience.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Key Features</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Free-to-play MMORPG</strong> with a player-driven auction — earn premium items without spending real money.</p></li><li><p class=\"bb_paragraph\" ><strong>Unique Fletta System</strong> — empower your character through mystical energy.</p></li><li><p class=\"bb_paragraph\" ><strong>Massive PvP and PvE battles:</strong> from duels to castle sieges with hundreds of participants.</p></li><li><p class=\"bb_paragraph\" ><strong>4 races, 7 classes, 42 professions, and 12 super skills</strong> — choose your own combat style.</p></li><li><p class=\"bb_paragraph\" ><strong>Advanced crafting system</strong> — forge powerful equipment with your own hands.</p></li><li><p class=\"bb_paragraph\" ><strong>Transforming mounts</strong> that become part of your armor when inactive.</p></li><li><p class=\"bb_paragraph\" ><strong>Regular events and updates,</strong> supported by an active, passionate community.</p></li></ul>",
+        "developers": [
+            "Galaxy Gate"
+        ],
+        "publishers": [
+            "GameXP.com"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            }
+        ],
+        "genres": [
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Dec 24, 2014"
+        }
+    }
+}

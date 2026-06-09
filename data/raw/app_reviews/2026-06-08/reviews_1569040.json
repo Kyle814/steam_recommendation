@@ -1,0 +1,47 @@
+{
+    "ingested_at": "2026-06-08T19:11:17.704809",
+    "app_id": "1569040",
+    "review_count": 4,
+    "reviews": [
+        {
+            "review_id": "221739649",
+            "steam_id": "76561198008907403",
+            "playtime_minutes": 60800,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Clear and easy directions to follow. Good graphics in match play. Good interaction with Board and players even if they are divas. No snags encountered so far even though running on Laptop connected to 32'screen."
+        },
+        {
+            "review_id": "223547269",
+            "steam_id": "76561199060465602",
+            "playtime_minutes": 225181,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "♥♥♥♥♥♥♥ amazing. much better than 26 . i dont have mods but if i did itd be even better do id highly reccomend. probably cheaper about now aswell"
+        },
+        {
+            "review_id": "220809598",
+            "steam_id": "76561198862466079",
+            "playtime_minutes": 155747,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It got the job done and entertain me a lot (but the community workshop was carrying with the fun databases)"
+        },
+        {
+            "review_id": "224906514",
+            "steam_id": "76561199023314291",
+            "playtime_minutes": 2843,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "If you have this, and want to get the most recent, don't. This is fine"
+        }
+    ]
+}

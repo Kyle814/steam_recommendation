@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T20:00:26.740172",
+    "app_id": "32370",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "226974258",
+            "steam_id": "76561198301481315",
+            "playtime_minutes": 2239,
+            "voted_up": true,
+            "votes_up": 7,
+            "weighted_score": 0.6264368295669556,
+            "steam_purchase": true,
+            "review_text": "This game cleared up my acne and got me my first girlfriend. I then conceived my first born to the soundtrack. 5 stars"
+        },
+        {
+            "review_id": "225821540",
+            "steam_id": "76561199003937924",
+            "playtime_minutes": 1780,
+            "voted_up": true,
+            "votes_up": 7,
+            "weighted_score": 0.6258503794670105,
+            "steam_purchase": true,
+            "review_text": "Pretty fun, enjoyable game. Probably the definitive Star Wars role playing game. Sure would be nice if modern aspect Ratios were supported, would also be nice if characters didn't randomly freeze after combat encounters, the game needs to be updated for modern hardware"
+        },
+        {
+            "review_id": "225139470",
+            "steam_id": "76561198016312586",
+            "playtime_minutes": 886,
+            "voted_up": true,
+            "votes_up": 5,
+            "weighted_score": 0.5786920189857483,
+            "steam_purchase": true,
+            "review_text": "They dont make RPG this these anymore ....!!! Played KOTOR 2 IN 2003 and was just addicted to it back then. After 23 years i played KOTOR 1...Its nostalgic and sad at the same time.Brings back memories of KOTOR2 and sadness that Bioware that made this game is no more !"
+        },
+        {
+            "review_id": "225511412",
+            "steam_id": "76561198025231328",
+            "playtime_minutes": 2852,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5306859612464905,
+            "steam_purchase": true,
+            "review_text": "Not bad at all. I decided to replay this for the first time in ages and had a great time overall. The graphics are old, and controls jank, but this is still one of the few games that really gets anywhere close to feeling like you get to really experience the Star Wars setting.\n\nIt ran pretty well on my pc, but did have an occasional issue where loading would hitch, crashing the game, or saves would freeze, corrupting the save. This was easy to work around by just keeping multiple saves, and deleting the corrupted save on relaunch. The crashing issue was thankfully not too frequent.\n\nThe worldbuilding is pretty good, but the writing is hit and miss. A lot of it is good, but the further you go, the more the game leans into \"Light side\" vs \"Dark side\" cheese, with dark side having pretty much no nuance at all. You essentially get to either roleplay a good person to Jesus figure, or a cartoonishly evil villain that would push a baby stroller off a cliff while twirling his mustache. It can get a bit silly, but if you can look past that, it's still a fun experience."
+        },
+        {
+            "review_id": "226258566",
+            "steam_id": "76561198083353078",
+            "playtime_minutes": 608,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5301589965820312,
+            "steam_purchase": true,
+            "review_text": "game constantly crashes.  after fights you can't move and have to save and reload constantly.  growing up I loved this game but playing on steam is the equivalent of playing with a steaming pile of garbage."
+        },
+        {
+            "review_id": "227156571",
+            "steam_id": "76561198413183336",
+            "playtime_minutes": 1933,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "It's been said thousands of times, but Knights of the Old Republic is a wonderful experience. Beware of technical issues if you play on modern hardware, but nothing should prevent your total enjoyment of this excellent game. Here's to the remake!"
+        },
+        {
+            "review_id": "226927468",
+            "steam_id": "76561198036252101",
+            "playtime_minutes": 1993,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "I loved playing the KOTOR games. I played this one back on the original Xbox and have since replayed them both many times now. I would definitely recommend you pick this one up if you like Star Wars. I'd also suggest checking out some of the mods that are out as well. There are some that can enhance the game a decent bit. Overall, it's a great game."
+        },
+        {
+            "review_id": "226562756",
+            "steam_id": "76561198008676066",
+            "playtime_minutes": 3313,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "A very good game but I never beat it due to a crash right before the final boss. I troubleshot for hours and tried to use cheats but the crash persisted. Truly one of the most 2000s unstable RPGs I have played."
+        },
+        {
+            "review_id": "225709315",
+            "steam_id": "76561198146671967",
+            "playtime_minutes": 3512,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "I have yet to beat the game but so far its been pretty fun. Its been helping me forget about the world right now so if you need a game like that here you go. Just what I was looking for lol.\n\nEdit - I finally beat the game and it was prettty daang good."
+        },
+        {
+            "review_id": "225700893",
+            "steam_id": "76561198091676768",
+            "playtime_minutes": 4559,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "For a very long time, I've been a KOTOR II supremacist. I still am, but it's always a joy to return to a childhood gem and still appreciate it. When I was eight years old, I played this game over and over and over again; it wasn't just my first RPG, but my first Star Wars game. Nothing can ever truly capture that magic of discovery again, but Knights of the Old Republic's writing is still best in class, for what it's trying to capture. It takes Star Wars and sets it in an entirely different time period, reverential of the source material while still bringing plenty of new to the table. It has one of my favorite love stories in a video game, and many of the companions are absolutely fantastic. \r\n\r\nEven after more than twenty years, it still deserves its reputation."
+        },
+        {
+            "review_id": "225161699",
+            "steam_id": "76561198090256480",
+            "playtime_minutes": 637,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "I have fond memories of this game and was really looking forward to playing it again, yet the version on here is so buggy and bad I feel I over paid for this and I only paid 2.50 for it. This game really needs to be fixed."
+        },
+        {
+            "review_id": "225812943",
+            "steam_id": "76561198092149656",
+            "playtime_minutes": 252,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5185185670852661,
+            "steam_purchase": true,
+            "review_text": "One of the best star wars stories and rpg ever made. The most iconic of biowares masterpieces, before the dark times...."
+        },
+        {
+            "review_id": "225687856",
+            "steam_id": "76561199107897586",
+            "playtime_minutes": 5361,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5185185670852661,
+            "steam_purchase": true,
+            "review_text": "A game that is the definition of 10/10 storytelling. This is by far the best RPG I've played. It is a timeless classic, which doesn't feel or even look like it is from 2003! The characters are well-written and charming, voice acting is extremely good, the story is insanely good, I loved the turn-based d20 combat personally and this is my first turn-based combat game. It does require some mods to help with the resolution for modern systems which isn't the game's problem but the technological gap between two eras, all that effort is well worth the amazing experience this game gives in return! And the graphics are still really good! This is a MUST play for everyone!"
+        },
+        {
+            "review_id": "227439664",
+            "steam_id": "76561199122165686",
+            "playtime_minutes": 7354,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "9/10 controls are kind of broken but still playable and a fun experience just ahve to save and load game alot."
+        },
+        {
+            "review_id": "227368783",
+            "steam_id": "76561198062507585",
+            "playtime_minutes": 3606,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is a great game despite it's age. I missed it when I was a kid, but it was still very interesting to play in 2026. \r\nOn the other hand this was the most buggy game I've ever finished. That is both testament to how it aged and to the fact that I was interested in it enough to endure. I've played on Linux with Community Patch + wide screen fix. Both Community Patch and widescreen fix were giving me a lot of troubles, so I don't recommend using them, and maybe your mileage will be better. Other than that follow steps to set up screen size, windowed mode from protonDB. Sometimes nothing worked for me and I had to disable(remove from movies folder) movies to continue past some cutscenes."
+        },
+        {
+            "review_id": "227366865",
+            "steam_id": "76561199188094060",
+            "playtime_minutes": 2010,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I bought this on May 4th and forgot about it, remembering hearing about it a lot while on a Dragon Age bender years ago. I had unsure expectations, but what a breath of fresh air! I deeply enjoy old Bioware's character driven narratives. Yes, there is a big bad and the plot twists are thinly veiled, but it was such a pleasant experience. If you need a game to relax to and enjoy deeply fun stories, this is an excellent choice that has held us exceptionally well (if you play Bethesda games or Tarkov then this game shouldn't bother you)."
+        },
+        {
+            "review_id": "227117705",
+            "steam_id": "76561198077582166",
+            "playtime_minutes": 1136,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Kotor is possibly the most iconic Star Wars game ever made. The combat is rather simple and character building for combat is not very demanding but the gameplay is just a conduit for you to digest the real stars of the show: The story and the characters. \n\nThe story of Kotor also seems quite simple at first as the game proposes you a basic situation: The sith empire, headed by Darth Malek, is attacking and crushing the Republic. You and a rag tag group of soldiers, mercenaries, droids, and jedi come together to find the secret behind the sith's military power in an attempt to turn the tides of war. As the game progresses the story will reveal itself to be more complex and engaging than first perceived. \n\nThe side-cast is the best part of the game for me. Carth Onasi is one of my favorite video game characters ever and the rest of your cohort is almost equally as entertaining. The game will stop you sometimes and make you listen to conversations your party is having as you explore a planet and these bits of dialogue are some of the best pieces of writing the game has to offer. Each character's dedicated side quest is fun and helps you care about each party member. \n\nGreat game. Super iconic. Will be worth the 10 dollars until the end of time."
+        },
+        {
+            "review_id": "227107196",
+            "steam_id": "76561198140996723",
+            "playtime_minutes": 1973,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the best RPGs of all time, I wholly recommend playing both this and its sequel.\n\nThis port sucks ♥♥♥♥ though, don't play it. Buggy as hell, and the amount of dodgy software and bugfixing mods you have to install just to play this game in HD resolutions, much less not have it crash constantly is infuriating. This game also hates you if you have an AMD card, so unless you want to rollback your drivers just to play a 23 year old Star Wars game, I don't recommend it for you.\n\nGet any other version; the ♥♥♥♥♥♥♥♥ mobile port is less problematic. Hell, if you MUST play the PC version, go buy it at GOG. At least their version's exe doesn't have DRM that makes modding it even more of a hassle."
+        },
+        {
+            "review_id": "227069990",
+            "steam_id": "76561198057269702",
+            "playtime_minutes": 1502,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its really old and annoying to run but its ♥♥♥♥♥♥♥ peak"
+        },
+        {
+            "review_id": "226965602",
+            "steam_id": "76561198065862961",
+            "playtime_minutes": 866,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "An oldie but a goodie.\n\nUnfortunately the lack of support for gamepad makes it extremely difficult to get past the space battle scenes. It will forever just remain a fond memory. \n\nSadly, I have to give it a thumbs down on modern hardware.\n\n(Yes I tried all the Steam input configuration overrides for gamepads.)"
+        },
+        {
+            "review_id": "226947903",
+            "steam_id": "76561198452538784",
+            "playtime_minutes": 1814,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "My beloved. It requires a LOT of modding in the big 26, but it’s worth playing if you love either star wars, sci-fi epics or RPGs. This is a staple, and basically a must play. It’s story is very good, morality system is better than a lot of modern games."
+        },
+        {
+            "review_id": "226919657",
+            "steam_id": "76561198285008427",
+            "playtime_minutes": 3229,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Just finished my first playthrough ever of this game. Holds up 21 years later! Wanted to absolutely punch my screen during the star forge and Malak\n\n10/10 would highly recommend!"
+        },
+        {
+            "review_id": "226916803",
+            "steam_id": "76561199233734544",
+            "playtime_minutes": 1821,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "always trust in star wars in never changing tatooine even if it's 4,000 years in the past"
+        },
+        {
+            "review_id": "226892919",
+            "steam_id": "76561198103487130",
+            "playtime_minutes": 3688,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Famously the greatest Star Wars game of all time---and, indeed, perhaps the most memorable of the great BioWare RPGs of this era. Runs well on Linux through gamescope and with a 60 FPS limiter."
+        },
+        {
+            "review_id": "226842225",
+            "steam_id": "76561198332393802",
+            "playtime_minutes": 2462,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A classic game that captures the world of Star Wars perfectly, set in a time long before the movies it tells a story that is still beloved.\n\nThe combat has not aged the best and the PC version is not what I would call stable by any means, but the story and characters are worth the journey.\n\nWith the remake seemingly cancelled this is still the best way to experience the story with a mouse and keyboard."
+        },
+        {
+            "review_id": "226790637",
+            "steam_id": "76561199257182378",
+            "playtime_minutes": 1902,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the best pieces of Star Wars \"Legends\" media. An all time classic that should be played by every Star Wars fan. Can't recommend it enough."
+        },
+        {
+            "review_id": "226789057",
+            "steam_id": "76561198338424187",
+            "playtime_minutes": 4614,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Quite possibly one of if not the single best Star Wars game ever made, although the graphics do be hella dated, you can't really gripe about that considering the game came out in 2003 and is still fun in 2026. Only annoying thing is that after combat on computer, the game often doesn't allow your character to move, but its easily fixable with a quick save and quick load. 10/10 for sure."
+        },
+        {
+            "review_id": "226736056",
+            "steam_id": "76561198071228838",
+            "playtime_minutes": 346,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game rocks, so much creativity and fun, engaging combat and story and it just looks so good for its time. this was back when big games could be super ambitious"
+        },
+        {
+            "review_id": "226701439",
+            "steam_id": "76561198122516808",
+            "playtime_minutes": 12731,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of my favorite games of all time.  Originally had this on xbox and really enjoy the faster load times and access to Yavin space station on this version .  Combines 2 of my biggest fandoms: Star wars and D&D"
+        },
+        {
+            "review_id": "226654907",
+            "steam_id": "76561199170465173",
+            "playtime_minutes": 3603,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A purchase based on nostalgia. Then I hit a wall of unplayability. Literally couldn't move forward in game.\r\nMaybe it's my computer, but not too likely."
+        },
+        {
+            "review_id": "226647431",
+            "steam_id": "76561198399848572",
+            "playtime_minutes": 1274,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its a fantastic rpg that lets you become a jedi or sith. different builds for all"
+        },
+        {
+            "review_id": "226592724",
+            "steam_id": "76561197993240457",
+            "playtime_minutes": 2583,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "An incredible game from a bygone era. It's a pain in the ass to get running well on modern hardware, and it crashes far too often--something it did not do back when I first played it over twenty years ago. You can hack in widescreen and use some mods to make the experience better, but if you are unwilling: expect 4:3 aspect ratios and play in windowed mode to get around most crashes. The game is still as incredible today as it has ever been and I cannot recommend it enough. Well worth the troubleshooting, it's just a shame that time has not been kind to the technology that the game runs on."
+        },
+        {
+            "review_id": "226580273",
+            "steam_id": "76561199754484004",
+            "playtime_minutes": 829,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Definitely shows its age, but despite that it is an fun and very engaging adventure. I recommend modding it a bit to get better visuals, but by no means need to to enjoy it. Stick with it for the while in the beginning and I it'll hook ya."
+        },
+        {
+            "review_id": "226549518",
+            "steam_id": "76561198353303241",
+            "playtime_minutes": 2121,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game is a buggy mess but if you turn off grass and save often, it has an amazing story and fun gameplay"
+        },
+        {
+            "review_id": "226548347",
+            "steam_id": "76561198052925888",
+            "playtime_minutes": 1041,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's a great game. The only downside is the need for mods if you want it to run well on modern systems."
+        },
+        {
+            "review_id": "226509680",
+            "steam_id": "76561198038863672",
+            "playtime_minutes": 1816,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Phenomenal game, tried updating the .ini settings for better resolution but it keeps reverting. It only takes a few minutes to get used to the non-optimized resolutions the gameplay on pc is incredible. I played this game quite a bit as a child and never got to beat it and struggled hard with quite a few parts. It's amazing going back and being able to complete it and actually know what I'm doing. \r\n\r\nLove the dnd style combat, the dialogue options, being able to travel between planets at will, the gear and talent customization. This game was so far ahead of it's time, modern games don't even come close."
+        },
+        {
+            "review_id": "226424719",
+            "steam_id": "76561198738327286",
+            "playtime_minutes": 876,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I was struggling with my graphics and bugs (my sky looked like the fabric of reality was ripping, found out I had to turn off grass textures, crazy ik) but overall if you can mostly look past those, and fix most of them, this is an amazing game, I love the story, I'm currently on Manaan, and I love how everything is voice acted, and the combat. Overall would recommend this to a friend"
+        },
+        {
+            "review_id": "226422320",
+            "steam_id": "76561198095744229",
+            "playtime_minutes": 2956,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Put a lot of hours in, right at at the end had a game breaking crash. Wish theyd let a remake or something come back so this game is playable. Tried going to the discord for the game but admins were rude"
+        },
+        {
+            "review_id": "226341781",
+            "steam_id": "76561197992728516",
+            "playtime_minutes": 2027,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is giving me the same feelings as the first time that I played ´Mass Effect´ and 'Dragon Age (Origins)'. It is pure 'Bioware' essence, before it was \"corrupted\" by the Dark Side (EA).\n\nI would highly recommend it to anyone who enjoyed the above-mentioned games."
+        },
+        {
+            "review_id": "226335881",
+            "steam_id": "76561198735957658",
+            "playtime_minutes": 1805,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I just completed the light side ending for this game, genuinely absolute cinema. The story is one of the best in all of Star Wars period. Every companion is very interesting and filled with fun dialogue. The gameplay, even though it's quite different than usual Star Wars games, is extremely fun and engaging with many different abilities and force powers you can use. There are like 8 explorable places that are all designed perfectly, with many engaging side quests. I'm also not usually a big RPG fan, but this game does every element of it flawlessly. \r\n\r\nI only have a few complaints. One of them is that the game can be pretty glitchy and can crash a lot with certain settings turned on. I think what I did is turn off the grass physics or something. Also there's a glitch where you freeze after combat, but that can be fixed in the settings too. Also there are a few really obnoxious combat encounters but I just turned the difficulty to easy and that usually worked. The last thing is that the autosaving is horrible and if you die you could get sent back like an hour. To counteract that just make sure to save the game a lot consistently and before any difficult combat encounters. Also I wish you could get Revan's mask but there's a mod for that.\r\n\r\nOverall this game is a straight 10/10 and if you like Star Wars you're bound to enjoy this essential experience. Get this game. Do it."
+        },
+        {
+            "review_id": "226306464",
+            "steam_id": "76561199014823504",
+            "playtime_minutes": 2087,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game is old but gold. Its still very fun to play even for beginners in such games"
+        },
+        {
+            "review_id": "226299757",
+            "steam_id": "76561198027217586",
+            "playtime_minutes": 1546,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "classic, a lot of fun ,lots of choices"
+        },
+        {
+            "review_id": "226298684",
+            "steam_id": "76561198031892316",
+            "playtime_minutes": 2480,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Approx. 40h to complete. Still stands as great game after so many years\n\nHighly recommended to everyone who wants to live the actual story"
+        },
+        {
+            "review_id": "226285501",
+            "steam_id": "76561199652892859",
+            "playtime_minutes": 2919,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I just liked it for being a Star wars Game and the controls are easy to understand"
+        },
+        {
+            "review_id": "226223446",
+            "steam_id": "76561198100644919",
+            "playtime_minutes": 5895,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "What more can I say that hasn’t already been said about this game? I’m just disappointed in myself for sleeping on it for over 20 years, hahaha. Now I finally understand the nostalgia for old BioWare."
+        },
+        {
+            "review_id": "226200277",
+            "steam_id": "76561198741395555",
+            "playtime_minutes": 3239,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Superb game even after two decades. This is what I would call a classic."
+        },
+        {
+            "review_id": "226166899",
+            "steam_id": "76561198024005040",
+            "playtime_minutes": 4676,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "EXTREMELY good game. It rises above all its limitations. If you can handle turn based combat, this game is for you."
+        },
+        {
+            "review_id": "226123026",
+            "steam_id": "76561198101282059",
+            "playtime_minutes": 5554,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The greatest RPG(s) of all time. KOTOR II is my personal favorite of the two, but KOTOR 1 introduces a great universe setup to make the second game all that more special. The combat is definitely \"dated\" but the story-telling and decision making carries it. Along with fully voice acted NPCs this game is a masterpiece of gaming. I think every Star Wars fan and RPG fan should play this game through to the end at least once to experience what true passion looks like."
+        },
+        {
+            "review_id": "226114856",
+            "steam_id": "76561198255308112",
+            "playtime_minutes": 16,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is a total ♥♥♥♥♥ to get working at modern res. Use a editable .exe file and the unofficial patch, then uniws to get it running right. Once you do its one of the greats\r\n\r\n(Steam did not record my 30hr of play time)"
+        },
+        {
+            "review_id": "226104378",
+            "steam_id": "76561198849976155",
+            "playtime_minutes": 280,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is amazing, I loved playing it. However, I can't reccomend it on steam because in the prologue of the game it crashes during an early main quest when you speak to the character Canterous and watch the cutscene that follows. The majority of the game is locked away for me and I am unable to play it in the state it is in."
+        },
+        {
+            "review_id": "226103185",
+            "steam_id": "76561198066256624",
+            "playtime_minutes": 2803,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "it's a great game for weak systems, it is now considered (at this moment) Legends. great game if  cannoninity doesn't bother you."
+        },
+        {
+            "review_id": "226027570",
+            "steam_id": "76561198405145968",
+            "playtime_minutes": 1115,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Tips for playing this game that doesn't have you in a rabbit hole of guides and YouTube videos\n\nUntick (frame buffer effects), (soft shadows), (shadows), (grass) in the graphics menu, tick (v-sync). Turning off the starting movies also helps if you know how to do that. These tweaks worked for me, however fixes and bugs can vary system to system based off of what I've seen. \n\nI'd also highly recommend using it with superheater. Hope this helps somebody. Spending more time trying to fix bugs than on telos can be frustrating.\n\nAlso please add achievements like kotor II has"
+        },
+        {
+            "review_id": "226016119",
+            "steam_id": "76561197994805912",
+            "playtime_minutes": 2399,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Probably one of the greatest classics in CRPG history and well recommended. Just keep in mind it's an early 00's game before widescreen. There are mods you can use, but a 4:3 aspect and PS2 era graphics and NPC complexity are to be expected. Very playable on the Steam Deck as well, though the games sometimes crashes when transitioning to cut scenes."
+        },
+        {
+            "review_id": "225992816",
+            "steam_id": "76561198332924973",
+            "playtime_minutes": 2068,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I played this game for the first time and I gotta say, once you download a couple mods and mess around with your settings to get it into a playable state this might be one of the best RPG's I have ever played The sheer amount of freedom you get while playing is insane for a game made in 2003."
+        },
+        {
+            "review_id": "225879407",
+            "steam_id": "76561198194954221",
+            "playtime_minutes": 1683,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A classic of the rpg genre, with solid gameplay mechanics, that are based on D&D 3.5e, an enjoyable combat loop thanks to the decent amount of abilities, and clear potential of replayability through its light and dark side alignment system (so far only played as a light side character). \n\nHowever, what this game is mostly known for is its story, and it is clear why. It has an intriguing central plot that takes you to a decent amount of varied planets from the SW universe (though as always, Kashyyyk and Tatooine are among them), it also expands on the lore around the ancient days of the galaxy, and that to me is it's best part. Though, I would like to remark to anyone like me, who only first played this game 23 years after its initial launch (game is almost as old as me), that you have probably been spoiled of a few plot points, and some might feel they have seen some of the story beats before, especially when it comes to some characters (Bastila to me being the most noticeable). Still, I found it a very strong and engaging narrative.\n\nLastly, I have to highlight the horrible technical state of this PC port. You will have to fiddle with a lot of settings to get this game running in any stable manner, so, for the love of your sanity, save often and DO NOT ALT-TAB (game will probably crash if you do)."
+        },
+        {
+            "review_id": "225836783",
+            "steam_id": "76561199029718224",
+            "playtime_minutes": 312,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great classic game. A little clunky (even as far as games from 2003 go), but still worth a play through for the lore, story and worldbuilding (which is some of the best I've seen in a game in a long time). Couldn't wait for the remake, but it's stuck in development hell, so I guess we'll never see it but I hope I eat my own words there."
+        },
+        {
+            "review_id": "225805597",
+            "steam_id": "76561198104179656",
+            "playtime_minutes": 1240,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Rough to get into at first, especially if you didn't live through video games back in the day. So far, just a solid game with interesting characters and story."
+        },
+        {
+            "review_id": "225764296",
+            "steam_id": "76561199131715847",
+            "playtime_minutes": 112,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I played this game thoroughly on original Xbox back when it was new. Loved this game. I am disappointed that the PC version can't emulate the controller use like on original Xbox. It's wildly difficult to play with a controller, even the 2026 steam controller. If they made an update to bring controller compatibility, it'd be back on top"
+        },
+        {
+            "review_id": "225757839",
+            "steam_id": "76561198249516164",
+            "playtime_minutes": 515,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Game is dated but damn the dialogue and story keeps you engaged, check out the uspcale mods for this game btw, bit of work but worth it for the upgraded experience"
+        },
+        {
+            "review_id": "225682425",
+            "steam_id": "76561197961702409",
+            "playtime_minutes": 450,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Important thing to know if you are playing this game without patches and on Windows 10 like I am. Close the grass graphics. During the Dantoonie it caused my game to crash very frequently."
+        },
+        {
+            "review_id": "225585056",
+            "steam_id": "76561198176578967",
+            "playtime_minutes": 603,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A master class in Star Wars RPG creation rivaled and surpassed only by its sequel. They don't make them like this anymore."
+        },
+        {
+            "review_id": "225474531",
+            "steam_id": "76561198072360377",
+            "playtime_minutes": 1116,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Old mechanics, but great game nonetheless"
+        },
+        {
+            "review_id": "225460199",
+            "steam_id": "76561198117135789",
+            "playtime_minutes": 4373,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I wanna thank everyone who liked my Last of Us 2 Review. By far my most liked review and really the only eyes I've ever gotten on one of these reviews. I should follow it up by reviewing something topical and new. Perhaps a controversial Slay the Spire 2 review. I don't know what I was thinking playing a 23 year old game to follow up such a masterpiece review, but here we are, having just finished Knights of the Old Republic. KOTOR is a classic Bioware RPG through and through and with that comes a laundry list of complaints and annoyances which we will surely get into. But underneath its aged design, lays a foundation that is superb.\r\n[h2]Quality of Life[/h2]\r\nIt feels weird to complain about quality of life in a game that was released over 20 years ago, so I will proceed with grace. Most of these are nitpicks but they do make the game unbearable at times. For one, the game lacks an effective autosave. Something that can be quickly remedied by pressing F4 every few minutes, but my wandering mind forgets every once in a while, leading to upwards of 20 min of my progress being erased. I hate backtracking, it's one of the reasons I fear getting into Elden Ring. But where in that game it's part of the charm, here it's frustrating. Another gripe was NPC movement AI. On dozens of occasions, my companions would stop moving, leaving me to have to trek back to get them to follow me again. Why they wouldn't just teleport with you to the next part of the map is beyond me, perhaps that technology was not ready yet in 2003. My last major nitpick was the use of Jedi powers. Being the class that utilizes force powers over lightsaber combat, I always found it frustrating that you couldn't put a force power first in the pause menu. I would try to stack Force Valor and Force Speed, but would have to do an attack first in order to automate it. These powers could be used in real time, but planning around force powers while paused was difficult. Again, complaining about quality of life in a game from when I was a toddler is low hanging fruit, but still worth mentioning.\r\n[h2]Story[/h2]\r\nWhere this game lacks in modern polish, it makes up for in a pretty amazing, albeit standard heroic story. Luckily I was not spoiled, so the big reveal near the end of the game caught me genuinely off guard. You play as a nobody soldier, who just crash landed from a ship that was overrun by Sith. The first planet, Taris is a strong and memorable introductory planet for the player to explore. It is the largest and longest planet, where you meet most of the side companions, including Carth, Mission, and Canderous. As you progress through the planet, you search for Bastila, the Jedi who crash landed with you on Taris. Eventually you find her, and the two of you have a shared vision about a map that could lead to a powerful forge deep in the unknown galaxy. Thus starts the main journey of the game, piecing together the map by visiting planets throughout the galaxy to stop Darth Malak from harnessing the power of the Star Forge. On your journey you visit classic worlds like Tatooine and Kashyyyk, along with lesser known planets like Manaan and Korriban. Korriban contains the game's best side content as you infiltrate a Sith Academy. Other standout quests include the people quest line on Tatooine and of course the finale, which ramps the difficulty up immensely.\r\n[spoiler]Near the end of the game, you are captured by Malak and it is revealed that you were once the feared Sith Lord and his master, Darth Revan. It certainly caught me off guard, although the signs for some Sith involvement are definitely sprinkled throughout. This reveal really makes you question your allegiance to the Jedi as they essentially brainwash you into doing their bidding. This game really does a great job at showing the pull that the dark side has, with characters such as yourself and Bastila falling to its influence. In fact, if the game wasn't so strictly good and evil in its decision making, I might have drifted away from the Jedi. I've never been a fan of their whole code, I think it's the sole reason that everyone has fallen to the dark side. Ultimately, if you decide, you can overcome the Sith and save the galaxy, but you can also join Malak and submit to the dark side.[/spoiler]\r\n[h2]Companions[/h2]\r\nI found the companions in this game to be pretty good, but not nearly as exciting as those in Mass Effect. By Mass Effect 3, I was bonded to those on the ship and while I maybe started to get that feeling here, with only one game it's hard to grow a connection. For me, the standouts are Canderous, Jolee, Bastila, and Carth. Canderous and Jolee are both humorous older characters with wisdom to impart on the player. They speak of old battles, lovers, and philosophy which was always fun to listen to. Canderous in particular goes through his own mini arc in this game, which was pretty heartwarming. Bastila and Carth are essentially the 1A and 1B companions. They sit with you in the cockpit and are central to the story. Carth is tough to crack and his trust is earned, but by the end of the game he'll do anything for you. Bastila is the game's only real love interest, and teasing her throughout the game is fun. Her own internal battle with the Sith gives her her own plot and motives throughout. The rest of the companions, except for maybe Mission, were weak. Still 5 solid companions is nothing to scoff at.\r\n[h2]Gameplay[/h2]\r\nClassic Bioware games are a super weird juxtaposition. On one hand, you're slogging through worlds that while interesting in their lore and imagination are fundamentally very boring to play. Reused assets and character models are everywhere. Maps are barren, small, and lack detail. Exploration is slow and a fixed camera angle keeps engagement at a minimum. There isn't much to find, only people to talk to and no real environmental storytelling. The turn based/real time hybrid gameplay is fine, but as a modern gamer, either give me Mass Effect 2/3 gameplay or the refined gameplay of Baldur's Gate III. And to be completely honest, most of the side quests are just ok. Near the end I lost interest in most of them in favor of the main questline. Still despite everything, it has almost a hypnotic charm. You put up with so much in a classic Bioware because there's a flow to them. Talking to companions, walking through barren wastelands to complete a high stakes mission to save the galaxy. It's janky, but it works and I'm about to put up with it all over again in KOTOR II. For that it gets my respect.\r\n[b]7.5/10[/b]"
+        },
+        {
+            "review_id": "225417403",
+            "steam_id": "76561199111819619",
+            "playtime_minutes": 476,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun and enjoyable older game, would definitely recommend. Has a fun story and cool characters."
+        },
+        {
+            "review_id": "225392034",
+            "steam_id": "76561198882063243",
+            "playtime_minutes": 389,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Star Wars Knights of the Old Republic runs poorly on modern PCs but hay you can play it if you want because it is a fun game after all but do I recommend Star Wars Knight of the Old Republic no I do not at least without mods that can fix the game"
+        },
+        {
+            "review_id": "225373315",
+            "steam_id": "76561197989132341",
+            "playtime_minutes": 805,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Kotor is probably the best piece of Star Wars media. Including all the films. Biowares best game, one of the best RPGs ever let alone of its time. Despite hating what this franchise turned into since Disney bought it I can't ever really hate it because I think about how good this game is."
+        },
+        {
+            "review_id": "225287009",
+            "steam_id": "76561198004669641",
+            "playtime_minutes": 2272,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great story! Gameplay was amazing for it's time, and holds up pretty well to this day. Character creation and some of the gameplay rules are very similar to 3E Dungeons and Dragons, (or the Star Wars RPG based on 3E)"
+        },
+        {
+            "review_id": "225246595",
+            "steam_id": "76561198271800587",
+            "playtime_minutes": 3261,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "An incredible star wars game and rpg. two decades old and yet still more engaging than most modern videogames.  It isn't optimised for modern pcs sadly, and requires a number of fixes to even get a good resolution but the gameplay experience is still great.  It's a shame this didn't get the improved resolution, achievements and modern support kotor 2 got for PC. \r\n\r\nI'd recommend this to any star wars fan easily. and if someone who likes RPGs is willing to try an old game then I'd say go for it. a classic easily.  8/10"
+        },
+        {
+            "review_id": "225148473",
+            "steam_id": "76561198360077441",
+            "playtime_minutes": 795,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Back in the day, the greatest Star Wars RPG ever. Such an incredible plot, character development, and customization. Still have my strategy guide. Going to play through for the 5th or 6th time. Jedi or Sith, how will it play out?"
+        },
+        {
+            "review_id": "225098666",
+            "steam_id": "76561198218829928",
+            "playtime_minutes": 917,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game was designed for controllers,(was released on the OG XBOX), which tells me this is a port from the phone app on Google play, and explains why the main character not being able to move more than half the time. Lazy/Greedy IP hoarding. Begs the question why don't people kill eugenics supporters like Bill Gates? That guy sucks."
+        },
+        {
+            "review_id": "226428157",
+            "steam_id": "76561198263854618",
+            "playtime_minutes": 18,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "the screen is weird on modern screens. its quite depressing.  i just returned it because the steam time limit."
+        },
+        {
+            "review_id": "225847733",
+            "steam_id": "76561198025530496",
+            "playtime_minutes": 516,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.4729729890823364,
+            "steam_purchase": true,
+            "review_text": "Do not purchase this version. This version has a locked down exe and has known bugs.\r\nAfter 5 hours of play I encountered a bug which crashed the game. I had three other saves with varying levels of progress. Playing through these saves back to the same point yielded the same result. Hours of modding and tweaking later and I gave up.\r\nI purchased the GOG version, copied my save file over to that version and just like that it worked without crashing.\r\n\r\nThe steam version is broken and they wont refund, what a waste of money.\r\nThe game is really good, just a shame Steam swindled me like this. I expect better!"
+        },
+        {
+            "review_id": "226943627",
+            "steam_id": "76561198382562075",
+            "playtime_minutes": 3649,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It was amazing when it came out, it's amazing now and it'll be amazing in 20 Years!!\n\nTrue love for Revan, Bastila, Carth, T3-M4, Mission, Zaalbar, Canderous, Juhani, HK-47 and best of all Jolee (Jolee, Jolee Joleeeee) thanks for being so stuborn Old Man"
+        },
+        {
+            "review_id": "226465231",
+            "steam_id": "76561198833395196",
+            "playtime_minutes": 3037,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game if you havent played this its an og truly some of the best star wars before it was ruined by disney"
+        },
+        {
+            "review_id": "226102965",
+            "steam_id": "76561198048852240",
+            "playtime_minutes": 2540,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i remember playing this when it first came out and falling in love instantly. it's still one of my favorite games of all time. it's not exactly in great shape after all these years and advancements in technology, but the story is so good it's worth messing around with mods to make it more visually tolerable."
+        },
+        {
+            "review_id": "225979058",
+            "steam_id": "76561198045375089",
+            "playtime_minutes": 3405,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game for star wars fans! Might take some tinkering to get working on Windows 11 and such."
+        },
+        {
+            "review_id": "225741006",
+            "steam_id": "76561198007267728",
+            "playtime_minutes": 2777,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "3/4\r\n\r\n(4) Truly superb.\r\n(3) Very enjoyable.\r\n(2) Mixed experience, but has redeeming qualities.\r\n(1) Greatly disliked and/or flawed."
+        },
+        {
+            "review_id": "225682825",
+            "steam_id": "76561198160423107",
+            "playtime_minutes": 257,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5199999809265137,
+            "steam_purchase": true,
+            "review_text": "Either play from other platforms or straight up play cracked cause steam version just doesnt work wheter you try to fix via mods patch etc or manually. This version is ♥♥♥♥♥♥ beyond repair."
+        },
+        {
+            "review_id": "227092751",
+            "steam_id": "76561199184589303",
+            "playtime_minutes": 1859,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "cheif's french kiss rpg, i dont like turn based games but that one made me simp on them now. plus holy story and plot twist"
+        },
+        {
+            "review_id": "226831956",
+            "steam_id": "76561199238961055",
+            "playtime_minutes": 1576,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Excellent Bioware RPG if you can handle a LOT of clunk and bugs"
+        },
+        {
+            "review_id": "225959691",
+            "steam_id": "76561198353314674",
+            "playtime_minutes": 3450,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I had a squad mate who always justified every comedically evil choice I ever made brutally murdered the instant I got the chance"
+        },
+        {
+            "review_id": "225793122",
+            "steam_id": "76561199257142878",
+            "playtime_minutes": 5327,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Absolute classic one of if not the best star wars games"
+        },
+        {
+            "review_id": "227019118",
+            "steam_id": "76561198039155737",
+            "playtime_minutes": 1405,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4601989984512329,
+            "steam_purchase": true,
+            "review_text": "Enough to waver my investment the crashes and re-installations were not."
+        },
+        {
+            "review_id": "227061007",
+            "steam_id": "76561198245309266",
+            "playtime_minutes": 2033,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Does not run well and needs updated for up to date hardware."
+        },
+        {
+            "review_id": "227510225",
+            "steam_id": "76561198043576933",
+            "playtime_minutes": 2499,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "probably my favourite starwars game, imo the nest one along with kotor 2"
+        },
+        {
+            "review_id": "226888458",
+            "steam_id": "76561198742887959",
+            "playtime_minutes": 2185,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game! although I do like Kotor 2 better this one is still peak!"
+        },
+        {
+            "review_id": "225160456",
+            "steam_id": "76561199449222855",
+            "playtime_minutes": 394,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "greatest star war game of all time with a twist better than anakin being vader 10/10"
+        },
+        {
+            "review_id": "225955089",
+            "steam_id": "76561198024758516",
+            "playtime_minutes": 1822,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Yes but very janky, maybe mod it to be less like that\r\nokay!\r\n"
+        },
+        {
+            "review_id": "225440446",
+            "steam_id": "76561199553783384",
+            "playtime_minutes": 1103,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Anything I could ever say about this game has already been said. You NEED to play it."
+        },
+        {
+            "review_id": "225393363",
+            "steam_id": "76561198954032094",
+            "playtime_minutes": 4741,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "God's gift to Star Wars fans who hate Disney slop. Long live the Expanded Universe!"
+        },
+        {
+            "review_id": "225667963",
+            "steam_id": "76561199216940967",
+            "playtime_minutes": 38,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.497925341129303,
+            "steam_purchase": true,
+            "review_text": "I spent 30 minutes trying to play the game but it just doesn't work"
+        },
+        {
+            "review_id": "226813677",
+            "steam_id": "76561199510318502",
+            "playtime_minutes": 242,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "amazing masterpiece of a story when i weild the force i feel destined to do great things"
+        },
+        {
+            "review_id": "226942699",
+            "steam_id": "76561199739449351",
+            "playtime_minutes": 295,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5454545617103577,
+            "steam_purchase": true,
+            "review_text": "لعبتها لي اكثر من 3 ساعات ولعبة عظمة مرةةةةة"
+        },
+        {
+            "review_id": "226896076",
+            "steam_id": "76561199818110689",
+            "playtime_minutes": 3208,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Absolute Cinema. Shame on Disney for making this noncannon."
+        },
+        {
+            "review_id": "226009614",
+            "steam_id": "76561198988563587",
+            "playtime_minutes": 2045,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "10/10 if the party system and combat system was done properly"
+        },
+        {
+            "review_id": "227426378",
+            "steam_id": "76561198007385965",
+            "playtime_minutes": 1580,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's a classic, simple as."
+        },
+        {
+            "review_id": "226451348",
+            "steam_id": "76561198079191107",
+            "playtime_minutes": 4665,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It makes the nostalgia button go brrr."
+        },
+        {
+            "review_id": "226116459",
+            "steam_id": "76561198129255826",
+            "playtime_minutes": 1070,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "Everything you could want in an RPG, kotor has it."
+        },
+        {
+            "review_id": "225955362",
+            "steam_id": "76561198385190344",
+            "playtime_minutes": 329,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "There is no amount of mods that can fix this mess of a game"
+        },
+        {
+            "review_id": "226168272",
+            "steam_id": "76561198733174359",
+            "playtime_minutes": 3612,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Nice game. Good memories from my childhood."
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "ingested_at": "2026-06-08T19:50:42.469958",
+    "app_id": "349040",
+    "metadata": {
+        "type": "game",
+        "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+        "steam_appid": 349040,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "The latest opus in the acclaimed STORM series is taking you on a colourful and breathtaking ride. Take advantage of the totally revamped battle system and prepare to dive into the most epic fights you’ve ever seen !",
+        "detailed_description": "<h1>More Naruto Games</h1><p><br><br></p><br><h1>About the Game</h1><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/extras/e259c6629fcf8ace986b5ad4408895a7.poster.avif?t=1703080866\" width=616 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/extras/e259c6629fcf8ace986b5ad4408895a7.webm?t=1703080866\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/extras/e259c6629fcf8ace986b5ad4408895a7.mp4?t=1703080866\" type=\"video/mp4\"></video></span><br><br>The latest opus in the acclaimed STORM series is taking you on a colourful and breathtaking ride. Take advantage of the totally revamped battle system and prepare to dive into the most epic fights you’ve ever seen in the NARUTO SHIPPUDEN: Ultimate Ninja STORM series!<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/extras/3ddb80cf3be5065b8f18e09055036ed6.poster.avif?t=1703080866\" width=616 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/extras/3ddb80cf3be5065b8f18e09055036ed6.webm?t=1703080866\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/extras/3ddb80cf3be5065b8f18e09055036ed6.mp4?t=1703080866\" type=\"video/mp4\"></video></span><br><br>Prepare for the most awaited STORM game ever created!<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/extras/acad02a46d107e113d59944377cee8e9.poster.avif?t=1703080866\" width=616 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/extras/acad02a46d107e113d59944377cee8e9.webm?t=1703080866\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/extras/acad02a46d107e113d59944377cee8e9.mp4?t=1703080866\" type=\"video/mp4\"></video></span>",
+        "developers": [
+            "CyberConnect2 Co. Ltd."
+        ],
+        "publishers": [
+            "BANDAI NAMCO Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 25,
+                "description": "Steam Leaderboards"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 72088
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Feb 4, 2016"
+        }
+    }
+}

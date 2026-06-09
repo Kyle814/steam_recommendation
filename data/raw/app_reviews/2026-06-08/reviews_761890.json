@@ -1,0 +1,27 @@
+{
+    "ingested_at": "2026-06-08T18:57:31.543991",
+    "app_id": "761890",
+    "review_count": 2,
+    "reviews": [
+        {
+            "review_id": "226964851",
+            "steam_id": "76561198821019355",
+            "playtime_minutes": 2390,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.47337278723716736,
+            "steam_purchase": true,
+            "review_text": "You get the whole game for free. You can do everything in the game for free. No content is behind any kind of paywall. They have a real money market and subscription structure that allow you to progress a little faster for paying for the game, but if you just can't afford to pay for it and are relegated to what you can get for free, this is the least punishing mmo in the industry on folks who can't pay. Nevermind that, if you're good at what you're doing, you can use in-game currency to get that subscription, meaning there's never really any obligation or reason to pay for this game... except one:\r\n\r\nWhen you can afford to do it, spend actual money on this game because it's genuinely good, and they're letting you make a choice about paying them what they're worth. At least buy them a cup of coffee. They deserve it."
+        },
+        {
+            "review_id": "227339222",
+            "steam_id": "76561198042357245",
+            "playtime_minutes": 19201,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Outlived Warborne... We played during first release and again now. Still best pvp mmo out there."
+        }
+    ]
+}

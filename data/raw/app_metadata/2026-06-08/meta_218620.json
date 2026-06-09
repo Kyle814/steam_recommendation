@@ -1,0 +1,135 @@
+{
+    "ingested_at": "2026-06-08T19:32:58.263658",
+    "app_id": "218620",
+    "metadata": {
+        "type": "game",
+        "name": "PAYDAY 2",
+        "steam_appid": 218620,
+        "required_age": "18",
+        "is_free": false,
+        "short_description": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
+        "detailed_description": "<h1>Infamous Collection</h1><p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/extras/589f5df1410c42284d8294de823edd2d.avif?t=1779319712\" width=706 height=232 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><strong>The Infamous Collection contains a mountain of content - all available DLC for PAYDAY 2!</strong></p><p class=\"bb_paragraph\" >There are two ways to instantly grab all PAYDAY 2 content:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >The Infamous Collection: - purchase everything directly</p></li><li><p class=\"bb_paragraph\" >The PAYDAY 2 Subscription - available at the top of this page - unlocks all available DLC for a low monthly cost</p></li></ul><p class=\"bb_paragraph\" ></p></p><br><h1>About the Game</h1>PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree. <br><br>The CRIMENET network offers a huge range of dynamic contracts, and players are free to choose anything from small-time convenience store hits or kidnappings, to big league cyber-crime or emptying out major bank vaults for that epic PAYDAY. While in DC, why not participate in the local community, and run a few political errands?<br><br>Up to four friends co-operate on the hits, and as the crew progresses the jobs become bigger, better and more rewarding. Along with earning more money and becoming a legendary criminal comes a character customization and crafting system that lets crews build and customize their own guns and gear.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Rob Banks, Get Paid – Players must choose their crew carefully, because when the job goes down they will need the right mix of skills on their side.<br></li><li>CRIMENET – The dynamic contract database lets gamers pick and choose from available jobs by connecting with local contacts such as Vlad the Ukrainian, shady politician &quot;The Elephant&quot;, and South American drug trafficker Hector, all with their own agenda and best interests in mind.<br></li><li>PAYDAY Gunplay and Mechanics on a New Level – Firing weapons and zip tying civilians never felt so good.<br></li><li>Dynamic Scenarios – No heist ever plays out the same way twice. Every single scenario has random geometry or even rare events.<br></li><li>Choose Your Skills – As players progress they can invest in any of five special Skill Trees: Mastermind, Enforcer, Ghost, Technician and Fugitive. Each features a deep customization tree of associated skills and equipment to master, and they can be mixed and matched to create the ultimate heister.<br></li><li>More Masks than Ever – PAYDAY 2 features a completely new mask system, giving players the ability to craft their own unique mask with a pattern and color of their choice, resulting in millions of different combinations.  <br></li><li>Weapons and Modifications – A brand new arsenal for the serious heister, covering everything from sniper and assault rifles to compact PDWs and SMGs. Once you've settled for a favorite, you can modify it with optics, suppressors, fore grips, reticles, barrels, frames, stocks and more, all of which will affect the performance of your weapon. There are also purely aesthetic enhancements - why not go for the drug lord look with polished walnut grips for your nine?<br></li><li>Play It Your Way – Each job allows for multiple approaches, such as slow and stealthy ambushes or running in guns blazing. Hit the target any way you want, each approach will provide a different experience.<br></li><li>A Long History of Additional Content – More than 70 updates since release, including new heists, characters, weapons and other gameplay features like driving cars and forklifts.</li></ul>",
+        "developers": [
+            "OVERKILL - a Starbreeze Studio."
+        ],
+        "publishers": [
+            "Starbreeze Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 999,
+            "final": 999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$9.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 79,
+            "url": "https://www.metacritic.com/game/pc/payday-2?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 52,
+                "description": "Tracked Controller Support"
+            },
+            {
+                "id": 53,
+                "description": "VR Supported"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 443789
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Aug 13, 2013"
+        }
+    }
+}

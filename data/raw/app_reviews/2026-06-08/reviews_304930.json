@@ -1,0 +1,57 @@
+{
+    "ingested_at": "2026-06-08T18:55:56.813202",
+    "app_id": "304930",
+    "review_count": 5,
+    "reviews": [
+        {
+            "review_id": "224710850",
+            "steam_id": "76561198329618009",
+            "playtime_minutes": 2008,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game to play with friends and to have good times on"
+        },
+        {
+            "review_id": "224845837",
+            "steam_id": "76561198179778089",
+            "playtime_minutes": 4567,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good if you have some friends, still good on single player."
+        },
+        {
+            "review_id": "222625576",
+            "steam_id": "76561198815261259",
+            "playtime_minutes": 2098,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "recommend it with all of my heart\r\n"
+        },
+        {
+            "review_id": "221453001",
+            "steam_id": "76561198756111877",
+            "playtime_minutes": 198,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good game"
+        },
+        {
+            "review_id": "221026005",
+            "steam_id": "76561198994485853",
+            "playtime_minutes": 1924,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Skill issue"
+        }
+    ]
+}

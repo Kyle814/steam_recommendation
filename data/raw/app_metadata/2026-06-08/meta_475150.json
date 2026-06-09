@@ -1,0 +1,105 @@
+{
+    "ingested_at": "2026-06-08T19:01:25.384938",
+    "app_id": "475150",
+    "metadata": {
+        "type": "game",
+        "name": "Titan Quest Anniversary Edition",
+        "steam_appid": 475150,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience.",
+        "detailed_description": "For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience.<h2 class=\"bb_tag\" ><strong>Anniversary Edition update</strong></h2><ul class=\"bb_ul\"><li>Restored and improved multiplayer functionality, including new features like a built-in voice chat and NAT resolving for best multiplayer connectivity<br></li><li>Support for more resolutions, larger camera distance and scaleable UI size<br></li><li>Improved performance and general stability<br></li><li>Support for modders through new modding options and a fully integrated Steam Workshop<br></li><li>Complete balance rework with improvements to all Masteries, damage types, unique items and sets<br></li><li>Countless bug fixes and other improvements, including ten years’ worth of community fixes<br></li><li>Increased challenges and rewards for larger parties and on higher difficulty levels<br></li><li>Dozens of new heroes and bosses to encounter<br></li><li>Improved enemy and pet AI<br></li><li>Quality of life features like higher stack limits, quick item pickup, a larger stash and a speed setting<br></li><li>Reduced cheating with curbed exploits, removal of test items and mod comparison in multiplayer<br></li><li>Steam Friend Invites<br></li><li>Steam Achievements<br></li><li>Steam Trading Cards</li></ul><h2 class=\"bb_tag\" ><strong>Discover the Courage that Turns Heroes Into Legends</strong></h2>From Age of Empires co-creator Brian Sullivan and Braveheart writer Randall Wallace comes an innovative action role playing game set in ancient Greece, Egypt and Asia. The Titans have escaped their eternal prison, wreaking havoc upon the earth. The gods seek a hero who can turn the tide in an epic struggle that will determine the fate of both men and gods.<br><br><br>In this epic quest of good versus evil, players will encounter the greatest villains of Greek mythology, brave the attacks of Cerberus, and hazard the banks of the River Styx. Players will interpret the prophecies of the blind seer Tiresias, fight alongside Agamemnon and Achilles, and use the wiles of Odysseus to conquer this dark new adventure.<br><br><strong>Are you ready for the quest?</strong><h2 class=\"bb_tag\" ><strong>Key features</strong></h2><ul class=\"bb_ul\"><li>Explore the Ancient World - Unlock arcane mysteries and battle the beasts of mythology as you journey to the Parthenon, Great Pyramids, Hanging Gardens of Babylon, The Great Wall and other legendary locations<br></li><li>Atmospheric Graphics - Take a hero's journey through authentic Ancient World settings crafted in stunning, realistic, 3D detail<br></li><li>Conquer Monsters of Legend - Battle horrific monsters and mythical beasts in a story-driven campaign that will determine the fate of all existence<br></li><li>Highly Customizable Characters - Build and customize your characters with 28 classes and over 1000 pieces of unique and legendary items to create the ultimate champion<br></li><li>Online Multiplayer Gameplay - Challenge others to experience your map creations in fast-action, 2-6 player online cooperative gameplay<br></li><li>Create Your Own Worlds - Create your own maps with the easy-to-use World Editor for endless adventuring</li></ul>",
+        "developers": [
+            "Iron Lore Entertainment",
+            "THQ Nordic"
+        ],
+        "publishers": [
+            "THQ Nordic"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 25610
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Aug 31, 2016"
+        }
+    }
+}

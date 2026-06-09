@@ -1,0 +1,84 @@
+{
+    "ingested_at": "2026-06-08T18:43:33.921846",
+    "app_id": "719890",
+    "metadata": {
+        "type": "game",
+        "name": "Beasts of Bermuda",
+        "steam_appid": 719890,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Play as a dinosaur and become part of a player-created ecosystem! Beasts of Bermuda is a multiplayer game where players endure catastrophic storms and fearsome foes while growing to monstrous sizes. Do you have what it takes to survive in the Bermuda Triangle?",
+        "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/719890/extras/b9c6e7eabe0353f8434ff842da71f47f.avif?t=1768756968\" width=600 height=125 /></span></p><p class=\"bb_paragraph\" >Beasts of Bermuda is a multiplayer survival game in which the player is a dinosaur or other prehistoric creature. A player can take the role of flyers, swimmers, herbivores, carnivores, and semi-aquatic creatures that fulfill different niches in the ecosystem. No matter what the player chooses to be, the objective of the game is to survive and grow up on the islands of Bermuda by using their particular creature's abilities. Predation from other players as well as intense environmental events are the antagonistic forces in the game the player must survive against. </p><p class=\"bb_paragraph\" >There are currently three game modes in Beasts of Bermuda.   </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/719890/extras/a7fcbb7d587bbba13841e0fd75341d0b.avif?t=1768756968\" width=600 height=125 /></span></p><p class=\"bb_paragraph\" >In <strong>Free Roam</strong> game mode the player selects a creature of choice and spawns into the world as a juvenile of that species.  They must survive and gradually grow larger over time.  As growth accumulates, they also earn talents, which can be spent to enhance different aspects of your creature's capabilities. In this mode growth is slower but resource management is easier. </p><p class=\"bb_paragraph\" >In <strong>Life Cycle</strong> game mode the player selects a creature and spawns into the world as a juvenile of that species. You must survive and grow larger in a fast paced growth setting. As growth accumulates, you will earn talents to enhance different aspects of your creature's capabilities. After 1.32 growth you can choose to enter a stage called Gauntlet, where the difficulty of the game increases with growth in the form of food, water, and ailment management. In this mode growth is faster but resource management is harder. Compete on a monthly leaderboard to earn the top growth ranking for your species! </p><p class=\"bb_paragraph\" >In <strong>Combat</strong> game mode players are pitted against one another with mechanics that are designed to reward conflict. Servers can use Deathmatch Maps which are smaller with close together spawn locations. The player spawns in as an adult creature of their choice and can accrue more talent points by killing other players and stealing their points. The game mode is endless and uses points and kill/death ratios to show who reigns supreme on the server. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/719890/extras/7bafb115374467a8b70e11fae14d88b3.avif?t=1768756968\" width=600 height=125 /></span></p>",
+        "developers": [
+            "Sastrei Studios, LLC"
+        ],
+        "publishers": [
+            "Sastrei Studios, LLC"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "70",
+                "description": "Early Access"
+            }
+        ],
+        "recommendations": {
+            "total": 8336
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Dec 21, 2018"
+        }
+    }
+}

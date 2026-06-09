@@ -1,0 +1,88 @@
+{
+    "ingested_at": "2026-06-08T19:35:23.701611",
+    "app_id": "233450",
+    "metadata": {
+        "type": "game",
+        "name": "Prison Architect",
+        "steam_appid": 233450,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Only the world’s most ruthless Warden can contain the world’s most ruthless inmates. Design and develop your personalized penitentiary in Prison Architect.",
+        "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/extras/76be0a90b25bfd26e49af8f8abafa0d9.poster.avif?t=1759221867\" width=616 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/extras/76be0a90b25bfd26e49af8f8abafa0d9.webm?t=1759221867\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/extras/76be0a90b25bfd26e49af8f8abafa0d9.mp4?t=1759221867\" type=\"video/mp4\"></video></span><br><br><strong>Welcome Wardens!</strong><br><br>Only the world’s most ruthless Warden can contain the world’s most ruthless inmates. Design and develop your personalized penitentiary in Prison Architect.<br><br><i>Key Features:</i><h2 class=\"bb_tag\" >Customized Confinement</h2>Allocate resources to optimize your compound, but don’t restrict the flow of the crowd lest you encounter a flood, fire, fight, or full-blown riot.<h2 class=\"bb_tag\" >Invest and Innovate</h2>Tap federal money with grant applications &amp; direct your funds to combat disease, gang activity, litigation, and more!<h2 class=\"bb_tag\" >Management and Muscle</h2>Ensure your prison is *mostly* ethical and safe with top-notch staff including armed guards, psychologists, doctors, lawyers and snitches.<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/extras/11c1f272517f1f367ec01a47ddac704a.poster.avif?t=1759221867\" width=616 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/extras/11c1f272517f1f367ec01a47ddac704a.webm?t=1759221867\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/extras/11c1f272517f1f367ec01a47ddac704a.mp4?t=1759221867\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Detention by Design</h2>Each prisoner’s criminal history requires custom treatment programs, labor schedules, and reform workshops.<h2 class=\"bb_tag\" >Lockdown Showdown</h2>Attempt a high-stakes escape of your own supermax prison in Escape Mode, or try Online mode to test one of 12,000 player-created prisons. Expand your empire limitlessly in Sandbox mode.<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/extras/8f321a9520ccc7254959de66cceb6e6e.poster.avif?t=1759221867\" width=616 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/extras/8f321a9520ccc7254959de66cceb6e6e.webm?t=1759221867\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/extras/8f321a9520ccc7254959de66cceb6e6e.mp4?t=1759221867\" type=\"video/mp4\"></video></span>",
+        "developers": [
+            "Introversion Software",
+            "Double Eleven"
+        ],
+        "publishers": [
+            "Paradox Interactive"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 2999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$29.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 83,
+            "url": "https://www.metacritic.com/game/pc/prison-architect?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 59778
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 6, 2015"
+        }
+    }
+}

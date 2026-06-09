@@ -1,0 +1,125 @@
+{
+    "ingested_at": "2026-06-08T19:32:52.407106",
+    "app_id": "2669320",
+    "metadata": {
+        "type": "game",
+        "name": "EA SPORTS FC™ 25",
+        "steam_appid": 2669320,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "EA SPORTS FC™ 25 gives you more ways to win for the club. Team up with friends in your favourite modes with the new 5v5 Rush, and manage your club to victory as FC IQ delivers more tactical control than ever before.",
+        "detailed_description": "Introducing Club Membership – the next phase of loyalty in EA SPORTS FC™ 25. Available to fans that have played EA SPORTS FC™ 24 before 27 September 2024 and play EA SPORTS FC™ 25 before November 1st, 2024*.<br><br>FC 25 Club Members will receive a host of exclusive benefits across the year, including a badge and kit to represent their status and rewards across all your favourite game modes.<br><br>Once again, all Founders will be able to unlock their Founders exclusive cosmetic items.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/extras/cb6560d1a7785c6332addcdf3ff05078.avif?t=1777395910\" width=610 height=2370 /></span><br><br>This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.",
+        "developers": [
+            "EA Canada",
+            "EA Romania"
+        ],
+        "publishers": [
+            "Electronic Arts"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 6999,
+            "final": 6999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$69.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 39,
+                "description": "Shared/Split Screen Co-op"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 75,
+                "description": "Keyboard Only Option"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            }
+        ],
+        "genres": [
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "18",
+                "description": "Sports"
+            }
+        ],
+        "recommendations": {
+            "total": 97070
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 26, 2024"
+        }
+    }
+}

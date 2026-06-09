@@ -1,0 +1,59 @@
+{
+    "ingested_at": "2026-06-08T18:42:02.231091",
+    "app_id": "47810",
+    "metadata": {
+        "type": "game",
+        "name": "Dragon Age: Origins - Ultimate Edition",
+        "steam_appid": 47810,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Explore a stunning world, make complex moral choices, and engage in bone-crushing combat against massive and terrifying creatures. The Ultimate Edition includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs.",
+        "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/extras/fc6d58e55b7680dae200a987ba2d1005.avif?t=1765562953\" width=598 height=384 /></span><br><br><strong>Dragon Age: Origins</strong><br>\t\t\t\t\t\t\t\t\t\t\t\tYou are a Grey Warden, one of the last of this legendary order of guardians.  With the return of mankind's ancient foe and the kingdom engulfed in civil war, you have been chosen by fate to unite the shattered lands and slay the archdemon once and for all.  Explore a stunning world, make complex moral choices, and engage in bone-crushing combat against massive and terrifying creatures.<br>\t\t\t\t\t\t\t\t\t\t\t\t<br>\t\t\t\t\t\t\t\t\t\t\t\t<strong>Dragon Age: Origins - Awakening Expansion Pack</strong><br>\t\t\t\t\t\t\t\t\t\t\t\tThe story of the Grey Wardens continues as you are named their commander.  Fight new enemies, learn new skills and spells, and explore an all-new area of the world, Amaranthine.<br>\t\t\t\t\t\t\t\t\t\t\t\t<br>\t\t\t\t\t\t\t\t\t\t\t\t<strong>All Nine Content Packs</strong><br><br>\t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"bb_ul\"><li>The Stone Prisoner<br></li><li>Warden's Keep<br></li><li>Return to Ostagar<br></li><li>Feastday Gifts<br></li><li>The Darkspawn Chronicles<br></li><li>Feastday Pranks<br></li><li>Leliana's Song<br></li><li>The Golems of Amgarrak<br></li><li>Witch Hunt</li></ul><br><strong>Collect new rewards, gain new party members, and more as you delve deeper into the Dragon Age storyline. (Critically acclaimed winner of more than 50 awards including over 30 'Best of 2009' awards.)</strong>",
+        "developers": [
+            "BioWare"
+        ],
+        "publishers": [
+            "Electronic Arts"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 2999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$29.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 91,
+            "url": "https://www.metacritic.com/game/pc/dragon-age-origins?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 28022
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 26, 2010"
+        }
+    }
+}

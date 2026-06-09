@@ -1,0 +1,55 @@
+{
+    "ingested_at": "2026-06-08T19:11:20.920905",
+    "app_id": "431730",
+    "metadata": {
+        "type": "game",
+        "name": "Aseprite",
+        "steam_appid": 431730,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Aseprite is a pixel-art tool to create 2D animations, sprites, and any kind of graphics for games.",
+        "detailed_description": "Aseprite is a pixel art tool that lets you create 2D animations for videogames.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li> Compose sprites using <strong>layers &amp; frames</strong> as separated concepts<br></li><li> Create images in <strong>RGBA</strong> or <strong>Indexed</strong> color modes <br></li><li> Open/Save <strong>GIF animations</strong>, sequence of PNG files, etc.<br></li><li> A <strong>timeline</strong> where you can copy/move layers, frames, or specific images<br></li><li> Animation tools: Real-time animation preview, <strong>onion skinning</strong>, tag frames<br></li><li> Pixel art tools: shading, pixel perfect strokes, RotSprite rotation, tiled mode, filled contour<br></li><li> Export/import <strong>sprite sheets</strong><br></li><li> A command line interface to automate conversion and sprite sheets generation <br></li><li> Updates for the whole v1.x series up to v1.9.</li></ul>",
+        "developers": [
+            "Igara Studio"
+        ],
+        "publishers": [
+            "Igara Studio"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [],
+        "genres": [
+            {
+                "id": "51",
+                "description": "Animation & Modeling"
+            },
+            {
+                "id": "53",
+                "description": "Design & Illustration"
+            },
+            {
+                "id": "60",
+                "description": "Game Development"
+            }
+        ],
+        "recommendations": {
+            "total": 20501
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Feb 22, 2016"
+        }
+    }
+}

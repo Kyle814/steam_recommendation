@@ -1,0 +1,120 @@
+{
+    "ingested_at": "2026-06-08T19:50:36.992393",
+    "app_id": "552990",
+    "metadata": {
+        "type": "game",
+        "name": "World of Warships",
+        "steam_appid": 552990,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Immerse yourself in thrilling naval battles and assemble an armada of over 800 ships from the first half of the 20th century — from stealthy destroyers to gigantic battleships. Change the look of your ship, choose upgrades to suit your play style, and go into battle with other players!",
+        "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/extras/8a12e9cb62d27c97ff8daac5473b33bb.poster.avif?t=1780653803\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/extras/8a12e9cb62d27c97ff8daac5473b33bb.webm?t=1780653803\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" > <strong>Naval warfare has never looked this good!</strong> Download World of Warships for <strong>FREE</strong> and engage in thrilling battles between massive fleets across a multitude of gigantic maps. Every maneuver, salvo, and push can mean the difference between utmost triumph and total defeat!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/extras/61a488e1679fb16d9faf844a223f4f57.poster.avif?t=1780653803\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/extras/61a488e1679fb16d9faf844a223f4f57.webm?t=1780653803\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/extras/61a488e1679fb16d9faf844a223f4f57.mp4?t=1780653803\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >From the mighty Yamato to the elusive U-190, explore a near-bottomless sea of playstyles aboard historic battleships, destroyers, cruisers, submarines, and aircraft carriers—each faithfully recreated in 3D. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/extras/acb2b931105ecadec158bd9a1a60eff5.poster.avif?t=1780653803\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/extras/acb2b931105ecadec158bd9a1a60eff5.webm?t=1780653803\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" >If the life of a lone wolf is not for you, invite your friends to a Division and put your co-operative skills to the test! If you're looking for a real challenge, join a Clan, climb to the top of the Clan league, and strive to be the best on your server!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/extras/4321d0effc72f1c769566f459b9a762a.poster.avif?t=1780653803\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/extras/4321d0effc72f1c769566f459b9a762a.webm?t=1780653803\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" >Plot a course across 13 national Tech Trees and fine-tune your personal approach to naval combat by installing modifications, unlocking skills for your Commanders, and augmenting your fleet’s appearance with camouflages and more cosmetics.</p>",
+        "developers": [
+            "Wargaming Group Limited"
+        ],
+        "publishers": [
+            "Wargaming Group Limited"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 81,
+            "url": "https://www.metacritic.com/game/pc/world-of-warships?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 2024
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 15, 2017"
+        }
+    }
+}

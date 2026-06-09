@@ -1,0 +1,72 @@
+{
+    "ingested_at": "2026-06-08T18:44:54.453545",
+    "app_id": "433850",
+    "metadata": {
+        "type": "game",
+        "name": "Z1 Battle Royale",
+        "steam_appid": 433850,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Z1 Battle Royale is a Free to Play, fast-paced, action arcade, competitive Battle Royale. Staying true to its &quot;King of the Kill&quot; roots, the game has been revamped and restored to the classic feel, look, and gameplay everyone fell in love with. Play solo, duos, or fives and be the last ones standing.",
+        "detailed_description": "Z1 Battle Royale is a Free to Play, fast-paced, action arcade, competitive Battle Royale. Staying true to its &quot;King of the Kill&quot; roots, the game has been revamped and restored to the classic feel, look, and gameplay everyone fell in love with. Play solo, duos, or fives and be the last ones standing.<br />\r\n<br />\r\n<br />\r\nNew management is in town and restoring the game to it's former glory under a new name, Z1 Battle Royale. Since taking over development of the game in September the team here at NantG has worked with a firey passion to bring back the feel that was lost with the Combat Update. Our first major patch since taking over is coming out today March 6th and we couldn't be more excited for you all to get your hands on it.<br />\r\n<br />\r\nA Few of the Season 3 Changes/Highlights:<br />\r\n-Major Overhaul/Restoration of Movement and Animations<br />\r\n-Updated/Restored Combat and Gun Mechanics<br />\r\n-Restored Vehicle Mechanics<br />\r\n-Restored PS3 Era Map, Environment, and Lighting.<br />\r\n-New: In Match Missions<br />\r\n-New: Fragments/Collection System<br />\r\n-New: Seasonal Play and Ranked Playlist<br />\r\n-Announcement of New Showdown Tournament<br />\r\n-All New Rewards<br />\r\n<br />\r\n<br />\r\nThis is a patch you won't want to miss.<br />\r\n<br />\r\nVisit the Z1BR website and forums https://www.Z1.live for more info!",
+        "developers": [
+            "Daybreak Game Company"
+        ],
+        "publishers": [
+            "Daybreak Game Company"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 70,
+            "url": "https://www.metacritic.com/game/pc/h1z1?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            }
+        ],
+        "recommendations": {
+            "total": 143076
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Feb 28, 2018"
+        }
+    }
+}

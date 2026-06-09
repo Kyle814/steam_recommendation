@@ -1,0 +1,75 @@
+{
+    "ingested_at": "2026-06-08T19:12:18.777107",
+    "app_id": "544730",
+    "metadata": {
+        "type": "game",
+        "name": "Catan Universe",
+        "steam_appid": 544730,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Trade – build – settle: Become Lord of Catan! Get to know Catan and play the starter scenario in multiplayer mode. Purchase the complete base game, expansions, card game and much more to discover the entire Universe of Catan.",
+        "detailed_description": "Play your favorite game CATAN anytime and anywhere: the original board game, the card game, the expansions and ‘CATAN – Rise of the Inkas‘, all in one app! <br><br>After a long voyage of great deprivation, your ships have finally reached the coast of an uncharted island. However, other explorers have also landed on Catan: The race to settle the island has begun!<br><br>Build roads and cities, trade skillfully and become Lord or Lady of Catan!<br><br>Go on a journey to the Catan universe, and compete in exciting duels against players from all over the world. The board game classic and the Catan card game bring a real tabletop feeling to your screen! <br><br>Play with your Catan Universe account on the device of your choice: You can use your login on numerous desktop and mobile platforms! Become part of the huge worldwide Catan community, and compete against players from all over the world, and on all supported platforms.<br><br>The board game:<br>Play the basic board game in multiplayer mode! Join two of your friends for a maximum of three players and face all the challenges in “Arrival on Catan”.<br><br>Make things even more exciting by unlocking the full basic game and the expansions “Cities &amp; Knights” and “Seafarers”, each for up to six players. The special scenario pack containing the scenarios “Enchanted Land” and “The Great Canal” adds even more variety to your games.<br><br>The game edition ‘Rise of the Inkas‘ is another exciting challenge for you, as your settlements are doomed in their heyday. The jungle swallows the signs of human civilization, and your opponents seize their chance to build their settlement at the location they crave for.<br><br>The card game:<br>Play the introductory game of the popular 2 player card game “Catan – The Duel” online free of charge or master the free “Arrival on Catan”, to permanently unlock the single player mode against the AI.<br><br>Get the complete card game as an in-game purchase to play three different theme sets against friends, other fans friends or different AI opponents and submerge yourself into the bustling life on Catan.<br><br><br><ul class=\"bb_ul\"><li>Basic game free matches against two other human players<br></li><li>Introductory game free matches Catan – The Duel against a human player<br></li><li>“Arrival on Catan”: Master the challenges in all areas of the game to get more red Catan suns.<br></li><li>You can use Catan suns to play against the computer. Your yellow suns recharge on their own.</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544730/extras/019d00204552535e8c642fa4042ac9ab.avif?t=1674123266\" width=620 height=150 /></span><br><br><ul class=\"bb_ul\"><li>Trade – build – settle – Become Lord of Catan!<br></li><li>Play on all your devices with one account.<br></li><li>Faithful to the original version of the board game “Catan”, as well as the card game “Catan – The Duel” (aka “Rivals for Catan”)<br></li><li>Create your own Avatar<br></li><li>Chat with other players and form guilds <br></li><li>Participate in seasons and win amazing prizes.<br></li><li>Play to earn numerous achievements and unlock rewards.<br></li><li>Get additional expansions and game modes as in-app purchases<br></li><li>Get started really easily with the comprehensive tutorial</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544730/extras/00188a9ec4d0e75a791ebaaee61c52cb.avif?t=1674123266\" width=620 height=150 /></span><br><br>Catan Universe uses an in-game currency called “Catan Gold”. You can unlock expansions using Catan Gold for unlimited play time. Bought expansions are linked to your account. You can log in on another device, the iOS or Android App and use your purchases there, too!<br>Various bundles are available in the shop for a great value.",
+        "developers": [
+            "Client/Frontend: Endava  / Backend: SuperNimbus"
+        ],
+        "publishers": [
+            "USM"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            }
+        ],
+        "genres": [
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 25, 2017"
+        }
+    }
+}

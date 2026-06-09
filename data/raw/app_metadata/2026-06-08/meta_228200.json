@@ -1,0 +1,79 @@
+{
+    "ingested_at": "2026-06-08T18:45:58.072684",
+    "app_id": "228200",
+    "metadata": {
+        "type": "game",
+        "name": "Company of Heroes",
+        "steam_appid": 228200,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Delivering a visceral WWII gaming experience, Company of Heroes redefines RTS by bringing the sacrifice of heroic soldiers, war-ravaged environments, and dynamic battlefields to life. Please visit the &quot;Company of Heroes - Legacy Edition&quot; page for additional user reviews.",
+        "detailed_description": "<h2 class=\"bb_tag\" >DISCLAIMER</h2><p class=\"bb_paragraph\" ><strong><i>FOR ADDITIONAL USER REVIEWS</i></strong><i>, please visit the <u>&quot;Company of Heroes - Legacy Edition&quot;</u> page. <u>Total conversions available on Steam for COH1</u> are also listed on the Legacy Edition page.</i></p><h2 class=\"bb_tag\" >DESCRIPTION</h2><p class=\"bb_paragraph\" >Delivering a visceral WWII gaming experience, Company of Heroes redefines real time strategy gaming by bringing the sacrifice of heroic soldiers, war-ravaged environments, and dynamic battlefields to life. Beginning with the D-Day Invasion of Normandy, players lead squads of Allied soldiers into battle against the German war machine through some of the most pivotal battles of WWII. Through a rich single player campaign, players experience the cinematic intensity and bravery of ordinary soldiers thrust into extraordinary events.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >\t\t\t\t\t</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>A Cinematic Single Player Experience</strong> that captures the turmoil of WWII as never before.</p></li><li><p class=\"bb_paragraph\" ><strong>Advanced squad AI</strong> brings your soldiers to life as they interact with the changing environment, take cover, and execute advanced squad tactics to eliminate all enemy opposition. </p></li><li><p class=\"bb_paragraph\" ><strong>Stunning Visuals </strong> - Relic's next generation cutting-edge engine provides graphic quality and a physics driven world that is unprecedented in an RTS.</p></li><li><p class=\"bb_paragraph\" ><strong>Environmental Strategy</strong> - Real-time physics and a completely destructible environment guarantee no two battles ever play out in the same way. Destroy anything and re-shape the battlefield! Use buildings and terrain to your advantage, or deny them to the enemy.</p></li><li><p class=\"bb_paragraph\" ><strong>2-8 Player Multiplayer Competition via  Internet</strong> - Go online with friends and join the ultimate battle of Axis versus Allies.</p></li></ul>",
+        "developers": [
+            "Relic Entertainment"
+        ],
+        "publishers": [
+            "Relic Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 93,
+            "url": "https://www.metacritic.com/game/pc/company-of-heroes?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 12326
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 11, 2006"
+        }
+    }
+}

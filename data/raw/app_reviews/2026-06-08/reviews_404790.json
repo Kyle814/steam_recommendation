@@ -1,0 +1,97 @@
+{
+    "ingested_at": "2026-06-08T19:48:36.859921",
+    "app_id": "404790",
+    "review_count": 9,
+    "reviews": [
+        {
+            "review_id": "29663701",
+            "steam_id": "76561198069804725",
+            "playtime_minutes": 17,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.546112060546875,
+            "steam_purchase": true,
+            "review_text": "I've used a lot of game engines in my time. Unreal, Unity, Game Editor, Love2d and out of all of them Godot has become my favorite engine. Considering how simple it is, it's wildly powerful. Once you learn how to use it you feel like you're using a well tuned instrument. I find myself working on features I've never made before and just *knowing* what I need to do to make them. \n\nI'm not saying it doesn't have a learning curve. It's Scene-inside-a-Scene workflow definitely will take some getting used to. But it helps to just think of Scenes as containers for things that you can use to group stuff into one inside another scene(container). \n\nAfter that you can learn to use GDscript and signals in a day. After that you're on your way to being a game dev wiz. I can't wait to see how this engine grows."
+        },
+        {
+            "review_id": "29752948",
+            "steam_id": "76561197999332076",
+            "playtime_minutes": 877,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "First of all I've used Godot much more than 22 hours, just not the Steam version.\n\nStarted out disliking Godot because of GDScript but after some weeks with it, the scripting language stopped being an issue.\nOther than that, I'd say this engine is well on its way to become a premier RAD (does anyone even use this term anymore ? :D) environment for making games.\n\nBattle-tested in 2 game jams and one LD.\n\nPROS:\n[list]\n[*]Good level editor, comes with multiple camera manipulation modes (including my favourite, Maya).\n[*]Great for 2D games (just as good as other, more expensive, engines)\n[*]GDScript offers a tighter integration with the engine than most other scripting engines.\n[*]Offers a decent debugger.\n[*]Complex properties (matrices, colors) are edited in pop-up boxes and don't clutter the GUI.\n[*]Lots of pre-existing components to help with collision, navigation, 2D and 3D tiled levels and more.\n[*]Many demos and open source examples that cover a wide range of topics.\n[/list]\n\nCONS:\n[list]\n[*]Complex projects will sometimes crash the editor if you work too fast (e.g. when switching between 2D, 3D and Script editors).\n[*]Importing 3D animated models could go smoother.\nBecause licensing issues prevent Godot from supporting FBX (the industry standard right now), you [b]WILL have to use 3rd party software[/b] to convert assets to COLLADA (.DAE) (Blender, Maya, MAX, etc).\n[*]Have to learn a new language (GDScript) but it's syntax is similar to Python.\n[/list]"
+        },
+        {
+            "review_id": "29910902",
+            "steam_id": "76561198101688515",
+            "playtime_minutes": 2636,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Free to use and doesn't require you to get anything else. I would recommend this to adept users. For those without this cognition or ledger status I would get Game Maker."
+        },
+        {
+            "review_id": "29577286",
+            "steam_id": "76561198087328979",
+            "playtime_minutes": 120,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4015178978443146,
+            "steam_purchase": true,
+            "review_text": "easy to use, I dont know how to program for crap, but im waiting on the visual programming to come before I start fully using it"
+        },
+        {
+            "review_id": "29996200",
+            "steam_id": "76561197970279067",
+            "playtime_minutes": 208,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.779708743095398,
+            "steam_purchase": true,
+            "review_text": "This review of Godot 2.2 was *almost* a positive recommendation.  You can read a lot of the other positive reviews to learn why it's a really good development framework.  (NOTE, 31 March 2018: I have changed the review to a positive review after trying out Godot 3.0 for a few days.)\n\nI was about to choose Godot as the engine for my next game, but then my partner noticed that there were posts dating from over a year ago reporting screen tearing and frame stuttering, and these reports continued up to the present.  (Search for \"godot screen tearing\" to see some of the posts.)\n\nI had not noticed the problem because the scenes we had made for our evaluation project did not have scrolling.  As soon as I added some scrolling to the project, I saw the problems.  Unfortunately, there seems to be no workaround.  Even Godot's own Space Shooter demo has the problems.  Neither turning VSync on (or off) nor enabling pixel snapping helped.  It would sometimes look so bad that one could clearly see the seam flicker between two triangles of a texture.\n\nOnce Godot fixes the screen tearing and frame stuttering, I will gladly change my recommendation to \"Yes\", but for now, it's not good for commercial use.  It's still good for personal projects, prototyping, and game jams.\n\nUPDATE (25 Feb): As another test, I created a project with no scrolling.  It was simply a 4-color Sprite node that one could drag around the screen, and the background was a solid color.  If I dragged the sprite rapidly around the top 1/3 of the screen, I would see weird ripples inside the sprite. Slower movement minimized the rippling, but it was still noticeable.  I don't think it's simply a hardware issue because similar behavior does not happen if I recreate the demo in GameMaker, Corona, or Unity.  It seems like a renderer issue to me.  I hope Godot 3's new renderer fixes the problem!\n\nUPDATE (31 March 2018): I tested old projects ported to Godot 3.0, and they worked fine, so I think they've fixed the various problems I had observed.  Therefore, I'm now changing Godot 3.0's review to a \"thumbs up\" because I do like Godot a lot.  I also like a bunch of the new Godot 3.0 features.  If there's one thing I wish they had, it would be integrated Switch development support, but they have sensible reasons why they don't have that (related to open-source status) that are explained on godotengine.org."
+        },
+        {
+            "review_id": "30023095",
+            "steam_id": "76561198049022043",
+            "playtime_minutes": 1149,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Working with this engine has been an absolute pleasure. Steam has only recorded a fraction of the time I have spent with the engine - I've easily sunk a couple hundred hours into this engine.\n\nPros:\n**Clean interface, that's easy on the eyes.\n**Built-in Code editor/Compiler that's easy to work with.\n**Great Engine developers that actively listen and work to keep the engine moving forward with bug patches, feature updates and promotions.\n**Don't need to pay any royalties if you release your game commercially.\n**Huge library of \"nodes\" (elements of your game) that make development much easier.\n**Very powerful 2D engine that is capable of creating any 2D game you can think up.\n**Open-Source Engine\n**Multi-platform support (PC, Mac, Linux, Console, Blackberry etc)\n\nCons:\n==You have to learn GDScript (which is very similar to python)\n==The 3D engine is a bit lacking in some areas. (still very capable for most indie projects and there are often workarounds)\n\nNotes:\nAs of this post the engine developers are actively working on a new 3D component. From what I have read so far, the new 3D component will feature a more modern OpenGL renderer with Physically based shading. This is excellent news in my opinion that's worth mentioning - because it shows that the guys behind godot are pushing the engine where the community wants it to go.\n\nOverall, an excellent engine I'd easily recommend.\n"
+        },
+        {
+            "review_id": "29661643",
+            "steam_id": "76561197971391643",
+            "playtime_minutes": 12,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5007954239845276,
+            "steam_purchase": true,
+            "review_text": "Simply the best open source game SDK/Editor bar none!!!"
+        },
+        {
+            "review_id": "29946933",
+            "steam_id": "76561198003523726",
+            "playtime_minutes": 29,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "Open Sourced game development goodness."
+        },
+        {
+            "review_id": "29635642",
+            "steam_id": "76561198305092085",
+            "playtime_minutes": 16,
+            "voted_up": true,
+            "votes_up": 5,
+            "weighted_score": 0.5330978035926819,
+            "steam_purchase": true,
+            "review_text": "simple but complete ...."
+        }
+    ]
+}

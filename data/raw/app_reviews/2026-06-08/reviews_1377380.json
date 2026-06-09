@@ -1,0 +1,87 @@
+{
+    "ingested_at": "2026-06-08T19:38:30.496911",
+    "app_id": "1377380",
+    "review_count": 8,
+    "reviews": [
+        {
+            "review_id": "225758276",
+            "steam_id": "76561198209316240",
+            "playtime_minutes": 4928,
+            "voted_up": false,
+            "votes_up": 8,
+            "weighted_score": 0.5616698265075684,
+            "steam_purchase": true,
+            "review_text": "The game showed a lot of promise, but unfortunately, it has been abandoned. The last update was on October 13, 2025. The developers even put out a post announcing that they are moving on to a new project. It's clear this game will no longer receive any updates. I cannot recommend buying a game that the developers themselves have officially given up on"
+        },
+        {
+            "review_id": "226650256",
+            "steam_id": "76561198303321002",
+            "playtime_minutes": 2835,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game.... is so hard to rate.\n\nTL:DR \n- If you buy this on sale and will play it with friends I recommend it. If you're gonna play solo I do not recommend this game.\n- Pros: This is your classic open world zombie survival with some fun gimmicks. You can build a base with howitzers, mini guns, and multi launch rocket systems. You can build an APC and build a small base on top of it and drive it around. Full quest line that ends, boss fights, etc.\n- Cons: It's pretty freaking janky, few frustrating mechanics, and the AI companions are the dumbest I've ever seen.\n\nFull Review\nHonestly, when I first saw the comments stating that the game was abandoned I thought they were dumb. I believe this game was made by just 2 developers.The fact is they can't work on the same game forever. If the game is complete and they want to move on, I can understand that. \n\nHowever, having completed the game I can understand the frustration. This is a \"Fine\" game that is a few months of polish from being a good game that I would highly recommend.\n\nPros:\n- You have the classic open world survival zombie game and it works\n- You have absurdities beyond that. You wanna build a howitzer for your base? You can! Wanna build a Multi Launch Rocket System? You can! Wanna build a base on the back of an APC and take it with you? You.. mostly can. the sizing is limited but you absolutely can drive a base around with a mini gun on the back!\n- We had 0 crashes, and minimal bugs\n- A complete game with a quest where the game technically ends\n- Various fully constructed boss fights\n- Various types of undead enemies, animals, etc.\n- Lots of crafting\n- Various kinds of weapons 1h/2h, shields, guns, etc.\n- Large skill tree with various unlocks and upgrades\n- Full cooperative play\n\nCons:\n- This game is freaking janky\n- - When you use melee if you hold right click and then left click your character will do a thrust.. this doesn't hit where your crosshair is. You have to aim to the left by a good foot to hit the enemy\n- - Hitting enemies on the ground is an utter mess. You'll swing and hit the ground, or dash forward in a thrust and get grabbed.\n- - This oddly janky combat with dashing and such really hits the next level in boss fights. You'll have Dark Souls style enemies with a giant weapon, or people acting like Wesker teleporting around. This becomes a mess with the jank mechanics when you have bosses dashing the length of the room at light speed and can 1-2 shot you.\n- I feel some parts of the game were not well thought out\n- - You have a large skill tree with ~156 different skills to unlock. These require research papers which you can craft and get basically everywhere. Some require books to unlock. This is honestly fine but\n- - - One entire tree (16 skills iirc) is for increasing damage. Unlike every other skill tree, every single unlock requires a Graduates Thesis. This is only dropped from a specific zombie dressed in a graduation cap and gown. These zombies are rare, have no set spawn locations, and run from you. We were 20 hours in before we killed one. We only killed about 8 in total in an entire play through.\n- - Environments \n- - - When you get to the desert area you over heat unless you drink something to cool you down. When you over heat you move at 50% reduced speed. This wasn't mentioned before hand so it was a rough surprise when we get out and can barely move\n- - - When you get to the snow area you can't move at all except to dash if you don't have a hot drink. This makes 0 sense to me.\n- - - This really should have been a build up meter, maybe clothes you wear effect it, etc.\n- If you're fighting a boss in coop and someone dies and isn't in the room when boss dies they don't get credit and you have to redo the entire dungeon again. This happened to us twice where someone died with the boss at 5% and didn't run back in time.\n- Probably my biggest frustration is the AI companions. This is probably the dumbest AI I've ever seen. \n- - They'll walk into traps and just stand there till they die.\n- - Then you can't get them up because they stand up, get hit and die\n- - They block door ways because they have full collision so you can't get past them\n- - They're loot goblins of epic proportions. You can take items from your AI but if anyone drops anything they run over at light speed and snatch it up.\n- - They get stuck constantly\n- - We honestly hated them but kept them around because you can use them to carry stuff.\n\n"
+        },
+        {
+            "review_id": "225877533",
+            "steam_id": "76561198952330279",
+            "playtime_minutes": 11296,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.497925341129303,
+            "steam_purchase": true,
+            "review_text": "Started playing again after a couple of years. And honestly. Not the same game experience. Thought the game was better years ago. Just the whole outfits being gone is enough disappointment. I faintly remember there being like 20 or so different outfits. Now they want you to pay for single skins. And they are stupid looking. Completely crazy. Also lots of game freezes and bugs. Combat is lame and janky. Not worth the time anymore when there are too many competitive games like 7DTD. HumanitZ. Vein. Project zomboid. Don’t recommend getting."
+        },
+        {
+            "review_id": "227044137",
+            "steam_id": "76561198370667566",
+            "playtime_minutes": 10424,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "80/80 เกมดี เล่นเพลิน วางแผน สร้างบ้าน TD บี้หลอน บอทน่าโมโห เรทดรอปของบอสโคตรก่ำ"
+        },
+        {
+            "review_id": "227142927",
+            "steam_id": "76561197970711345",
+            "playtime_minutes": 710,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5141700506210327,
+            "steam_purchase": true,
+            "review_text": "Pretty fun, though there's janky shenanigans afoot."
+        },
+        {
+            "review_id": "227480471",
+            "steam_id": "76561198247098552",
+            "playtime_minutes": 698,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Too painful in the wrong ways..."
+        },
+        {
+            "review_id": "226192635",
+            "steam_id": "76561198039813919",
+            "playtime_minutes": 257,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fantastic fun!"
+        },
+        {
+            "review_id": "226545361",
+            "steam_id": "76561198556895552",
+            "playtime_minutes": 1296,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "ubdate please"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "ingested_at": "2026-06-08T18:59:01.217993",
+    "app_id": "1665460",
+    "metadata": {
+        "type": "game",
+        "name": "eFootball™",
+        "steam_appid": 1665460,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Step up and experience the exhilarating soccer game that has now surpassed 1 billion downloads! Play eFootball™ with users around the world!",
+        "detailed_description": "<p class=\"bb_paragraph\" >■ &quot;eFootball™&quot; - An Evolution from &quot;PES&quot;</p><p class=\"bb_paragraph\" >It's an all-new era of digital soccer: &quot;PES&quot; has now evolved into &quot;eFootball™&quot;! And now you can experience the next generation of soccer gaming with &quot;eFootball™&quot;!</p><p class=\"bb_paragraph\" >■ Welcoming Newcomers</p><p class=\"bb_paragraph\" >After downloading, you can learn the basic controls of the game via a step-by-step tutorial that includes practical demonstrations! Complete them all, and receive Lionel Messi!</p><p class=\"bb_paragraph\" >We have also added the Smart Assist setting to help users enjoy the fun and excitement of playing matches.</p><p class=\"bb_paragraph\" >Without entering complex commands, get past the opposing defense with a brilliant dribble or pass, then score a goal with a powerful shot.</p><p class=\"bb_paragraph\" >[Ways of Playing]</p><p class=\"bb_paragraph\" >■Start Off With Your Favorite Team</p><p class=\"bb_paragraph\" >Whether it's a club or national side from Europe, the Americas, Asia, or elsewhere around the world, begin a new game with the team you support!</p><p class=\"bb_paragraph\" >■ Sign Players</p><p class=\"bb_paragraph\" >After creating your team, it's time to get some signings in! From current superstars to soccer legends, sign players and take your team to new heights!</p><p class=\"bb_paragraph\" >・ Special Player List</p><p class=\"bb_paragraph\" >Here you can sign special players such as standouts from actual fixtures, players from featured leagues, and legends of the game!</p><p class=\"bb_paragraph\" >・ Standard Player List</p><p class=\"bb_paragraph\" >Here you can handpick and sign your favorite players. You can also use the Sort and Filter functions to narrow your search.</p><p class=\"bb_paragraph\" >・ Manager List</p><p class=\"bb_paragraph\" >Here you can sign managers who are adept at all sorts of tactical approaches with different Coaching Affinities.</p><p class=\"bb_paragraph\" >■ Playing Matches</p><p class=\"bb_paragraph\" >Once you have built a team with your favorite players, it's time to take them to the field.</p><p class=\"bb_paragraph\" >From testing your skills against the AI, to competing for ranking in Online Matches, enjoy eFootball™ the way you like!</p><p class=\"bb_paragraph\" >・ Sharpen your skills in VS AI Matches</p><p class=\"bb_paragraph\" >Enjoy various Events pitting you against clubs from popular leagues or national teams, or featuring different themes based on the current soccer season.</p><p class=\"bb_paragraph\" >Take on eFootball™ League as well to level up your skills in a division-based format with 10 tiers.</p><p class=\"bb_paragraph\" >・ Put your strength to the test in User Matches</p><p class=\"bb_paragraph\" >Have a blast playing real-time matches online through various weekly Events or eFootball™ League, where all users compete for the highest ranking in a division-based format. Lead your very own Dream Team and take aim at the pinnacle of eFootball™ League in Division 1.</p><p class=\"bb_paragraph\" >・ Max 3 vs 3 matches with friends</p><p class=\"bb_paragraph\" >Use the Friend Match feature to play against your friends. Show them the true colors of your well-developed team!</p><p class=\"bb_paragraph\" >Cooperative matches up to 3 vs 3 are also available. Get together with your friends and enjoy some heated soccer action!</p><p class=\"bb_paragraph\" >■ Player Development</p><p class=\"bb_paragraph\" >Depending on Player Types, signed players can be further developed.</p><p class=\"bb_paragraph\" >Level up players by putting them in matches or using in-game items, then spend the Progression Points acquired to increase Player Stats.</p><p class=\"bb_paragraph\" >In case you prefer to customize a player to fit your personal preferences, you have the option to allocate the Progression Points manually.</p><p class=\"bb_paragraph\" >When in doubt about how to develop the player, you can use the [Recommended] function to automatically allocate his Points.</p><p class=\"bb_paragraph\" >Develop your players to your exact liking!</p><p class=\"bb_paragraph\" >[For More Fun]</p><p class=\"bb_paragraph\" >■ Weekly Live Updates</p><p class=\"bb_paragraph\" >The Live Update is the feature that reflects player transfers and match achievements from soccer in real life.</p><p class=\"bb_paragraph\" >Take note of the Live Updates released each week, adjust your squad, and make your mark out on the field.</p><p class=\"bb_paragraph\" >■ Customize a Stadium</p><p class=\"bb_paragraph\" >Choose your favorite Stadium Elements, such as Tifos and Giant Props, and watch them appear at your stadium during the matches you play.</p><p class=\"bb_paragraph\" >Add color to the game by arranging your stadium however you like!</p><p class=\"bb_paragraph\" >*Users with one of the following nations as their Country/Region of Residence will not have access to loot boxes that require eFootball™ Coins as payment.<br>Belgium, Brazil (users under 18 years of age)</p><p class=\"bb_paragraph\" >*eFootball™ Coins can be purchased in-game and can be used in various ways, such as signing randomly selected players or acquiring Manager Packs.</p><p class=\"bb_paragraph\" >*The description above may be changed in future updates.</p><p class=\"bb_paragraph\" >[For the Latest News]</p><p class=\"bb_paragraph\" >New features, modes, events, and gameplay improvements will be continuously implemented.</p><p class=\"bb_paragraph\" >For more information, see the official eFootball™ website.</p>",
+        "developers": [
+            "KONAMI"
+        ],
+        "publishers": [
+            "KONAMI"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 39,
+                "description": "Shared/Split Screen Co-op"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "18",
+                "description": "Sports"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 1209
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 29, 2021"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "ingested_at": "2026-06-08T18:59:06.646035",
+    "app_id": "1203220",
+    "metadata": {
+        "type": "game",
+        "name": "NARAKA: BLADEPOINT",
+        "steam_appid": 1203220,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Dive into the legends of the Far East in NARAKA: BLADEPOINT; team up with friends in fast-paced melee fights for a Battle Royale experience unlike any other. Find your playstyle with a varied cast of heroes with unique skills. More than 40 million players have already joined the fray, play free now!",
+        "detailed_description": "<h1>FREE TO PLAY NOW</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/f41e20ded9116831611e25250427f12b.avif?t=1778037276\" width=616 height=1500 /></span></p><br><h1>About the Game</h1><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/d9499b0aa0cbc69443d80dcf93dc6c71.avif?t=1778037276\" width=610 height=274 /></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/1dbfd72c6aa419602b39a213f5726212.poster.avif?t=1778037276\" width=615 height=234 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/1dbfd72c6aa419602b39a213f5726212.webm?t=1778037276\" type=\"video/webm; codecs=vp9\"></video></span><br><br>Dynamic, fast-paced and ever shifting; battle your enemies with punishing combos, parries and grit or outsmart them using lethal counters in an intense mind game.<br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/2e67a0409db52ffe6d070c7b9935ee81.avif?t=1778037276\" width=610 height=220 /></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/61248a032dc348484ff003910f7e2486.poster.avif?t=1778037276\" width=615 height=234 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/61248a032dc348484ff003910f7e2486.webm?t=1778037276\" type=\"video/webm; codecs=vp9\"></video></span><br><br>Wall run, swoop down, and zip across mountains and buildings with ease as you hunt down unsuspecting foes using your grappling hook and parkour skills. <br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/7fbcae4a8d49a2d5d18c5e88efef97fe.avif?t=1778037276\" width=611 height=235 /></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/208d8dfe65697ee24e89a3bcd424873b.poster.avif?t=1778037276\" width=615 height=234 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/208d8dfe65697ee24e89a3bcd424873b.webm?t=1778037276\" type=\"video/webm; codecs=vp9\"></video></span><br><br>Combine a variety of melee and ranged weapons with our cast of powerful heroes, each with customized skills and unique Ultimate moves.<br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/5ab8abaf81ce1b4452ab85e671d67849.avif?t=1778037276\" width=611 height=227 /></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/e67cc01b8bd6aa8dcf160f152f175029.poster.avif?t=1778037276\" width=615 height=234 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/extras/e67cc01b8bd6aa8dcf160f152f175029.webm?t=1778037276\" type=\"video/webm; codecs=vp9\"></video></span><br><br>Travel to the magnificent but dangerous land of Morus and Holoroth, where great battles have shaped a beautiful landscape inspired by Far Eastern legends.",
+        "developers": [
+            "24 Entertainment"
+        ],
+        "publishers": [
+            "NetEase Games "
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 197692
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Aug 11, 2021"
+        }
+    }
+}

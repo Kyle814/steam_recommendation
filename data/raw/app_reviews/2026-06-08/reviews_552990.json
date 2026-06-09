@@ -1,0 +1,27 @@
+{
+    "ingested_at": "2026-06-08T19:50:39.282511",
+    "app_id": "552990",
+    "review_count": 2,
+    "reviews": [
+        {
+            "review_id": "225100781",
+            "steam_id": "76561198064072769",
+            "playtime_minutes": 103746,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.4796377420425415,
+            "steam_purchase": true,
+            "review_text": "their pay to win structure is just ♥♥♥♥, honestly this game is fun in the first few tiers and then you hit the I paid for this ship and its just OP like Valparisio and its basically just restart till you have a battle without them. absolute trash balance in this game"
+        },
+        {
+            "review_id": "226592988",
+            "steam_id": "76561199491412891",
+            "playtime_minutes": 218,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game is amazing! it has most of the ships from ww1 pre war and ww2 and its really cool and fun to play\r\n( NOT PAY TO WIN BTW)"
+        }
+    ]
+}

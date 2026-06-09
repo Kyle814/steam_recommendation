@@ -1,0 +1,37 @@
+{
+    "ingested_at": "2026-06-08T19:09:22.906129",
+    "app_id": "1263850",
+    "review_count": 3,
+    "reviews": [
+        {
+            "review_id": "227398188",
+            "steam_id": "76561198127426049",
+            "playtime_minutes": 1974,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The amount of scripting in the game ultimately kills the experience unfortunately"
+        },
+        {
+            "review_id": "227215415",
+            "steam_id": "76561198126302244",
+            "playtime_minutes": 1335,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "excel 2021"
+        },
+        {
+            "review_id": "226707887",
+            "steam_id": "76561197993126654",
+            "playtime_minutes": 824,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": ""
+        }
+    ]
+}

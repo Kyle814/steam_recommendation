@@ -1,0 +1,96 @@
+{
+    "ingested_at": "2026-06-08T19:26:59.866571",
+    "app_id": "1172470",
+    "metadata": {
+        "type": "game",
+        "name": "Apex Legends™",
+        "steam_appid": 1172470,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.",
+        "detailed_description": "<h1>Apex Legends: Overclocked</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/extras/be22b567e5262e7f9cb1998669c97287.avif?t=1778502442\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/extras_big/be22b567e5262e7f9cb1998669c97287.avif?t=1778502442 width=1560 height=2364 /></span><br></p><br><h1>About the Game</h1>Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame &amp; fortune on the fringes of the Frontier.<br><br>Master an ever-growing roster of diverse Legends, deep-tactical squad play, and bold, new innovations that go beyond the Battle Royale experience — all within a rugged world where anything goes. Welcome to the next evolution of Hero Shooter.<br><br><strong>KEY FEATURES</strong><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/extras/d411a4f81aae75f3d639ca2c241b84b9.avif?t=1778502442\" width=610 height=2884 /></span><br><br>This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.<br><br>Note that any unused Apex Coins will expire 180 days after the first date in which they are acquired or purchased. The oldest Apex Coins that are subject to expiration in your balance will always be used first when using them to make in-game purchases.<br><br>Apex Packs purchase is not available in Belgium.",
+        "developers": [
+            "Respawn"
+        ],
+        "publishers": [
+            "Electronic Arts"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 88,
+            "url": "https://www.metacritic.com/game/pc/apex-legends?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 72,
+                "description": "Chat Speech-to-text"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 1578
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 4, 2020"
+        }
+    }
+}

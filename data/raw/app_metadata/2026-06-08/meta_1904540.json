@@ -1,0 +1,65 @@
+{
+    "ingested_at": "2026-06-08T19:39:19.765173",
+    "app_id": "1904540",
+    "metadata": {
+        "type": "game",
+        "name": "Football Manager 2023",
+        "steam_appid": 1904540,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Build your dream squad, outsmart your rivals and experience the thrill of big European nights in the UEFA Champions League. Your journey towards footballing glory awaits.",
+        "detailed_description": "Join the managerial elite by writing your own headlines, earning the love of the fans and dominating the competition in Football Manager 2023.<br><br>Football management is not just about picking tactics or crafting a team. It’s about taking on challenges and breaking new ground.<br><br><strong>Game Description</strong><br><ul class=\"bb_ul\"><li>Find the club that’s right for you. Meet board and fan expectations before beating the best on your way to winning football’s top prizes. <br></li><li>Don’t just sign superstars, create them. Level up your recruitment with the help of your backroom staff and provide pathways to the first team for your wonderkids to develop a world-class squad. <br></li><li>Your team’s playing style is down to you. Create a unique strategy on the tactics board to deliver big wins and memorable matchday moments.<h2 class=\"bb_tag\" ><strong>New this season</strong></h2><br><strong>BIG EUROPEAN NIGHTS</strong><br>Experience a greater sense of occasion with the UEFA Champions League, the UEFA Europa League and the UEFA Europa Conference League all fully licenced. Remodelled Cup Draws and officially branded team sheets, scoreboards and goal graphics vividly bring to life UEFA’s Club Competitions. <br><br><strong>BUILD STRONGER SQUADS</strong><br>Power your transfer activity with revamped scouting and recruitment meetings, a closer relationship with agents and brand-new squad planning tools. With a better oversight of your prospects in the pipeline, it’s never been easier to meet long-term club ambitions. <br><br><strong>OUTSMART YOUR RIVALS</strong><br>Test your managerial skills against the most realistic AI managers in the history of the series. An overhaul of your opponents’ decision-making has made them smarter, while new out of possession tactical instructions make defensive and counter-attacking football more viable. As you’re pushed harder in every game, you’ll notice further match engine advancements, including changes to the way wing-backs and double pivots operate and a range of new animations. <br><br><strong>GET THE FANS ONSIDE</strong><br>Become closer to the fans than ever before with the new Supporter Confidence system. Get to grips with their expectations on and off the pitch to ensure a bright, long-term future in the dugout.<br><br><strong>SAVOUR YOUR SUCCESS</strong><br>Relive the milestones and achievements of every career with the brand-new Dynamic Manager Timeline. Whether you’ve given a youth player their first-team debut or won the UEFA Champions League, it’s never been easier to savour and share your Football Manager story.<br><br>Countless more features, big and small, designed to improve your game experience are ready for you to discover in every career.</li></ul>",
+        "developers": [
+            "Sports Interactive"
+        ],
+        "publishers": [
+            "SEGA"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "18",
+                "description": "Sports"
+            }
+        ],
+        "recommendations": {
+            "total": 13462
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 8, 2022"
+        }
+    }
+}

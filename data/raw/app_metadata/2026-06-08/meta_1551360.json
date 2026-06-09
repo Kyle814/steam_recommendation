@@ -1,0 +1,116 @@
+{
+    "ingested_at": "2026-06-08T20:02:31.195639",
+    "app_id": "1551360",
+    "metadata": {
+        "type": "game",
+        "name": "Forza Horizon 5",
+        "steam_appid": 1551360,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the world’s greatest cars.",
+        "detailed_description": "<h1>Forza Horizon 5 Version Comparison</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/extras/93b56467e33f1763ccfa030984d44aca.avif?t=1746471508\" width=600 height=388 /></span></p></p><br><h1>About the Game</h1>Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars.<h2 class=\"bb_tag\" ></h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/extras/42d5c54dc35aba752bdff49b9ca66929.avif?t=1746471508\" width=600 height=100 /></span><br><strong>This is Your Horizon Adventure</strong><br>Lead breathtaking expeditions across the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars.<h2 class=\"bb_tag\" ></h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/extras/4a33b9c72446a0a4b4c2e595dfab0436.avif?t=1746471508\" width=600 height=100 /></span><br><strong>This is a Diverse Open World</strong><br>Explore a world of striking contrast and beauty. Discover living deserts, lush jungles, historic cities, hidden ruins, pristine beaches, vast canyons and a towering snow-capped volcano.<h2 class=\"bb_tag\" ></h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/extras/298c85e87a6288719190c6402ace9211.avif?t=1746471508\" width=600 height=100 /></span><br><strong>This is an Adventurous Open World</strong><br>Immerse yourself in a deep campaign with hundreds  of challenges that reward you for engaging in the activities you love. Meet new characters and choose the outcomes of their Horizon Story missions.<h2 class=\"bb_tag\" ></h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/extras/5d9052cdf5dce0e329fc0561487c5589.avif?t=1746471508\" width=600 height=100 /></span><br><strong>This is an Evolving Open World</strong><br>Take on awe-inspiring weather events such as towering dust storms and intense tropical storms as Mexico’s unique, dynamic seasons change the world every week. Keep coming back for new events, challenges, collectibles, and rewards, and new areas to explore. No two seasons will ever be the same.<h2 class=\"bb_tag\" ></h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/extras/621ba0f0cb283f89d021c79396826b7c.avif?t=1746471508\" width=600 height=100 /></span><br><strong>This is a Social Open World </strong><br>Team up with other players and enter the Horizon Arcade for a continuing series of fun, over-the-top challenges that keep you and your friends in the action and having fun with no menus, loading screens or lobbies. Meet new friends in Horizon Open and Tours and share your creations with new community gift sharing.<h2 class=\"bb_tag\" ></h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/extras/0d5a5a6143dc45961c9e874ba175ed12.avif?t=1746471508\" width=600 height=100 /></span><br><strong>This is Your Open World</strong><br>Create your own expressions of fun with the powerful new EventLab gameplay toolset including custom races, challenges, stunts, and entirely new game modes. Customize your cars in more ways than ever before with new options such as the ability open  and close convertible tops, paint brake calipers, and more. Use the new Gift Drops feature to share your custom creations with the community.<h2 class=\"bb_tag\" ></h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/extras/4b1debb7771dfe3bbdaf61b841f3687e.avif?t=1746471508\" width=600 height=100 /></span><br>Begin Your Horizon Adventure today!",
+        "developers": [
+            "Playground Games"
+        ],
+        "publishers": [
+            "Xbox Game Studios"
+        ],
+        "price_overview": {
+            "currency": "HKD",
+            "initial": 41900,
+            "final": 20950,
+            "discount_percent": 50,
+            "initial_formatted": "HK$ 419.00",
+            "final_formatted": "HK$ 209.50"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "9",
+                "description": "Racing"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "18",
+                "description": "Sports"
+            }
+        ],
+        "recommendations": {
+            "total": 253413
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "8 Nov, 2021"
+        }
+    }
+}

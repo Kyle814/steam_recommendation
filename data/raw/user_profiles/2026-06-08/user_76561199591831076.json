@@ -1,0 +1,35 @@
+{
+    "ingested_at": "2026-06-08T23:44:43.864352",
+    "steam_id": "76561199591831076",
+    "game_count": 7,
+    "games": [
+        {
+            "appid": 227300,
+            "playtime_forever": 1803
+        },
+        {
+            "appid": 322170,
+            "playtime_forever": 18572
+        },
+        {
+            "appid": 359550,
+            "playtime_forever": 36
+        },
+        {
+            "appid": 365670,
+            "playtime_forever": 89
+        },
+        {
+            "appid": 578080,
+            "playtime_forever": 743
+        },
+        {
+            "appid": 645630,
+            "playtime_forever": 0
+        },
+        {
+            "appid": 1938090,
+            "playtime_forever": 20
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "ingested_at": "2026-06-08T19:36:40.881903",
+    "app_id": "8930",
+    "metadata": {
+        "type": "game",
+        "name": "Sid Meier's Civilization® V",
+        "steam_appid": 8930,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Create, discover, and download new player-created maps, scenarios, interfaces, and more!",
+        "detailed_description": "The Flagship Turn-Based Strategy Game Returns<br><br>Become Ruler of the World by establishing and leading a civilization from the dawn of man into the space age: Wage war, conduct diplomacy, discover new technologies, go head-to-head with some of history’s greatest leaders and build the most powerful empire the world has ever known.<br><br><ul class=\"bb_ul\"><li><strong>INVITING PRESENTATION:</strong> Jump right in and play at your own pace with an intuitive interface that eases new players into the game. Veterans will appreciate the depth, detail and control that are highlights of the series.<br></li><li><strong>BELIEVABLE WORLD:</strong> Ultra realistic graphics showcase lush landscapes for you to explore, battle over and claim as your own. <br></li><li><strong>COMMUNITY &amp; MULTIPLAYER:</strong> Compete with players all over the world or locally in LAN matches, mod* the game in unprecedented ways, and install mods directly from an in-game community hub without ever leaving the game. <br></li><li><strong>WIDE SYSTEM COMPATIBILITY:</strong> Civilization V operates on many different systems, from high end desktops to many laptops. <br></li><li><strong>ALL NEW FEATURES:</strong> A new hex-based gameplay grid opens up exciting new combat and build strategies. City States become a new resource in your diplomatic battleground. An improved diplomacy system allows you to negotiate with fully interactive leaders. </li></ul><br>*Modding SDK available as a free download.<br>    <br><strong>Note:</strong> The Mac and Linux + SteamOS versions of Sid Meier's Civilization V are available in English, French, Italian, German and Spanish only.",
+        "developers": [
+            "Firaxis Games",
+            "Aspyr (Mac)",
+            "Aspyr (Linux)"
+        ],
+        "publishers": [
+            "2K",
+            "Aspyr (Mac)",
+            "Aspyr (Linux)"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 2999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$29.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 90,
+            "url": "https://www.metacritic.com/game/pc/sid-meiers-civilization-v?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 127471
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 21, 2010"
+        }
+    }
+}

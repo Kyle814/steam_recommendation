@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T18:56:56.525978",
+    "app_id": "1766060",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "225466180",
+            "steam_id": "76561198161922409",
+            "playtime_minutes": 6659,
+            "voted_up": false,
+            "votes_up": 264,
+            "weighted_score": 0.8883016109466553,
+            "steam_purchase": true,
+            "review_text": "I will start by saying that the game is fun, but I will explain below the reasons why I cannot recommend it at this point. \r\n\r\nWhat works:\r\nThe core of the game (items, cars, repairing the cars, guns, tools, buildings), the gunplay, the atmosphere, the graphics and the main quest. These are well done. The base is solid, but the game needs a lot of improvements to be good.\r\n\r\nWhat's not good:\r\n\r\nThe Looting System:\r\n- the gameplay loop has a big issue. It's like this: you go out scavange for 30 minutes, come back with a truck-full of items and spend 1 whole HOUR putting them in containers. Why? Because:\r\n- the looting system is atrocious for a looting game where you open hundreds of containers to loot thousands of items. You have to press CTRL+Click on each item you want to pick from each container. There is no \"Loot All\" button. Terrible design. And CTRL+click on hundreds of items is just tiresome and unpleasant for the hand. We're talking thousands of items looted like that. I had to use \"Auto Hot Key\" to make up my own script and assign this function to the \"E\" key - so that i would just mouse-over items in containers and spam \"E\" to pick them up easy. YOU CANNOT REBIND THE \"CTRL+MOUSE CLICK\" function to another key in game which is a very questionable issue. Let people bind their own stuff! So the AHK script workaround was for me a necessity. Did I mention we are talking THOUSANDS of items you loot requiring to ctrl+click on each item to pick? Horror. \r\nHere is my AHK script for those who want this solution:\r\n\r\n#IfWinActive, HumanitZ\r\ne::\r\nSend, {Ctrl down}\r\nClick\r\nSend, {Ctrl up}\r\nreturn\r\n#IfWinActive\r\n\r\nThe Loot Organizing System:\r\n- The inventory management in base is atrocious! We come to the part where you loot for 30 minutes and spend 1 hour in game to place items in their respective boxes. There is no \"place items of the same type in box\" OR \"place all identical items in box\" option. You have to do it individually for each item in inventory. It literally takes hours. I would look at the clock on my table whenever i ended an \"adventure\" and literally every time i returned to base I had to spend at least one hour putting crap in boxes before I could leave for the next adventure. Not a good feeling.\r\n\r\nThe Quests:\r\n- Aside from the main quest, all other quests consist in simply just tasks: \"find me [certain item] bring it back to me\". ALL of them are just that. \"Find and fetch\" TASKS, not quests. And each of these \"quests\" give very little XP. \r\n- due to such low XP returns per quest - they just weren't worth doing at all. I would rather just mass-murder all the quest givers. Because each humanoid quest giver gave around 2500 XP? (i forgot the exact amount but it's huge) AND THEY ALL JUST RESPAWN later anyway, without any penalty or hate towards you. Meanwhile completing a \"fetch\" quest gives you 250 XP if i recall. Something very small. Anyway clearing a friendly humanoid camp you can get a fast 7500 XP for the price of a couple of bullets. \r\n- Bottom line, no worthy XP and no depth of any kind in terms of quests. Which leads me to the final point:\r\n\r\nNothing to do Endgame:\r\n- you reached endgame, completed the main questline (which, by the way, is DONE RIGHT and it's how at least some other quests should attempt to be). Now what? Well, without any huge spoilers, you have a few BUNKERS to visit! Sounds exciting? YUPP! Well, it's not. The bunkers are extremely anti climatic. Don't expect some fallout-type of vaults. Nope. Most are ONE SINGLE room with some loot in it. And the most dangerous one has 3 rooms packed with zombies and some crates of loot. There is literally NOTHING to do when the main quest is done.\r\n\r\nI am of the opinion that the game was released in version 1.0 completely unbaked and literally still an Early Access Build. I enjoyed it but at the same time I disliked way too many aspects to recommend it in the current state. If the things i mentioned above change in time, then yes I recommend.\r\n\r\n"
+        },
+        {
+            "review_id": "225231926",
+            "steam_id": "76561198019590782",
+            "playtime_minutes": 9036,
+            "voted_up": true,
+            "votes_up": 11,
+            "weighted_score": 0.6267900466918945,
+            "steam_purchase": true,
+            "review_text": "Probably should still be in early access with all of the bugs, but none feel game breaking. \r\n\r\nOther than that, it is a hell of a game. My friends and I are having a ton of fun with it."
+        },
+        {
+            "review_id": "226249602",
+            "steam_id": "76561197970886419",
+            "playtime_minutes": 25310,
+            "voted_up": false,
+            "votes_up": 8,
+            "weighted_score": 0.6096033453941345,
+            "steam_purchase": true,
+            "review_text": "So where to start. Humanitz has potential but it has serious problems which are stopping it in it's tracks.\n\nThe biggest issues I have with the game in it's current state are these;\n\n- It's more of a sandbox game with seemingly added quests, but does not really have a story or player campaign. Although this is personal preference, having one thing in a game doesn't necesarily exlude the other. The focus seems to be on sandboxing and surviving, but it would help the game a lot if there was some major questline that feels like you are going through a compelling story with a nice conclusion. Which would then give you the option to keep playing in a sandbox environment, help others etc.\n\n- Multiplayer on dedicated public servers is horridly frustrating and deadly. Driving a fully armored car is dangerous because for some reason the game increasingly wants to disconnect you while driving. When you disconnect like this the game boots you out of the car and places you potentially between a bunch of bandits or zeek who will kill you when you log back in; as the game does not allow you to exit while driving a car, it put's you outside the car. Sometimes the car has driven on and is far away, but there's been quite some cases where the car also becomes invisible.. which prevents the player from getting their car back; if they didn't get jumped and killed right away. This makes getting from a to b safe a bigger issue then actually performing a loot raid or trying to hand in some quest on the other side of the map. \n\n- Patches are made to the game to fix issues. But quite a few of the patches the solution is worser than problems as it requires the server to fully 'wipe' (delete all progress and player characters). This seems to brutal, you've spent many hours setting up your base and growing, just for the server to totally wipe your progress. Although I understand that in some cases a wipe should be done, it should be made optional for the server owners and there should be controls made in the code so most of the game works even when upgraded and not wiping. If this is not possible, it just means the game code is not good and the game was released to soon to be able to allow stable updates. So my suggestion to the devs would be not to do any big updates (content wise) before fixing the core issues plagueing the game right now, one of them is making server wipes optional.\n\n- Some of the patches introduced new issues, or caused issues with the game if the admin did not wipe.\n\n- I have had some very weird case where my character ended up in limbo. He was somewhere in the game where he was not visible, and would not die, and could not open inventory, could not exit the game and also could not respawn by killing itself. In the end it basically meant the character was unplayable from that point.. it took server admin many hours to try to resolve the issue.\n\nThere's also a few problems with the skill tree progression/unlocking. Some remain locked as some of the requirements become stuck. For example the 'Loot PC' requirement for electrical engineer and I also was not able to make the game register any zeek kills when using mines. Which means you can not enjoy some of the extra skills if you want them.  Since there is no way to reset this progress or rechose another profession, it basically means your character is bugged for life until chosing a new one on that server.\n\nRight now there is not many players left on the server I play at, but the ones who are are terrified about the random disconnect problems and for myself it simply means it's not worth it anymore the frustration. I just tried to play again and got DC 2 times when driving toward a drop, while trying to run over a bandit and a few mins later while trying to drive over a bandit dog.. only because of luck and skill and the fact my car didn't go invisible I was able to survive. But instead of being able to go to Huddson to do a lootrun, I just drove back and logged out."
+        },
+        {
+            "review_id": "226876157",
+            "steam_id": "76561198046248172",
+            "playtime_minutes": 2637,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5758928656578064,
+            "steam_purchase": true,
+            "review_text": "Awesome game, I did almost AFLT+F4 in my first 30 minutes of getting used to the camera, the whole weirdness of it. but the game itself is more fun to me then Project Zomboid, and I loved that game too.\r\n\r\nI can only recomend, GET USED TO THE CAMERA, Change in settings between the 3 camera options, find the one that SUITS you better, I used FIXED settings."
+        },
+        {
+            "review_id": "225940072",
+            "steam_id": "76561198011204765",
+            "playtime_minutes": 2418,
+            "voted_up": true,
+            "votes_up": 6,
+            "weighted_score": 0.5686274766921997,
+            "steam_purchase": true,
+            "review_text": "Im only 40 hours into the game, but so far so good. It feels like a more casual, yet more action oriented Project zomboid. The map feels a bit small  but then coming from PZ' all maps are small in comparison. The core game loop is satisfying, but having a 360 degree line of sight kind of break the immersion for me. \r\n\r\nThe game has a lot of potential, i really hope the dev team built on it and make it even better. Personnally I would love to see a much bigger map!"
+        },
+        {
+            "review_id": "225570259",
+            "steam_id": "76561198115515234",
+            "playtime_minutes": 708,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5565410256385803,
+            "steam_purchase": true,
+            "review_text": "Terrible character control system an terrible building system. It looks like early acess game with a lot of bugs"
+        },
+        {
+            "review_id": "225983507",
+            "steam_id": "76561199535400250",
+            "playtime_minutes": 17720,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5295903086662292,
+            "steam_purchase": true,
+            "review_text": "Honestly, i love the game, the gritty envirnoment, the combat, the base building, its all good. Maybe a bit awquard, since the PoV is a bit different, but you get used to it after a time, so not an issue. However, there are some simply GLARING issues with the game. And it all has to do with game performance and mechanics that seem sometimes not planned thoroughly. A bug here or there is to be expected, but glitches like the enhanced gas tank not letting you refuel your car after a while, satnav and not locking your FPS at 60 crashing your game randomly while driving are things that should not even made it into the game, and these problems were known for a LONG time. I DC once every hour, for no apparent reason, simply lose connection to the host, with my internet connection working normally, as it usually does. Which, not an terrible issue. Unless it happens while you drive a car and by the time you log back in, you were dumped out of a car and got eaten by zeeks or shot by bandits (which is like 95% of the time, because thats when it usually happens). Horses, lovely creatures, you get one, take it back to the base, build it a stable and park it inside. And it despawns after a while, since you didnt keep it saddled. Since the saddle is what marks it as yours. But if saddled, you need to feed it every 15 min or so or it will die eventually of exhaustion because of the saddle. Why not just stick a \"Claim\" button on its rump, kidding, ofc, but you get the mechanic, its the same one the cars have. Or as with the dog, once i put it in a stable, you dont need to feed it actively any more, its needs are cared for by the stable just like the dogs needs are cared by the dog house. There are so many things i like in this game, but there are also some seriously bad things. That need to be fixed ASAP or people will leave the game, permanently. I wont, for now. Hoping and praying these glaring issues be fixed."
+        },
+        {
+            "review_id": "226916659",
+            "steam_id": "76561198060671362",
+            "playtime_minutes": 474,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5263620615005493,
+            "steam_purchase": true,
+            "review_text": "This game has incredible potential and fantastic core gameplay, but the camera system completely ruins the experience. It constantly fights against you, making it borderline unplayable. The developers desperately need to commit to a standard viewpoint—either a proper third-person angle or a classic fixed top-down view like Diablo or Dungeon Siege 2. I really want to love this game, but I cannot recommend it until the camera is fixed."
+        },
+        {
+            "review_id": "225692912",
+            "steam_id": "76561198040335345",
+            "playtime_minutes": 39797,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5254237651824951,
+            "steam_purchase": true,
+            "review_text": "After 600 hours playing I can say this game is addictive. It has the right mix of RPG (Professions), base building, crafting, survival (eating/drinking) and vehicles. The number of weapons both melee and firearms is also considerable. Love what they have done so far and really looking forward to future enhancements. Only complaint is it's a bit too easy, I hope they add a LETHAL difficulty option soon."
+        },
+        {
+            "review_id": "226643658",
+            "steam_id": "76561198015224726",
+            "playtime_minutes": 3985,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5199999809265137,
+            "steam_purchase": true,
+            "review_text": "Hollywood got nothing on this game,i had to fight a big horde while cutting wood with my chainsaw at 1AM during a thunderstorm.The sound isn't quite there yet but this game has come a long way.Keep up the good work devs."
+        },
+        {
+            "review_id": "226615705",
+            "steam_id": "76561198034677511",
+            "playtime_minutes": 402,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.51868736743927,
+            "steam_purchase": true,
+            "review_text": "Saw it's in 1.0, decided to pull the trigger.\r\n\r\n...with how much they've spent in marketing to have YouTuber's make videos with titles like \"BETTER THAN ZOMBOID??\" what it resulted in is me constantly comparing this to project zomboid and then wishing I was playing project zomboid.\r\n\r\nGame is RIDDLED with weird bugs and design decisions that are just baffling. I straight up don't understand why they made certain decisions, and the bugs? Since it's out of early access, it should be smooth, right? Wrong. It's a mess. For being a 1.0 release, it straight up feels unfinished.  I'll give it another go, but I'm going back to project zomboid for now."
+        },
+        {
+            "review_id": "226404823",
+            "steam_id": "76561198106997164",
+            "playtime_minutes": 6,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5150550007820129,
+            "steam_purchase": true,
+            "review_text": "Took me about 5 minutes to realize the controls are the worst controls I have ever experienced in a game"
+        },
+        {
+            "review_id": "225897227",
+            "steam_id": "76561198134831708",
+            "playtime_minutes": 3657,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5017793774604797,
+            "steam_purchase": true,
+            "review_text": "Pro. Chill Zombies apocalypse sand boxes game\r\nCon. Still have a bunch of minor bug"
+        },
+        {
+            "review_id": "226717547",
+            "steam_id": "76561198049926314",
+            "playtime_minutes": 41,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5001820921897888,
+            "steam_purchase": true,
+            "review_text": "Still needs work:\r\nTalking interaction distance is too close to NPCs. Perhaps show a faded F with outline when approaching to show interaction is possible but you're too far.\r\nItem slots are not explained.\r\nSome keybinds are not shown to the player when interacting with the relevant game mechanic.\r\nDouble-clicking items in inventory or proximity does nothing.\r\nCrafted items/components are not considered \"available\" for recipes until you drag them to inventory.\r\nEquipped item did not appear until several item slot shuffles.\r\nBow does not auto-reload an arrow after firing. Why?\r\nFishing has no keybinds or interactions displayed while fishing for the first time. No idea what's going on.\r\nItems in proximity/on ground have different context menu items as compared to inventory. Do I have to loot a shirt before I can tear it up? Really? If that's the case, why not have the context menu available but the game triggers the required steps before the chosen interaction happens.\r\n\r\nI did not even complete the tutorial due to frustration and confusion."
+        },
+        {
+            "review_id": "227191886",
+            "steam_id": "76561198214859129",
+            "playtime_minutes": 7627,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "all around a great game even better with a bunch of friends lots to do and build and lots to explore and a good amount of fighting constantly"
+        },
+        {
+            "review_id": "227105049",
+            "steam_id": "76561198419929881",
+            "playtime_minutes": 4437,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Games honestly a blast. \n\nIf your running it on the Steam Deck try GE-Proton, it makes it run significantly better. You might have rare visual bugs after a few hours but they dissappear after a reset.\n\nHoping to get more optimization and support for the steam deck and looking forward for what the future of this game goes.\n\nP.S please add more overworld music track 🎶"
+        },
+        {
+            "review_id": "226936879",
+            "steam_id": "76561198156959944",
+            "playtime_minutes": 722,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good game. has more potential. hope the upcoming updates gives more in depth experience for players looking for this kind of zombie survival game."
+        },
+        {
+            "review_id": "226877669",
+            "steam_id": "76561198363215460",
+            "playtime_minutes": 1105,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A Perfect Blend of Project Zomboid and Modern Graphics!\r\nWith 18 hours of gameplay under my belt, here is my honest review:\r\n\r\nGraphics & Atmosphere: The 3D isometric visuals look absolutely gorgeous. The day-night cycle and weather system make the post-apocalyptic atmosphere feel so much more alive.\r\n\r\nGameplay & Mechanics: Looting feels incredibly satisfying, resource management is challenging, and the driving mechanics are a blast.\r\n\r\nAn Expansive World: Exploring the world is thrilling because every city corner feels dangerous yet packed with valuable supplies.\r\n\r\nThis game has massive potential and is a must-try for any zombie survival fan. 9/10!"
+        },
+        {
+            "review_id": "226773162",
+            "steam_id": "76561199793747251",
+            "playtime_minutes": 1090,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A better fitting PZ for my play style. More realistic art style and better control of the surrondings. I just wish the base customaziton was as good as Vein for example. I would like to be able to clean the trash of the floor but currently I can only dismantle big furniture and some smaller objects."
+        },
+        {
+            "review_id": "226672649",
+            "steam_id": "76561198050147462",
+            "playtime_minutes": 8194,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5185185670852661,
+            "steam_purchase": true,
+            "review_text": "Solid game, great survival and cool crafting i love the feeling of constant danger, i posted an old review but im changing because i learnt that i was at fualt for not building whats called a spawn point inside my base :)\nI can recommend its a solid game"
+        },
+        {
+            "review_id": "226513244",
+            "steam_id": "76561198027658793",
+            "playtime_minutes": 1150,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The learning curve can be a little annoying at first, but once you get a grasp o how the game works, it is really fun alone or w/friends"
+        },
+        {
+            "review_id": "226320677",
+            "steam_id": "76561198001730715",
+            "playtime_minutes": 259,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good points:\n\n*) Game is fun, even though its still a very crude game\n*) The co-op works nicelly\n*) The crafting system is easy and fun to play with\n*) Combat is fun, there's lots of weapons to find, melee and ranged\n\nThings to be worked on:\n\n*) The camera is very clunky and difficult to get used to. A free camera would do a lot better to the game, something like GTA camera or something. It behaves in a very unique way (not fun)\n\n*) The inventory management system needs work ASAP. its a game about exploration and looting, there's thousando of items to loot, and you need to sort them all one at a time, there's no \"take all loot\" button or \"sort items\" button on the inventory, you have to manually sort the itens and put it in boxes, which is tiring and troublesome.\n\n*) The \"Drop your item when swapping to a different slot if your bag is full\" mechanic is just frustrating and not fun. Devs should really think of a better way to do this. Oh and also somehow itens despawn. Yesterday I was playing with a friend on live and got the assault rifle be dropped cause I needed to change to a knife. Then I went back on his livestream looking for the exact moment the item dropped, and found it. only to go to the exact place and the item was not there, which was really frustrating.\n\nOverall I'd recommend this game just because it has a lot of room for improvement, as it can be fun even in this crude state, so it can improve a lot if the devs work to refine some mechanics"
+        },
+        {
+            "review_id": "226019164",
+            "steam_id": "76561198044341446",
+            "playtime_minutes": 1112,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great for multiplayer, have to add some events to singleplayer. I liked it."
+        },
+        {
+            "review_id": "225141194",
+            "steam_id": "76561198024806215",
+            "playtime_minutes": 6079,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "HumanitZ is a really fun zombie survival top down game, love the mechanics and the different aspects of crafting and surviving specially on hardcore. the biggest gripe which right now is fair, is how bad the camera is specially in major citys and tight quarters. you can see in other buildings and random walls inner fear all the time adjusting the camera and working with the in game settings feels pretty terrible, Im hoping with further updates the general game will not stutter quite as much in the distance and when disassembling. still worth every penny but the camera fix could make things a lot better. I Will adjust my review as i further see but this game is a solid 3.5/5"
+        },
+        {
+            "review_id": "225271433",
+            "steam_id": "76561199607169869",
+            "playtime_minutes": 1825,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4934210479259491,
+            "steam_purchase": true,
+            "review_text": "Crafting the one that triggers me to play this. Nearly realistic and good to play"
+        },
+        {
+            "review_id": "226709871",
+            "steam_id": "76561197993975792",
+            "playtime_minutes": 8,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.4763721525669098,
+            "steam_purchase": true,
+            "review_text": "Talk about a junky gameplay... The way you control your character is the clunkiest experience I ever had in my whole life. Insta refund."
+        },
+        {
+            "review_id": "227149259",
+            "steam_id": "76561197970703593",
+            "playtime_minutes": 831,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "Just Played 13 hrs of this game for the system to lose the saved files.\r\nSo back to square 1, for a known issue going back to early 2025.\r\nIt also dose not look like you can recover your saves so randomly you will have to continually restart from the beginning of the game. What level of moronic stupidity is this in game crafting. "
+        },
+        {
+            "review_id": "225610202",
+            "steam_id": "76561198200165426",
+            "playtime_minutes": 43,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4702194333076477,
+            "steam_purchase": true,
+            "review_text": "played the Demo im so into this! im buying it as i make this review, my only suggestion/hope is that they add more settings. i would like to see atleast the option to have atleast a \"The walking dead\" style to the game\n"
+        },
+        {
+            "review_id": "225866310",
+            "steam_id": "76561198842267250",
+            "playtime_minutes": 622,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.4683101773262024,
+            "steam_purchase": true,
+            "review_text": "Swear to ♥♥♥♥♥♥♥ Christ every item I find in containers is some variation of skinny jeans, are these developers from Atlanta? Have they been outside? At this point I'm ignoring the fact that i spent an hour-long playthrough looking for a backpack, just give me REGULAR jeans, anything besides tight ass skinny jeans. Cupboard in kitchen? Skinny Jeans. Tool chest in garage? Skinny jeans. Police armory? Skinny jeans. A clothes store? ♥♥♥♥♥♥♥ ROCKS. ♥♥♥♥ this game."
+        },
+        {
+            "review_id": "226903609",
+            "steam_id": "76561199239626424",
+            "playtime_minutes": 601,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.46341463923454285,
+            "steam_purchase": true,
+            "review_text": "Love this game. I have no problems with gameplay or graphics. My only issue when I last played was when my cursor went to the edge of my screen it would drift where my character was looking. But good so far. about to gift it to a friend."
+        },
+        {
+            "review_id": "226893243",
+            "steam_id": "76561198062867344",
+            "playtime_minutes": 656,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.46341463923454285,
+            "steam_purchase": true,
+            "review_text": "Great Game. sometimes a bit laggy. would like more quests / storyline"
+        },
+        {
+            "review_id": "225604879",
+            "steam_id": "76561199465665916",
+            "playtime_minutes": 463,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4545454680919647,
+            "steam_purchase": true,
+            "review_text": "This game is a ♥♥♥♥♥♥♥♥. You cant just load you saves. ♥♥♥♥♥♥♥♥\nGive my money back!!!"
+        },
+        {
+            "review_id": "226613405",
+            "steam_id": "76561198170562227",
+            "playtime_minutes": 63588,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i like everything apart from not being able to make empty fuel cans, i have 150 cans of oil 60 alcohol and nothing to put them in."
+        },
+        {
+            "review_id": "225245200",
+            "steam_id": "76561198986200799",
+            "playtime_minutes": 1669,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "GREAT GREAT game so much so i rented a server was not a fan of top down for a long time but this one for me has done it right and got the hang of it right away with the map so large wish they would update to have spawn near Backback of if there was a mod for it for streaming its kind of boring if i die to run all the way across the map to get my body being said Great Game"
+        },
+        {
+            "review_id": "225416866",
+            "steam_id": "76561198967350553",
+            "playtime_minutes": 50,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.4832041263580322,
+            "steam_purchase": true,
+            "review_text": "l cant play or do anything always crash , l only can play tutorial with bugs , l hate it"
+        },
+        {
+            "review_id": "226560591",
+            "steam_id": "76561198080085681",
+            "playtime_minutes": 6073,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.46979865431785583,
+            "steam_purchase": true,
+            "review_text": "It's like you get to play in The Walking Dead, but without the lame storylines and stupid accents! 10/10 would run from the \"Heck\"hounds with zero ammo and only a stone rock again."
+        },
+        {
+            "review_id": "225347394",
+            "steam_id": "76561198050767600",
+            "playtime_minutes": 515,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.464037150144577,
+            "steam_purchase": true,
+            "review_text": "8 horas encima y mi grupo sigue enganchado. El universo zombie que crea el juego es agradable, el mapa es grande, los gráficos lindos, corre bien, y el sistema de clima y temporadas es un plus que le da vida a cada sesión. La música de ambiente también acompaña.\r\n\r\nLo único criticable es el manejo de cámara. Probamos todas las combinaciones y sigue sin ser intuitiva ni cómoda. Con tantas opciones y modos disponibles, es raro que ninguna convenza. No hay necesidad de reinventar la rueda, y claramente no somos los únicos que lo sentimos: los foros de Steam están llenos de gente con la misma queja.\r\n\r\nIgual, muy recomendado, especialmente para jugar en grupo."
+        },
+        {
+            "review_id": "226531833",
+            "steam_id": "76561198356196269",
+            "playtime_minutes": 3785,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5001820921897888,
+            "steam_purchase": true,
+            "review_text": "too short, minim mission, cant add NPC to be a friends, i think its be will fun if you can add NPC to be a friends or can doing some job for you or a guild"
+        },
+        {
+            "review_id": "225827441",
+            "steam_id": "76561198017941676",
+            "playtime_minutes": 450,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Lots of bugs and crashes. Too many crashes. Give me a patch and I'll have another look.\r\nNever log out on a caravan; when you log back in, you'll respawn inside and die."
+        },
+        {
+            "review_id": "225326408",
+            "steam_id": "76561198004980873",
+            "playtime_minutes": 1389,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.5260663032531738,
+            "steam_purchase": true,
+            "review_text": "Calling this a 1.0 releas is a scam.\n\nUnfinished buggy mess and still feels more like an \"asset flip cash grab\" than anything"
+        },
+        {
+            "review_id": "225761142",
+            "steam_id": "76561198346227125",
+            "playtime_minutes": 4962,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.4670911133289337,
+            "steam_purchase": true,
+            "review_text": "online server is suck, to many bug, need more optimalize."
+        },
+        {
+            "review_id": "226063463",
+            "steam_id": "76561199020111370",
+            "playtime_minutes": 1595,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game need more Update , make a gameplay more Realistic just like Project J"
+        },
+        {
+            "review_id": "225863538",
+            "steam_id": "76561198084506380",
+            "playtime_minutes": 4765,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5017793774604797,
+            "steam_purchase": true,
+            "review_text": "this is basically a less punishing project zomboid, i love it"
+        },
+        {
+            "review_id": "227218586",
+            "steam_id": "76561198148741861",
+            "playtime_minutes": 457,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Updated review after bug was fixed.  Glad to be back on it!"
+        },
+        {
+            "review_id": "227415348",
+            "steam_id": "76561198001221731",
+            "playtime_minutes": 6,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I have plated mostly offline. I think it is a great game. I go back and forth between this and PZ. Great job devs."
+        },
+        {
+            "review_id": "227390823",
+            "steam_id": "76561198017257423",
+            "playtime_minutes": 1885,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": " Humanitz:  30 hours of play\r\n\r\nI don't think i encountered any bugs so far.\r\nIn solo play a smooth experience.\r\nIn Multi player the occasional lag spike,  but actually not worth mentioning.\r\n\r\nI like the looks and feel of this game, and it plays very smooth with easy to learn mechanics.\r\n\r\n* extra comment :   More maps or  Custom maps by modders would make this game epic."
+        },
+        {
+            "review_id": "227338113",
+            "steam_id": "76561199282801472",
+            "playtime_minutes": 30047,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun open-world survival game with pvpve elements and zombies of all shapes and sizes to molest. Also has nightmare mode for serious gamers who like a challenge. You can host your own server too. Lots of flexiibilty, She was buggy at launch like bf2042, D2, etc but still playable. Today, she is still great with decent visuals, weapon customisation, base building, etc. Devs on discord are active and repsond to feedback listening to playerbase. 10/10"
+        },
+        {
+            "review_id": "227008942",
+            "steam_id": "76561199670662958",
+            "playtime_minutes": 1488,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is pretty damn good. As a fan of zombie survival types games, this one hits everything for me.\n Perfect balance of action and survival. You can tweak settings for a less forgiving experience or more action/casual focus. The gameplay, the setting, and atmosphere really reel you in. \nBase building can be a little tedious, but once you get going it’s a lot of fun. I’m still pretty early in my play though, but am excited to keep exploring the HumanitZ world."
+        },
+        {
+            "review_id": "227003214",
+            "steam_id": "76561198072505093",
+            "playtime_minutes": 2375,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game, but strongly needs camp QoL upgrades. Like the ability to remove all objects in a radius around your spawn marker, and blueprints to build lights and solar panels etc."
+        },
+        {
+            "review_id": "226980990",
+            "steam_id": "76561198454015155",
+            "playtime_minutes": 1952,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I picked this game up on sale and have about 32 hours in it so far, mostly playing with a buddy.\r\n\r\nOverall, I've really enjoyed the game and the PvP. The core gameplay loop is fun, and there's a lot of potential here. That said, there are a few major issues that need attention.\r\n\r\nFirst, zombie hit registration feels off. There are plenty of times when a zombie appears to be out of range, but I still get the bite animation and take damage. It feels like the actual hitbox range is much larger than what the animation suggests. To make matters worse, it only takes a couple of bites to kill you, and armor doesn't seem to do much against these questionable hits. Dying because of your mistake is one thing; dying because the hit registration feels wrong is another.\r\n\r\nSecond, the fuel system is one of the dumbest mechanics I've seen in a survival game. If I have a gas can with gas in it, I should be able to put that gas into my vehicle. Instead, a gas can becomes unusable unless it's somehow at 100%. So a can with fuel in it is useless, but a completely full one works? Who thought that made sense? It's frustrating, unintuitive, and completely breaks common sense. Seriously, fix this.\r\n\r\nFinally, server performance needs work. Even on servers where I'm getting around 60 ping with only 10–15 players online, I still experience regular lag, rubber-banding, and stuttering. It happens often enough to impact both combat and general gameplay.\r\n\r\nDespite these issues, I'm still having fun with the game and plan to keep playing. The foundation is solid, but these problems are holding it back from being much better than it currently is.\r\n"
+        },
+        {
+            "review_id": "226713877",
+            "steam_id": "76561198862243534",
+            "playtime_minutes": 3220,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun game well worth a try if you like Zomboid. Could do with better deck optimisation"
+        },
+        {
+            "review_id": "226665655",
+            "steam_id": "76561198056004512",
+            "playtime_minutes": 270,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "There's a game here. IT's really unpolished and needs a lot of work but there's definitely a game here.\r\nThe camera is a nightmare though, fix that guys, come on."
+        },
+        {
+            "review_id": "226349574",
+            "steam_id": "76561199067565236",
+            "playtime_minutes": 631,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game is the bets zombie game i have ever played... i like this game more than 7dtd and the other zomtrash games out there. this game feels incredible, looks incredible i mean ♥♥♥♥ theres a whole working gps system in the game. i am verey excited tosee waht they do with the game. DEVS reading this, please make it to where i can swing n the swingset!!!!!!!!!!!!!!"
+        },
+        {
+            "review_id": "226188965",
+            "steam_id": "76561199187726855",
+            "playtime_minutes": 1360,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Controls are wonky and laggy at times, aiming/attacking is shotty at best but workable if you're not being group ♥♥♥♥♥♥ by Z. The one instance I've tried at multiplayer was ♥♥♥♥ with server lag, Z will appear on you the second there's a lag and knock your health in 1 second, also scarce with players depending on the server.\nNeed to integrate some CPU community recruiting or something to help build up bases and do runs with assistance.\nGame's got a dope vibe though for offline soloing so far, definitely a game you can lose time in, even more so if you've got dependable crews to run with."
+        },
+        {
+            "review_id": "226182706",
+            "steam_id": "76561198136206195",
+            "playtime_minutes": 16519,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Don't have any faith on this game.\r\n\r\nThis game is lacking many basic features that it should obviously have. For example in multiplayer there is no delete character function so if a character is leveled up and a player wants to start a new character there's no direct or easy way to do it. They are stuck with the first and only character they created. Then there is the loot and storage problem. There is no loot all or deposit all items in our inventory. Oh the bugs too. Like there's a NPC that doesnt spawn for at least two patches now but every other NPC seems to respawn just fine. He's got a important quest that can't be completed.\r\n\r\nHumanitz feels barebones and the map size of the game is pretty small. This island has many low effort copy and paste buildings, like the pharmacy, gunshop, autoshop, and other buildings. It's very uncreative.\r\n\r\nDevs say on discord they want realism in the game on cars but devs don't know how a jack stand works because they think jack stands can lift a car 5+ feet in the air and rotate a vehicle in x and y direction. Wow really? Come on this game is a joke. Devs say this makes the game more realistic? Driving a vehicle colliding into a rock, building, or tree is okay, but somehow running over the soft zeeks damages my vehicle.  This makes no sense. Devs say horses can teleport but cars can't.  This game is insanity."
+        },
+        {
+            "review_id": "226036249",
+            "steam_id": "76561198047337693",
+            "playtime_minutes": 51,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This doesn't happen to me often... but not only are the camera controls a bit frustrating... but the actual movement of the camera made me motion sick... I dont usually get motion sick from video games. Unfortunately I wasn't able to get very far into the game because of this."
+        },
+        {
+            "review_id": "225237016",
+            "steam_id": "76561198143327016",
+            "playtime_minutes": 6389,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game deserves more love! Controls  and the camera angle are fine and easy to get use to. Need some work with optimising the performance. Keep up the updates coming. Having so much fun.\nDaryl Dixon's journey continues on nightmare"
+        },
+        {
+            "review_id": "225236000",
+            "steam_id": "76561198135846612",
+            "playtime_minutes": 8042,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I'm very addicted to this game, and I'll tell you why.\nI like grind games, mixed to zombie, looting and crafting, so if you like this type of game you will spend at least some hours in HumanitZ.\n\nNot comparing, but just to you have an idea on how is the game: it's a mix of Project Zomboid and 7 Days to Die.\n\nI've playing with my wife and we enjoy it a lot together: exploring, looting and following the story. I'm reaching 135 hours of game and I'll tell you my sincere pros and cons.\n\nPros:\n- For the price you paid is more than enough.\n- The map is relatively big (take time to explore).\n- Exploration and looting is very good.\n- You can see the attention with the details the dev have with each scenario.\n- Headshot are so satisfying.\n\nCons:\n- Even if your PC has great specs, the performance is not very good.\n- If you run the game with graphics in high or ultra, certainly you'll freeze a lot driving a car though the scenario.\n- If you have to minimize the game to do any other task, probably the game will crash or get stuck, just being solved by restart the game.\n- During the auto-save, the game also lag a lot.\n- I can see some people disliking the camera, but in the preview \n\nResuming: it's an amazing game if you like survival games with a medium/hard difficult, looting and crafting. But in this version we still face some performance issues.\nIf you don't care set low graphics to increase performance like me, you can configure it in Options."
+        },
+        {
+            "review_id": "225079191",
+            "steam_id": "76561199178163261",
+            "playtime_minutes": 6577,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's a good survival game that's easy to learn the keys or the controller layout. If you don't like the camera, they make mods to get better 3rd person views to make attacking the zombies a little better."
+        },
+        {
+            "review_id": "227357101",
+            "steam_id": "76561199497451240",
+            "playtime_minutes": 943,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Probablemente mi juego favorito de este genero, hacia mucho que no jugaba un Survival tan bueno\r\n"
+        },
+        {
+            "review_id": "226802519",
+            "steam_id": "76561198133894780",
+            "playtime_minutes": 2066,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "GREAT GAME LOVE THE MECHANICS WOULD LOVE TO SEE MORE DETAILED MECHANICS ADDED  \r\n\r\n"
+        },
+        {
+            "review_id": "225209801",
+            "steam_id": "76561198040543536",
+            "playtime_minutes": 257,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Nice, very calm, on the easiest mode very forgiving for new players."
+        },
+        {
+            "review_id": "226713583",
+            "steam_id": "76561198160114199",
+            "playtime_minutes": 2163,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is just OK Zombie survival game.\n\nIf you thought SoD2 was too arcadey and scripted, HumanitZ brings in more real survival and randomness.\nIf ProjectZomboid was too complex, deep and tedious. HumanitZ is more simple and just enough complex.\nHas crafting/minnig n all basic resource gathering stuff\n\nIsometric camera may be off putting to some people, but its part of the game. I had issues as well with it, but I kinda got used to it.\nCarry weight could be increased from 35 kg to 45, since its annoying to run every time into the base.\nAnd the following skill could give 65kg bonus.\nItem durability is also bit lackin, as later you can gain a skill which increases durability of improvised items. Problem is, that skill makes other \"standard\" items feel....to squishy and they break easily.\n\nStealth system could use more work, its working but it can be better.\nLastly, biggest problem is Zombie spawns. Sometimes they will simply \"pop\" into existance in your zone. Which is very noticeable. How n why, I dunno. simply happens.\nSometimes, your weapon swings wont connect for the hit, even tho clearly you should have landed a hit.\n\nOverall, I can recommend the game if you want something between PZ and SoD2.\nThe game has its own minor issues, but I hope Devs iron those out. (And if you are willing to forgive certain things)\n7/10"
+        },
+        {
+            "review_id": "227041817",
+            "steam_id": "76561198991105843",
+            "playtime_minutes": 10475,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5111111402511597,
+            "steam_purchase": true,
+            "review_text": "alot of bugs and lagy servers"
+        },
+        {
+            "review_id": "226551766",
+            "steam_id": "76561198195774117",
+            "playtime_minutes": 18,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5001820921897888,
+            "steam_purchase": true,
+            "review_text": "This game is ♥♥♥♥ can not have it in full view so it's ♥♥♥♥"
+        },
+        {
+            "review_id": "225092384",
+            "steam_id": "76561198157070811",
+            "playtime_minutes": 1513,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Struggle to find water , change settings , 5 bottles spawned from the heavens thank you lord"
+        },
+        {
+            "review_id": "227206779",
+            "steam_id": "76561198362444734",
+            "playtime_minutes": 6393,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Hopefully, we will get steam workshop for this game soon."
+        },
+        {
+            "review_id": "226596333",
+            "steam_id": "76561198289401838",
+            "playtime_minutes": 771,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "time flies when playing this game , i want to know more about this game."
+        },
+        {
+            "review_id": "227372796",
+            "steam_id": "76561198010677137",
+            "playtime_minutes": 569,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5172414183616638,
+            "steam_purchase": true,
+            "review_text": "This game is buggy garbage."
+        },
+        {
+            "review_id": "225194174",
+            "steam_id": "76561199067598646",
+            "playtime_minutes": 200,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Zombie slaying survival, that about sums it up lmao"
+        },
+        {
+            "review_id": "225718307",
+            "steam_id": "76561197985841006",
+            "playtime_minutes": 235,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4934210479259491,
+            "steam_purchase": true,
+            "review_text": "An immersive game.\r\nReally enjoying it"
+        },
+        {
+            "review_id": "226542843",
+            "steam_id": "76561198081229716",
+            "playtime_minutes": 1254,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its ok, get boring pretty quick"
+        },
+        {
+            "review_id": "225379665",
+            "steam_id": "76561198074146751",
+            "playtime_minutes": 317,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "one of the best zombie games"
+        },
+        {
+            "review_id": "225793734",
+            "steam_id": "76561199134124942",
+            "playtime_minutes": 384,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its growing on me, fishing seems to be broken? i cant reel"
+        },
+        {
+            "review_id": "226199368",
+            "steam_id": "76561197984949613",
+            "playtime_minutes": 1648,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5199999809265137,
+            "steam_purchase": true,
+            "review_text": "Great game!"
+        },
+        {
+            "review_id": "226596658",
+            "steam_id": "76561198065425167",
+            "playtime_minutes": 3508,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "awesome game\r\n"
+        },
+        {
+            "review_id": "226589546",
+            "steam_id": "76561199435327731",
+            "playtime_minutes": 911,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good game"
+        },
+        {
+            "review_id": "226019183",
+            "steam_id": "76561199429004879",
+            "playtime_minutes": 1975,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game\r\n"
+        },
+        {
+            "review_id": "225621208",
+            "steam_id": "76561199076611170",
+            "playtime_minutes": 2748,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4934210479259491,
+            "steam_purchase": true,
+            "review_text": "good"
+        },
+        {
+            "review_id": "226824704",
+            "steam_id": "76561199576483112",
+            "playtime_minutes": 4884,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "Amazing game!"
+        },
+        {
+            "review_id": "226151047",
+            "steam_id": "76561199834853808",
+            "playtime_minutes": 31,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.4378531277179718,
+            "steam_purchase": true,
+            "review_text": "terrible game."
+        },
+        {
+            "review_id": "227118994",
+            "steam_id": "76561198128699369",
+            "playtime_minutes": 1076,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "fun"
+        },
+        {
+            "review_id": "225796937",
+            "steam_id": "76561198082752936",
+            "playtime_minutes": 693,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.554019033908844,
+            "steam_purchase": true,
+            "review_text": "Needs more time in the oven,  wait."
+        },
+        {
+            "review_id": "225263247",
+            "steam_id": "76561198078685759",
+            "playtime_minutes": 25,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.49364903569221497,
+            "steam_purchase": true,
+            "review_text": "games so mid"
+        },
+        {
+            "review_id": "225615454",
+            "steam_id": "76561199253488691",
+            "playtime_minutes": 226,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.46484726667404175,
+            "steam_purchase": true,
+            "review_text": "GREAT GAME JUST BUY IT"
+        },
+        {
+            "review_id": "227130827",
+            "steam_id": "76561198036223778",
+            "playtime_minutes": 2328,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Nice"
+        },
+        {
+            "review_id": "225930551",
+            "steam_id": "76561198966474161",
+            "playtime_minutes": 1149,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4921259880065918,
+            "steam_purchase": true,
+            "review_text": "try it"
+        },
+        {
+            "review_id": "227147574",
+            "steam_id": "76561198334536855",
+            "playtime_minutes": 13819,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "constant updates"
+        },
+        {
+            "review_id": "225798920",
+            "steam_id": "76561198849641077",
+            "playtime_minutes": 25,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.37801146507263184,
+            "steam_purchase": true,
+            "review_text": "Dont buy it"
+        },
+        {
+            "review_id": "226340246",
+            "steam_id": "76561198028713092",
+            "playtime_minutes": 3381,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "gOOD"
+        },
+        {
+            "review_id": "225603083",
+            "steam_id": "76561198076718420",
+            "playtime_minutes": 13660,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great survival game."
+        },
+        {
+            "review_id": "225894327",
+            "steam_id": "76561198728074125",
+            "playtime_minutes": 114,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "only 5 hours in good game"
+        },
+        {
+            "review_id": "225206804",
+            "steam_id": "76561198042238880",
+            "playtime_minutes": 566,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good"
+        },
+        {
+            "review_id": "225748322",
+            "steam_id": "76561198706951134",
+            "playtime_minutes": 382,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4934210479259491,
+            "steam_purchase": true,
+            "review_text": "cool"
+        },
+        {
+            "review_id": "226436295",
+            "steam_id": "76561198391098610",
+            "playtime_minutes": 6163,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Super fun"
+        },
+        {
+            "review_id": "226114301",
+            "steam_id": "76561197998577386",
+            "playtime_minutes": 1039,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "pretty damn cool"
+        },
+        {
+            "review_id": "227282465",
+            "steam_id": "76561198191037755",
+            "playtime_minutes": 494,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "WORTH THE MONEY"
+        },
+        {
+            "review_id": "226815263",
+            "steam_id": "76561199065613829",
+            "playtime_minutes": 332,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "yes"
+        },
+        {
+            "review_id": "227381957",
+            "steam_id": "76561198333144770",
+            "playtime_minutes": 5520,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Get The Lead Out."
+        },
+        {
+            "review_id": "226140912",
+            "steam_id": "76561198340622795",
+            "playtime_minutes": 46,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "🥀"
+        }
+    ]
+}

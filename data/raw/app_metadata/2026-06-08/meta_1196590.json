@@ -1,0 +1,79 @@
+{
+    "ingested_at": "2026-06-08T18:45:17.034741",
+    "app_id": "1196590",
+    "metadata": {
+        "type": "game",
+        "name": "Resident Evil Village",
+        "steam_appid": 1196590,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Experience survival horror like never before in the 8th major installment in the Resident Evil franchise - Resident Evil Village. With detailed graphics, intense first-person action and masterful storytelling, the terror has never felt more realistic.",
+        "detailed_description": "<h1>Resident Evil Village Gold Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196590/extras/8f52076247ba06b065d5d279bc10dd62.avif?t=1776927117\" width=600 height=194 /></span><br>Experience survival horror like never before in the eighth major installment in the storied Resident Evil franchise - Resident Evil Village. The Gold Edition includes:<br><br>- Resident Evil: Village game<br>- Winters' Expansion additional content<br>- Trauma Pack DLC<br><br>Note: The Village of Shadows unlock included in the Trauma Pack allows access to content which is otherwise unlockable through gameplay progress. <br><br>Set a few years after the horrifying events in the critically acclaimed Resident Evil 7 biohazard, the all-new storyline begins with Ethan Winters and his wife Mia living peacefully in a new location, free from their past nightmares. Just as they are building their new life together, tragedy befalls them once again.<br><br>FEATURES<br>• First-Person Action – Players will assume the role of Ethan Winters and experience every up-close battle and terrifying pursuit through a first-person perspective. <br>• Familiar Faces and New Foes – Chris Redfield has typically been a hero in the Resident Evil series, but his appearance in Resident Evil Village seemingly shrouds him in sinister motives. A host of new adversaries inhabiting the enigmatic village will relentlessly hunt Ethan and hinder his every move as he attempts to make sense of the new nightmare he finds himself in.<br>• A Living, Breathing Village – More than just a mysterious backdrop for the horrifying events that unfold in the game, the village is a character in its own right with mysteries for Ethan to uncover and terrors to escape from.</p><br><h1>About the Game</h1>Experience survival horror like never before in the eighth major installment in the storied Resident Evil franchise - <i>Resident Evil Village</i>.<br><br>Set a few years after the horrifying events in the critically acclaimed <i>Resident Evil 7 biohazard</i>, the all-new storyline begins with Ethan Winters and his wife Mia living peacefully in a new location, free from their past nightmares. Just as they are building their new life together, tragedy befalls them once again.<br><br><ul class=\"bb_ul\"><li><strong>First-Person Action</strong> – Players will assume the role of Ethan Winters and experience every up-close battle and terrifying pursuit through a first-person perspective. <br></li><li><strong>Familiar Faces and New Foes</strong> – Chris Redfield has typically been a hero in the Resident Evil series, but his appearance in Resident Evil Village seemingly shrouds him in sinister motives. A host of new adversaries inhabiting the village will relentlessly hunt Ethan and hinder his every move as he attempts to make sense of the new nightmare he finds himself in.</li></ul>",
+        "developers": [
+            "CAPCOM Co., Ltd."
+        ],
+        "publishers": [
+            "CAPCOM Co., Ltd."
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 999,
+            "discount_percent": 75,
+            "initial_formatted": "$39.99",
+            "final_formatted": "$9.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 83,
+            "url": "https://www.metacritic.com/game/pc/resident-evil-village?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 102001
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 6, 2021"
+        }
+    }
+}

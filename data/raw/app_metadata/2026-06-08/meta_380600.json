@@ -1,0 +1,101 @@
+{
+    "ingested_at": "2026-06-08T19:09:26.221863",
+    "app_id": "380600",
+    "metadata": {
+        "type": "game",
+        "name": "Fishing Planet",
+        "steam_appid": 380600,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Fishing Planet® is a free-to-play and highly realistic first-person online multiplayer fishing simulator. Developed by avid fishing enthusiasts to bring you the full thrill of actual angling on your PC.",
+        "detailed_description": "<h1>Just Updated</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/380600/extras/04452c63ff4fe25f74eeb609432d44ca.avif?t=1777626213\" width=1560 height=504 /></span></p><p class=\"bb_paragraph\" >Explore<strong> Skårland Fjord</strong>, Norway - a cold-water destination packed with depth and challenge. Discover <strong>25 brand-new species</strong>, from Norwegian Atlantic Salmon, Herring, and multiple Cod species to apex predators like the European Angler. Face true giants including <strong>Atlantic Halibut, Porbeagle Shark, European Sea Sturgeon, and the legendary Greenland Shark</strong>.</p><p class=\"bb_paragraph\" >With <strong>79 fish variations</strong> in total, Skårland Fjord is one of the most diverse waterways in the game. To support deep and heavy catches, the update introduces <strong>two new equipment categories</strong>: <i>Electric Saltwater Bottom Casting Rods</i> and <i>Electric Saltwater Casting Reels</i>.<br>Also includes several quality-of-life improvements such as <strong>Inventory Sorting</strong>, easier repairs with <strong>Repair Kits</strong>, and a new <strong>heavy-fish crane</strong> for enhanced Photomode shots.</p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" >Fishing Planet® is a highly realistic <strong>first-person online multiplayer</strong> fishing simulator. Developed by avid fishing enthusiasts to bring you the full thrill of actual angling on your PC.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Free-to-Play</strong> on all platforms and just a download away!</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Fishing Together with other players on the same boat</strong>. Our ocean fishing yachts can accommodate 2-5 friends simultaneously. </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Compete online with other players in <strong>events and competitions</strong> with personal scores, achievements, leader boards and top-players lists.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Highly realistic world of fishing on your screen:</strong></h2><p class=\"bb_paragraph\" > </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >200+ species of fish with complex AI driven behavior depending on seasons, climate, time of day, water current, bottom type, water and air temperature, wind and more.<br> </p></li><li><p class=\"bb_paragraph\" >27 scenic waterways with photorealistic graphics from all around the world with their own climate conditions, landscapes, bottom topography and vegetation. All waterways are based on real locations. </p></li><li><p class=\"bb_paragraph\" >Freshwater and saltwater fishing with their own features for realistic and immersive experience.<br> </p></li><li><p class=\"bb_paragraph\" >Four types of fishing - float, spinning, bottom and saltwater trolling.<br> </p></li><li><p class=\"bb_paragraph\" >Thousands of tackles and lure combinations with unique physical and hydrodynamic properties provide realistic biting. Each fish species attacks and fights based on real-life behavior.</p></li><li><p class=\"bb_paragraph\" >Dynamic weather – day/night alternation, change of seasons, different weather conditions (rain, fog, bright sunshine), storms on the ocean.<br> </p></li><li><p class=\"bb_paragraph\" >Dynamic water graphics that change depending on wind, current and depth. Splashes, waves and ripples on the water create a fully realistic fishing experience. Immersive environment sounds that enhance players' experience.<br> </p></li><li><p class=\"bb_paragraph\" >Rideable kayaks and 3 types of motor boats, each with unique speed, durability and other parameters and features.</p></li><li><p class=\"bb_paragraph\" >Ocean fishing yachts come equipped with rod holders for trolling and fish storage for massive ocean catches.  These yachts feature unique Fish Finder 360 technology to help locate fish in the vast ocean.<br><br><br>Join the ultimate fishing adventure with Fishing Planet® and experience the most realistic and immersive fishing simulator available!</p></li></ul>",
+        "developers": [
+            "Fishing Planet LLC"
+        ],
+        "publishers": [
+            "Fishing Planet LLC"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            }
+        ],
+        "genres": [
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "18",
+                "description": "Sports"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 551
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Aug 28, 2017"
+        }
+    }
+}

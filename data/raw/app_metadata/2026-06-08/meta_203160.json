@@ -1,0 +1,99 @@
+{
+    "ingested_at": "2026-06-08T19:35:58.952508",
+    "app_id": "203160",
+    "metadata": {
+        "type": "game",
+        "name": "Tomb Raider Game of the Year",
+        "steam_appid": 203160,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Tomb Raider explores the intense origin story of Lara Croft and her ascent from a young woman to a hardened survivor.",
+        "detailed_description": "<h1>Reviews and Accolades</h1><p><p class=\"bb_paragraph\" ><i>4.4/5 &quot;...it delivers a must-play gaming experience for action adventure fans everywhere. Welcome back, Lara, you've been missed.&quot;</i> - Cheat Code Central </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>4.5/5 &quot;...Tomb Raider is sure to impress. Its expert sense of pacing, captivating setting, and dark tone create a truly memorable experience that's further enhanced by an immense level of detail.&quot;</i> - gamesradar+ </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>8.5/10 &quot;I'm happy to go on record as saying this is the best Tomb Raider game I've played. Tightly produced, competent in both its puzzling and its combat, this is one reboot that manages to be unequivocally superior to its predecessors. &quot;</i> - Destructoid</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>4.5/10 &quot;... if you're a gamer, you should play Tomb Raider. It combines high-levels of interactivity, excellent pacing, and a true bond between the player and the character on screen. &quot;</i> - Game Revolution</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>90/100 &quot;Tomb Raider’s whole is greater than the sum of its parts, and everything combines to make this the best reboot game on the market today. &quot;</i> - Game Over</p></p><br><h1>Tomb Raider Game of the Year Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/extras/3738d7569050bbd39f4b1f90c12c3b56.avif?t=1765220424\" width=616 height=202 /></span><br>Tomb Raider is a critically acclaimed action adventure that explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold. The Game of the Year edition includes the Tomb of the Lost Adventurer, 6 single player outfits for Lara, 8 multiplayer maps, and 4 characters.</p><br><h1>About the Game</h1><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/extras/436dd9b16ba3f134237409d9852203a8.poster.avif?t=1765220424\" width=628 height=182 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/extras/436dd9b16ba3f134237409d9852203a8.webm?t=1765220424\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/extras/436dd9b16ba3f134237409d9852203a8.mp4?t=1765220424\" type=\"video/mp4\"></video></span><br><br>Tomb Raider is a critically acclaimed action adventure that explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold. The Game of the Year edition includes the Tomb of the Lost Adventurer, 6 single player outfits for Lara.<br><br><strong>KEY FEATURES:</strong><br><ul class=\"bb_ul\"><li>A Turning Point: Experience Lara Croft’s intense origin story from a young woman to a hardened survivor.  <br></li><li>An All-New Raiding Experience: Explore a mysterious island filled with environmental puzzles, visceral combat, and tombs to discover.<br></li><li>Fight to Live: Salvage resources, gain experience, and upgrade Lara’s weapons and tools to survive the island’s hostile inhabitants.<br></li><li>Survive as a Team: Play a variety of multiplayer modes as Lara’s Shipmates or Yamatai’s Scavengers.</li></ul>",
+        "developers": [
+            "Crystal Dynamics",
+            "Eidos-Montréal",
+            "Feral Interactive (Mac)",
+            "Nixxes"
+        ],
+        "publishers": [
+            "Crystal Dynamics",
+            "Feral Interactive (Mac)"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 86,
+            "url": "https://www.metacritic.com/game/pc/tomb-raider?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 169898
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 4, 2013"
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "ingested_at": "2026-06-08T19:21:58.411914",
+    "app_id": "582160",
+    "metadata": {
+        "type": "game",
+        "name": "Assassin's Creed® Origins",
+        "steam_appid": 582160,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Explore Ancient Egypt in this action-adventure game. Battle powerful enemies, unveil conspiracies, and discover the origin story of the Assassin’s Brotherhood.",
+        "detailed_description": "<h1>Deluxe Edition </h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/extras/64bc0e08c2238338bcc4acb603e3b289.avif?t=1777477123\" width=1600 height=900 /></span></p><p class=\"bb_paragraph\" >The Deluxe Edition includes the base game and the Deluxe Pack:</p><p class=\"bb_paragraph\" >- Ambush at Sea exclusive mission</p><p class=\"bb_paragraph\" >- Desert Cobra Pack: 1 outfit,  1 mount, 2 weapons, 1 shield</p><p class=\"bb_paragraph\" >- 3 Ability Points</p></p><br><h1>Gold Edition</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/extras/7ba29f297cc3a17f98f25e89bf9be135.avif?t=1777477123\" width=1600 height=900 /></span></p><p class=\"bb_paragraph\" >The Gold Edition includes the base game, the Season Pass, and the Deluxe Pack:</p><p class=\"bb_paragraph\" >- The Hidden Ones expansion</p><p class=\"bb_paragraph\" >- The Curse Of the Pharaohs expansion</p><p class=\"bb_paragraph\" >- Roman Centurion Pack: 1 outfit, 1 mount, 2 weapons, 1 shield</p><p class=\"bb_paragraph\" >- Horus Pack: 1 outfit, 1 mount, 2 bows, 1 shield</p><p class=\"bb_paragraph\" >- Ambush at Sea exclusive mission</p><p class=\"bb_paragraph\" >- Desert Cobra Pack: 1 outfit, 1 mount, 2 weapons, 1 shield</p><p class=\"bb_paragraph\" >- 3 Ability Points</p><p class=\"bb_paragraph\" ></p></p><br><h1>About the Game</h1><h2 class=\"bb_tag\" >A COUNTRY TO DISCOVER</h2><p class=\"bb_paragraph\" >From deserts to lush oases, from the Mediterranean Sea to the tombs of Giza, sail down the Nile, and fight your way against dangerous ancient factions and wild beasts as you explore this gigantic and unpredictable land.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/extras/c003630f44e0b918cfdb9f2219baf60d.poster.avif?t=1777477123\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/extras/c003630f44e0b918cfdb9f2219baf60d.webm?t=1777477123\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/extras/c003630f44e0b918cfdb9f2219baf60d.mp4?t=1777477123\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >EMBRACE ACTION-RPG</h2><p class=\"bb_paragraph\" >Experience a completely new way to fight. Loot and use dozens of weapons with different characteristics and rarities. Explore deep progression mechanics and challenge your skills against unique and powerful bosses.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/extras/934f4d1fe562c562a4777d445b955d9d.poster.avif?t=1777477123\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/extras/934f4d1fe562c562a4777d445b955d9d.webm?t=1777477123\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/extras/934f4d1fe562c562a4777d445b955d9d.mp4?t=1777477123\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >A NEW STORY EVERY TIME YOU PLAY</h2><p class=\"bb_paragraph\" >Engage in multiple quests and gripping stories as you cross paths with strong and memorable characters, from the wealthiest high-born to the most desperate outcasts.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/extras/8850a549918af5322e26fdc9d2250ad3.poster.avif?t=1777477123\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/extras/8850a549918af5322e26fdc9d2250ad3.webm?t=1777477123\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/extras/8850a549918af5322e26fdc9d2250ad3.mp4?t=1777477123\" type=\"video/mp4\"></video></span></p>",
+        "developers": [
+            "Ubisoft Montreal"
+        ],
+        "publishers": [
+            "Ubisoft"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 5999,
+            "final": 5999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$59.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 75,
+                "description": "Keyboard Only Option"
+            },
+            {
+                "id": 76,
+                "description": "Mouse Only Option"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 117661
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 26, 2017"
+        }
+    }
+}

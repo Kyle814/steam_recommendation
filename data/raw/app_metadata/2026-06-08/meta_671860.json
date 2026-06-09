@@ -1,0 +1,78 @@
+{
+    "ingested_at": "2026-06-08T19:47:14.755901",
+    "app_id": "671860",
+    "metadata": {
+        "type": "game",
+        "name": "BattleBit Remastered",
+        "steam_appid": 671860,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "BattleBit Remastered is a low-poly, massive multiplayer FPS, supporting 254 players per server. Battle on a near-fully destructible map with various vehicles!",
+        "detailed_description": "<h2 class=\"bb_tag\" >Reviews</h2><p class=\"bb_paragraph\" >”…even in its current state, it’s already one of the more captivating multiplayer shooters on Steam right now.” <strong>IGN</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >“BattleBit has echoes of what Eric Barone did with Stardew Valley: a small game that punches above its weight and wins people over with unexpected depth and quality.” <strong>PC Gamer</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >“If you’ve grown tired of extraction shooters and battle royale games and crave something more focused on gunplay, combat, and just having fun over grinding and seasons, I’d recommend <i>BattleBit Remastered</i>.” <strong>Kotaku</strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >About this game</h2><p class=\"bb_paragraph\" >Dive into chaotic, large-scale FPS battles with up to 254 players in <i>BattleBit Remastered</i>! Whether you're storming enemy positions with Assault or building critical defences as support, every role counts in this low-poly, adrenaline-pumping battleground. Squad up with open VOIP and level cities with fully destructible environments. Ready to experience the ultimate team-based warfare?</p><h2 class=\"bb_tag\" >Primary features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Destructible Environments </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/extras/8cff82274c102c808f6befc81329c82d.poster.avif?t=1730393449\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/extras/8cff82274c102c808f6befc81329c82d.webm?t=1730393449\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/extras/8cff82274c102c808f6befc81329c82d.mp4?t=1730393449\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Tear down walls, collapse buildings, and reshape the battlefield with dynamic 'levolution' mechanics, where every action leaves a lasting impact on the world around you!</p><p class=\"bb_paragraph\" ></p></li><li><p class=\"bb_paragraph\" >Fully customizable weapons (WIP) <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/extras/ae6dfbe685917e39f5d2d4468f494a74.poster.avif?t=1730393449\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/extras/ae6dfbe685917e39f5d2d4468f494a74.webm?t=1730393449\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/extras/ae6dfbe685917e39f5d2d4468f494a74.mp4?t=1730393449\" type=\"video/mp4\"></video></span>Tailor your arsenal to your playstyle in <i>BattleBit Remastered</i>! Modify everything from scopes to grips or barrels to mags. Create the perfect weapon loadout to dominate every battleground.</p></li></ul><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >254 Player servers <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/extras/611117d20181595cbd811c9fa4f71487.poster.avif?t=1730393449\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/extras/611117d20181595cbd811c9fa4f71487.webm?t=1730393449\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/extras/611117d20181595cbd811c9fa4f71487.mp4?t=1730393449\" type=\"video/mp4\"></video></span>Join the chaos with up to 254 players in epic, large-scale battles! <i>BattleBit Remastered</i> offers massive multiplayer servers where proximity-based voice chat brings every encounter to life! Coordinate strategies or taunt the enemy as you fight for control in the ever-evolving battleground!</p></li></ul><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Vehicular combat with tanks, helicopters, transports, and sea vehicles. <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/extras/2a3d88b00e1fda35b473ad6016327d4d.poster.avif?t=1730393449\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/extras/2a3d88b00e1fda35b473ad6016327d4d.webm?t=1730393449\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/extras/2a3d88b00e1fda35b473ad6016327d4d.mp4?t=1730393449\" type=\"video/mp4\"></video></span>Dominate the battlefield with an arsenal of vehicles at your command! From tanks and helicopters to transports and sea vessels, <i>BattleBit Remastered</i> delivers intense vehicular combat that adds new layers of strategy and chaos to every fight.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
+        "developers": [
+            "SgtOkiDoki",
+            "Vilaskis",
+            "TheLiquidHorse"
+        ],
+        "publishers": [
+            "SgtOkiDoki"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1499,
+            "final": 1499,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$14.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "70",
+                "description": "Early Access"
+            }
+        ],
+        "recommendations": {
+            "total": 127500
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jun 15, 2023"
+        }
+    }
+}

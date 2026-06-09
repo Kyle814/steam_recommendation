@@ -1,0 +1,95 @@
+{
+    "ingested_at": "2026-06-08T19:51:40.168226",
+    "app_id": "787860",
+    "metadata": {
+        "type": "game",
+        "name": "Farming Simulator 19",
+        "steam_appid": 787860,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "The best-selling franchise takes a giant leap forward with a complete overhaul of the graphics engine, offering the most striking and immersive visuals and effects, along with the deepest and most complete farming experience ever.",
+        "detailed_description": "<h1>Farming Simulator 19 Platinum Edition is now available! Do you own Farming Simulator 19?</h1><p></p><br><h1>About the Game</h1><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/extras/16267bc6989af6377e7bb14c3edcd4c9.avif?t=1674664652\" width=616 height=150 /></span><br><br>The best-selling franchise returns this year with a <strong>complete overhaul of the graphics engine</strong>, offering the most striking and immersive visuals and effects, along with the <strong>deepest and most complete farming experience ever</strong>.<br><br><strong>Farming Simulator 19 takes the biggest step forward yet with the franchise’s most extensive vehicle roster ever!</strong> You’ll take control of vehicles and machines faithfully recreated from all the leading brands in the industry, including <strong>for the first time John Deere</strong>, the largest agriculture machinery company in the world, Case IH, New Holland, Challenger, Fendt, Massey Ferguson, Valtra, Krone, Deutz-Fahr and many more.<br><br><strong>Farming Simulator 19</strong> will feature new American and European environments in which to develop and expand your farm and will introduce many exciting new farming activities, including new machinery and crops with cotton and oat! Tend to your livestock of pigs, cows, sheep, and chickens - or ride your horses for the first time, letting you explore in a brand-new way the vast land around your farm.<br><br><strong>Farming Simulator 19</strong> is the richest and most complete farming experience ever made!<br><br><strong>MAIN FEATURES </strong><br><ul class=\"bb_ul\"><li><strong>3 BONUS VEHICLES</strong>: Download for free 3 bonus vehicles available now in the ModHub: John Deere XUV865M Gator, CLAAS DOMINATOR 108 SL MAXI, CLAAS TORION 1914 Dev Mule <br></li><li>The biggest step forward for the Farming Simulator franchise, offering the most striking and immersive graphics ever<br></li><li>Use and drive hundreds of faithfully reproduced farming vehicles and tools, including for the first time John Deere<br></li><li>Tend to your livestock including pigs, cows, sheep, chicken, and for the first time horses<br></li><li>Ride your own horses and explore the vast areas offered in huge open worlds loaded with farming activities<br></li><li>Develop your farm online with up to 16 players and enrich your Farming experience with community-created mods</li></ul>",
+        "developers": [
+            "Giants Software"
+        ],
+        "publishers": [
+            "Giants Software"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1799,
+            "final": 1799,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$17.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 73,
+            "url": "https://www.metacritic.com/game/pc/farming-simulator-19?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "28",
+                "description": "Simulation"
+            }
+        ],
+        "recommendations": {
+            "total": 64305
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 19, 2018"
+        }
+    }
+}

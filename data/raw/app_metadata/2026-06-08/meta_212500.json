@@ -1,0 +1,81 @@
+{
+    "ingested_at": "2026-06-08T20:02:24.595920",
+    "app_id": "212500",
+    "metadata": {
+        "type": "game",
+        "name": "The Lord of the Rings Online™",
+        "steam_appid": 212500,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Join the world’s greatest fellowship of players in the award-winning online re-creation of J. R. R. Tolkien’s legendary Middle-earth.",
+        "detailed_description": "In <strong>The Lord of the Rings Online™</strong>, join the world’s greatest fellowship of players in the faithful online re-creation of J. R. R. Tolkien’s legendary Middle-earth. From the crumbling, shadowed ruins of Weathertop to the ageless, golden wood of Lothlórien, immerse yourself in Middle-earth as you have never seen it before. Visit the peaceful, verdant fields of the Shire, brave the dark depths of the Mines of Moria, and raise a pint at the Prancing Pony in Bree!<h2 class=\"bb_tag\" >Key Features:</h2> <ul class=\"bb_ul\"><li><strong>Explore the Massive World of Middle-earth:</strong> Immerse yourself in the award-winning recreation of the beloved fantasy world of J.R.R. Tolkien through renowned locations including the Shire, the Mines of Moria, and Lothlórien.<br></li><li><strong>Create &amp; Advance Your Hero:</strong> Advance to the highest levels with boundless character customization possibilities. Choose from a vast array of races, classes, and professions, plus earn countless titles, skills, and traits, direct from the stories of Middle-earth. <br></li><li><strong>Solo &amp; Co-op Skirmishes:</strong> Dive into instant adventure alongside friends or customizable AI soldiers in exciting, scalable battles!<br></li><li><strong>Legendary Items:</strong> Design and customize your own legendary weapons of immense power like Bilbo’s Sting or Gandalf’s Glamdring!<br></li><li><strong>Play as a Monster:</strong> Fight as a servant of Sauron against other players in intense PvMP Combat!<br></li><li><strong>Craft Your Own Gear:</strong> Farm crops in the fertile fields of the Shire or let your hammer ring in the Dwarven halls Ered Luin.<br></li><li><strong>Free Online Play:</strong> No monthly fees required. </li></ul>",
+        "developers": [
+            "Standing Stone Games"
+        ],
+        "publishers": [
+            "Daybreak Game Company LLC"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 170
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jun 6, 2012"
+        }
+    }
+}

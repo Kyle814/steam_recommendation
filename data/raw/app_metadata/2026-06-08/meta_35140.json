@@ -1,0 +1,79 @@
+{
+    "ingested_at": "2026-06-08T19:45:39.539656",
+    "app_id": "35140",
+    "metadata": {
+        "type": "game",
+        "name": "Batman: Arkham Asylum Game of the Year Edition",
+        "steam_appid": 35140,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Experience what it’s like to be Batman and face off against Gotham's greatest villians. Explore every inch of Arkham Asylum and roam freely on the infamous island.",
+        "detailed_description": "Critically acclaimed Batman: Arkham Asylum returns with a remastered Game of the Year Edition, featuring 4 extra Challenge Maps. The additional Challenge Maps are Crime Alley; Scarecrow Nightmare; Totally Insane and Nocturnal Hunter (both from the Insane Night Map Pack).<br>\t\t\t\t\t<ul class=\"bb_ul\"><li>Utilize the unique FreeFlow™ combat system to chain together unlimited combos seamlessly and battle with huge groups of The Joker’s henchmen in brutal melee brawls <br>\t\t\t\t\t</li><li>Investigate as Batman, the WORLD’S GREATEST DETECTIVE, by solving intricate puzzles with the help of cutting edge forensic tools including x-ray scanning, fingerprint scans, ‘Amido Black’ spray and a pheromone tracker<br>\t\t\t\t\t</li><li>Face off against Gotham’s greatest villains including The Joker, HARLEY QUINN, POISON IVY and KILLER CROC <br>\t\t\t\t\t</li><li>Become the Invisible Predator™ with Batman’s fear takedowns and unique vantage point system to move without being seen and hunt enemies  <br>\t\t\t\t\t</li><li>Choose multiple takedown methods, including swooping from the sky and smashing through walls. <br>\t\t\t\t\t</li><li>Explore every inch of Arkham Asylum and roam freely on the infamous island, presented for the first time ever in its gritty and realistic entirety<br>\t\t\t\t\t</li><li>Experience what it’s like to be BATMAN using BATARANGS, explosive gel aerosol, The Batclaw, sonar resonator and the line launcher <br>\t\t\t\t\t</li><li>Unlock more secrets by completing hidden challenges in the world and develop and customize equipment by earning experience points <br>\t\t\t\t\t</li><li>Enjoy complete superhero freedom in the environment with the use of Batman’s grapnel gun to get to any place you can see, jump from any height and glide in any direction <br>\t\t\t\t\t</li></ul>",
+        "developers": [
+            "Rocksteady Studios"
+        ],
+        "publishers": [
+            "WB Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 91,
+            "url": "https://www.metacritic.com/game/pc/batman-arkham-asylum?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 59670
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 26, 2010"
+        }
+    }
+}

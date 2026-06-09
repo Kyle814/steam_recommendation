@@ -1,0 +1,96 @@
+{
+    "ingested_at": "2026-06-08T19:09:09.337239",
+    "app_id": "109600",
+    "metadata": {
+        "type": "game",
+        "name": "Neverwinter",
+        "steam_appid": 109600,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Neverwinter is a free, action MMORPG based on the acclaimed Dungeons &amp; Dragons fantasy roleplaying game. Epic stories, action combat and classic roleplaying await those heroes courageous enough to enter the fantastic world of Neverwinter!",
+        "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/109600/extras/0e700b59c4a0c1d216e071fd5ed6e34d.avif?t=1780700482\" width=1170 height=658 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The Lich Queen Valindra has declared war on the people of Neverwinter and it’s up to you and your fellow heroes to push back her army of darkness. Create your very own adventurer and experience the Forgotten Realms like never before. Explore both classic Dungeons &amp; Dragons locations, battle iconic enemies, and uncover the many treasures and secrets these lands hold, whether solo or with friends. Start your adventure now for free!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/109600/extras/c059faa39f5f93dc087901b558f34b3f.poster.avif?t=1780700482\" width=616 height=144 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/109600/extras/c059faa39f5f93dc087901b558f34b3f.webm?t=1780700482\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/109600/extras/c059faa39f5f93dc087901b558f34b3f.mp4?t=1780700482\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Completely Free-to-Play</h2><p class=\"bb_paragraph\" >Explore and defend Neverwinter, one of the most beloved cities in the Forgotten Realms from Dungeons &amp; Dragons, completely free!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/109600/extras/6d62a12244fa6f773a99f1fd10023cc7.poster.avif?t=1780700482\" width=616 height=144 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/109600/extras/6d62a12244fa6f773a99f1fd10023cc7.webm?t=1780700482\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/109600/extras/6d62a12244fa6f773a99f1fd10023cc7.mp4?t=1780700482\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Dungeons &amp; Dragons Experience </h2><p class=\"bb_paragraph\" >Whether you play table-top or immerse yourself in Dungeons &amp; Dragons novels, experience iconic locations, classes and encounters - with both heroes and villains - on your journey through Faerûn.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/109600/extras/14ffe1425543e9ecfbf4cf8096526a00.poster.avif?t=1780700482\" width=616 height=144 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/109600/extras/14ffe1425543e9ecfbf4cf8096526a00.webm?t=1780700482\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/109600/extras/14ffe1425543e9ecfbf4cf8096526a00.mp4?t=1780700482\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Experience Fast Paced Action Combat</h2><p class=\"bb_paragraph\" >Move swiftly and boldly through encounters to maximize your effectiveness. Every attack, ability, and dodge will require planning, reflexes, and precise execution. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/109600/extras/5aca595e6161e7a155f570ddd3ca0379.poster.avif?t=1780700482\" width=616 height=144 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/109600/extras/5aca595e6161e7a155f570ddd3ca0379.webm?t=1780700482\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/109600/extras/5aca595e6161e7a155f570ddd3ca0379.mp4?t=1780700482\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
+        "developers": [
+            "Cryptic Studios"
+        ],
+        "publishers": [
+            "Arc Games"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 74,
+            "url": "https://www.metacritic.com/game/pc/neverwinter?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 295
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Dec 5, 2013"
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "ingested_at": "2026-06-08T19:27:05.369780",
+    "app_id": "1283970",
+    "metadata": {
+        "type": "game",
+        "name": "YoloMouse - Cursor Changer",
+        "steam_appid": 1283970,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Use YoloMouse to change those obscure game or app cursors. Replace, resize, add effects and style. Never lose your cursor in a heated battle again!",
+        "detailed_description": "YoloMouse has the unique ability to change game cursors making it ideal for MOBA, MMO, RPG, and ARPG games. It's also great for general apps, productivity, presentations, streaming, or just showing off 😎<h2 class=\"bb_tag\" >Change any cursor</h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283970/extras/3dcfc8126fbbde717b99212fdca0b4fb.poster.avif?t=1780097545\" width=780 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283970/extras/3dcfc8126fbbde717b99212fdca0b4fb.webm?t=1780097545\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283970/extras/3dcfc8126fbbde717b99212fdca0b4fb.mp4?t=1780097545\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Add effects</h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283970/extras/c3043451c3b38094f17d85cb68d7e31b.poster.avif?t=1780097545\" width=780 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283970/extras/c3043451c3b38094f17d85cb68d7e31b.webm?t=1780097545\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283970/extras/c3043451c3b38094f17d85cb68d7e31b.mp4?t=1780097545\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Enhance original cursors</h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283970/extras/73934cbdc09eb7d406a8917a54e67f3d.poster.avif?t=1780097545\" width=780 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283970/extras/73934cbdc09eb7d406a8917a54e67f3d.webm?t=1780097545\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283970/extras/73934cbdc09eb7d406a8917a54e67f3d.mp4?t=1780097545\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><strong>Cursors</strong>: Includes many cursors and thousands more from Steam Workshop.<br></li><li><strong>Support</strong>: Works with games, apps, and Windows. Fullscreen and multimonitor support.<br></li><li><strong>Size</strong>: Resize new and original cursors.<br></li><li><strong>Effects</strong>: Trails, zoom, inverted colors, cross, halo, glow, and mirror.<br></li><li><strong>Presets</strong>: Quickly apply pre-assigned cursor sets.<br></li><li><strong>Create</strong>: Use the included editor to make basic and animated cursors, then publish to Steam!<br></li><li><strong>Fast</strong>: No bloat. No impact on performance.<br></li><li><strong>Safe</strong>: Anti-cheat safe and whitelisted by major vendors.<br></li><li><strong>Fun</strong>: Jiggle physics!</li></ul><h2 class=\"bb_tag\" >Getting Started</h2>Hover a cursor you wish to change and hit <strong>CTRL ALT C</strong> to open the cursor selection menu. Then choose a new cursor, change size, and add effects.<br><strong>PRO TIP:</strong> To change all cursors quickly, choose the special <strong>ALL</strong> cursor first.<h2 class=\"bb_tag\" >Anti-cheat Safety</h2>YoloMouse works like other accessibility tools. It does not modify games or provide gameplay advantages. It is whitelisted by major anti-cheat vendors, code signed for security, and routinely tested against major titles. An automatic passive mode is included to maintain operation even if blocked. Always verify such an app complies with your game's ToS before use.",
+        "developers": [
+            "Dragonrise Games"
+        ],
+        "publishers": [
+            "Dragonrise Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 399,
+            "final": 399,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$3.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 75,
+                "description": "Keyboard Only Option"
+            },
+            {
+                "id": 76,
+                "description": "Mouse Only Option"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            },
+            {
+                "id": "51",
+                "description": "Animation & Modeling"
+            },
+            {
+                "id": "53",
+                "description": "Design & Illustration"
+            },
+            {
+                "id": "54",
+                "description": "Education"
+            },
+            {
+                "id": "55",
+                "description": "Photo Editing"
+            },
+            {
+                "id": "56",
+                "description": "Software Training"
+            },
+            {
+                "id": "57",
+                "description": "Utilities"
+            },
+            {
+                "id": "60",
+                "description": "Game Development"
+            }
+        ],
+        "recommendations": {
+            "total": 2813
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 1, 2020"
+        }
+    }
+}

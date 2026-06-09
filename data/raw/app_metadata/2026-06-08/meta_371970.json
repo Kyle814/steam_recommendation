@@ -1,0 +1,120 @@
+{
+    "ingested_at": "2026-06-08T19:58:11.433160",
+    "app_id": "371970",
+    "metadata": {
+        "type": "game",
+        "name": "Barony",
+        "steam_appid": 371970,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Barony is the premier first-person roguelike with cooperative play! Adventure alone, or gather a party with iconic and unusual RPG classes to face off against the brutal dungeons. Test your resourcefulness, wits, and friendships, on your quest to lift the evil lich's curse!",
+        "detailed_description": "You have entered the Barony of the vile lich Baron Herx!<br>His curse has all but destroyed the town of Hamlet, and daring adventurers are the people's only hope. Prepare to face devious dungeons that demand your resourcefulness, wit, and vigilance.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/extras/705229f34d045e0661b67a7ba65a2521.poster.avif?t=1769704265\" width=480 height=270 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/extras/705229f34d045e0661b67a7ba65a2521.webm?t=1769704265\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/extras/705229f34d045e0661b67a7ba65a2521.mp4?t=1769704265\" type=\"video/mp4\"></video></span><br>The dungeons are brutal; Full of vicious monsters and deadly traps, but legendary treasures, magical artifacts, spells and equipment will empower you throughout the adventure.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/extras/f004bf85f22b2b8c26f27cb10ba75c4e.poster.avif?t=1769704265\" width=480 height=270 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/extras/f004bf85f22b2b8c26f27cb10ba75c4e.webm?t=1769704265\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/extras/f004bf85f22b2b8c26f27cb10ba75c4e.mp4?t=1769704265\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>Put your skills to the test with perma-death, cryptic dungeons, and no handholding<br></li><li>Cooperate with 1-4 players via split-screen, wireless play between Switch consoles, and the internet including crossplay with other platforms!<br></li><li>Master 13 classes ranging from familiar warrior, wizard, and rogue classes to unique sexton, joker, and arcanist classes<br></li><li>Conquer or be killed by surprises around every corner in a new dungeon every time you play<br></li><li>Learn deep RPG systems with loads of loot and stats to analyze and synergize<br></li><li>Discover and utilize tons of adventuring weapons, equipment, lore, spells, &amp; legendary artifacts<br></li><li>Haunt or help your party even after death by spawning as a ghastly ghost with spooky powers<br></li><li>Experience ongoing free updates from an active team that loves the game and is active in the Barony community<br></li><li>Go deeper with 2 DLCs offering alternate ways to play with new character classes and monster races which offer even more playstyles!</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/extras/0d8765c2cf04acb2138cf90c5d8ccd93.poster.avif?t=1769704265\" width=480 height=308 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/extras/0d8765c2cf04acb2138cf90c5d8ccd93.webm?t=1769704265\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/extras/0d8765c2cf04acb2138cf90c5d8ccd93.mp4?t=1769704265\" type=\"video/mp4\"></video></span><br>Barony is a love-note to RPG classics like Ultima Underworld, System Shock, &amp; Daggerfall, created by fans of the classics.",
+        "developers": [
+            "Turning Wheel LLC"
+        ],
+        "publishers": [
+            "Turning Wheel LLC"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 48,
+                "description": "LAN Co-op"
+            },
+            {
+                "id": 39,
+                "description": "Shared/Split Screen Co-op"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 10372
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jun 23, 2015"
+        }
+    }
+}

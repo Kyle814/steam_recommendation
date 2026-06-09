@@ -1,0 +1,83 @@
+{
+    "ingested_at": "2026-06-08T19:37:16.679424",
+    "app_id": "212680",
+    "metadata": {
+        "type": "game",
+        "name": "FTL: Faster Than Light",
+        "steam_appid": 212680,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "This &quot;spaceship simulation roguelike-like&quot; allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.",
+        "detailed_description": "FTL is now available in 9 languages!  English, German, Spanish, French, Italian, Polish, Brazilian Portuguese, Russian and Simplified Mandarin!<br><br>************************<br>The free expansion, FTL: Advanced Edition, is available now!  Content additions include: new alien race, events, weapons, playable ships, drones, and more!  Also adds additional musical tracks by Ben Prunty, and events by Tom Jubert and guest writer Chris Avellone. <br><br>If you already own FTL it should update the new content automatically.  Advanced Edition is included free for anyone who purchases the game from this point forward.<br>************************<br><br>In FTL you experience the atmosphere of running a spaceship trying to save the galaxy. It's a dangerous mission, with every encounter presenting a unique challenge with multiple solutions. What will you do if a heavy missile barrage shuts down your shields? Reroute all power to the engines in an attempt to escape, power up additional weapons to blow your enemy out of the sky, or take the fight to them with a boarding party? This &quot;spaceship simulation roguelike-like&quot; allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.<h2 class=\"bb_tag\" >Key Features:</h2><ul class=\"bb_ul\"><li><strong>Complex Strategic Gameplay</strong> - Give orders to your crew, manage ship power distribution and choose weapon targets in the heat of battle.<br></li><li><strong>Play at Your Own Speed</strong> - Pause the game mid-combat to evaluate your strategy and give orders.<br></li><li><strong>Unique Lifeforms and Technology</strong> – Upgrade your ship and unlock new ones with the help of six diverse alien races.<br></li><li><strong>Be the Captain You Want</strong> - Hundreds of text based encounters will force you to make tough decisions.<br></li><li><strong>Randomized Galaxy</strong> - Each play-through will feature different enemies, events, and results to your decisions. No two play-throughs will be quite the same.<br></li><li><strong>No Second Chances!</strong> - Permadeath means when you die, there's no coming back. The constant threat of defeat adds importance and tension to every action.</li></ul>",
+        "developers": [
+            "Subset Games"
+        ],
+        "publishers": [
+            "Subset Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 999,
+            "final": 999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$9.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 84,
+            "url": "https://www.metacritic.com/game/pc/ftl-faster-than-light?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 62110
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 14, 2012"
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "ingested_at": "2026-06-08T19:33:32.618508",
+    "app_id": "933110",
+    "metadata": {
+        "type": "game",
+        "name": "Age of Empires III: Definitive Edition",
+        "steam_appid": 933110,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Age of Empires III: Definitive Edition offers players a trial of this historical single &amp; multiplayer RTS experience. *Note: To unlock all features of the game please see the “Base Game” product.",
+        "detailed_description": "<h1>Knights of the Mediterranean DLC Available Now!</h1><p></p><br><h1>About the Game</h1>Age of Empires III: Definitive Edition offers players a trial of this historical single &amp; multiplayer RTS experience.  Enjoy diverse civilizations, co-op historical battles, stunning 4K Ultra HD graphics and modernized gameplay.  For more ongoing fun, content unlocks will rotate monthly, which includes rotating civilizations, Hero Cosmetics   and events - so come play often!  Jump into the robust community – and invite a friend to play today!<br>*Note:  To unlock all features of the game please see the “Base Game” product.<br><br>Age of Empires III: Definitive Edition completes the celebration of one of the most beloved real-time strategy franchises in definitive form with enhanced features and modernized gameplay.<br><br>Command mighty civilizations from across Europe and the Americas or jump to the battlefields of Asia in stunning 4K Ultra HD graphics and with a fully remastered soundtrack.<br><br>The trial version provides access to a rotating roster of the full game's 16 civilizations to play freely in both single player and multiplayer games, a first look at the 'Blood' Story Mode campaign, the Algiers Historical Battle, along with the tutorial and The Art of War challenge missions to learn and master the game.<br><br>Jump online to play with your friends or to battle your way through a select group of random maps in skirmish games against the AI.  Whichever way you choose to play, you will enjoy the stunning graphics, the fully remastered soundtrack, and modernized RTS gameplay in this third installment of the award-winning Age of Empires franchise.",
+        "developers": [
+            "World's Edge",
+            "Tantalus Media",
+            "Forgotten Empires"
+        ],
+        "publishers": [
+            "Xbox Game Studios"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 75,
+            "url": "https://www.metacritic.com/game/pc/age-of-empires-iii-definitive-edition?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 47,
+                "description": "LAN PvP"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            }
+        ],
+        "genres": [
+            {
+                "id": "2",
+                "description": "Strategy"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 36503
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 15, 2020"
+        }
+    }
+}

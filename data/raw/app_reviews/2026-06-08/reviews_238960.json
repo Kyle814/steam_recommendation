@@ -1,0 +1,27 @@
+{
+    "ingested_at": "2026-06-08T19:08:24.665702",
+    "app_id": "238960",
+    "review_count": 2,
+    "reviews": [
+        {
+            "review_id": "220018593",
+            "steam_id": "76561199437123047",
+            "playtime_minutes": 4746,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Awful league start. Cant make anything right"
+        },
+        {
+            "review_id": "219994697",
+            "steam_id": "76561198075651443",
+            "playtime_minutes": 1492,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Best ARPG of All Time. Period."
+        }
+    ]
+}

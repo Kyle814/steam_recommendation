@@ -1,0 +1,17 @@
+{
+    "ingested_at": "2026-06-08T19:23:36.060529",
+    "app_id": "482730",
+    "review_count": 1,
+    "reviews": [
+        {
+            "review_id": "224880319",
+            "steam_id": "76561198010898620",
+            "playtime_minutes": 41964,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i love this game"
+        }
+    ]
+}

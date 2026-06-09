@@ -1,0 +1,80 @@
+{
+    "ingested_at": "2026-06-08T19:48:11.243261",
+    "app_id": "848450",
+    "metadata": {
+        "type": "game",
+        "name": "Subnautica: Below Zero",
+        "steam_appid": 848450,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Dive into a freezing underwater adventure on an alien planet. Below Zero is set two years after the original Subnautica. Return to Planet 4546B to uncover the truth behind a deadly cover-up. Survive by building habitats, crafting tools, &amp; diving deeper into the world of Subnautica.",
+        "detailed_description": "Below Zero is an underwater adventure game set on an alien ocean world. It is the next chapter in the Subnautica universe and is developed by Unknown Worlds.<h2 class=\"bb_tag\" >Return to planet 4546B</h2><br>Submerge yourself in an all-new, sub-zero expedition in an arctic region of Planet 4546B. Arriving with little more than your wits and some survival equipment, you set out to investigate what happened to your sister...<h2 class=\"bb_tag\" >Uncover the truth</h2><br>Alterra left in a hurry after a mysterious incident. Abandoned research stations dot the region. What happened to the scientists who lived and worked here? Logs, items, and databanks scattered among the debris paint a new picture of the incident. With limited resources, you must improvise to survive on your own.<h2 class=\"bb_tag\" >Discover uncharted biomes</h2><br>Swim beneath the blue-lit, arching expanses of Twisty Bridges. Become mesmerized by the glittering, mammoth crystals of the Crystal Caverns. Clamber up snow covered peaks and venture into the icy caves of Glacial Basin. Maneuver between erupting Thermal Vents to discover ancient alien artifacts. Below Zero presents entirely new environments for you to survive, study, and explore.<h2 class=\"bb_tag\" >Construct habitats and vehicles</h2><br>Survive the harsh climate by constructing extensive habitats, scavenging for resources, and crafting equipment. Blast across the snowy tundra on a Snowfox hoverbike. Cruise through enchanting and perilous biomes in your modular Seatruck.<h2 class=\"bb_tag\" >Research alien lifeforms</h2><br>Something undiscovered lurks around every corner. Swim through the giant Titan Holefish, encounter the haunting Shadow Leviathan, and visit the adorable Pengwings. Keep your wits about you. Not all creatures in this strange world are friendly.<h2 class=\"bb_tag\" >Survive the chilly temperatures</h2><br>Jump in, the water’s warm. The below zero temperatures of this arctic region pose a new threat. New weather conditions blanket above-ground habitats. Craft a toasty cold suit, sip on piping hot coffee, and warm up next to Thermal Lilies to stave off the chill.<h2 class=\"bb_tag\" >An ocean of intrigue</h2><br>What really happened to your sister? Who were the aliens who came here before? Why were they on this planet? Can we find solace from grief in truth? Below Zero extends the story of the Subnautica universe, diving deep into the mystery introduced in the original game.<h2 class=\"bb_tag\" >About the development team</h2><br>Below Zero is created by Unknown Worlds, a small studio that traces its roots back to the 2002 Half-Life mod Natural Selection. It is the same studio that created the original Subnautica. The team is scattered around the globe, from the United States to the United Kingdom, France, Russia, Austria, Australia, Canada, and many more places.<h2 class=\"bb_tag\" >Warning</h2><br>This game contains flashing lights that may make it unsuitable for people with photosensitive epilepsy or other photosensitive conditions. Player discretion is advised.",
+        "developers": [
+            "Unknown Worlds Entertainment"
+        ],
+        "publishers": [
+            "Unknown Worlds Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 2999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$29.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "recommendations": {
+            "total": 97708
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 13, 2021"
+        }
+    }
+}

@@ -1,0 +1,707 @@
+{
+    "ingested_at": "2026-06-08T19:14:17.359068",
+    "app_id": "365670",
+    "review_count": 70,
+    "reviews": [
+        {
+            "review_id": "30184428",
+            "steam_id": "76561198127742076",
+            "playtime_minutes": 81770,
+            "voted_up": true,
+            "votes_up": 75,
+            "weighted_score": 0.870437502861023,
+            "steam_purchase": true,
+            "review_text": "Ok I think I've got enough experience with this program to write a decent review on it...\n\n     Blender has had a notorious reputation, at least in my experience, with being a difficult program to learn. I agree. For someone who has never touched a 3D/CG program I cannot reccommend enough that you don't chose blender. It is difficult to catch on just because of the shear amount of things packed into it. It has made improvements, big improvements in my opinion since I first used it, it can still be a challenge to navigate and understand. If you have dabbled in 3D/CG software before, this will still have a bit of a big learning curve and some things to get used to, *cough* right-click *cough**cough*. Like I mentioned before it can be a bit confusing just because theres a lot you can do with it.\n     All that being said if you choose to stick around, if you choose to take the time to learn this, either on your own(via youtube, etc.) or paying for lessons (CG Cookie, etc.), if you choose to deal with the initial frustration that may accompany learning this program (some people might be frustrated longer than others it all depends), then you will have access to one of the most powerful CG Creation Suites in terms of what it can do, and how much it costs(free by the way). If you want to take it on I'd recommend sticking to only one feature, like 3D modeling. Focus on learning that before you start trying to learn animation or compositing (Thats not the trick that's just how I went about it.) When you get familiar enough with it everything else sort of falls together. Now lets get down to buisness...\n\nPros:\n-Can do a lot\n -3D Modeling\n -Animating\n -Compositing\n -Video Editing\n -2D Animation (Grease Pencil)\n -Sculpting\n -3D Painting\n -Game Creation (BGE)\n  -Python Scripting\n -Capable of photorealism\n -Add-ons (Free and paid)\n  -can optimize some aspects of blender bringing it close to some professional program equivalent\n -Pretty big community willing to help out\n  -youtube tutorials\n  -Paid course tutorials (CG Cookie, Blender Guru, etc.)\n  -Community Forums\n  -just google it =P\n\nCons:\n - A lot to learn in one suite\n  - Not for the faint of heart\n  - Nor for the short of patience\n  - Don't expect to learn this overnight\n - Right-clicking, not huge but can take a bit to get used to\n - because there's so much you can do in blender, when asking the community anywhere a question you need to be \n    specific (ie., \"I wanna know how to make my flower look like this one.\" Like in the compositor, materials, textures, etc. \n                  not a very good example but meh.)\n- Blender is generalized not specialized/optimised \n -In other words comparing its Sculpting to something like Zbrush you'll see some stark contrasts\n -Same holds true with some of its other features\n  -Personally, though, I think its animation (rigging, weight painting, animating) is better than Maya but that's me.\n- Blender Game Engine (BGE) is real nice and you can make some impressive things, however it does fall short when you compare it to other game engines like Unity or Unreal\n  \nPersonal experience with this is I was first exposed to blender when I was 12 in 2006 I dabbled in it and was really confused what was happening eventually after a few days I just gave up. I didn't feel I was making any progress let alone know what I was doing. I didn't touch it again until nearing the end of my sophomore year in college since then I got more involved with it. When I found out it came on steam I was already in 2nd semester Junior year so what you see are hours after I found it here I've had a longer time with this than what you see. Prior to this I was taking classes that taught 3DS Max, Maya, Zbrush, and Mudbox. Blender was self-taught (not counting CG Cookie).\n\nAll That being said I'm sure I might have missed some things but I hoped I explained enough to answer most questions on this."
+        },
+        {
+            "review_id": "29479616",
+            "steam_id": "76561197988858659",
+            "playtime_minutes": 28265,
+            "voted_up": true,
+            "votes_up": 6,
+            "weighted_score": 0.5049312114715576,
+            "steam_purchase": true,
+            "review_text": "Fantastic free program, at this time with the blender version available to us with all the addons written by the veterans coming from different software for example like me (5 years 3ds max) i can say with open hearth that there is absolutely nothing that blender cannot do.\n\nOnce blender was still lacking in some department but right now it's equal to triple A development programs."
+        },
+        {
+            "review_id": "29532593",
+            "steam_id": "76561198047269124",
+            "playtime_minutes": 405,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5029377341270447,
+            "steam_purchase": true,
+            "review_text": "I would recommend Blender on the simple fact that it's free.\nHowever since 2.8 this thing has become one of the best tools in 3d development like... ever.\nSure, you COULD use several other pieces of software that cost you hundreds of dollars a month... or you could use blender, which does all that for free.\n\nSure, it aint perfect, I do think on the texturing and rendering sides of things it could use some work, but for 3d modelling, sculpting and animation it's perfect, especially for beginners who dont want to risk the waste of money.\n\nMy only issue is that there are paid-for addons which have features that blender should have by default (looking at retopoflow, which has so many great tools blender should have).\n\nI have more than 600 hours, but it's only been that last 100 that I've started to properly use this damn thing to the best of my ability and really push my skills. Dont waste time like I did, watch some tutorials, make the great thing you want to make, do your best and you will achieve greatness."
+        },
+        {
+            "review_id": "29987933",
+            "steam_id": "76561198309630516",
+            "playtime_minutes": 10,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Although It says I haven't used the software much, I have. I just never had it installed through Steam. Anyways, It's an awesome free software to help people learn 3D modelling and animation which makes it a great educational tool. Hey, that's pretty good, no greed from the creators here."
+        },
+        {
+            "review_id": "29954964",
+            "steam_id": "76561198321071174",
+            "playtime_minutes": 3597,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love this, I'm a beginner though. I'm still learning alot about it. DO NOT look at Blender and assume it's too daunting of a program to learn, I suggest you download this if you're interested in 3d modelling. \n\n     If you want to learn some quick things, go to Blender Guru on YouTube, he's really helped me out. It's so satisfying to sit back and look at what you created and look at how to improve. Thanks for reading my short review!\n\nPros:\n+ Open Source\n+ Lots of oppurtunities ranging from sculpting and modelling, to animating and rigging)\n+ You can make a blender in Blender. And yes, that blender will indeed look like a blender.\n\nCons:\n+ Confusing Interface (It's jumbled up and all around, but you can modify it)\n+ Too many shortcuts (But you get used to them)"
+        },
+        {
+            "review_id": "29757194",
+            "steam_id": "76561198086083641",
+            "playtime_minutes": 902,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I use this for making custom models for my 3D printer - really easy to figure out (after reading a few forums and practicing a little). I have never used any 3D modeling software before, but I was able to pick it up and get a few things printed within a few hours!"
+        },
+        {
+            "review_id": "29595084",
+            "steam_id": "76561197994805116",
+            "playtime_minutes": 33872,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Excellent software, I've been using it for slightly over 2 years now, and switched over to steam so I could keep track of the time I spend in it. While there are other 3D programs you can get to use free, like maya, you have to use those under student or learning licenses, and cannot monitize your creations. overall, there is nothing you can do in maya or 3dsmax that you cannot do in blender.\n\nthe good, the bad, the ugly:\n\nthe good:\n\n•beyond the core of blender, which is c++, the interface and everything is python coded, so those with the desire or ability can quickly learn to add functionality or scripting to automate tedious tasks.\n\n•Being open source there is a large community that can help with any problems or questions, and numerous youtube tutorials exist.\n\n•blender wraps functionality of 3D design/editing, rendering, sculpting, video editing, and even a game engine into itself.\n\n•once you get used to it the left click 3D cursor (little aiming reticle that exists on the screen) is extremely useful for number of tasks.\n\nthe bad:\n\n•if your goal is to learn methodology and skills in 3D modeling then the program is great. however if your goal is to indicate on a resume you have experiance with a specific modeling program your going to have a tougher time. blender is not one of the 'industry standard' programs and thus if you join a team or employeer you may find yourself spending a good chunk of time relearning interfaces and retraining muscle memory to work in specific software they want you in.\n\nthe ugly:\n\n• the UI is unique to blender. expect a learning curve. everything is designed with shortcuts in mind and it takes time to learn them. however if you take the time to learn and become accostumed to the layout tasks are very streamlined in general.\n\n•if you run blender through steam look up a tutorial on how to migrate settings and customizations between versions. this ones one steam; with no way to prevent automatic updates for specific programs when blender updates it will create a new folder for user preferences when the version number changes. doesn't happen too often, once a year maybe, but be aware this is something you may encounter, but can overcome."
+        },
+        {
+            "review_id": "29550079",
+            "steam_id": "76561198089416851",
+            "playtime_minutes": 333,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49504950642585754,
+            "steam_purchase": true,
+            "review_text": "Very cool softwate for making images. I made this in only a bit of time by watching tutorials. I have more hours than steam says.\n\nCool Thing: http://imgur.com/3PDAE4K\n\nGood Tutorials: https://www.youtube.com/user/tutor4u\n\nJust download it, it's free and is a very small install.\n\nEnjoy!"
+        },
+        {
+            "review_id": "30045326",
+            "steam_id": "76561198184236198",
+            "playtime_minutes": 1589,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.54356849193573,
+            "steam_purchase": true,
+            "review_text": "I haven't used it for too long, yet I can tell this will be the best OpenSource 3D rendering, editing and creation program. It can export to unity, which is fantastic"
+        },
+        {
+            "review_id": "29506352",
+            "steam_id": "76561198077893177",
+            "playtime_minutes": 8343,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5205479264259338,
+            "steam_purchase": true,
+            "review_text": "Im modelling with Blender from 2015 year. If i knew what Blender is too in steam, on my record would be 1000+ hrs, but this isn't everything. This software give a chance to live my imagination. All i have in my mind, i have in Blender. I would recommend this program for all people i know."
+        },
+        {
+            "review_id": "29753141",
+            "steam_id": "76561198328832252",
+            "playtime_minutes": 13547,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5199999809265137,
+            "steam_purchase": true,
+            "review_text": "Greatest photoshop/animation/videogame creator software on earth! So much fun, takes time to get used to, but once you know everything, you WON'T regret clicking that Download button.\nBlender is probably the best free software downloadable, especially when in game developement and you don't want to start coding yet, these \"LogicBricks\" are your best friends, which is the most advanced version of drag-and-drop actions."
+        },
+        {
+            "review_id": "30123719",
+            "steam_id": "76561198080163895",
+            "playtime_minutes": 25,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Excellent tool for making your awesome creations\n\nThe catch is.....\n\nIt's hard asf to learn how to use all the usefull tools properly\n\nBut still gets the job done.\n\nAnd its free so theres no excuse for not downloading this gem."
+        },
+        {
+            "review_id": "30122411",
+            "steam_id": "76561198061446997",
+            "playtime_minutes": 374,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Probably one of, if not, the greatest 3D modeling software created, in my opinion. \nI didn't even know there was a steam version! what a bonus!"
+        },
+        {
+            "review_id": "29951349",
+            "steam_id": "76561197999236576",
+            "playtime_minutes": 33781,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Get it.\nLearn it.\nCreate.\nMuch joy.\nLearn more.\nCreate.\nVery joy.\n\nIf 3d modeling is your thing, Blender is for you."
+        },
+        {
+            "review_id": "29853179",
+            "steam_id": "76561198273709687",
+            "playtime_minutes": 66,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I actually really, really like this animation program, 1, it actually runs really well.  2, It's amazing with the amount of things you can create.  It's just plan out easy to use.  I love it!\n"
+        },
+        {
+            "review_id": "29811280",
+            "steam_id": "76561198110634066",
+            "playtime_minutes": 5963,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great software, easy to use and what's the most important for beginners IT'S FREE and doesn't stand out from other expensive alternatives."
+        },
+        {
+            "review_id": "29794250",
+            "steam_id": "76561198060952742",
+            "playtime_minutes": 25711,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "More than 600 hours, dozens of tutorials, and countless models later...\n\n...\n\nI still have no idea how this works.\nBut it's free, so that's cool."
+        },
+        {
+            "review_id": "29742329",
+            "steam_id": "76561198156011553",
+            "playtime_minutes": 1186,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing 3D modelling software. What's more? This software is totally FREE! And it has a lot of tutorial and documentation that really helps me.\n\nRating : 10/10"
+        },
+        {
+            "review_id": "29600683",
+            "steam_id": "76561198362732251",
+            "playtime_minutes": 100,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I'm just starting with 3D and so far like Blender a lot. It is very complex but there are lots of tutorials available on the web and it seems you can do great things with it, if you know how. Looking forward to learning more."
+        },
+        {
+            "review_id": "29529191",
+            "steam_id": "76561197962753323",
+            "playtime_minutes": 3075,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Excellent software, versatile and powerful.  It's free and can cater to anyone from an avid hobbyist to a serious professional."
+        },
+        {
+            "review_id": "30226895",
+            "steam_id": "76561198360665172",
+            "playtime_minutes": 78,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4901960790157318,
+            "steam_purchase": true,
+            "review_text": "Full fuction 3d model app that works great and not to hard to learn how to use and it is FREE. Fantastic what more can I say :-)\nThis is a must have for any one wanting to start makeing there own stuff for there games"
+        },
+        {
+            "review_id": "29573339",
+            "steam_id": "76561198033001551",
+            "playtime_minutes": 403,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.531526505947113,
+            "steam_purchase": true,
+            "review_text": "I cant see blender in my library, but its great program if yo are patient enough to learn it"
+        },
+        {
+            "review_id": "29935035",
+            "steam_id": "76561198078652138",
+            "playtime_minutes": 360,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.4675014317035675,
+            "steam_purchase": true,
+            "review_text": "It's the best modelling software I've ever used\n\nit's also REALLY easy to use\n\nhowever you need some basic understanding of rendering to understand/comprehend errors"
+        },
+        {
+            "review_id": "29489323",
+            "steam_id": "76561198038567970",
+            "playtime_minutes": 5081,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "One of the most amazing 3D modeling software ive ever seen , each must have this. 10/10"
+        },
+        {
+            "review_id": "29531358",
+            "steam_id": "76561198201859965",
+            "playtime_minutes": 516,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.23132765293121338,
+            "steam_purchase": true,
+            "review_text": "i spent 12 days into getting one freaking  block placed make it easy like sorce ffilm maker"
+        },
+        {
+            "review_id": "29465027",
+            "steam_id": "76561198085658687",
+            "playtime_minutes": 350,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "it's a modeling software that's FREE what else can i say..\nOh yeah, the layout is easy to understand"
+        },
+        {
+            "review_id": "29847880",
+            "steam_id": "76561198024310351",
+            "playtime_minutes": 1551,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Awesome and powerful 3d tool. \nThe ui got a lot better too."
+        },
+        {
+            "review_id": "29486175",
+            "steam_id": "76561198347304486",
+            "playtime_minutes": 401,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "really good. unfortunatelly there is a MASSIVE learning curve but once you get the hand of it its infinite!"
+        },
+        {
+            "review_id": "29641835",
+            "steam_id": "76561198258900159",
+            "playtime_minutes": 6960,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "An absolute waste of my time, very cool"
+        },
+        {
+            "review_id": "30057429",
+            "steam_id": "76561198005172231",
+            "playtime_minutes": 2038,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5270270705223083,
+            "steam_purchase": true,
+            "review_text": "This is the best modeling software for starters and PROs and its free"
+        },
+        {
+            "review_id": "29893672",
+            "steam_id": "76561198317811572",
+            "playtime_minutes": 2504,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "its easy onc you watch all 500 hours of tutorials, believe me!"
+        },
+        {
+            "review_id": "29490962",
+            "steam_id": "76561198130718039",
+            "playtime_minutes": 579,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5030674934387207,
+            "steam_purchase": true,
+            "review_text": "Great free software to make 3D models and renders with."
+        },
+        {
+            "review_id": "29850699",
+            "steam_id": "76561198018774856",
+            "playtime_minutes": 8557,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4874213933944702,
+            "steam_purchase": true,
+            "review_text": "Steep learning curve but you can do anything in Blender."
+        },
+        {
+            "review_id": "30207442",
+            "steam_id": "76561198216359749",
+            "playtime_minutes": 57,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love this software really useful and easy to use"
+        },
+        {
+            "review_id": "29994960",
+            "steam_id": "76561198080477343",
+            "playtime_minutes": 19811,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.49278193712234497,
+            "steam_purchase": true,
+            "review_text": "used it for an hour or two, meh, looks nice."
+        },
+        {
+            "review_id": "30016615",
+            "steam_id": "76561198062866478",
+            "playtime_minutes": 134,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "free software for making animations and 3d meshes."
+        },
+        {
+            "review_id": "29945181",
+            "steam_id": "76561198181414741",
+            "playtime_minutes": 806,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "exceptionally terrific free program 10/10"
+        },
+        {
+            "review_id": "29513962",
+            "steam_id": "76561198145679422",
+            "playtime_minutes": 1659,
+            "voted_up": true,
+            "votes_up": 29,
+            "weighted_score": 0.7109261155128479,
+            "steam_purchase": true,
+            "review_text": "now i can create 3d assets, which will be added to my game,and its absolutely free,  ty blender!!!"
+        },
+        {
+            "review_id": "30026560",
+            "steam_id": "76561198333414447",
+            "playtime_minutes": 0,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4552156329154968,
+            "steam_purchase": true,
+            "review_text": "[h1][u][url=http://steamcommunity.com/profiles/76561198333414447][b]✠LUCIFER✠[/b][/url][/u][/h1]\n [h1][u]Reputation Review[/u][/h1]\nCash Rep Thread [url=76561198333414447][/url]\n\n\nThis Review serves as a reputation of a trader on trustworthy and legitness ratings as a trader.\n  [b]Cash traders[/b] can be repped on their threads should a successful cash transaction occur between two traders.\n[code]\n[list]\n[*][i]The \"+rep\" count as positive and trustworthy[/i]\n[*][i]The \"-rep\" count as negative and fraud[/i]\n[/list]\n[/code]\n\n   Incoming traders can learn the basic ins-and-outs of Global Offensive trading, as well as having easy access to trusted traders.\n\nhttps://steamcommunity.com/tradeoffer/new/?partner=373148719&token=7QC7sX--"
+        },
+        {
+            "review_id": "29871325",
+            "steam_id": "76561197971423376",
+            "playtime_minutes": 8319,
+            "voted_up": true,
+            "votes_up": 9,
+            "weighted_score": 0.5481927990913391,
+            "steam_purchase": true,
+            "review_text": "Everything you need in 1 software"
+        },
+        {
+            "review_id": "29908767",
+            "steam_id": "76561198027141406",
+            "playtime_minutes": 1597,
+            "voted_up": true,
+            "votes_up": 11,
+            "weighted_score": 0.5946443676948547,
+            "steam_purchase": true,
+            "review_text": "Great software for beginners like me."
+        },
+        {
+            "review_id": "30239143",
+            "steam_id": "76561198035303292",
+            "playtime_minutes": 237,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5446571707725525,
+            "steam_purchase": true,
+            "review_text": "Blender - top, 3D max sucks!"
+        },
+        {
+            "review_id": "29777709",
+            "steam_id": "76561198088085293",
+            "playtime_minutes": 39595,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "yeah, quite nice, tested it a bit."
+        },
+        {
+            "review_id": "29406576",
+            "steam_id": "76561198053752428",
+            "playtime_minutes": 728,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.29147619009017944,
+            "steam_purchase": true,
+            "review_text": "♥♥♥♥ my life, why did i pick IT"
+        },
+        {
+            "review_id": "29834024",
+            "steam_id": "76561198134686087",
+            "playtime_minutes": 9,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4780420660972595,
+            "steam_purchase": true,
+            "review_text": "♥♥♥♥ CAN'T DO ♥♥♥♥♥♥♥ ♥♥♥♥.  but im going to watch a lot of stupid videos on how to use it.\n"
+        },
+        {
+            "review_id": "29806577",
+            "steam_id": "76561198204153608",
+            "playtime_minutes": 1286,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5389800667762756,
+            "steam_purchase": true,
+            "review_text": "u can make the modelle"
+        },
+        {
+            "review_id": "29477796",
+            "steam_id": "76561198328586520",
+            "playtime_minutes": 240,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "mantab jiwa bisa buat jus buah"
+        },
+        {
+            "review_id": "29801651",
+            "steam_id": "76561198209174440",
+            "playtime_minutes": 8810,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Awesome software I really love it."
+        },
+        {
+            "review_id": "29951382",
+            "steam_id": "76561198128877259",
+            "playtime_minutes": 1117,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Took forever but 100% worth it"
+        },
+        {
+            "review_id": "29616600",
+            "steam_id": "76561198025296114",
+            "playtime_minutes": 948,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4977375566959381,
+            "steam_purchase": true,
+            "review_text": "No achievements? WTF?"
+        },
+        {
+            "review_id": "30059115",
+            "steam_id": "76561198134220943",
+            "playtime_minutes": 126,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.18896260857582092,
+            "steam_purchase": true,
+            "review_text": "somehow ♥♥♥♥♥♥ up my PC anytime I download it.\nYeah. i'll just stick to film maker."
+        },
+        {
+            "review_id": "30127831",
+            "steam_id": "76561198275404039",
+            "playtime_minutes": 85,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5199999809265137,
+            "steam_purchase": true,
+            "review_text": "Nice, I love it!"
+        },
+        {
+            "review_id": "30173417",
+            "steam_id": "76561198168723095",
+            "playtime_minutes": 37,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.462184876203537,
+            "steam_purchase": true,
+            "review_text": "My Favorie Modeling Software, easy to export to unity"
+        },
+        {
+            "review_id": "29812054",
+            "steam_id": "76561197978460505",
+            "playtime_minutes": 458,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great software"
+        },
+        {
+            "review_id": "29866339",
+            "steam_id": "76561198077315543",
+            "playtime_minutes": 25,
+            "voted_up": true,
+            "votes_up": 8,
+            "weighted_score": 0.4744928181171417,
+            "steam_purchase": true,
+            "review_text": "Well... It's Blender!"
+        },
+        {
+            "review_id": "30170416",
+            "steam_id": "76561198014909945",
+            "playtime_minutes": 1667,
+            "voted_up": true,
+            "votes_up": 36,
+            "weighted_score": 0.7204431295394897,
+            "steam_purchase": true,
+            "review_text": "Will It Blend?\n\n\nYes."
+        },
+        {
+            "review_id": "29454926",
+            "steam_id": "76561198091954758",
+            "playtime_minutes": 7340,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.49526360630989075,
+            "steam_purchase": true,
+            "review_text": "I use it sometimes"
+        },
+        {
+            "review_id": "29977376",
+            "steam_id": "76561198089227029",
+            "playtime_minutes": 67182,
+            "voted_up": true,
+            "votes_up": 61,
+            "weighted_score": 0.726235568523407,
+            "steam_purchase": true,
+            "review_text": "I gave up blender, then I said to myself, my dream was to create good-looking 3D Anime girls.\n\nTherefore here I am now, creating 3D Anime girls.\n\n[i]Only if you have a passion that caters to your determination, you can do great..great things[/i]."
+        },
+        {
+            "review_id": "29507967",
+            "steam_id": "76561198278889109",
+            "playtime_minutes": 5457,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5022624731063843,
+            "steam_purchase": true,
+            "review_text": "gud times bad times"
+        },
+        {
+            "review_id": "29676052",
+            "steam_id": "76561198194251763",
+            "playtime_minutes": 13,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "good game"
+        },
+        {
+            "review_id": "30065949",
+            "steam_id": "76561198081358569",
+            "playtime_minutes": 403,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love it\n"
+        },
+        {
+            "review_id": "29531035",
+            "steam_id": "76561198117674830",
+            "playtime_minutes": 51,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.48812663555145264,
+            "steam_purchase": true,
+            "review_text": "Good App"
+        },
+        {
+            "review_id": "29429273",
+            "steam_id": "76561198061151767",
+            "playtime_minutes": 7860,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4987531304359436,
+            "steam_purchase": true,
+            "review_text": "It's good"
+        },
+        {
+            "review_id": "30084205",
+            "steam_id": "76561198119622583",
+            "playtime_minutes": 21,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49751242995262146,
+            "steam_purchase": true,
+            "review_text": "its a good"
+        },
+        {
+            "review_id": "30198117",
+            "steam_id": "76561198092308860",
+            "playtime_minutes": 264,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "8/8 - IGN"
+        },
+        {
+            "review_id": "29567442",
+            "steam_id": "76561198339696002",
+            "playtime_minutes": 90,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Sintel :'("
+        },
+        {
+            "review_id": "29714879",
+            "steam_id": "76561198100885252",
+            "playtime_minutes": 270,
+            "voted_up": true,
+            "votes_up": 13,
+            "weighted_score": 0.5578361749649048,
+            "steam_purchase": true,
+            "review_text": "Gud <3"
+        },
+        {
+            "review_id": "29976552",
+            "steam_id": "76561198080621566",
+            "playtime_minutes": 537,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49751242995262146,
+            "steam_purchase": true,
+            "review_text": "its ok"
+        },
+        {
+            "review_id": "29879098",
+            "steam_id": "76561198143804601",
+            "playtime_minutes": 65,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.45249462127685547,
+            "steam_purchase": true,
+            "review_text": "Yes."
+        },
+        {
+            "review_id": "29639935",
+            "steam_id": "76561198311467754",
+            "playtime_minutes": 20,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4801696240901947,
+            "steam_purchase": true,
+            "review_text": "I need help with a model Idk how any of this works can someone pls help me make one ;-;"
+        }
+    ]
+}

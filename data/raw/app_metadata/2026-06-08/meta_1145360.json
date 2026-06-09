@@ -1,0 +1,99 @@
+{
+    "ingested_at": "2026-06-08T19:34:43.429127",
+    "app_id": "1145360",
+    "metadata": {
+        "type": "game",
+        "name": "Hades",
+        "steam_appid": 1145360,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.",
+        "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/extras/c2cf4c126231549edecb3ef6b350ce5a.poster.avif?t=1758127023\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/extras/c2cf4c126231549edecb3ef6b350ce5a.webm?t=1758127023\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/extras/c2cf4c126231549edecb3ef6b350ce5a.mp4?t=1758127023\" type=\"video/mp4\"></video></span><br><strong>Hades</strong> is a <i>god-like</i> rogue-like dungeon crawler that combines the best aspects of Supergiant's critically acclaimed titles, including the fast-paced action of <strong>Bastion</strong>, the rich atmosphere and depth of <strong>Transistor</strong>, and the character-driven storytelling of <strong>Pyre</strong>.<h2 class=\"bb_tag\" >BATTLE OUT OF HELL</h2>As the immortal Prince of the Underworld, you'll wield the powers and mythic weapons of Olympus to break free from the clutches of the god of the dead himself, while growing stronger and unraveling more of the story with each unique escape attempt.<h2 class=\"bb_tag\" >UNLEASH THE FURY OF OLYMPUS</h2>The Olympians have your back! Meet Zeus, Athena, Poseidon, and many more, and choose from their dozens of powerful Boons that enhance your abilities. There are thousands of viable character builds to discover as you go.<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/extras/be2c018a297716c7e8925b55a2390c8f.poster.avif?t=1758127023\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/extras/be2c018a297716c7e8925b55a2390c8f.webm?t=1758127023\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/extras/be2c018a297716c7e8925b55a2390c8f.mp4?t=1758127023\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >BEFRIEND GODS, GHOSTS, AND MONSTERS</h2>A fully-voiced cast of colorful, larger-than-life characters is waiting to meet you! Grow your relationships with them, and experience thousands of unique story events as you learn about what's really at stake for this big, dysfunctional family.<h2 class=\"bb_tag\" >BUILT FOR REPLAYABILITY</h2>New surprises await each time you delve into the ever-shifting Underworld, whose guardian bosses will remember you. Use the powerful Mirror of Night to grow permanently stronger, and give yourself a leg up the next time you run away from home.<h2 class=\"bb_tag\" >NOTHING IS IMPOSSIBLE</h2>Permanent upgrades mean you don't have to be a god yourself to experience the exciting combat and gripping story. Though, if you happen to be one, crank up the challenge and get ready for some white-knuckle action that will put your well-practiced skills to the test.<br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/extras/a58817e5bddd69ddbf91f349f106e14a.avif?t=1758127023\" width=600 height=210 /></span><h2 class=\"bb_tag\" >SIGNATURE SUPERGIANT STYLE</h2>The rich, atmospheric presentation and unique melding of gameplay and narrative that's been core to Supergiant's games is here in full force: spectacular hand-painted environments and a blood-pumping original score bring the Underworld to life.",
+        "developers": [
+            "Supergiant Games"
+        ],
+        "publishers": [
+            "Supergiant Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2499,
+            "final": 2499,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$24.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 93,
+            "url": "https://www.metacritic.com/game/pc/hades?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 281476
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 17, 2020"
+        }
+    }
+}

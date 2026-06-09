@@ -1,0 +1,95 @@
+{
+    "ingested_at": "2026-06-08T19:37:04.039938",
+    "app_id": "489830",
+    "metadata": {
+        "type": "game",
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "steam_appid": 489830,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Winner of more than 200 Game of the Year Awards, The Elder Scrolls V: Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features.",
+        "detailed_description": "<h1>The Elder Scrolls V: Skyrim Anniversary Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/extras/d2f1779802fdecb0e40ecab090d95a1c.avif?t=1753715778\" width=616 height=352 /></span><br><br>The Anniversary Edition includes a decade worth of content: the critically acclaimed core game and add-ons of Skyrim Special Edition, plus Creation Club content released on or prior to November 11, 2021 - including quests, dungeons, bosses, weapons, spells, and more.</p><br><h1>Creation Kit</h1><p></p><br><h1>About the Game</h1>Winner of more than 200 Game of the Year Awards, The Elder Scrolls V: Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features like remastered art and effects, volumetric god rays, dynamic depth of field, screen-space reflections, and more. <br><br>Skyrim Special Edition also brings the power of Bethesda Game Studios Creations to PC and consoles. New quests, environments, characters, dialogue, armor, weapons and more – with Creations, there are no limits to what you can experience.",
+        "developers": [
+            "Bethesda Game Studios"
+        ],
+        "publishers": [
+            "Bethesda Softworks"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 74,
+            "url": "https://www.metacritic.com/game/pc/the-elder-scrolls-v-skyrim-special-edition?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 212034
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 27, 2016"
+        }
+    }
+}

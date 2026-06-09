@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T18:57:02.212921",
+    "app_id": "993090",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "225979200",
+            "steam_id": "76561198836032346",
+            "playtime_minutes": 5867,
+            "voted_up": false,
+            "votes_up": 55,
+            "weighted_score": 0.7192693948745728,
+            "steam_purchase": true,
+            "review_text": "It introduces too much input latency to feel good. Things LOOK smooth but they don't FEEL smooth. Good on paper and when you're not the one playing, but it makes things feel mushy. I acknowledge that this is a limitation of the technology, but with people propping this software up as some sort of triumph that lets you double framerates of every game, I feel like I have to pop in and say that the consequences of what it does are far from negligible. Also, because it's a filter on top of games, it messes with the UI, so in games like Cyberpunk your cursor will have artifacts when you look around."
+        },
+        {
+            "review_id": "225536761",
+            "steam_id": "76561197984411367",
+            "playtime_minutes": 45,
+            "voted_up": true,
+            "votes_up": 15,
+            "weighted_score": 0.6649246215820312,
+            "steam_purchase": true,
+            "review_text": "I can't believe I haven't heard of this app until now. Much like the good lord Todd says...its just works (really it does) first time I ever needed this was Subnautica 2 EA but it works for almost EVERY game you can thing of that allows high framerates. I can't recommend this app more. Best $6 you can spend.\n"
+        },
+        {
+            "review_id": "226364804",
+            "steam_id": "76561198157921157",
+            "playtime_minutes": 129,
+            "voted_up": true,
+            "votes_up": 11,
+            "weighted_score": 0.654918909072876,
+            "steam_purchase": true,
+            "review_text": "Everyone hates on frame generation. \"Fake Frames\", but ♥♥♥♥♥♥♥♥♥ it's a game-changer. Couldn't believe my eyes when I got 100+ FPS with max settings in Star Citizen's most performance intensive areas. Sure, it's not as good as Nvidia's Frame gen, but this doesn't require it to be supported & implemented by the game devs, meaning universal compatibility. \n\n10/10 purchase. Losless Scaling's glazers were right."
+        },
+        {
+            "review_id": "224919639",
+            "steam_id": "76561198002917932",
+            "playtime_minutes": 72,
+            "voted_up": true,
+            "votes_up": 7,
+            "weighted_score": 0.5958359241485596,
+            "steam_purchase": true,
+            "review_text": "One of the most useful tools on Steam, I use it to improve framerate of old games run on emulators. Windwaker HD and Fable 2/3 running on my machine at a stable 60fps.\n\nEasy to configure and launch, all around great tool for old-school gamers."
+        },
+        {
+            "review_id": "226554083",
+            "steam_id": "76561197993767878",
+            "playtime_minutes": 196,
+            "voted_up": true,
+            "votes_up": 5,
+            "weighted_score": 0.5652173757553101,
+            "steam_purchase": true,
+            "review_text": "A literal gamechanger. It makes playing unoptimized games feel great."
+        },
+        {
+            "review_id": "225887783",
+            "steam_id": "76561198883754071",
+            "playtime_minutes": 33,
+            "voted_up": true,
+            "votes_up": 5,
+            "weighted_score": 0.5600000023841858,
+            "steam_purchase": true,
+            "review_text": "This is one of the greatest programs out there!! For the few players that play Scrap Mechanic, buy this!!! Scrap Mechanic is a super demanding game as is and oftentimes, especially when playing survival, players experience ~80FPS. My survival world has grown ever larger over the last few years and with that being said, I average about 25FPS. I ran this program and brought my FPS up to 400! They feels like real frames too! This is a must buy application."
+        },
+        {
+            "review_id": "226755252",
+            "steam_id": "76561198043571022",
+            "playtime_minutes": 2308,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5588436722755432,
+            "steam_purchase": true,
+            "review_text": "Great product, works great for different use cases.\n\nI personally love it, I used it on YouTube once as an experiment and now I can't go back! I'm not kidding lol. I love to put it on adaptive and then I set it to 120fps to get as fluid of a picture as possible with as little visual artifacts on my 4k OLED that I worked hard for. It does a phenomenal job of maintaining motion and clarity and detail, every time I try to go back to enjoying most YouTube videos capped at 24fps or 30fps, it just feels juddery and jarring. It just makes videos feel lifelike and it makes it so much easier to follow whats happening and it genuinely feels like a generational leap in technology. This isn't a gimmick, this is the next evolution in gaming on non frame generation games (if you don't have Nvidia Smooth Motion or AMD AFMF) and enjoying content on YouTube and movies and tv. \n\nLower end gaming users will most likely get the best use out of this since jumping from 30fps to 60fps in video games is a huge leap compared to the higher end users that won't appreciate it as much. I got this as a gift to my friends who have lower end machines since it achieves the same goal of a GPU upgrade, just without spending hundreds of dollars lol, this only cost just about a crisp $20 to improve a few close friends' gaming experiences.\n\nThis is great for any game that you want to play smoother, just cap your fps at like 80% of what your average fps is in your favorite game and then turn it on so then you have extra GPU room for LS to do its work optimally."
+        },
+        {
+            "review_id": "225916940",
+            "steam_id": "76561198323192157",
+            "playtime_minutes": 31,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.5448405742645264,
+            "steam_purchase": true,
+            "review_text": "Framegen eats around 40% of the original performance. Definetly not worth it"
+        },
+        {
+            "review_id": "225917982",
+            "steam_id": "76561198840536767",
+            "playtime_minutes": 210,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5264110565185547,
+            "steam_purchase": true,
+            "review_text": "Turns unoptimized games much more playable and fun. 10/10!"
+        },
+        {
+            "review_id": "227123524",
+            "steam_id": "76561198276852354",
+            "playtime_minutes": 454,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "It is a godsend for emulators.Especially games that are capped to 30 fps.GodLike app!"
+        },
+        {
+            "review_id": "225832483",
+            "steam_id": "76561198008424924",
+            "playtime_minutes": 5010,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Excellent application, with a bit of a learning curve to set it up optimally. I do not recommend that anyone simply copy & paste other folks' settings, as every setup is different. Some reading, comprehension, and trial & error is necessary.\r\n\r\nI was thinking of upgrading my GPU, and those plans have been postponed thanks to Lossless Scaling. For the first time in my life, my monitor is my system bottleneck. Weird."
+        },
+        {
+            "review_id": "226524916",
+            "steam_id": "76561198828199142",
+            "playtime_minutes": 72,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "It's good for supersmooth FPS I love it BUT it has too much latency. So sad"
+        },
+        {
+            "review_id": "224958251",
+            "steam_id": "76561198048078167",
+            "playtime_minutes": 92,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5161532759666443,
+            "steam_purchase": true,
+            "review_text": "This is very useful for those who want to play abandonwares or old, classic games."
+        },
+        {
+            "review_id": "227222295",
+            "steam_id": "76561198023725359",
+            "playtime_minutes": 57,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5028680562973022,
+            "steam_purchase": true,
+            "review_text": "Very useful app, best used with a dual GPU setup, adds a decent amount of input lag, don't recommend with FPS multiplayer games."
+        },
+        {
+            "review_id": "227213927",
+            "steam_id": "76561198834181972",
+            "playtime_minutes": 412,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Bought it with 1.5 dollar. This ♥♥♥♥ is a steal. Advanced technology that support all hardware exposing them lazy ass companies."
+        },
+        {
+            "review_id": "227205268",
+            "steam_id": "76561197968680466",
+            "playtime_minutes": 1179,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great program. Works very well with KCD2 despite having all sorts of other things injecting like RenoDX and some other mods using d3dx11.dll d3dx12.dll dxgi.dll etc. The only issue i've had with the program is when I have my night time blue light removal software, f.lux running. The program is not able to display correctly the native fps/framgen fps in game. And also, if f.lux is running and i have two monitors open, while i am in game (KCD2), my second monitor is very laggy like if I'm watching a twitch stream while playing KCD2, the twitch stream is stuttering heavily. If I close f.lux everything goes back to normal."
+        },
+        {
+            "review_id": "227121568",
+            "steam_id": "76561198072095694",
+            "playtime_minutes": 49706,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its the best!\r\n\r\n(results vary from game to game but with the option of profiles, you can adjust settings on a game to game basis, and adjusting things in NVIDIA control panel in tandem with Lossless makes a world of difference)\r\n\r\nso again, its the best!"
+        },
+        {
+            "review_id": "226999427",
+            "steam_id": "76561199805004627",
+            "playtime_minutes": 253,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its good but it adds a slight delay i mean its good for it price but not good for longterm usages it like delays the game and make it chunkier"
+        },
+        {
+            "review_id": "226985717",
+            "steam_id": "76561198134512303",
+            "playtime_minutes": 352,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is a very powerful tool if used correctly, it can make your machine push far above it's weight. For example, I went from 30 fps to 90 fps on Helldivers 2, thanks to features like Nvidia Reflex, and being able to adjust the latency etc it has astounding results. This is worth way more than the asking price."
+        },
+        {
+            "review_id": "226869701",
+            "steam_id": "76561198213845317",
+            "playtime_minutes": 66,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "If you want to get the Max FPS possible for your monitor for older games that don't support FG then this app is definitely worth it. The input latency hit that many YouTubers say they get with it is not noticeable to me, but that ma be due to me being on controller. \n\nWould not recommend using this for newer titles that have FG support if you already on a 50 series card as it does not seem to work if game is set to fullscreen and setting to borderless window will increase input latency already. \n\nLooking to test this with 5080 as primary and 5070ti as secondary for newer titles, but I need new MB 1st for 2nd GPU slot. Hopefully it works better than running Max/PT settings on 1 card with FG. Will update this once have done so."
+        },
+        {
+            "review_id": "226868468",
+            "steam_id": "76561198934562462",
+            "playtime_minutes": 315,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I absolutely love this app, you don't need to wait for support and can upscale/framegen any game for a better experience. However, I'd have to note that sometimes the latency can be truly horrible so exercise caution."
+        },
+        {
+            "review_id": "226865280",
+            "steam_id": "76561197964080126",
+            "playtime_minutes": 337,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Been using this to add Frame Generation to Enshrouded, going from 20-50fps to a steady 60. Sure in laggy spots there's slight blurring errors with this kind of guesstimation technology, but here it was worth it.\n\nI just wish i could apply this technology to VRchat (Headset, not local). Sadly only Desktop applications benefit from Lossless Scaling, but thats fine, i knew this before buying.\n\nIt's a Recommend from me!"
+        },
+        {
+            "review_id": "226843282",
+            "steam_id": "76561199153863406",
+            "playtime_minutes": 182,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "deffo use on unoptimizd titles like Sonic Frontiers or emulators, very worth it, its actually very nice"
+        },
+        {
+            "review_id": "226780806",
+            "steam_id": "76561198802985973",
+            "playtime_minutes": 846,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very useful program for unoptimized games, i personally use it for palworld. very nice, very good"
+        },
+        {
+            "review_id": "226772396",
+            "steam_id": "76561199067839123",
+            "playtime_minutes": 64,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "At first i was dissapointed by the latency but as soon as i set low latency to ultra in nvidia control panel it worked like a charm doubling my fps . Would definitely recommend!"
+        },
+        {
+            "review_id": "226755042",
+            "steam_id": "76561199225168469",
+            "playtime_minutes": 424,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Makes games that were unplayable due to low frame rate actually playable and enjoyable"
+        },
+        {
+            "review_id": "226740764",
+            "steam_id": "76561198869880904",
+            "playtime_minutes": 718,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "please do not believe the people that says this app sucks.This app is wonderful if you want to play any game smoothly.It is one of the perfect addons to play old games that has a fps cap!!"
+        },
+        {
+            "review_id": "226731896",
+            "steam_id": "76561198012444241",
+            "playtime_minutes": 9682,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Does what it says on the tin. This tool provides frame generation to any application and runs alongside it. Before upgrading my PC, this was very useful."
+        },
+        {
+            "review_id": "226728180",
+            "steam_id": "76561198034314563",
+            "playtime_minutes": 1270,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "so far it's working as advertised! there's a few games that were struggling on my old system that are running much smoother with this. it's certainly not a fix all for low frames, but it's VERY helpful. the frame-gen introduces a lot of input lag and some wiggly artifacts, but it works like it's supposed to. i still haven't tried all the different scaling methods, but the FSR is a much better version than what the games themselves provide, and it adds the option to games that don't have it included. \r\n\r\nin summery: it does what it says it does, it works well and it's well optimized. very much worth the $7."
+        },
+        {
+            "review_id": "226708014",
+            "steam_id": "76561199791490601",
+            "playtime_minutes": 85,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "absolute gold mine of a software. makes games run like butter and is insane for 7$. makes my old 3060 feel brand new."
+        },
+        {
+            "review_id": "226676824",
+            "steam_id": "76561198039898470",
+            "playtime_minutes": 30,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is a great technology, especially for games that may experience significant frame drops.\n\nWhile you'll have a higher input delay at lower frame rates, you can cap to a lower frame rate and survive a lag spike that otherwise might have even ended a run. \n\nThis is also a great solution if dips below 60 make you feel sick or nauseous.\n\n60 to 120 also looks really smooth and the interlaced generated frames become much less noticeable.\n\n\nSome games do behave strangely with vsync (set in-game not on LS) making the game look like it's running in slow motion. \n\nThat may be unrelated to LS and instead artifacts in a game engine where time and physics are linked to frame rates.\n\nIt's something to be mindful of and I've used it more like a feature once I understood the mechanics of it.\n\nI've also heard that with a bit of finagleing you can even run it on a steam deck. \n\nUpscaling is neat and great for low end PCs.\n\nIt's not perfect, But if I had to choose between playing a game in a small window, playing natively with horrendous lag, or playing in a slightly blurry native sized window most of the time I'd rather upscale \n\n\nIt's also great for games that don't have a borderless window option, when you want to bind your mouse to the game window and play on  a full screen but have multiple monitors. This is a lifesaver.\n\nMy only possible complaint is sometimes it just freezes the screen, locks up, goes unresponsive, or quietly crashes. These cases are seldom, and the software prevents enough issues to well justify those hiccups."
+        },
+        {
+            "review_id": "226665931",
+            "steam_id": "76561198451197763",
+            "playtime_minutes": 25428,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I'm fully aware people experience issues with artifacts/Stuttering and input lag but with my current setup it has worked tremendously well, especially with emulations capped at 60fps or games with physics tied to frame limits."
+        },
+        {
+            "review_id": "226649151",
+            "steam_id": "76561198117956379",
+            "playtime_minutes": 5578,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fairly easy to use and works real well on everything I've tried it on. Especially for Fallout 4."
+        },
+        {
+            "review_id": "226566458",
+            "steam_id": "76561198282644363",
+            "playtime_minutes": 159,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is actually great for any game locked at 30fps cause i don't have trouble running games but the old ones are soo bad in 30fps these days W software."
+        },
+        {
+            "review_id": "226534003",
+            "steam_id": "76561199384863730",
+            "playtime_minutes": 4228,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the best software available to multiply your FPS or making movies look better. Works mostly flawlessly, with pretty good models."
+        },
+        {
+            "review_id": "226485077",
+            "steam_id": "76561199224875305",
+            "playtime_minutes": 7963,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing for youtube, movies, and games. Very useful piece of software"
+        },
+        {
+            "review_id": "226454776",
+            "steam_id": "76561199681875479",
+            "playtime_minutes": 10523,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "well i don't use this for upscaling because every game i play it is at hd anyways and sees to consume a lot of power, so i dont bother using upscaling, but for frame generation is literally better than dlss and fsr and i can barely see a difference at all, i have been using this for games like rdr2 with a ton of mods that my gpu aint supossed to handle [spoiler]i dont do overclock btw[/spoiler], beamng drive and sometimes games locked to 60fps and i can say thats works pretty well without any issues, if you planning to buy this i recommend to wait for a sale if you dont really need this right now because well, saving money is saving money, but if it is an emergency and you game is running at 40 fps than yes you better buy this now, but dont expect the game to look good if you running a game at 15-30 fps because it will looks pretty bad and you will see ghosting and more weird stuff so before buying this [b]make sure you dont have stuttering in the game[/b] you gonna try and if you have at [b]min 30+ fps[/b], below 30 fps wont look good and before i finish my review, lossless scaling works everywhere like watching videos and more not only gaming"
+        },
+        {
+            "review_id": "226440851",
+            "steam_id": "76561198077079187",
+            "playtime_minutes": 639,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very impressive with my ROG Xbox Ally X. I'm playing FH6 on way higher settings than it's supposed to handle, making the game visually stunning while maintaining 70+ FPS (mostly) consistent. Frame drops happen at times and sometimes the game doesn't feel super smooth, but overall it's been a great experience so far. That said, for some other games it doesn't do the job as well. You have the FPS, but you lose smoothness and stability. Perfect? No. Worth it? Yes!"
+        },
+        {
+            "review_id": "226407661",
+            "steam_id": "76561199469619661",
+            "playtime_minutes": 248,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It is an almost flawless software though in some cases it takes a couple of tries to get it up and going it is amazing at boosting my frames"
+        },
+        {
+            "review_id": "226398347",
+            "steam_id": "76561198056103804",
+            "playtime_minutes": 4416,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This ♥♥♥♥ is magic, even with DLSS4.5 FG, Lossless often comes in clutch with it's adaptive mode, which works better than Nvidia's dynamic FG, and especially for older games who's FPS are tied to a locked 60 like the older Assassin's Creeds, if you unlock their FPS physics start to go wonky, but with lossless, you don't have to worry, and the price you pay for that is really just barely noticeable artefacting."
+        },
+        {
+            "review_id": "226345719",
+            "steam_id": "76561199102454799",
+            "playtime_minutes": 75,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I was plucking my hair to figure out the micro stutter and worst 1% lows on pubg pc. Every game was perfect on my rig, but this one gave me pain for more than 7 months. Finally gave lossless sccalingg a try. And boom! I am playing pubg, a competitive game using this amazing app from today. Best purchase for my pc."
+        },
+        {
+            "review_id": "226334863",
+            "steam_id": "76561197979962381",
+            "playtime_minutes": 1897,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "If you play older games or indie titles at non-native resolutions, this is essential. It makes pixel art and low-res games look crisp on modern displays. Simple concept, executed perfectly. The fact that I've spent 31 hours in a scaling tool tells you how often I use it."
+        },
+        {
+            "review_id": "226326732",
+            "steam_id": "76561198092657708",
+            "playtime_minutes": 45181,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "100% worth it for $7. Wish it was updated more, but not sure if any more can be done xD\n\nYou will need like 30 or 60 FPS in the game you want to upscale/interpolate to have it feel decent as a caveat, but otherwise works flawlessly."
+        },
+        {
+            "review_id": "226297014",
+            "steam_id": "76561198141240875",
+            "playtime_minutes": 1278,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Does what it says it does! This is great for some of those more hefty hardware games. Love this app! Even if not it will certainly increase the life of your graphics card by not running it as hard!"
+        },
+        {
+            "review_id": "226270099",
+            "steam_id": "76561198303477146",
+            "playtime_minutes": 53,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Alot of the bad reviews use this for games made these days, but for emulation this is an absolute savior\nPlaying Little big planet 3 with this is genuinely so helpful for the eyes."
+        },
+        {
+            "review_id": "226122637",
+            "steam_id": "76561198703508226",
+            "playtime_minutes": 65,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I even bought it without waiting for a sale because the creator deserves it."
+        },
+        {
+            "review_id": "226028522",
+            "steam_id": "76561199148786814",
+            "playtime_minutes": 2696,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Honestly a life saver, if you have a mid end PC that can run AAA games on medium settings easy but you get under 40 fps on max settings it's great since it can double, triple or even quadruple your FPS with not that much of a visual difference. And if the game doesn't have a upscale option you can upscale it with lossless scaling.\r\nAnd if you have a low end PC it's even better.\r\nOverall I it's a great program and I recommend buying it even when it's not on sale + it gets updated every few months so in my opinion it's better then the graphics upscaling especially FSR."
+        },
+        {
+            "review_id": "226001749",
+            "steam_id": "76561199186579820",
+            "playtime_minutes": 408,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i tested this in the one game my computer can't run well at all, microsoft flight simulator, and i must say, if you play sim games that are very heavy, this is a must have, i went from barely 50fps to 140-165, and the artifacting was barely noticable, and the delay was also almost imperceivable. 10/10 recommended for people who play sims."
+        },
+        {
+            "review_id": "225933452",
+            "steam_id": "76561199003853622",
+            "playtime_minutes": 1840,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very good fps booster for only 7 dolla'. But i has some latency when you get greedy with more than 2x fps boost/ scaling or push it up to say 200 when org fps is 50."
+        },
+        {
+            "review_id": "225818626",
+            "steam_id": "76561198041837051",
+            "playtime_minutes": 16378,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Using lossless for a while now for a lot of different games. Star Citizen is where it shines for me and other games where your fps is limited by the games engine. Just for smoother gameplay in non competitive titles it's a win."
+        },
+        {
+            "review_id": "225818425",
+            "steam_id": "76561198821278971",
+            "playtime_minutes": 1841,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": " I use this on any game that runs like butt or stutters, and it makes that ♥♥♥♥ shine."
+        },
+        {
+            "review_id": "225798138",
+            "steam_id": "76561198820487065",
+            "playtime_minutes": 18852,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i really only use this for older games but if works great. in some cases it works better then the built in things"
+        },
+        {
+            "review_id": "225770017",
+            "steam_id": "76561199073118705",
+            "playtime_minutes": 995,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good for games with no FG, fixed 2x has no visible artifacts, variable may bring blur around HUD placement"
+        },
+        {
+            "review_id": "225750899",
+            "steam_id": "76561198078530618",
+            "playtime_minutes": 231,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Perfect for retro games AND for turning full screen videos (e.g. series episodes) into kinda realistic :)"
+        },
+        {
+            "review_id": "225667456",
+            "steam_id": "76561198382237704",
+            "playtime_minutes": 48,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "God Bless the souls created this software! If you need frame gen or upscaling but your pc spec or the game doesn't have, No problem here's your solution! \"Recommend not to use for PVP games just Co-op and story cuz adds input lag but can be reduced to minimum\"\r\n"
+        },
+        {
+            "review_id": "225641417",
+            "steam_id": "76561198033848190",
+            "playtime_minutes": 628,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's a trial and error type program but once you get the right settings and fight with Windows for a bit it does give you drastic improvements in gameplay for older/mid range setups."
+        },
+        {
+            "review_id": "225604195",
+            "steam_id": "76561197998482742",
+            "playtime_minutes": 1643,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great little utility that I would recommend to everyone, even with high-end rigs. Great to eliminate microstutters in older games. Price is literally nothing for the value you get."
+        },
+        {
+            "review_id": "225559428",
+            "steam_id": "76561199199355089",
+            "playtime_minutes": 403,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I'm not all that tech savvy and i was blown away by how easy to use and effective this program is. Totally worth it, especially if your playing older games that only run @ 30 Fps. It's amazing."
+        },
+        {
+            "review_id": "225374389",
+            "steam_id": "76561198320347161",
+            "playtime_minutes": 112,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Better frame gen than AMD\n\nFeels smoother\nLooks better imo\nNot locked at 2x frame gen\nCan be used in any game\n\n10/10 tool"
+        },
+        {
+            "review_id": "225369221",
+            "steam_id": "76561197983330328",
+            "playtime_minutes": 1005,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "VERY USEFULL for older games or games not supporting FSR or DLSS"
+        },
+        {
+            "review_id": "225312187",
+            "steam_id": "76561199213420673",
+            "playtime_minutes": 217,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "works great, tops up both my nvidia or amd card and does what the big companies couldn't achieve. recommend it!"
+        },
+        {
+            "review_id": "225274818",
+            "steam_id": "76561198256841074",
+            "playtime_minutes": 383,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Pretty damn goated. I run a 5080 main GPU and a 4070 Super for lossless scaling. Cool thing to have and use in certain games."
+        },
+        {
+            "review_id": "225274515",
+            "steam_id": "76561198194625187",
+            "playtime_minutes": 254,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Frame Generation is a requirement for modern video games even if you have a $2,000 set up which is despicable but its not their fault, its the developers of said modern games. THS just remedies this problem and saves the hobby for us with Lossless Scaling. Best $7 I have ever spent"
+        },
+        {
+            "review_id": "225254110",
+            "steam_id": "76561199639434323",
+            "playtime_minutes": 188,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Makes certain titles that are unplayable on integrated graphics run very well though with a couple ai artifacts and massive latency delay, for story based games that focus on graphics, but games like expedition 33 or dark souls games where fast timing for parries and the such matter, it becomes immpossible"
+        },
+        {
+            "review_id": "225225203",
+            "steam_id": "76561198030037018",
+            "playtime_minutes": 2498,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I imagine people are most interested in the frame generation over the upscaling, since all modern games have DLSS or equivalent baked in. It's important to know how frame gen is best used. It WILL NOT improve performance. If your FPS is poor, this tool CAN NOT improve your performance, it will reduce it actually. Frame generation -- of any kind and not just lossless scaling -- is best used to make a playable framerate visually smoother. I'd recommend to use in game fps caps set to 60 (or higher) and scale from there. Some games are poorly optimized in their own engine and will dip into the 40s which is as low as you can comfortably be for a base framerate. (Microsoft Flight Sim 24, at a lesser extent the SCS truck sims ATS/ETS2)\nWith a reasonable starting FPS, frame gen offers a nice experience in games that don't need the lowest possible latency. The impact is pretty modest when scaling at a set multiplier (x2, x3,...) and the lowest buffer options. I was hopeful for the FPS target mode where the scaling is dynamic to hold a set framerate, but I found the latency unpleasant and distracting. I haven't explored the options beyond that, but mostly because I don't want to use frame gen if I don't need to. On games that are capped, whether it's bad optimization like MSFS 2024, or hard capped like Elden Ring, set scaling frame gen is quite nice.\n\nYou can also use this on retro or emulated games. I've not tried it as I think pixelart games should remain as designed, and PS2 3D games I've used emulator upscaling, but it's an option that I think is worth considering.\n(By the way, if you want/need to use upscaling, use the baked in option when available. Upscaling through this software will ALWAYS add more latency than the native option. You're running the frames through an external program before being displayed on your monitor so it'll always add more latency. This is probably also true for frame gen but I can't test that myself.)\n\nIt's a good piece of software as long as you understand when and how it should be used. Unfortunately the when is \"as little as possible\" but as someone who broadly hates frame generation it's a good tool for the few genuine use cases for it."
+        },
+        {
+            "review_id": "225220520",
+            "steam_id": "76561198001857413",
+            "playtime_minutes": 17154,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "10/10 - Framegen for everything, not only games\n\nOnly negative is that you will have a hard time to go back - looking at movies and Youtube at normal fps feels like ♥♥♥♥ after using this for a while. 240 fps movies hit different. Some artifacts sometimes but worth it every time."
+        },
+        {
+            "review_id": "225150982",
+            "steam_id": "76561198098261465",
+            "playtime_minutes": 44,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I use this program the most on my Steam Deck with a custom Windows 11 install. I can get it to play games that would normally be impossible! It's probably my favorite application of all time."
+        },
+        {
+            "review_id": "225142706",
+            "steam_id": "76561198054024566",
+            "playtime_minutes": 7090,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great for scaling games capped at 30 fps. i was even able to run destiny 1 60fps on PS5 through OBS preview projector."
+        },
+        {
+            "review_id": "225111283",
+            "steam_id": "76561198855569334",
+            "playtime_minutes": 11581,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Keeps my WoW gameplay smooth. No stutters, no screen tearing. Just smooth gameplay!"
+        },
+        {
+            "review_id": "225096413",
+            "steam_id": "76561199540042598",
+            "playtime_minutes": 62,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Works but isn't good for SIM racing. The amount of delay you get from using this isn't worth the extra FPS. Plus since it's ai generated weird partials appear while racing. If you aren't SIM racing I would recommend this app."
+        },
+        {
+            "review_id": "225072116",
+            "steam_id": "76561199497002834",
+            "playtime_minutes": 871,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is a good tool, because it makes my late-game Satisfactory save playable at High"
+        },
+        {
+            "review_id": "225071481",
+            "steam_id": "76561198117896107",
+            "playtime_minutes": 3604,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great for playing retro games that are framerated locked, like old RTS games or DOS games"
+        },
+        {
+            "review_id": "225071367",
+            "steam_id": "76561199221557112",
+            "playtime_minutes": 623,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this is amazing for emulators and would highly recommend for emulating older-gen consoles. turning a 30fps capped Mario game into a 120fps masterpiece is amazing, and makes this worth the money 100%"
+        },
+        {
+            "review_id": "225068792",
+            "steam_id": "76561198862783251",
+            "playtime_minutes": 1179,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Why spend $$$ for a new card when you can spend a mere $7 to get more frames with negligible input delay <3\r\n\r\nThis thing surprisingly outperforms built-in framegens in some titles. Worth the $7 spent <3"
+        },
+        {
+            "review_id": "225055209",
+            "steam_id": "76561199802235765",
+            "playtime_minutes": 1123,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great for people that primarily play older games and for emulators. It's a quick way to get a FPS boost without having to deal with adjusting config files and such in games with a FPS cap."
+        },
+        {
+            "review_id": "224999917",
+            "steam_id": "76561197989277027",
+            "playtime_minutes": 65,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Not sure why it only says 65 minutes played, but I use this all the time and its AMAZING. Well worth it and super easy to use."
+        },
+        {
+            "review_id": "224995941",
+            "steam_id": "76561198039982327",
+            "playtime_minutes": 1587,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this CAN be a game changer with the correct settings, it brought frame gen to my 1080 ti, watch some videos, try ALL of the settings, if you have old hardware this is for you,  If you have a 5090 then its not going to be of much use....."
+        },
+        {
+            "review_id": "224987494",
+            "steam_id": "76561198983915396",
+            "playtime_minutes": 3902,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Works great for adding frame gen to emulators. Makes old games look even better!"
+        },
+        {
+            "review_id": "224982691",
+            "steam_id": "76561199220480291",
+            "playtime_minutes": 482,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Oh lossless, become my frames once more.\r\nGenuinely a life saver, i dont know what i would do without it. As a broke teenager unable to get a job for medical reasons lossless has turned my old 2060 into a 3060 for just 7 pounds, which means im able to play my favorite games again after having to drop them bc my pc was trying to blow up at just the thought of these games.\r\n\r\nif youre like me, broke, uhh.... thats it. if youre broke like me or just unable to get a new gpu in this market lossless has your back with its AI frames, some of you might be turned away bc i mentioned its AI, well fret not its stored locally to no mass amounts of water needed to cool it nor is it taking anyones job (unless there was someone drawing my frames and thats why they were so crap, then i sincerely apologise to them)"
+        },
+        {
+            "review_id": "224964711",
+            "steam_id": "76561198018092658",
+            "playtime_minutes": 35,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing! I use it to give Antonblast more frames as it has too choppy native animation in my opinion.\nI use it to make Wild Hearts playable.\nGames like Elden Ring Nightreign, Hogwarts Legacy and monster hunter really all benefit from it if you fiddle around with the settings a bit. Lifesaver!"
+        },
+        {
+            "review_id": "224958690",
+            "steam_id": "76561198274107722",
+            "playtime_minutes": 84732,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This software works great and with frame generation it's usually not that noticeable with input delay, at worst it's half or a full second. I personally use this with games that run at 60 fps but have 30 fps cutscenes, to make the cutscenes 60 fps. \n\nThe scaling works great too, but be careful when trying to use OBS to record, your mouse might go off screen in the game that's scaled, but your mouse will still be visible in obs. I only noticed this post recording.\n\nFor best results in frame generation set the game to half of your max framerate your monitor supports, so if your monitor supports up to 60 then choose the game to run at 30, etc. It will make artifacts less apparently when playing and visuals will be more smooth. Tho you'll still find artifacts sometimes and especially if you go frame by frame in a video recording. \n\nFigured I'd leave this here as well, but to capture Lossless Scaling's scaling or frame generation output in OBS, add a game capture, select specific window and choose lossless scaling, set match priority as using the same executable, and then make sure to enable SLI/Crossfire capture mode. I personally also allow third party overlays just to be safe."
+        },
+        {
+            "review_id": "224939103",
+            "steam_id": "76561197970667032",
+            "playtime_minutes": 2957,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Excellent utility to maximize your video card's capabilities and customize your gaming experience ."
+        },
+        {
+            "review_id": "225490711",
+            "steam_id": "76561199233936399",
+            "playtime_minutes": 11428,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5454545617103577,
+            "steam_purchase": true,
+            "review_text": "If you wanna dive into something you never experienced I highly recommend Lossless Scaling. It boosts your FPS in movies, animes, series any show you love also you can boost up your story mode games too. :D"
+        },
+        {
+            "review_id": "226535979",
+            "steam_id": "76561198060780467",
+            "playtime_minutes": 130,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.47826087474823,
+            "steam_purchase": true,
+            "review_text": "Plain and simple doesn't work properly anymore. For example if you interpolated 60 FPS by 2 it should produce 120 FPS, but instead it'll only capture around 40 FPS and give maybe 100 FPS in return. It gets zero of the values correct, not the input, multiplier, or output. I think it's an issue with Windows 11, but regardless it's been nearly a year with no updates."
+        },
+        {
+            "review_id": "225315884",
+            "steam_id": "76561199135607481",
+            "playtime_minutes": 30420,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "Great application, I use it for Minecraft w/ shaders a lot."
+        },
+        {
+            "review_id": "226782942",
+            "steam_id": "76561199221485463",
+            "playtime_minutes": 33,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "it didnt do much i always ha 144 or lower fps\nand i get that without it if anyone wants to help out with me getting more fps pls comment"
+        },
+        {
+            "review_id": "226179547",
+            "steam_id": "76561198037297717",
+            "playtime_minutes": 3518,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5172414183616638,
+            "steam_purchase": true,
+            "review_text": "Love the part where the Duck says, \"Luke, I am your father\"   9/10 did not expect duck to say that\r\n\r\n(this program is great}"
+        },
+        {
+            "review_id": "225150836",
+            "steam_id": "76561198317781978",
+            "playtime_minutes": 424,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.46007606387138367,
+            "steam_purchase": true,
+            "review_text": "I really wanted to like LS multiframe generation. Unfortunately, this tech is just not helpful yet.\r\n\r\nLS multiframe generation does not help you run games that run poorly on your setup. It just adds nauseating blurry outlines around anything that moves. It looks kind of like the drunk effects in GTA V. The base rastered framerate nearly halves by turning it on. To call this \"lossless\" is about as misleading as Tesla calling its adaptive cruise control \"Autopilot.\" \r\n\r\nNot only does LS multiframe generation add so many artifacts that it become nauseating to move the camera slightly, but it adds so much latency that I cannot realistically play anything competititve with it on.\r\n\r\nSo LS does not help users with underpowered systems play games that they other wise cannot, and it does not help you in competitive games where you do have high frame rates already because of the latency. Where does it help? The only scenario in which it is useful in any way, is if: (1) you already have over 100fps, (2)  it is not a competitive game, (3) you do not care about AI artifacts making the image look worse, (4) you do not mind higher latency, but (5) you want a slightly smoother image. \r\n\r\nDo not buy this garbage right now. Maybe in a few years it will be ready for market, and Maybe this technology will revolutionize the way we play games someday. That day is not today. Perhaps this will be ready for market in a few years, but I cannot recommend purchasing this garbage right now."
+        },
+        {
+            "review_id": "227163099",
+            "steam_id": "76561199583271628",
+            "playtime_minutes": 421,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "For now the best feature in this program has to be FG, for any low end graphics cards like my GTX 1650, works really well to get more frames at higher resolutions, minding the artifacts. I wouldn't recommend it for lower end systems with integrated graphics, since running the frame gen takes away performance (around 10 fps) and adds noticeable artifacts below 30 fps.\r\n\r\nAlso, really detailed textures without motion blur, like asphalt, decal grass, or just panning the camera fast around a fixed object or fine details like a fence give artifacts to the image in FG.\r\n\r\nUpscalers are nothing too special, something you would get on any game setting that already has it, this option I WOULD recommend for integrated graphics since it doesn't add artifacts, it just makes the image blurrier. Mind that these settings will take a chunk of performance.\r\n\r\nWould recommend."
+        },
+        {
+            "review_id": "227148538",
+            "steam_id": "76561199018941015",
+            "playtime_minutes": 440,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "pretty solid, makes lost judgment at 30fps smooth like butter"
+        },
+        {
+            "review_id": "227102169",
+            "steam_id": "76561198123412028",
+            "playtime_minutes": 8,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i absolutely recommend this program, steam says i have less than an hour of use of this product, but i don't run it from steam, i do it directly from the exe in a short cut, so that might be why.\n\nOperating System: Windows 10\nCPU Brand: AMD Ryzen 7 1700X Eight-Core Processor\nRAM: 16 GB\nVideo Card: NVIDIA GeForce GTX 1070\nPrimary VRAM: 8 GB"
+        },
+        {
+            "review_id": "226995879",
+            "steam_id": "76561198415691478",
+            "playtime_minutes": 1082,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "absolutely phenomenal! !! ! i've still yet to explore more frame gen and other upscaling presets, but being able to upscale is huge since i primarily use it on my laptop's integrated graphics to get decent fps on usb-c power and battery. results will probably vary per title and device, but overall, great lifesaver for when dedicated graphics isn't available or if your device is bleh :p"
+        },
+        {
+            "review_id": "226986041",
+            "steam_id": "76561198180580789",
+            "playtime_minutes": 48,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Coming from games like Overwatch, Rocket League, and CS2, I've become accustomed to playing at very high frame rates and refresh rates (240Hz). In most demanding games, I struggle to enjoy anything below 90 FPS, and don't like tweaking graphics settings to achieve higher performance at loss of quality.\n\nBecause of that, frame generation has always interested me. In fact, it was one of the reasons I recently upgraded to an RTX 5070. NVIDIA's DLSS Frame Generation combined with DLSS 4.5 is excellent in games like Cyberpunk 2077, The First Descendant, and Marvel's Spider-Man. The biggest drawback, however, is that DLSS Frame Generation is only supported in a relatively small number of games. Lossless Scaling doesn't have that limitation.\n\nIn my experience, Lossless Scaling's frame generation quality is slightly behind NVIDIA's frame generation, but that doesn't mean it isn't impressive. With the right settings and a baseline frame rate of around 60 FPS or higher, you can effectively double the frame rate in virtually ANY GAME with little quality changes.\n\nFor example, when I started playing Subnautica 2, I was only getting around 80–90 FPS on Ultra settings and the game didn't support DLSS Frame Generation. I could have lowered the settings to Medium and pushed closer to 120 FPS, or I could spend $7 on Lossless Scaling and nearly double my frame rate with a single click. While I would still prefer native, or DLSS Frame Generation, Subnautica doesn't support it, so I decided to use Lossless Scaling instead. Within seconds, I was playing at a much higher refresh rate. The game felt incredibly smooth, and the visual artifacts and other frame-generation-related issues were minimal enough that they rarely stood out during gameplay.\n\nLatency is the primary downside. In most single-player and slower-paced games, it isn't a major issue for me. However, I would never use any form of frame generation in a fast-paced competitive shooter where latency genuinely matters.\n\nI know Lossless Scaling offers several additional features, such as media scaling and frame interpolation for videos, but those features don't particularly interest me. Likewise, I'm not a huge fan of its upscaling solution, mainly because most modern games already support DLSS when I need it.\n\nOverall, if you can spare $7 and are wanting/needing frame generation, I think it's an easy recommendation. Older GPUs like the RTX 3060 are beginning to show their age, and Lossless Scaling can provide a substantial performance boost without requiring new hardware. Native rendering will always provide the best image quality and responsiveness, but for people who prioritize smoother gameplay, Lossless Scaling can be a game changing tool—especially for GPUs that don't support modern frame generation technologies or for games that lack built in frame generation support.\n\nI'm a 240 hz junkie atp and frame gen is the fix I've always needed"
+        },
+        {
+            "review_id": "226931073",
+            "steam_id": "76561199853273175",
+            "playtime_minutes": 287,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i thought it wouldn't work with my specs, but it did! not only the upscaling is good, but the frame gen is solid as well. big thanks to the developers and worth every cent in my opinion"
+        },
+        {
+            "review_id": "226774542",
+            "steam_id": "76561199498485112",
+            "playtime_minutes": 198,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I like this, Because i can play game without upscaling feature rn.  BTW, u can use this software while you watch anime or film."
+        },
+        {
+            "review_id": "226454719",
+            "steam_id": "76561198815205887",
+            "playtime_minutes": 158,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing application! Works amazing if you have a monitor that is more than 60hz, and you need extra fps. I cant wait for this thing to get better overtime. It works better if you have a minimum of 40 fps while using it, and make sure to have enough headroom on your gpu. Also make sure to update your drivers before using it."
+        },
+        {
+            "review_id": "226437131",
+            "steam_id": "76561199092828914",
+            "playtime_minutes": 29,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "10/10 helped my wolfquest go from unstable below 60 fps on lost river to well over 100 fps!"
+        },
+        {
+            "review_id": "226433674",
+            "steam_id": "76561199021800257",
+            "playtime_minutes": 60,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Absolutely amazing app, allows my computer to make the most out of my full 165Hz monitor."
+        },
+        {
+            "review_id": "226395824",
+            "steam_id": "76561198142029644",
+            "playtime_minutes": 3295,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Highly recommend this for anyone who uses handheld PC’s like a Legion go, ROG Ally or even a low end PC, it’s a night and day difference makes the game a lot smoother especially for AAA games or if a game is capped at 30 FPS"
+        },
+        {
+            "review_id": "226299584",
+            "steam_id": "76561199702130972",
+            "playtime_minutes": 34,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing piece of software frame gen is extremely good, i use it in beamngdrive because of the issue of beamngdrive not using my 16 cores gpu at best, because optimized on 2 and clogs them with all the physics going on online on other players cars, framegen is stable and looks good, i keep capped at 60 the real one and multyply them by 2, obviously are only visual frames but is soooooo pleasing to play on, absolutely reccomend on older games like beamng that just uses 2 cores for physics calculation killing fps when a few cars get spawned, cant wait for the4.1 frame gen"
+        }
+    ]
+}

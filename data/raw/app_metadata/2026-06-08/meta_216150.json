@@ -1,0 +1,79 @@
+{
+    "ingested_at": "2026-06-08T19:13:05.873349",
+    "app_id": "216150",
+    "metadata": {
+        "type": "game",
+        "name": "MapleStory",
+        "steam_appid": 216150,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Join over 260 million players worldwide in MapleStory, the world’s biggest 2D MMORPG adventure! Play now for free.",
+        "detailed_description": "Join over 260 Million Global Players in MapleStory, one of the original MMORPGs, where epic adventure, action-packed gameplay, &amp; good friends await you! Featuring an iconic 2D art style, MapleStory offers the thrill of explosive power, bold anime-style self-expression, and absolute control of your characters’ awesome abilities. Build your perfect custom hero from over 40 distinct classes with thousands of unique cosmetic options, and set off on your journey to face never-ending challenges and enjoy extraordinary rewards. Discover Your Story!<h2 class=\"bb_tag\" >Key Features:</h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/extras/7b502fbfbff6b2781d95846e84d58009.avif?t=1780527801\" width=640 height=68 /></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/extras/30d56e629596615bc7c6fb10582fb3f9.poster.avif?t=1780527801\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/extras/30d56e629596615bc7c6fb10582fb3f9.webm?t=1780527801\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/extras/30d56e629596615bc7c6fb10582fb3f9.mp4?t=1780527801\" type=\"video/mp4\"></video></span><br>Create a gaming experience as unique as your personality by designing your own MapleStory hero. With over 40 unique classes to choose from, each with their own amazing abilities as well as an almost limitless number of cosmetic options, your hero will truly become one-of-a-kind.  Become a leader in the Maple Alliance and a legendary hero to inspire players for years to come. <br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/extras/5afa4cfd30308aca4ed7bc688e933501.avif?t=1780527801\" width=640 height=68 /></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/extras/dbc03c011391e225030f6978f820a99b.poster.avif?t=1780527801\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/extras/dbc03c011391e225030f6978f820a99b.webm?t=1780527801\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/extras/dbc03c011391e225030f6978f820a99b.mp4?t=1780527801\" type=\"video/mp4\"></video></span><br>Welcome to MapleStory, the original side-scrolling MMORPG where epic adventure, action and good friends await you. With hundreds of hours of gameplay, this immersive role-playing experience will allow you to conquer perilous dungeons, overcome terrifying bosses, socialize with your friends and much more. <br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/extras/f7f75c13f39510a4b9c0b796c5f38496.avif?t=1780527801\" width=640 height=68 /></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/extras/5fd987b278efebdda313d143867db1aa.poster.avif?t=1780527801\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/extras/5fd987b278efebdda313d143867db1aa.webm?t=1780527801\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/extras/5fd987b278efebdda313d143867db1aa.mp4?t=1780527801\" type=\"video/mp4\"></video></span><br>Immerse yourself in Maple World’s rich lore-filled history and epic storylines as you traverse lush forests, arid deserts, frozen tundras, underwater kingdoms, lost civilizations, and even a city in the sky! With hundreds of locations to roam, secrets to discover, and bosses to master, MapleStory offers a wealth of gameplay for you to uncover.",
+        "developers": [
+            "NEXON Korea Corporation"
+        ],
+        "publishers": [
+            "Nexon America Inc."
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Aug 9, 2012"
+        }
+    }
+}

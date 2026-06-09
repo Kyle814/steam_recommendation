@@ -1,0 +1,75 @@
+{
+    "ingested_at": "2026-06-08T18:47:02.144963",
+    "app_id": "243470",
+    "metadata": {
+        "type": "game",
+        "name": "Watch_Dogs™",
+        "steam_appid": 243470,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "In today's hyper-connected world, Chicago operates under ctOS, the most advanced computer network in America.",
+        "detailed_description": "<h1>WATCH_DOGS™ COMPLETE EDITION</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243470/extras/e810e61d80451bc2bb07564bd5065f77.avif?t=1739177057\" width=600 height=344 /></span><br>Experience Watch_Dogs - the phenomenon of 2014 - with the biggest edition ever!<br>As Aiden Pearce, a brilliant hacker, turn Chicago into the ultimate weapon in your quest for revenge. <br>In this Complete Edition, including the game + Season Pass, access a new game mode, weapons, outfits and missions and plays as T-Bone, the legendary hacker in a brand new campaign!</p><br><h1>About the Game</h1>All it takes is the swipe of a finger. We connect with friends. We buy the latest gadgets and gear. We find out what’s happening in the world. But with that same simple swipe, we cast an increasingly expansive shadow. With each connection, we leave a digital trail that tracks our every move and milestone, our every like and dislike. And it’s not just people. Today, all major cities are networked. Urban infrastructures are monitored and controlled by complex operating systems. <br><br>In Watch_Dogs, this system is called the Central Operating System (CTOS) – and it controls almost every piece of the city’s technology and holds key information on all of the city’s residents.  <br><br>You play as Aiden Pearce, a brilliant hacker and former thug, whose criminal past led to a violent family tragedy.  Now on the hunt for those who hurt your family, you'll be able to monitor and hack all who surround you by manipulating everything connected to the city’s network. Access omnipresent security cameras, download personal information to locate a target, control traffic lights and public transportation to stop the enemy…and more. <br><br>Use the city of Chicago as your ultimate weapon and exact your own style of revenge.<h2 class=\"bb_tag\" >KEY FEATURES</h2><br><strong>HACK THE CITY</strong><br>Watch_Dogs takes place in a fully simulated living city where, using your smartphone, you have real-time control over the city’s infrastructure.  Trap your enemy in a 30-car pileup by manipulating the traffic lights. Stop a train, and then board it to evade the authorities. Narrowly escape capture by quickly raising a drawbridge. Anything connected to the city’s CTOS can become your weapon.<br><br><strong>STREET JUSTICE</strong><br>Living in inner city Chicago where violence is best answered by violence, you have the skills to take the fight to the streets. Take down enemies by delivering devastating blows with your baton, or experience a shoot-out like never before with a physics simulation that rivals anything in the shooter category. Use a combination of shooting and hacking to gain advantage in any given situation.  The streets are designed for you to create your own plan of attack. Overall, you will have access to more than 30 traditional weapons. <br><br><strong>HIGH OCTANE DRIVING</strong><br>Ubisoft Montreal has partnered with studios such as Ubisoft Reflections, the acclaimed studio behind the award-winning Driver series to bring you a game bursting with horsepower. Get behind the wheel of more than 65 vehicles, each with state of the art physics and handling, and explore the massive city while completing missions.<br>\t<br><strong>EVERYTHING IS UNDER CONTROL</strong> <br>Disrupt, the all-new game engine dedicated to Watch_Dogs, uses advanced processing and graphics to deliver a stunning visual and an incredibly realistic experience. Disrupt gives you the power to affect the story, the city and the life of the population with your choices creating a ripple effect throughout the city.<br><br><strong>DYNAMIC NAVIGATION</strong><br>Watch_Dogs gives you the ability to not only use the city’s ctOS to your advantage, but the streets as well. In real-world Chicago, cut through buildings or climb to the rooftops to catch your target.<br><br><strong>SEAMLESS MULTIPLAYER EXPERIENCE</strong><br>Discover new levels of interaction, cooperation and confrontation between players thanks to a brand new multiplayer game system that links the single and multiplayer modes into one seamless experience. That means no menus, no loading screens, just instant open world multiplayer action.",
+        "developers": [
+            "Ubisoft"
+        ],
+        "publishers": [
+            "Ubisoft"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 77,
+            "url": "https://www.metacritic.com/game/pc/watch-dogs?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 46513
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 26, 2014"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "ingested_at": "2026-06-08T19:26:31.434100",
+    "app_id": "1325860",
+    "metadata": {
+        "type": "game",
+        "name": "VTube Studio",
+        "steam_appid": 1325860,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "VTube Studio is all you'll ever need to become a Live2D VTuber, with innovative features such as pinning props to your model and many more still to come.",
+        "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/extras/6d0dc168363621ed45626a206fab89a0.avif?t=1750309780\" width=480 height=88 /></span><h2 class=\"bb_tag\" ><strong>VTube Studio</strong> is finally coming to Steam!</h2><br><strong>VTube Studio</strong> is the tool of choice for any Live2D VTuber! With a wide variety of features, it has never been easier to connect with your viewers!! <strong>VTube Studio</strong> can be used directly with your webcam on any Windows PC or Mac. <br><br><strong>VTube Studio</strong> also supports other advanced tracking inputs to control your Live2D model, including audio-based lipsync (requires microphone). Details can be found in the documentation.<br><br><strong>VTube Studio on Steam</strong> is <strong>free to use with all its features!!</strong> An optional &quot;Remove Watermark&quot; DLC exists that will remove the (very cute) watermark that would otherwise be shown when the webcam tracking is active.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/extras/6917f0f0655be3e25f7411f0c2852579.poster.avif?t=1750309780\" width=554 height=426 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/extras/6917f0f0655be3e25f7411f0c2852579.webm?t=1750309780\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/extras/6917f0f0655be3e25f7411f0c2852579.mp4?t=1750309780\" type=\"video/mp4\"></video></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/extras/a342db40875742747936d362ceb40513.webp?t=1750309780\" width=616 height=5 /></span><br><br>Using <strong>VTube Studio</strong> is really easy!! Load your own Live2D Cubism model, run the auto-setup (or do the setup manually), start the tracker and you're good to go. <strong>VTube Studio</strong> works well with OBS, Streamlabs or any other streaming software.<br><br><strong>VTube Studio</strong> comes with a few simple example models, but you obviously want to import your own models!! <strong>VTube Studio</strong> ONLY supports Live2D Cubism models, other formats like VRoid are not supported. No support for other formats is planned.<br><br>If you ever get stuck, there's a complete documentation available as well as an active <strong>Discord community</strong> that's happy to help out new users!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/extras/a342db40875742747936d362ceb40513.webp?t=1750309780\" width=616 height=5 /></span><h2 class=\"bb_tag\" >What can VTube Studio do?</h2><br><strong>VTube Studio</strong> comes with tons of fun features you can try out and use to have fun with your viewers. Future development of <strong>VTube Studio</strong> will focus on community/viewer interaction, so please look forward to that!!<br><br>Some of the current features of <strong>VTube Studio</strong>:<br><br><ul class=\"bb_ul\"><li>Fast, high quality face tracking<br></li><li>Voice-based mouth tracking<br></li><li>High resolution, high quality, crisp Live2D model rendering<br></li><li>Hotkey-triggered animations, expression changes<br></li><li>Smoothly move model position/size/rotation per hotkeys<br></li><li>Mouse/Pen-tracking parameter<br></li><li>You can map any tracking parameter to any Live2D parameter of your model! Complete freedom!<br></li><li>Item-System!! You can pin your own PNG items directly to your model and they'll move with it.<br></li><li>iOS/Android app for network face tracking or directly rendering the model (free demo available)<br></li><li>Commercial usage is allowed (YouTube, Twitch, Superchats, ...) See license for more details.<br></li><li><strong>...and many more!!</strong> Got a cool feature you think people would like? Join our Discord and let us know, most features and improvements were suggested or inspired by user feedback.</li></ul><h2 class=\"bb_tag\" >How does the webcam-based face tracking work?</h2><br>Thanks to <strong>Emiliana</strong> from <strong>VSeeFace</strong>, <strong>VTube Studio</strong> now directly supports <strong>webcam-based face tracking</strong> powered by <strong>OpenSeeFace</strong>!! It comes with various quality levels so it will even run on low-spec PCs or Macs. It's free to use but will show a watermark if you don't buy the &quot;Remove Watermark&quot; DLC, available now.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/extras/1c6b8a3cc88629ed3ae0950000e45f0b.avif?t=1750309780\" width=192 height=150 /></span><h2 class=\"bb_tag\" >Where to get help?</h2><br>The documentation, support email and active Discord community can be found on the website linked on this page. <strong>Please join, we're waiting for you!!</strong><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/extras/40f91b66f56d1c6a26b1afd57f0528cd.avif?t=1750309780\" width=621 height=216 /></span><br><br><strong>SEE YOU THERE, FREN!!</strong>",
+        "developers": [
+            "DenchiSoft"
+        ],
+        "publishers": [
+            "DenchiSoft"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            }
+        ],
+        "genres": [
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "51",
+                "description": "Animation & Modeling"
+            },
+            {
+                "id": "58",
+                "description": "Video Production"
+            }
+        ],
+        "recommendations": {
+            "total": 104
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 12, 2021"
+        }
+    }
+}

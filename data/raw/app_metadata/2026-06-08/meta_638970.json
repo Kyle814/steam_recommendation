@@ -1,0 +1,96 @@
+{
+    "ingested_at": "2026-06-08T19:49:10.375882",
+    "app_id": "638970",
+    "metadata": {
+        "type": "game",
+        "name": "Yakuza 0",
+        "steam_appid": 638970,
+        "required_age": "18",
+        "is_free": false,
+        "short_description": "SEGA’s legendary Japanese series finally comes to PC. Fight like hell through Tokyo and Osaka as junior yakuza Kiryu and Majima. Take a front row seat to 1980s life in Japan in an experience unlike anything else in video gaming, with uncapped framerates and 4K resolutions. A legend is born.",
+        "detailed_description": "The glitz, glamour, and unbridled decadence of the 80s are back in Yakuza 0.<br />\r\n<br />\r\nFight like hell through Tokyo and Osaka with protagonist Kazuma Kiryu and series regular Goro Majima. Play as Kazuma Kiryu and discover how he finds himself in a world of trouble when a simple debt collection goes wrong and his mark winds up murdered. Then, step into the silver-toed shoes of Goro Majima and explore his “normal” life as the proprietor of a cabaret club.<br />\r\n<br />\r\nSwitch between three different fighting styles instantaneously and beat up all manner of goons, thugs, hoodlums, and lowlifes. Take combat up a notch by using environmental objects such as bicycles, sign posts, and car doors for bone-crunching combos and savage take-downs.<br />\r\n<br />\r\nFighting is not the only way to kill time in 1988’s Japan: from discos and hostess clubs to classic SEGA arcades, there are tons of distractions to pursue in the richly detailed, neon-lit world. <br />\r\n<br />\r\nInteract with the colourful denizens the red light district: help a budding S&amp;M dominatrix learn her profession, or ensure a street performer can make it to the bathroom in time – there are 100 incredible stories to discover.",
+        "developers": [
+            "Ryu Ga Gotoku Studio"
+        ],
+        "publishers": [
+            "SEGA"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 86,
+            "url": "https://www.metacritic.com/game/pc/yakuza-0?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 25,
+                "description": "Steam Leaderboards"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 61632
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "1 Aug, 2018"
+        }
+    }
+}

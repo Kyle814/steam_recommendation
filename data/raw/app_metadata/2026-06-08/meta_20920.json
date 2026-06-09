@@ -1,0 +1,112 @@
+{
+    "ingested_at": "2026-06-08T19:07:05.406067",
+    "app_id": "20920",
+    "metadata": {
+        "type": "game",
+        "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "steam_appid": 20920,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "A time of untold chaos has come. Mighty forces clash behind the scenes in a struggle for power and influence. The Northern Kingdoms mobilize for war. But armies on the march are not enough to stop a bloody conspiracy...",
+        "detailed_description": "The second installment in the RPG saga about professional monster slayer Geralt of Rivia, The Witcher 2: Assassins of Kings spins a mature, thought-provoking tale to produce one of the most elaborate and unique role-playing games ever released on PC. <br><br>A time of untold chaos has come. Mighty forces clash behind the scenes in a struggle for power and influence. The Northern Kingdoms mobilize for war. But armies on the march are not enough to stop a bloody conspiracy...<h2 class=\"bb_tag\" >KEY FEATURES</h2><strong>IMMERSIVE, MATURE, NON-LINEAR STORY</strong><br><ul class=\"bb_ul\"><li>Dive into an immense, emotionally-charged, non-linear story set in a fantasy world unlike any other. <br></li><li>Embark on a complex, expansive adventure in which every decision may lead to dire consequences. <br></li><li>Engage in over 40 hours of narrative-driven gameplay, featuring 4 different beginnings and 16 different endings. </li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/extras/4e9a12c6295620fa38cca6b9cb4f1280.poster.avif?t=1761657279\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/extras/4e9a12c6295620fa38cca6b9cb4f1280.webm?t=1761657279\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/extras/4e9a12c6295620fa38cca6b9cb4f1280.mp4?t=1761657279\" type=\"video/mp4\"></video></span><br><br><strong>SPECTACULAR, BRUTAL, TACTICAL COMBAT</strong><br><ul class=\"bb_ul\"><li>Fight using a combat system that uniquely fuses dynamic action with well-developed RPG mechanics.<br></li><li>Use an array of unique witcher weapons, featuring both melee and ranged options.<br></li><li>Prepare for battle using a wide array of tactical options: craft potions, set traps and baits, cast magic and sneak up on your foes. </li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/extras/034583ba40dc5b0478c14314b2a1cb4a.poster.avif?t=1761657279\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/extras/034583ba40dc5b0478c14314b2a1cb4a.webm?t=1761657279\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/extras/034583ba40dc5b0478c14314b2a1cb4a.mp4?t=1761657279\" type=\"video/mp4\"></video></span><br><br><strong>REALISTIC, VAST, CONSISTENT GAME WORLD</strong><br><ul class=\"bb_ul\"><li>Discover a deep, rich game world where ominous events shape the lives of entire populations while bloodthirsty monsters rage about. <br></li><li>Explore numerous, varied locations: from vibrant trading posts, to bustling mining towns, to mighty castles and fortresses; and discover the stories they have to tell and dark secrets they hide.</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/extras/a6ed1b1e17944551618d33859aaac525.poster.avif?t=1761657279\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/extras/a6ed1b1e17944551618d33859aaac525.webm?t=1761657279\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/extras/a6ed1b1e17944551618d33859aaac525.mp4?t=1761657279\" type=\"video/mp4\"></video></span><br><br><strong>CUTTING-EDGE TECHNOLOGY</strong><br><ul class=\"bb_ul\"><li>Experience a believable living and breathing world, featuring beautiful graphics and utilizing sophisticated in-game mechanics made possible thanks to CD PROJEKT RED in-house technology, REDengine. </li></ul><h2 class=\"bb_tag\" >ABOUT THE WITCHER 2 ENHANCED EDITION</h2>The Enhanced Edition features lots of new and exciting content.<br><ul class=\"bb_ul\"><li>Additional hours of gameplay: New adventures set in previously unseen locations, expanding the story and introducing new characters, mysteries and monsters.<br></li><li>New game introduction and cinematics: All new animations and cutscenes, including a new pre-rendered cinematic intro directed by BAFTA Award winner and Academy Award nominee Tomasz Bagiński.<br></li><li>All DLCs and improvements introduced in the 2.0 version of the game, including:<br><ul class=\"bb_ul\"><li>Arena Mode — an arcade mode that allows players to fight against endless waves of enemies and test their combat skills.<br></li><li>A new, extensive tutorial system, gradually and smoothly immersing players in the game world and Geralt’s adventures.<br></li><li>Dark Mode — a difficulty level designed for hardcore players, with unique dark-themed items. At this difficulty level, even greater emphasis is placed on battle preparation, defensive maneuvers and opportunistic attacking.</li></ul></li></ul><br>The Witcher 2 Enhanced Edition comes with these bonus items: <br><ul class=\"bb_ul\"><li>Official soundtrack in MP3 format<br></li><li>A map of the game's world<br></li><li>A quest handbook for both novice and experienced role-playing fans<br></li><li>Game manual<br></li><li>“Reasons of State” digital comic book.</li></ul>",
+        "developers": [
+            "CD PROJEKT RED"
+        ],
+        "publishers": [
+            "CD PROJEKT RED",
+            "1C-SoftClub"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 88,
+            "url": "https://www.metacritic.com/game/pc/the-witcher-2-assassins-of-kings?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 25,
+                "description": "Steam Leaderboards"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 80809
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 16, 2012"
+        }
+    }
+}

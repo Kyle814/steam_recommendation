@@ -1,0 +1,108 @@
+{
+    "ingested_at": "2026-06-08T18:59:52.139041",
+    "app_id": "646910",
+    "metadata": {
+        "type": "game",
+        "name": "The Crew™ 2",
+        "steam_appid": 646910,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Take on the American motorsports scene as you explore and dominate the land, air, and sea across the entire USA. New: play The Crew 2 offline or online with the new Hybrid mode, available now!",
+        "detailed_description": "<h1>Gold Edition</h1><p>Go beyond the limits with the Gold Edition and get The Crew® 2 Motorsports Deluxe Pack and the Season Pass and 3-day early access.<br><br>THE CREW® 2 - GOLD  EDITION<br>- A 3-day early access <br>- The Crew® 2 Season Pass <br>- The Crew® 2 Motorsports Deluxe Pack that includes:<br>*Ford F-150 Raptor Race Truck 2017<br>*Abarth 500 2008 Monster Truck Edition<br>*Pilatus PC-21<br>*3 outfits to customize your pilot</p><br><h1>About the Game</h1><p class=\"bb_paragraph\" >JOIN A COMMUNITY OF 30 MILLION PLAYERS! Get ready for a high-speed trip across the USA and enjoy one of the most complete open world action driving experiences ever created. With dozens of new game modes, tracks, vehicles, events, and more added every season, The Crew 2 has all you need for an unforgettable ride.</p><p class=\"bb_paragraph\" >Take on the American motorsports scene, discover exhilarating landscapes, and pick your favorite vehicles among hundreds. Experience the thrill and excitement of competing across the USA as you test your skills in a wide range of disciplines. Record every heart-pounding moment and share them with the push of a button – fame is yours to take! Play with up to seven friends online.</p><p class=\"bb_paragraph\" >New: play The Crew 2 offline or online with the new Hybrid mode, available now! Enjoy both the original online experience and a new way to play solo.</p>",
+        "developers": [
+            "Ivory Tower"
+        ],
+        "publishers": [
+            "Ubisoft"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 2999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$29.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "9",
+                "description": "Racing"
+            }
+        ],
+        "recommendations": {
+            "total": 85987
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jun 28, 2018"
+        }
+    }
+}

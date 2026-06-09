@@ -1,0 +1,85 @@
+{
+    "ingested_at": "2026-06-08T20:05:03.189411",
+    "app_id": "1677740",
+    "metadata": {
+        "type": "game",
+        "name": "Stumble Guys",
+        "steam_appid": 1677740,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Ready for the chaos? Stumble Guys is a 32-player, fast-paced multiplayer party royale where players dash, jump, and fall across hilarious obstacle courses in a fun race to be the last one standing.",
+        "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677740/extras/955591fc4f00dc02668da8ff278508e5.poster.avif?t=1755116858\" width=608 height=174 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677740/extras/955591fc4f00dc02668da8ff278508e5.webm?t=1755116858\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677740/extras/955591fc4f00dc02668da8ff278508e5.mp4?t=1755116858\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>JUMP INTO THE CHAOS – PLAY FOR FREE! </strong></p><p class=\"bb_paragraph\" >Grab your friends and dive into the ultimate multiplayer party battle royale! Race, stumble, and battle it out in hilarious obstacle courses where only one player can become the winner - will it be you? </p><p class=\"bb_paragraph\" ><strong>32-PLAYER MULTIPLAYER ONLINE MADNESS!</strong></p><p class=\"bb_paragraph\" >Race against up to 32 players in fast-paced, chaotic matches and tournaments. Can you dodge, jump, and stumble your way to victory?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677740/extras/21c1dff8383138f8c13de07b4e9a4da1.poster.avif?t=1755116858\" width=608 height=174 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677740/extras/21c1dff8383138f8c13de07b4e9a4da1.webm?t=1755116858\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677740/extras/21c1dff8383138f8c13de07b4e9a4da1.mp4?t=1755116858\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>PLAY TOURNAMENTS &amp; CLIMB THE RANKED LEADERBOARD </strong></p><p class=\"bb_paragraph\" >Run, clash, kick and fall to survive in tournaments and collect points to climb the Ranked leaderboard and unlock cool rewards!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>60+ COOL MAPS, ENDLESS FUN!</strong></p><p class=\"bb_paragraph\" >Speed through insane obstacle courses, dodge crazy traps, and outplay your rivals! With over 60 maps packed with challenges, every match is a new adventure. </p><p class=\"bb_paragraph\" ><strong>CUSTOMIZE YOUR STUMBLER – THOUSANDS OF COSMETICS!</strong></p><p class=\"bb_paragraph\" >Unlock epic skins, hilarious emotes, and more to stand out from the crowd. Become a ninja, superhero, or even a chicken, there’s a style for everyone. Collect them all and show them off!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677740/extras/12daac30d542a385761fb236ff2c99d1.poster.avif?t=1755116858\" width=608 height=174 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677740/extras/12daac30d542a385761fb236ff2c99d1.webm?t=1755116858\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677740/extras/12daac30d542a385761fb236ff2c99d1.mp4?t=1755116858\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>LIMITED-TIME EVENTS &amp; AWESOME CROSSOVERS!</strong></p><p class=\"bb_paragraph\" >Jump into special events playing the best game modes like Floor is Lava and Banana Bonanza or expand your collection with legendary stumblers from SpongeBob, My Hero Academia, and more!</p><p class=\"bb_paragraph\" ><strong>CROSS-PLAY ON STEAM &amp; MOBILE!</strong></p><p class=\"bb_paragraph\" >Play anywhere, anytime! Stumble Guys is free to play and supports cross-play between Steam and mobile, so you can battle your friends no matter where they are!</p><p class=\"bb_paragraph\" ><strong>Ready to stumble? Download now and join the fun!</strong></p>",
+        "developers": [
+            "Scopely"
+        ],
+        "publishers": [
+            "Scopely"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "9",
+                "description": "Racing"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 11061
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 7, 2021"
+        }
+    }
+}

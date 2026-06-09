@@ -1,0 +1,84 @@
+{
+    "ingested_at": "2026-06-08T19:20:36.853875",
+    "app_id": "1557740",
+    "metadata": {
+        "type": "game",
+        "name": "ROUNDS",
+        "steam_appid": 1557740,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Rounds is a 1v1 rogue-lite shooter where each round gets more intense. The losing player of each round unlocks clever upgrades to create a better build to counter their opponent.",
+        "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/extras/ca83a0a015551a24ab501615d6bb752c.poster.avif?t=1759328419\" width=616 height=226 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/extras/ca83a0a015551a24ab501615d6bb752c.webm?t=1759328419\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/extras/ca83a0a015551a24ab501615d6bb752c.mp4?t=1759328419\" type=\"video/mp4\"></video></span><br><br><strong>Wave your noodle arms around to assert dominance!</strong><br><br>Experience hype-filled dueling! Shoot, block, and jump your way to victory with your shotgun-rocket-launcher-that-shoots-heat-seeking-bouncy-missiles or one of the other over 11.2 million different powerup combinations.<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>65+ Unique powerups<br></li><li>70+ Maps<br></li><li>AAA Face Customizer<br></li><li>Online Multiplayer<br></li><li>Local Multiplayer<br></li><li>Twitch based matchmaking<br></li><li>100% organic Noodle Arms</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/extras/1dba3422ab140b726df21a8e595b6f2a.avif?t=1759328419\" width=601 height=126 /></span>",
+        "developers": [
+            "Landfall"
+        ],
+        "publishers": [
+            "Landfall"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 599,
+            "final": 299,
+            "discount_percent": 50,
+            "initial_formatted": "$5.99",
+            "final_formatted": "$2.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "recommendations": {
+            "total": 34600
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 1, 2021"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "ingested_at": "2026-06-08T20:00:58.033190",
+    "app_id": "208580",
+    "metadata": {
+        "type": "game",
+        "name": "STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™",
+        "steam_appid": 208580,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "5 years after the events of the award winning original, the Sith are on the verge of crushing the Old Republic. As a lone Jedi, will you follow the light side or succumb to the dark?",
+        "detailed_description": "Five years after the events from the award winning Star Wars® Knights of the Old Republic™,  the Sith Lords have hunted the Jedi to the edge of extinction and are on the verge of crushing the Old Republic.  With the Jedi Order in ruin, the Republic’s only hope is a lone Jedi struggling to reconnect with the Force.  As this Jedi, you will be faced with the galaxy’s most dire decision:  Follow the light side or succumb to the dark…<h2 class=\"bb_tag\" >Key Features:</h2><ul class=\"bb_ul\"><li>Follow up to the acclaimed and original Star Wars®  Knights of the Old Republic™. <br></li><li>Choose from three different classes of Jedi, each with access to specific Jedi abilities.<br></li><li>Choose the light or the dark side of the Force as you progress through the story.  <br></li><li>The choices you make will affect your character, those in your party and those who may join you in your quest.</li></ul>",
+        "developers": [
+            "Obsidian Entertainment",
+            "Aspyr (Mac, Linux, & Windows Update)"
+        ],
+        "publishers": [
+            "LucasArts",
+            "Lucasfilm",
+            "Aspyr (Mac, Linux)"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 999,
+            "final": 999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$9.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 22093
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Aug 23, 2012"
+        }
+    }
+}

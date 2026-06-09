@@ -1,0 +1,68 @@
+{
+    "ingested_at": "2026-06-08T20:00:23.256207",
+    "app_id": "32370",
+    "metadata": {
+        "type": "game",
+        "name": "STAR WARS™ Knights of the Old Republic™",
+        "steam_appid": 32370,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "It is four thousand years before the Galactic Empire and hundreds of Jedi Knights have fallen in battle against the ruthless Sith. You are the last hope of the Jedi Order. Can you master the awesome power of the Force on your quest to save the Republic? Or will you fall to the lure of the dark side?",
+        "detailed_description": "Note: Mac version only supports English language<br><br>Choose Your Path.<br>It is four thousand years before the Galactic Empire and hundreds of Jedi Knights have fallen in battle against the ruthless Sith. You are the last hope of the Jedi Order. Can you master the awesome power of the Force on your quest to save the Republic? Or will you fall to the lure of the dark side? Hero or villain, saviour or conqueror... you alone will determine the destiny of the entire galaxy!<br>\t\t\t<ul class=\"bb_ul\"><li>A brand new Star Wars role-playing experience with unique characters, creatures, vehicles and planets.<br>\t\t\t</li><li>Learn to use the Force with over 40 different powers and build your own lightsaber.<br>\t\t\t</li><li>Adventure through some of the most popular Star Wars locations, including Tatooine and the Wookiee homeworld Kashyyyk.<br>\t\t\t</li><li>Choose your party from nine customisable characters, including Twi'leks, droids and Wookiees.<br>\t\t\t</li><li>Travel to eight enormous worlds in your own starship, the Ebon Hawk.<br>\t\t\t</li></ul>",
+        "developers": [
+            "BioWare",
+            "Aspyr (Mac)"
+        ],
+        "publishers": [
+            "LucasArts",
+            "Aspyr (Mac)",
+            "Disney",
+            "Lucasfilm"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 999,
+            "final": 999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$9.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 28197
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 5, 2009"
+        }
+    }
+}

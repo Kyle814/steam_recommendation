@@ -1,0 +1,107 @@
+{
+    "ingested_at": "2026-06-08T19:36:30.637206",
+    "app_id": "1260320",
+    "review_count": 10,
+    "reviews": [
+        {
+            "review_id": "225141259",
+            "steam_id": "76561197970356673",
+            "playtime_minutes": 430,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4645296633243561,
+            "steam_purchase": true,
+            "review_text": "This game is unique. You feel like you are controlling a drunken ragdoll, in a good way. Many of the actual gameplay is quit funny."
+        },
+        {
+            "review_id": "225167350",
+            "steam_id": "76561199004501011",
+            "playtime_minutes": 4187,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.4925372898578644,
+            "steam_purchase": true,
+            "review_text": "Gang beasts but better.\r\n\r\nMany friends have been executed by the plunger."
+        },
+        {
+            "review_id": "225114659",
+            "steam_id": "76561198757477673",
+            "playtime_minutes": 307,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4700683057308197,
+            "steam_purchase": true,
+            "review_text": "Very fun game with friends and being alone."
+        },
+        {
+            "review_id": "225317381",
+            "steam_id": "76561199454860022",
+            "playtime_minutes": 410,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I liked playing split screen with my cousins."
+        },
+        {
+            "review_id": "225269053",
+            "steam_id": "76561199073955478",
+            "playtime_minutes": 721,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "one of the best family friendly game"
+        },
+        {
+            "review_id": "225234148",
+            "steam_id": "76561198051892489",
+            "playtime_minutes": 287,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Awesome game, very much fun!"
+        },
+        {
+            "review_id": "225090665",
+            "steam_id": "76561198316841105",
+            "playtime_minutes": 130,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4489639401435852,
+            "steam_purchase": true,
+            "review_text": "i bought this fried"
+        },
+        {
+            "review_id": "225337748",
+            "steam_id": "76561198173019318",
+            "playtime_minutes": 3906,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i like the bunny"
+        },
+        {
+            "review_id": "225176667",
+            "steam_id": "76561199534412963",
+            "playtime_minutes": 1182,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4471544921398163,
+            "steam_purchase": true,
+            "review_text": "sigma"
+        },
+        {
+            "review_id": "225217055",
+            "steam_id": "76561199036773148",
+            "playtime_minutes": 268,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "yes"
+        }
+    ]
+}

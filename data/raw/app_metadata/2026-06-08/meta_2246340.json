@@ -1,0 +1,132 @@
+{
+    "ingested_at": "2026-06-08T19:36:46.753165",
+    "app_id": "2246340",
+    "metadata": {
+        "type": "game",
+        "name": "Monster Hunter Wilds",
+        "steam_appid": 2246340,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "The unbridled force of nature runs wild and relentless, with environments transforming drastically from one moment to the next. This is a story of monsters and humans and their struggles to live in harmony in a world of duality.",
+        "detailed_description": "<h1>Deluxe Edition and Premium Deluxe Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/extras/b21d3dde3b5d00797d6285d00ee9e8a5.avif?t=1780446081\" width=616 height=513 /></span><br><br>■Monster Hunter Wilds Deluxe Edition<br>①main game<br>②Deluxe Pack<br><br>■Monster Hunter Wilds Premium Deluxe Edition<br>①main game<br>②Deluxe Pack<br>③Cosmetic DLC Pack 1<br>④Cosmetic DLC Pack 2<br>⑤Premium Bonus<br><br>②Monster Hunter Wilds Deluxe Pack<br>・Hunter Layered Armor Set: Feudal Soldier<br>・Hunter Layered Armor: Fencer's Eyepatch<br>・Hunter Layered Armor: Oni Horns Wig<br>・Seikret Decoration: Soldier's Caparison<br>・Seikret Decoration: General's Caparison<br>・Felyne Layered Armor Set: Felyne Ashigaru<br>・Pendant: Avian Wind Chime<br>・Gesture: Battle Cry, Uchiko<br>・Hairstyle: Hero's Topknot, Refined Warrior<br>・Makeup/Face Paint: Hunter's Kumadori, Special Bloom<br>・Sticker Set: Avis Unit, Monsters of the Windward Plains<br>・Nameplate: Extra Frame — Russet Dawn *Deluxe Pack Bonus Item<br><br>③Monster Hunter Wilds Cosmetic DLC Pack 1<br>・Hunter Layered Armor Set: Noblesse<br>・Hunter Layered Armor: Florescent Circlet<br>・Seikret Decoration: Purehorn Caparison<br>・Seikret Decoration: Duskhorn Caparison<br>・Pendant Set Vol. 1<br>・Photo Pose Set Vol. 1<br>・Makeup/Face Paint: Monoblos Heart<br>・Tent Customization Set Vol. 1<br>・Camp Gear Set Vol. 1<br>・BGM Set Vol. 1<br>・Sticker Set: Expedition Pals<br><br>④Monster Hunter Wilds Cosmetic DLC Pack 2<br>・Hunter Layered Armor Set: Cypurrpunk<br>・Hairstyle: Wild Braids<br>・Hairstyle: Futuristic Crop<br>・Makeup/Face Paint: Drawn Eyelashes<br>・Makeup/Face Paint: Flames<br>・Pendant Set Vol. 2<br>・Gesture Set Vol. 4<br>・Gesture Set Vol. 5<br>・Sticker Set: Whimsical Wudwuds<br><br>⑤Premium Bonus<br>・Hunter Layered Armor: Wyverian Ears<br>・Premium Bonus Hunter Profile Set<br>・BGM: Proof of a Hero (2025 Recording)<br><br>*The bonus content listed above may be available by alternative means at a later date.<br>*This content can also be obtained separately. Please be careful of duplicate transactions.<br>*Content details may change without prior notice.<br>*You may need to update to the latest version of the game to use this content.</p><br><h1>About the Game</h1>The unbridled force of nature runs wild and relentless, with environments transforming drastically from one moment to the next.<br><br>This is a story of monsters and humans and their struggles to live in harmony in a world of duality.<br>Fulfill your duty as a Hunter by tracking and defeating powerful monsters and forging strong new weapons and armor from the materials you harvest from your hunt as you uncover the connection between the people of the Forbidden Lands and the locales they inhabit.<br>The ultimate hunting experience awaits you in Monster Hunter Wilds.<br><br>Story<br>A few years past, a young boy named Nata was rescued at the border of the Forbidden Lands, an unexplored region the guild has yet to survey.<br>After hearing the boy’s tale of his lone escape from a mysterious monster that attacked his village, the Guild organized an expedition into the Forbidden Lands to investigate.<br><br>A Living World<br>Environments within the Forbidden Lands can drastically change as the weather shifts constantly and suddenly. During the harsh Fallow and perilous Inclemency periods, ravenous monsters will venture out to hunt in packs, yet during the Plenty periods, wildlife is rich and abundant.<br><br>Monsters<br>The monsters who inhabit these environments have been forced to adapt to the dynamic changes that occur, using their unique characteristics to survive and thrive.<br><br>Hunting<br>As the world around them changes, so must the hunters and their tactics. Not only will hunters have a multitude of weapons and armor to choose from, but the art of the hunt itself has evolved as hunters learn to anticipate monsters’ behavior and familiarize themselves with their environment.<br><br>Characters<br>From hunting partners to fellow expedition members, you’ll encounter plenty of those who will support you on your journey.",
+        "developers": [
+            "CAPCOM Co., Ltd."
+        ],
+        "publishers": [
+            "CAPCOM Co., Ltd."
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 6999,
+            "final": 2939,
+            "discount_percent": 58,
+            "initial_formatted": "$69.99",
+            "final_formatted": "$29.39"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 75,
+                "description": "Keyboard Only Option"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 65,
+                "description": "Subtitle Options"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 194041
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Feb 27, 2025"
+        }
+    }
+}

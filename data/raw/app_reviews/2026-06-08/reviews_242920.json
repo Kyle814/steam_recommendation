@@ -1,0 +1,507 @@
+{
+    "ingested_at": "2026-06-08T19:23:30.633958",
+    "app_id": "242920",
+    "review_count": 50,
+    "reviews": [
+        {
+            "review_id": "225192240",
+            "steam_id": "76561198076739426",
+            "playtime_minutes": 13495,
+            "voted_up": true,
+            "votes_up": 14,
+            "weighted_score": 0.6671364307403564,
+            "steam_purchase": true,
+            "review_text": "Ever since release and to this day Banished remains my favorite city builder out there. There's just nothing quite like this one for me.\ntl:dr It's a solid 8.5/10 from me\n\nThe game drops you in with a few recently exiled people and some supplies, maybe some houses and livestock depending on your difficulty setting, the objective is to build a thriving town in the wilderness you've been dumped into. It's complex to start and has a fairly steep learning curve, your first towns aren't likely to make it very much further than year 100, and getting beyond year 200 is a real challenge, at least until you get a few towns under your belt and learn how to achieve infinite supplies by abusing the trading system. \n\nMuch of my recent experience with Banished was wrapping up all the challenge runs in the achievements, which is why I get into specifics with certain mechanics below. The game is very good and I highly recommend playing it without touching guides or attempting the challenge run achievements for your first few towns. The challenge runs taught me a lot about the game's mechanics, but get frustrating if you try to do multiple in one go. Mountainmen/Uneducated (likely others) at the same time is possible, however.\n\nMost of the systems in the game aren't so deep that you get totally lost in them, save for the graphs menu which is simply mesmerizing, most menus rarely go beyond 1-2 layers in depth which helps quite a lot as you start learning what to pay attention to and what can be ignored. Where the magic really happens, I think, is how these systems play off each other. Usually to the player's detriment, an uneducated citizen works half as fast using twice as many resources, so things like food harvests, construction, tool and clothes crafting, et al, all get affected. \n\nPeople start getting sick easier because clothes aren't being made fast enough, tool shortages become more likely as mines dry up faster, tools drying up makes the already slower crop harvesting time by uneducated workers take even longer, meaning the majority of your crops end up wasted in the fields as winter rolls in. The lack of food leads to deaths, citizens begin eating herbs (medicine) as starvation hits which leads to the disease spreading even further, wiping out even more of your labor force, killing off what remains (if any) of your educated population. \n\nThe game can end up being frustrating as part of the gameplay loop ends up being careful management of infrastructure expansions and your citizens ages, as failing to maintain a steady pace of expansion (without going too fast) or preparing properly can lead to over half of your town dying from old age because the geezers wouldn't let young people move in, or if you expand too quickly, a population boom so massive it saps your food and supplies within the next two years. \n\nIt's actually fairly easy and somewhat common starting off to make massive mistakes and not feel the effects until years later, and there's variety in how you can ruin your life. Ranging from somewhat more obvious things like expanding too rapidly and being unable to sustain the higher population, or far more insidious things like having overlapping fishing docks leading to overfishing and a hit to your overwinter food supplies. Not having a wide enough variety of food can also lead to unhealthy citizens, and subsequent sickness. Not managing the local non-renewable resources such as stone or metal properly absolutely will result in you needing a new building or more houses but being unable to do so, and a tool shortage around the corner if you can look past the problem immediately at hand. Even something as mundane as an overly long commute will wreck absolute havoc to your productivity and will get citizens killed if mismanaged. And possibly the fastest way to townwipe is having a firewood shortage. Losing in this game can be excruciatingly slow, sometimes years of being unable to stop a snowballing village loss, but firewood shortages can wipe the entire town in a single winter.\n\nThe atmosphere is very good, trees gain and lose leaves during the seasons, each season is visually distinct with unique weather, snow blankets the ground and chimneys churn out puffy white smoke in winter, time can be slowed down (ranging from 1x to 10x speed, most gameplay is between 5x-10x speed) to the point where you're permitted the breathing room to zoom in down to just about head level with your citizens. The camera controls are great here though the cursor will leave the game window on windowed borderless settings, which can make panning somewhat more difficult. Clicking citizens will give you the option to have the camera follow them around as they move, and citizens will visibly carry what they have in their inventory, so if you'd like to relax and enjoy something you've built just running then you have the option to do so.\n\nThe soundtrack is sadly just okay, I really quite like it but admittedly basic. There's a couple of standout tracks that feature throat singing like Track 6 and Track 10 is pretty somber, though you can really feel the MIDI instruments in a lot of the tracks. It's not for everyone but overall it's serviceable and you're going to hear it repeat several times as one session of Banished can easily delete several hours of your life, whereas the soundtrack is only about an hour long. I wasn't able to find out who composed for Banished though I'd love to know if the composer expanded on any work or not.\n\nOne of my favorite experiences while playing through this game was having sat down with dinner and feasting like a king while my entire town starved to death, it really felt like I was an evil overlord for an evening, and affirmed that I should avoid getting into leadership positions in reality. The game ends up feeling very cyclical since as far as I've played I haven't been able to avoid the population charts from resembling an M, citizens will die en masse every few years and there's really not much that can be done to stymy that.\n\nThere's a pretty decent modding community here as well, most mods I see aren't actively updated but seeing as the game hasn't received updates itself in some time either most of them should still work as they did before. Mods range from quality of life patches, total overhauls, small decoration addons, straight up cheats, the works really. I haven't touched many of mods yet, since achievements are disabled with mods installed. But even after 100%ing the game I still know I'm coming back to it later to see what all of those are about.\n\nThat's about it. \nI've owned my copy since release and have consistently come back to play a couple dozen hours every year or two. There're games like this, but nothing that does it for me like this one does."
+        },
+        {
+            "review_id": "227173181",
+            "steam_id": "76561198064987661",
+            "playtime_minutes": 6024,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5501729846000671,
+            "steam_purchase": true,
+            "review_text": "The golden standard for city builders. Simple and entertaining for hours."
+        },
+        {
+            "review_id": "226203596",
+            "steam_id": "76561198056340869",
+            "playtime_minutes": 794,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5258620381355286,
+            "steam_purchase": true,
+            "review_text": "A very nice, simple and straightforward city building game"
+        },
+        {
+            "review_id": "225903277",
+            "steam_id": "76561198042602695",
+            "playtime_minutes": 1842,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "It's a chill city builder in it's purest form. Easy to understand economy and mechanics.\r\n\r\nEasy to learn and you cna make it as complicated as you want. A plethora of mods give it unlimited replayability."
+        },
+        {
+            "review_id": "225283861",
+            "steam_id": "76561199526347879",
+            "playtime_minutes": 350,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "I haven't played that many city builders but I like this one so far. It's pretty responsive to your actions (I totally didn't starve half of the city with rapid urbanization while learning). Graphics is also pretty nice, for what it is it runs pretty well on my laptop. Haven't tried mods yet."
+        },
+        {
+            "review_id": "227421354",
+            "steam_id": "76561198010327244",
+            "playtime_minutes": 2908,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love city building games, and this one feels special in that you actually have to deal with individual houses and the ages of people in them - too old and they won't reproduce for example. I have however played so much that it's a bit repetitive now."
+        },
+        {
+            "review_id": "227349325",
+            "steam_id": "76561198122309603",
+            "playtime_minutes": 11953,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Addictive Colony Builder with a (sometimes) Unique Soundtrack. It checks every box of a good colony simulator, minus the combat portion. The only combat is the environment and disease ridden flora, fauna, or nomads.\n\n8.75/10 - Runs on pretty much any PC with a pulse, offers a lot of value with seed-map generation."
+        },
+        {
+            "review_id": "227314959",
+            "steam_id": "76561198002255877",
+            "playtime_minutes": 23352,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very peaceful slow paced game. Can be frustrating!\r\nVarious levels and mods make this very enjoyable"
+        },
+        {
+            "review_id": "227277548",
+            "steam_id": "76561198129158188",
+            "playtime_minutes": 16665,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Difficult and fun"
+        },
+        {
+            "review_id": "227256100",
+            "steam_id": "76561198139012858",
+            "playtime_minutes": 2577,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I’m not a huge fan of city-building games, but this one really clicked with me because it has a great balance between being complex and not being overwhelming. There’s definitely a learning curve, and the tutorials are awful, but it’s well worth it"
+        },
+        {
+            "review_id": "226908002",
+            "steam_id": "76561199095634881",
+            "playtime_minutes": 6804,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Such a good game, I've been playing the game for years and have been playing consistently the whole time. Very cool and balanced system, love watching them grow!"
+        },
+        {
+            "review_id": "226361149",
+            "steam_id": "76561198416771405",
+            "playtime_minutes": 111,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Villagers always teetering on the edge of starvation as your food supplies are constantly stretched because the villagers are constantly f**king and popping out babies. This is followed by a mass die off from starvation because Im bad at the game. 10/10 Will play and fail again."
+        },
+        {
+            "review_id": "226090045",
+            "steam_id": "76561198832319085",
+            "playtime_minutes": 481,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Overall a decent game, though the amount of content is quite limited. I only have about 8 hours of playtime and have already built everything and don't really have a motivation to keep sprawling my town with the same stuff. The difficulty of this game is kinda overhyped. Just stay on top of firewood, food, and having enough houses and you will be fine. Worth the $6 I paid for it, but I wouldn't pay full price."
+        },
+        {
+            "review_id": "225887373",
+            "steam_id": "76561197995246556",
+            "playtime_minutes": 5247,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This was such an amazing game. needed a lot of mods back in the day, but it was worth it."
+        },
+        {
+            "review_id": "225756810",
+            "steam_id": "76561198085947435",
+            "playtime_minutes": 4063,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very interesting game which have a roguelike concept. Scenario is always different and it really deserves praise for that. There is some lag however not sure whether it's because of when it was released in comparison to my PC at the time. Still revisit this game time to time.\r\n\r\nAi improvement would a bonus, as well as having more building features. After a while the concept does become boring when it becomes self sufficient. However, raising the difficullty level does help with simulations for a tougher terrain."
+        },
+        {
+            "review_id": "225698893",
+            "steam_id": "76561198057185241",
+            "playtime_minutes": 3703,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Still one of my favorites of all time. I occasionally come back and do a playthrough, and I will continue to do so until I quit play games."
+        },
+        {
+            "review_id": "225335669",
+            "steam_id": "76561198090119125",
+            "playtime_minutes": 30061,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Turn on some SimCity2000 soundtracks and enjoy. Fun city-builder for those that do not like the military/fighting aspect that other similar-era builders tend to favor."
+        },
+        {
+            "review_id": "225223104",
+            "steam_id": "76561197989016537",
+            "playtime_minutes": 2296,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great game. too bad developpers abandonned it"
+        },
+        {
+            "review_id": "226145169",
+            "steam_id": "76561198027920059",
+            "playtime_minutes": 785,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.49159660935401917,
+            "steam_purchase": true,
+            "review_text": "This game is fun, but the issue is no matter what strategy I play people starve to death. otherwise would be half decent game to play for hours"
+        },
+        {
+            "review_id": "226555035",
+            "steam_id": "76561198011475131",
+            "playtime_minutes": 689,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.48235294222831726,
+            "steam_purchase": true,
+            "review_text": "For what its trying to be, this game is honestly pretty good... but its missing something. \r\nThe growth is cool and the management of your laborers is pretty fun, but it gets boring once youve been established. youll spend a lot of time seeing the town function naturally. The endgame is just flat boring. The fun part lies in the very beginning, and making sure your people dont instantly starve. I recommend more tragedies and ways to break the town once you have 200+ people. In the state its in, pretty meh."
+        },
+        {
+            "review_id": "225232644",
+            "steam_id": "76561198086100862",
+            "playtime_minutes": 5675,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Hyper cozy sim with a STEEP learning curve. A small tip for newer players, build a school before all of your educated persons die off, an un educated person cannot educate a student properly and there is a high chance of not gaining educated workers if you have an uneducated teacher."
+        },
+        {
+            "review_id": "226652444",
+            "steam_id": "76561198024793656",
+            "playtime_minutes": 297,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "6 / 10\n\nPros\n\nImagine making a competition of collecting food and wood in age of empires, stronghold or settlers - much fewer people would play in these games for more than 1 hour.\n\nThis is it.\n\nYou should check, if Bjorn the Child of the age of 12 has a room to get some time with Elizabeth the Smither of the age of 30 after Bjorn becomes the Laborer. Because if Bjorns parents and Elizabeth parents don't die by this time, you will get lack of workers for yours farms to feed everyone.\n\n2 of your 20 citizens died by age or a rock? Now you should be prepared to look at yours grafs showing populations statsitics going down for the next 5 years (if you have a townhouse), because they were the only two fully prepared to mate 2 men with an option to marry not-a-sister-or-mother female. Gladly, you have 30% of citizens like a children - not working but eating - who will give an additional population, you should just wait for 5-10 years.\n\nYou have built houses, buildins for food, clothes, wood and tools productions, and now you need to build a school or a townhouse. Are you sure? Because you already picked all the rock and iron in nearest miles, and now you need more rock to build a career to get more rock - your population is old enough now to get this done before their grandchildren become adult. Let's shift this plan to the next generations, you have no iron either and it seems like there will be no tools to feed these children - you better send someone to collect it.\n\nCons\n\nThe game has 3 main weak points, which make her uninteresting to play after 2-3 hours:\n1. Hunters, fishermen, gatherners and farmers dying from starvation: how can a guy die while making a hunt? I had 20 of 40 citizens huntig, fishing or gathering - it is ridicilous that they continued to die while literally working to get food.\n2. Prioritization: starving or suffering from wheater citizen will not run to get food or to get clothes, he will travel to the another player's seed, because there is no logic in not dying in his mind, of course.\nThis leads to a situation, when the citizen is trying to get work done, have some food, get home in warmth in one time - with no planning for the next minute or even second of his life - and he dies with one tength of his work done and zero food in his stomach.\nMoreover, you can't make him hunt or gather food or make getting food higher priority for him.\n3. Logistics and consumption: I can't understand, how my food and wood disappers from the storages. Citizens just run from one place to another without affection on starving level and fuel in the houses. Does the food appear in the storage, everyone run to eat, only half of them get them, and the another one runs back to work, wasting half of the year on that? Do the citizens know that it is more logic in eating food at the place, than bringing it to the storage and eating it there? I hopes at least someone knows these secrets.\n\nAt least, my village just run out of citizens, but did not burn to dust. I think it is a succes!"
+        },
+        {
+            "review_id": "227250373",
+            "steam_id": "76561198184278574",
+            "playtime_minutes": 419,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.43918919563293457,
+            "steam_purchase": true,
+            "review_text": "boooooooooooooooooooring. so f'ing boring. once you figure out economics its just repetitive nonsense"
+        },
+        {
+            "review_id": "226807340",
+            "steam_id": "76561198006703252",
+            "playtime_minutes": 4107,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good, clean, hard survival city builder.\r\n"
+        },
+        {
+            "review_id": "225365248",
+            "steam_id": "76561198032679860",
+            "playtime_minutes": 37,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.3419308364391327,
+            "steam_purchase": true,
+            "review_text": "Jesus, what a lazy ass game. Zero explanation about anything just a bunch of dead eyed npcs wandering around. If they can't be bothered to explain their game and concept, I'm not going to be bothered to play it."
+        },
+        {
+            "review_id": "226680264",
+            "steam_id": "76561198154865253",
+            "playtime_minutes": 6356,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "mass build important buildings in the beginning so nobody dies, everyone just stands around spazzing out because they didnt wanna move the logs off the unconstructed stock pile you strategically placed, so then you have to ruin the aesthetic setup putting a random stockpile in the fuhahh middle of a space just so they start operating again but then ♥♥♥♥ doesnt get built in time so they start dropping like flies because youre on a 10X speed and they didnt wanna figure ♥♥♥♥ out before they starved to death, but then once you get a bigger population your ♥♥♥♥ starts running low fps and lags and actions don't go through lol. Im addicted to settlement builders like this though ngl. I really enjoy this game, I just wish my computer could handle it so I could get the achievements without my computer exploding. WAHHHHHH"
+        },
+        {
+            "review_id": "227400701",
+            "steam_id": "76561198287917868",
+            "playtime_minutes": 174,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Characters constantly die of hunger despite having variety of food, it's really frustrating. I don't know if it's a bug of what but i'm giving up."
+        },
+        {
+            "review_id": "225204147",
+            "steam_id": "76561198116060202",
+            "playtime_minutes": 6340,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Best village builder, way ahead of its time. Use your resources wisely or you and your people will regret it."
+        },
+        {
+            "review_id": "225921314",
+            "steam_id": "76561198871291646",
+            "playtime_minutes": 2073,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4950000047683716,
+            "steam_purchase": true,
+            "review_text": "has everything i am looking for in a building city game"
+        },
+        {
+            "review_id": "225695650",
+            "steam_id": "76561198089616385",
+            "playtime_minutes": 3337,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A peaceful city builder where one bad winter turns your cozy village into a dramatic survival documentary."
+        },
+        {
+            "review_id": "225547443",
+            "steam_id": "76561199059610057",
+            "playtime_minutes": 806,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun and all my people died of starvation"
+        },
+        {
+            "review_id": "227447482",
+            "steam_id": "76561198329047704",
+            "playtime_minutes": 18889,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Addictive little sandbox village builder."
+        },
+        {
+            "review_id": "226457665",
+            "steam_id": "76561198347540668",
+            "playtime_minutes": 676,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Addicted to playing non stop\r\n"
+        },
+        {
+            "review_id": "226838584",
+            "steam_id": "76561198024982001",
+            "playtime_minutes": 7387,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4938271641731262,
+            "steam_purchase": true,
+            "review_text": "Very solid survival city builder"
+        },
+        {
+            "review_id": "227281399",
+            "steam_id": "76561198033022513",
+            "playtime_minutes": 36382,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It is a fun, relaxing game."
+        },
+        {
+            "review_id": "226111570",
+            "steam_id": "76561198044519672",
+            "playtime_minutes": 581,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very good experience"
+        },
+        {
+            "review_id": "225479779",
+            "steam_id": "76561198057261428",
+            "playtime_minutes": 201,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good strategy game"
+        },
+        {
+            "review_id": "227052128",
+            "steam_id": "76561198059999266",
+            "playtime_minutes": 45312,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4938271641731262,
+            "steam_purchase": true,
+            "review_text": "It's great, buy it"
+        },
+        {
+            "review_id": "226784665",
+            "steam_id": "76561198079271347",
+            "playtime_minutes": 1711,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Different type of game."
+        },
+        {
+            "review_id": "225958590",
+            "steam_id": "76561198130835151",
+            "playtime_minutes": 12241,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4950000047683716,
+            "steam_purchase": true,
+            "review_text": "good game"
+        },
+        {
+            "review_id": "225938591",
+            "steam_id": "76561198090479524",
+            "playtime_minutes": 94,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4712042212486267,
+            "steam_purchase": true,
+            "review_text": "good game\r\n"
+        },
+        {
+            "review_id": "225664359",
+            "steam_id": "76561198868663090",
+            "playtime_minutes": 25009,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very relaxing"
+        },
+        {
+            "review_id": "227132392",
+            "steam_id": "76561198968343348",
+            "playtime_minutes": 5373,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4938271641731262,
+            "steam_purchase": true,
+            "review_text": "easily worth more than $20."
+        },
+        {
+            "review_id": "225357599",
+            "steam_id": "76561198144143595",
+            "playtime_minutes": 93,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4296753406524658,
+            "steam_purchase": true,
+            "review_text": "idk i reufned it"
+        },
+        {
+            "review_id": "226174140",
+            "steam_id": "76561198118073395",
+            "playtime_minutes": 12492,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5419847369194031,
+            "steam_purchase": true,
+            "review_text": "i want more like it"
+        },
+        {
+            "review_id": "225698640",
+            "steam_id": "76561198008317638",
+            "playtime_minutes": 13030,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's awesome"
+        },
+        {
+            "review_id": "226392903",
+            "steam_id": "76561198873625307",
+            "playtime_minutes": 702,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Old fav"
+        },
+        {
+            "review_id": "225429520",
+            "steam_id": "76561198077348266",
+            "playtime_minutes": 2797,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4724409580230713,
+            "steam_purchase": true,
+            "review_text": "yes"
+        },
+        {
+            "review_id": "226924906",
+            "steam_id": "76561198078236418",
+            "playtime_minutes": 805,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4938271641731262,
+            "steam_purchase": true,
+            "review_text": "º"
+        },
+        {
+            "review_id": "226217753",
+            "steam_id": "76561198188559207",
+            "playtime_minutes": 642,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "+++"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "ingested_at": "2026-06-08T18:56:32.072812",
+    "app_id": "1296830",
+    "review_count": 5,
+    "reviews": [
+        {
+            "review_id": "227328981",
+            "steam_id": "76561198018362469",
+            "playtime_minutes": 4143,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Top tier. Like any other, takes a bit to unlock enough to the point of it feeling really cool"
+        },
+        {
+            "review_id": "226304656",
+            "steam_id": "76561199368235724",
+            "playtime_minutes": 2603,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "if u like to play hades games then this will be another similar but more challanging than hades. Go for it, wont regret."
+        },
+        {
+            "review_id": "226037279",
+            "steam_id": "76561198154228033",
+            "playtime_minutes": 4409,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "You need to give this a try! Seriously 80+ hours so many different styles of gameplay but repetitive"
+        },
+        {
+            "review_id": "225131639",
+            "steam_id": "76561199370840450",
+            "playtime_minutes": 1254,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I think this will be my first review of game ever,\nLet me say first that I got this on Chinese promotion week, I was captivated by how it looked and wanted to try it.\nI was hyped for it and it is about 6 times better than I thought. Recommended to my friends (I was talking and streaming it to them non stop), they bought it, enjoyed it af too. \nYou cant go wrong with this one if you like similiar games.\nBonus points for story, as I dont normally read items and such, but I did it and dont regret it here."
+        },
+        {
+            "review_id": "225881541",
+            "steam_id": "76561198081324389",
+            "playtime_minutes": 89,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Overall, I think the game is fun. Just some drawbacks with performance:\nPerformance:\n- Game is probably single threaded.\n\tI am seeing a single CPU pinned at 100% while playing. My CPU is pretty good (I think?), I noticed that by forcing myself to proton 9.04 (rather than whatever is autoselected), my CPU performance increased in the starting room. It didn't quite reach 100%, but still had a median value of probably 80%.\n\tIf you have a weaker cpu, I would keep this in mind.\n- Forced VSync to your lowest refresh rate monitor.\n\tThe only reason I began checking for performance was that the game looked very choppy. My primary display is 144hz, my secondary display was set to 60hz. Checking my FPS, I saw I was locked to 60fps. I closed the game, changed my secondary display's refresh rate to 75hz, and now get 75fps in game.\n\tThere are no vsync settings as far as I can tell. The video tab in the settings menu has few options at all.\n\t\nI do think the game is fun, I guess I'll unplug my secondary monitor when I play. I originally played on windows and did not notice the vsync, but I doubt I have lowered my second monitor's refresh rate there."
+        }
+    ]
+}

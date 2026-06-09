@@ -1,0 +1,138 @@
+{
+    "ingested_at": "2026-06-08T20:04:10.298992",
+    "app_id": "976310",
+    "metadata": {
+        "type": "game",
+        "name": "Mortal Kombat 11",
+        "steam_appid": 976310,
+        "required_age": "18",
+        "is_free": false,
+        "short_description": "Mortal Kombat is back and better than ever in the next evolution of the iconic franchise.",
+        "detailed_description": "<h1>Mortal Kombat 11 Ultimate</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/extras/ff2187d62ad4dd34feb3d7aa0e6bdd04.avif?t=1780429525\" width=616 height=180 /></span><br><br>The definitive MK11 experience! Take control of Earthrealm's protectors in 2 acclaimed, time-bending Story Campaigns as they race to stop Kronika from rewinding time &amp; rebooting history. Feat. the komplete 37-fighter roster, incl. Rain, Mileena &amp; Rambo.<br><br>Incl. MK11, Kombat Pack 1, Aftermath Expansion &amp; Kombat Pack 2.<br><br>• Experience 2 robust, critically acclaimed Story Campaigns from MK11 &amp; MK11: Aftermath<br>• Play as the komplete 37-fighter roster incl. newly added fighters Mileena, Rain &amp; Rambo <br>• Thousands of skins, weapons &amp; gear for an unprecedented level of customization<br>• Includes all previous guests: Terminator, Joker, Spawn &amp; RoboCop<br>• Every mode including Towers of Time, Krypt, Online, Klassic Towers, etc.<br>• All Stages, Stage Fatalities, Brutalities, Iconic Fatalities &amp; Friendships</p><br><h1>About the Game</h1><h2 class=\"bb_tag\" >YOU'RE NEXT!</h2>MK is back and better than ever in the next evolution of the iconic franchise.<br>  <br>The all new Custom Character Variations give you unprecedented control of your fighters to make them your own. The new graphics engine showcases every skull-shattering, eye-popping moment, bringing you so close to the fight you can feel it. Featuring a roster of new and returning Klassic Fighters, Mortal Kombat's best-in-class cinematic story mode continues the epic saga over 25 years in the making.",
+        "developers": [
+            "NetherRealm Studios",
+            "QLOC",
+            "Shiver"
+        ],
+        "publishers": [
+            "Warner Bros. Games",
+            "Warner Bros. Interactive Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 4999,
+            "final": 4999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$49.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 82,
+            "url": "https://www.metacritic.com/game/pc/mortal-kombat-11?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 75,
+                "description": "Keyboard Only Option"
+            },
+            {
+                "id": 71,
+                "description": "Narrated Game Menus"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 85671
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 23, 2019"
+        }
+    }
+}

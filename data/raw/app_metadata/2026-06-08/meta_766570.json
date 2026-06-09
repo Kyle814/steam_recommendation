@@ -1,0 +1,95 @@
+{
+    "ingested_at": "2026-06-08T19:25:44.828424",
+    "app_id": "766570",
+    "metadata": {
+        "type": "game",
+        "name": "Russian Fishing 4",
+        "steam_appid": 766570,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Russian Fishing 4 is a fishing simulator with RPG elements. There is no story line and the whole process is based on the concept of an open, free to roam and free to play game.",
+        "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/extras/f8a8ca2f2ce0243be931d7fa0c9f1b60.avif?t=1752656375\" width=618 height=151 /></span> </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Experience more than 230 detailed species. Over time, this number will increase even further.  </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/extras/68a266fea7cf3b4ce0baab9c7b58bc49.avif?t=1752656375\" width=616 height=137 /></span></p><p class=\"bb_paragraph\" >Choose from a huge variety of fishing tackle with hundreds of modern rods, reels and accessories.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/extras/5b0f5e2e439b153e833dff329d0ef4f5.avif?t=1752656375\" width=616 height=151 /></span></p><p class=\"bb_paragraph\" >Currently, the game offers 18 reservoirs with unique weather conditions and a diverse set of fish.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/extras/52437327e33f638d9d6f0daac9075949.avif?t=1752656375\" width=616 height=100 /></span></p><p class=\"bb_paragraph\" >The game allows free movement on the water bodies, with opportunities to fish both from the shoreline and from a boat. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/extras/f14321fbc769fe32bd9217864dc37fc9.avif?t=1752656375\" width=616 height=198 /></span></p><p class=\"bb_paragraph\" >Various types of fishing have been implemented, such as float, bottom, spinning and marine fishing. Each of them is carefully designed, using real fishing experience, and include a variety of equipment and fishing techniques. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/extras/b1629044528f4d1c30ff629645d3ec4b.avif?t=1752656375\" width=616 height=177 /></span></p><p class=\"bb_paragraph\" >As in real life, the behavior of the fish can vary depending on weather conditions, time of day and other factors. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/extras/da6d2da729edd1c069cbe039e454b166.avif?t=1752656375\" width=616 height=152 /></span></p><p class=\"bb_paragraph\" >You are given ample opportunity to develop skills, both relevant to the chosen specialization and in other related areas, including making your own lures, harvesting baits and even cooking. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/extras/b441bd3818dcddb2a904d76d755e722d.avif?t=1752656375\" width=616 height=175 /></span></p><p class=\"bb_paragraph\" >The game is constantly evolving, and more content will be added to enhance your fishing experience.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/extras/6eb0ddd021c12c3d6c611fed218029a6.avif?t=1752656375\" width=617 height=201 /></span></p><p class=\"bb_paragraph\" >Compare your achievements with other players in ratings, qualifications and statistics. Participate in a variety of competitions and tournaments with valuable prizes. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/extras/4cbb104d3924d282c1023403b9c8538d.avif?t=1752656375\" width=616 height=150 /></span></p><p class=\"bb_paragraph\" >Learn about the fish habits and gain knowledge to assemble the perfect tackle to catch your legendary trophy fish. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/extras/91275544de6eccdd2711f9df9500b9e5.avif?t=1752656375\" width=617 height=150 /></span></p><p class=\"bb_paragraph\" >Russian Fishing 4 –Meet you at the water’s edge!</p>",
+        "developers": [
+            "FishSoft LLC"
+        ],
+        "publishers": [
+            "FishSoft LLC"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 15,
+                "description": "Stats"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "18",
+                "description": "Sports"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 10, 2021"
+        }
+    }
+}

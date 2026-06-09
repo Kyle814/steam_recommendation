@@ -1,0 +1,27 @@
+{
+    "ingested_at": "2026-06-08T19:13:25.255485",
+    "app_id": "1286830",
+    "review_count": 2,
+    "reviews": [
+        {
+            "review_id": "226639422",
+            "steam_id": "76561198434808737",
+            "playtime_minutes": 943,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Easy enough to get back into.  Lots of changes, I suggest starting at level 1 and play until you figure it all out again!"
+        },
+        {
+            "review_id": "227041430",
+            "steam_id": "76561198994820009",
+            "playtime_minutes": 3950,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The gameplay is a snoozefest but i love the story"
+        }
+    ]
+}

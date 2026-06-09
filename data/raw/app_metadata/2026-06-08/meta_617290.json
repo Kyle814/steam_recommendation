@@ -1,0 +1,104 @@
+{
+    "ingested_at": "2026-06-08T18:45:05.833812",
+    "app_id": "617290",
+    "metadata": {
+        "type": "game",
+        "name": "Remnant: From the Ashes",
+        "steam_appid": 617290,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "The world has been thrown into chaos by an ancient evil from another dimension. As one of the last remnants of humanity, you must set out alone or alongside up to two other survivors to face down hordes of deadly enemies to try to carve a foothold, rebuild, and retake what was lost.",
+        "detailed_description": "<h1>NEW CONTENT</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617290/extras/ba4bda49c2bbabbd7abab4ed41b8b33f.avif?t=1764657526\" width=600 height=1340 /></span></p><br><h1>About the Game</h1><i>Remnant: From the Ashes</i> is a third-person survival action shooter set in a post-apocalyptic world overrun by monstrous creatures. As one of the last remnants of humanity, you’ll set out alone or alongside up to two other players to face down hordes of deadly enemies and epic bosses, and try to carve a foothold, rebuild, and then retake what was lost.<br><br><strong>A REMNANT OF MANKIND</strong><br>The world has been thrown into chaos by an ancient evil from another dimension. Humanity is struggling to survive, but they possess the technology to open portals to other realms and alternate realities. They must travel through these portals to uncover the mystery of where the evil came from, scavenge resources to stay alive, and fight back to carve out a foothold for mankind to rebuild...<br><br><strong>ENDLESS FANTASTIC REALMS AWAIT</strong><br>Explore dynamically-generated worlds that change each time you play through them, creating new maps, enemy encounters, quest opportunities, and in-world events. Each of the game’s four unique worlds is filled with monstrous denizens and environments that will provide fresh challenges with each playthrough. Adapt and explore… or die trying.<br><br><strong>SCAVENGE. UPGRADE. SPECIALIZE.</strong><br>Overcome tough-as-nails enemies and epic bosses throughout hostile environments to earn experience, valuable loot and upgrade materials you can use to build a wicked arsenal of weapons, armor, and modifications to approach each encounter dozens of unique ways.<br><br><strong>STRENGTH IN NUMBERS.</strong><br>Invading other worlds to seek an end to the Root is dangerous and survival is far from guaranteed. Team up with up to two other players to increase your chances of survival. Teamwork is necessary to make it through the game’s toughest challenges… and unlock its greatest rewards.",
+        "developers": [
+            "Gunfire Games"
+        ],
+        "publishers": [
+            "Arc Games",
+            "THQ Nordic"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 78,
+            "url": "https://www.metacritic.com/game/pc/remnant-from-the-ashes?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 46654
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Aug 19, 2019"
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "ingested_at": "2026-06-08T19:20:00.729731",
+    "app_id": "460930",
+    "metadata": {
+        "type": "game",
+        "name": "Tom Clancy's Ghost Recon® Wildlands",
+        "steam_appid": 460930,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Create a team with up to 3 friends in Tom Clancy’s Ghost Recon® Wildlands and enjoy the ultimate military shooter experience set in a massive, dangerous, and responsive open world.",
+        "detailed_description": "<h1>Ultimate Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/extras/dc4a8a26f461089b8cfef4a7b77a9772.avif?t=1764776201\" width=600 height=3050 /></span><br><br>Get the complete Tom Clancy’s Ghost Recon® Wildlands experience with the Ultimate Edition. Includes the main game, the Season Pass, Year 2 pass and Quick Start Pack.</p><br><h1>Year 2 Gold Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/extras/12f3078e080f04f6a0958feb2f31da59.avif?t=1764776201\" width=622 height=392 /></span><br><br>Upgrade your Tom Clancy's Ghost Recon® Wildlands experience with the Year 2 Gold Edition. Includes the main game and the Year 2 Pass.</p><br><h1>About the Game</h1>Create a team with up to 3 friends in Tom Clancy’s Ghost Recon® Wildlands and enjoy the ultimate military shooter experience set in a massive, dangerous, and responsive open world. You can also play PVP in 4v4 class-based, tactical fights: Ghost War.<br><br><strong>TAKE DOWN THE CARTEL</strong><br>In a near future, Bolivia has fallen into the hands of Santa Blanca, a merciless drug cartel who spread injustice and violence. Their objective: to create the biggest Narco-State in history.<br> <br><strong>BECOME A GHOST</strong><br>Create and fully customize your Ghost, weapons, and gear. Enjoy a total freedom of playstyle. Lead your team and take down the cartel, either solo or with up to three friends.<br><br><strong>EXPLORE BOLIVIA</strong><br>Journey through Ubisoft's largest action-adventure open world. Discover the stunning diverse landscapes of the Wildlands both on and off road, in the air, on land, and at sea with over 60 different vehicles. <br><br><strong>TRUST YOUR EYES</strong><br>Taking out the Santa Blanca Cartel becomes an even richer experience with Tobii Eye Tracking. Features like Extended View, Aim at Gaze and Communications Wheel let you use your natural eye movement to interact with the environment – without interrupting or modifying your traditional controls. Now armed with an extensive eye tracking feature set, team communication becomes more seamless, firefights become more intense and exploring your new surroundings becomes an even more immersive adventure.<br><br>Compatible with all Tobii Eye Tracking gaming devices.<br>----<br>Additional notes:<br>Eye tracking features available with Tobii Eye Tracking.",
+        "developers": [
+            "Ubisoft Paris",
+            "Ubisoft Annecy",
+            "Ubisoft Bucharest",
+            "Ubisoft Montpellier",
+            "Ubisoft Milan",
+            "Reflections",
+            "Ubisoft Belgrade"
+        ],
+        "publishers": [
+            "Ubisoft"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 4999,
+            "final": 4999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$49.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 90191
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 6, 2017"
+        }
+    }
+}

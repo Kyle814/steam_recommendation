@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T19:09:50.970621",
+    "app_id": "529340",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "226642098",
+            "steam_id": "76561198009156626",
+            "playtime_minutes": 74461,
+            "voted_up": false,
+            "votes_up": 208,
+            "weighted_score": 0.94163578748703,
+            "steam_purchase": true,
+            "review_text": "The recent updates are a perfect example of what is wrong with modern Paradox. They drop massive, sweeping mechanic overhauls that arrive buried under a mountain of game-breaking bugs, followed by a frantic rush of rapid hotfixes to patch a moving target.\n\nI am not an alpha tester getting paid to find your bugs; I am a customer who paid full price for a finished game. Stop treating your players like a QA department. Finish building the plane before you sell us the ticket."
+        },
+        {
+            "review_id": "227081515",
+            "steam_id": "76561198041772423",
+            "playtime_minutes": 60916,
+            "voted_up": false,
+            "votes_up": 80,
+            "weighted_score": 0.7916091084480286,
+            "steam_purchase": true,
+            "review_text": "This is an economic strategy game that attempts to not be Eurocentric by people who don't understand economics and can't help being Eurocentric in the most painful way imaginable.\n\nThe developers started from the premise that every nation should be playable. What they actually meant was every nation should industrialise like a European power. It doesn't matter whether you're a Central African caliphate, an isolated Pacific island, or a South American exporter. Rather than dealing with the constraints of your geography, resources, population or position in the world (Like a strategy game), every country ends up building the same steel mills, artillery foundries, tooling workshops and construction sectors.\n\nThis isn't an accident. It's the consequence of design choices.\n\nVictoria 3 has systematically removed much of the asymmetry that made the nineteenth-century global economy interesting in the first place. Comparative advantage barely exists. Resource dependency barely exists. Trade  occurs on some imaginary commodity exchange where African tribe state 4 is importing machine tools from Austria without any diplomatic contact or navy, as it tries to compete with it's serfdom rival that struggles to fill the vacancies in the rail infrastructure they built.  The game rewards self-sufficiency so aggressively that most countries end up pursuing the same industrial blueprint regardless of where they start.\n\nThe developers then managed to make the situation worse by inserting their politics directly into the economic simulation. In a dev diary they openly stated they did not want to reward players for slavery. In practice this means they did not want slavery to be as economically effective as it actually was.\n\nThe problem is that economic systems do not care about your moral preferences.\n\nIf you deliberately weaken one of the most economically significant institutions of the nineteenth century, you don't just nerf slavery. You weaken plantation economies, cotton belts, labour extraction, export dependencies and the trade networks built around them. The result is a world where everyone industrialises, nobody specialises, and the incentives that historically drove global trade and diplomacy are dramatically reduced.\n\nThe irony is that the game's own economy demonstrates why these design decisions don't work.\n\nSince release, one of the most common complaints has been chronic oversupply and late-game economic stagnation. This isn't some mysterious balance issue. It is the predictable outcome of an economic model that pushes every country towards producing the same industrial goods while simultaneously removing many of the asymmetric demand structures that would have absorbed that production.\n\nAny economist could have predicted the result. If every country is encouraged to industrialise along the same path, if comparative advantage is weakened, if resource dependencies are reduced, and if the world increasingly converges towards self-sufficiency, eventually everyone produces more than anyone needs. Prices collapse, profitability disappears, and the economy begins choking on its own excess capacity.\n\nIn other words, Victoria 3's most persistent economic problem is not a bug. It is the logical consequence of the game's underlying design philosophy.\n\nThe gameplay loop is:\n\nWood → Tools → Iron → Coal → Steel → Engines → Construction\n\nThen repeat until 1936.\n\nEvery nation becomes a slightly different route toward the same destination. Different flags. Different starting positions. Same economy."
+        },
+        {
+            "review_id": "226788860",
+            "steam_id": "76561198060507377",
+            "playtime_minutes": 73592,
+            "voted_up": false,
+            "votes_up": 30,
+            "weighted_score": 0.6417797803878784,
+            "steam_purchase": true,
+            "review_text": "I feel sad about writing this review. I want to like this game. It has a ton of potential. Unfortunately it's just another Paradox slop.\n\nMy 2 main problems with the game: bugs and unpolished features.\n\nThe game is buggy mess, there's no two ways about it. And I don't mean patch 1.13 in particular. Yes, patch 1.13 is especially buggy, but even on a good day this game is riddled with bugs. Everything from crashes and simulation issues to UI glitches — this game has it all.\n\nAnd when it's not crashing on you, this game feels like some early access build where half of the stuff are just placeholders. Take supply routes from patch 1.13 for example. Your armies would sometimes need supply routes, but other times they won't. Why? Because devs couldn't be bothered to finish the feature before releasing it. Why does logistic center just spawns in some random place and I have no way of moving it? Same. It was DLC o'clock so they released some work-in-progress half-baked mess they had that day. Why bother finishing the feature, let alone actually polishing it? I don't even want to talk about diplomatic plays which still, after more than 3 years, feel like some convoluted mess held together by the spit and duct tape. There are ton of examples like this. It really feels like playing an early access game.\n\nAnd that's the crux of the issue for me. The attitude devs have towards their game. Why bother polishing and fixing stuff when we can do it later. And this \"later\" never actually comes, because DLCs take priority. Sure, devs like to brag about fixing 100 bugs together with DLC, but they never admit that each major patch breaks way more stuff than it fixes. And instead of owning the failure and doing something about it, devs just blame gamers for not filling bug reports. Like, what the … After spending almost €200 on a game I need to work as an unpaid QA intern?\n\nOh, right… DLCs. I don't mind DLC in principle. But here, DLCs feel like some abandon-ware scam. If DLC feature was poorly designed, it will never get fixed. Because again, why bother fixing old stuff, when you can work on another half-baked DLC?\n\nSo all in all, this game feels like a money sucking black hole, never spitting anything good back. Save yourself from disappointment and skip this one."
+        },
+        {
+            "review_id": "226540579",
+            "steam_id": "76561198833266448",
+            "playtime_minutes": 3999,
+            "voted_up": true,
+            "votes_up": 8,
+            "weighted_score": 0.596464991569519,
+            "steam_purchase": true,
+            "review_text": "Holy peak. Unbelievably great game and unbelievably poorly optimized"
+        },
+        {
+            "review_id": "225884845",
+            "steam_id": "76561198068715504",
+            "playtime_minutes": 1488,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5667870044708252,
+            "steam_purchase": true,
+            "review_text": "Very steep learning curve.  It's a combination of extraordinary depth and poor tutorials and interface.  If I could give this a neutral rating I would.  If you like very deep strategic gameplay, you will love this game if you're willing to spend the time.  If you're a casual gamer you will probably hate this game, and you will be justified due to the insufficient interface and tutorials."
+        },
+        {
+            "review_id": "226904150",
+            "steam_id": "76561199789280358",
+            "playtime_minutes": 33137,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5617044568061829,
+            "steam_purchase": true,
+            "review_text": "Rollback to 1.12.5 if you want to play the game right now, 1.13 simply isn't working it use's 99% of my GPU for some reason causing a crash instantly."
+        },
+        {
+            "review_id": "225724752",
+            "steam_id": "76561199318853712",
+            "playtime_minutes": 12003,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5424836277961731,
+            "steam_purchase": true,
+            "review_text": "The new update has broken this game, when i first started a new game it didnt seem so bad at first. But as my game went on the weekly tiks just got slower and slower. Probably by the time i just decided to stop playing it was likely 10x slower than the usual speed you would have gotten before the update. Like if youd put it on the fastest speed it use to go super fast, now its like almost 30 seconds or so to pass a week. Its just crazy how bad its gotten, for sure will be a terrible experience for anyone trying to buy the game and has never played it to experience that as their first impression would likely leave a bad impression on a game thats actually good. I only put no on this for recommendation because its not good right now."
+        },
+        {
+            "review_id": "227042714",
+            "steam_id": "76561198149069021",
+            "playtime_minutes": 517,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5376158952713013,
+            "steam_purchase": true,
+            "review_text": "Updates increased the minimum OS version to macOS 14, making the game unplayable for me. Games should not drop support for operating system versions that are 5 years old, that's ridiculous."
+        },
+        {
+            "review_id": "227320793",
+            "steam_id": "76561197983156279",
+            "playtime_minutes": 12945,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5356200933456421,
+            "steam_purchase": true,
+            "review_text": "Interesting game but army/war is no good. Tech development, region development I liked, but not being able to getting armies to do anything including intercepting invaders makes the game useless.  Looked at youtube videos wasn't helpful. tried the tutorials but never came across a military/war one."
+        },
+        {
+            "review_id": "225189862",
+            "steam_id": "76561198024458396",
+            "playtime_minutes": 2763,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5334806442260742,
+            "steam_purchase": true,
+            "review_text": "While this title offers a refreshing break from typical military-focused global domination, it remains a mechanical disaster. Playing primarily as Sweden, the following issues consistently have broken my experience: \n1. Without DLCs, the game is stripped of its uniqueness. Core features like Power-Bloc and Company Mandates are severely downgraded, offering a fraction of the depth intended by the developers.\n2. The treaty system is nonsensical. While minor powers yield resources for just asking, negotiating with majors like France, Russia or England is impossible without using a \"Make it Work\" button that forces illogical economic concessions. It is easy to try out by starting a new match with Sweden and then ask all over the world for money or resources. Attaining a head start of +10k in money and goods at the cost of about 500 influence is easily attainable.\n3. Military logic is non-existent. Armies routinely \"walk\" across oceans without transports, bypassing naval blockades or land routes through nations entirely. Naval warfare relies on a \"visibility score\" that functions so poorly it feels like a bug rather than a mechanic.\n4. Post-patch 1.13, expanding your global interest is nearly impossible. Unless you start with existing colonies, you are often relegated to be a spectator while established powers monopolize the map.\n5. The explanations, tutorials and wiki within the game fail to explain critical game concepts in depth. Particularly colonizing, standard of living, company monopolies, privatization versus nationalisation of economical aspects, literacy and research as a whole, and vassalization are among many mechanics that you will just have to read about on the internet to fully comprehend them.\n6. Radicalism often feels disconnected from player agency, particularly given the early-game event in Europe. You can have a high literacy and standard of living that revolts because of a \"Movement to Enact State Religion\" that only 2% of the population supports, flipping your entire empire at that point in time.\n7. Migration often ignores logical constraints. You might see millions of people move to a tiny island because it has a slightly higher \"Migration Attraction\" than other states.\n8. UI tooltips for taxes, trade, and productivity are frequently misleading, making micro-management a guessing game."
+        },
+        {
+            "review_id": "226875519",
+            "steam_id": "76561198061921416",
+            "playtime_minutes": 200164,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.5306742191314697,
+            "steam_purchase": true,
+            "review_text": "As someone else put it-\nThe recent updates are a perfect example of what is wrong with modern Paradox. They drop massive, sweeping mechanic overhauls that arrive buried under a mountain of game-breaking bugs, followed by a frantic rush of rapid hotfixes to patch a moving target.\n\nI am not an alpha tester getting paid to find your bugs; I am a customer who paid full price for a finished game. Stop treating your players like a QA department. Finish building the plane before you sell us the ticket."
+        },
+        {
+            "review_id": "227060516",
+            "steam_id": "76561198110058133",
+            "playtime_minutes": 9484,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5274360775947571,
+            "steam_purchase": true,
+            "review_text": "Before the most recent major update this game ran fine on my computer. Now, even on the lowest settings my game crashes after about 30 minutes after booting up every single time. I am so sick of games or dlc releasing these days and charging full price for what is basically a beta version or even an alpha like what we have here. This game is not early access so there is no excuse for this. I love paradox games but I am so tired of not being able to play the game after an update because they can't be bothered to do any quality assurance. Instead paradox would rather  pay youtubers to hype the game/dlc, then take months to fix anything gamebreaking.  I think its time for consumers to vote with their wallets and stop buying this slop until its been out for at least 3 months. Not relater but I am definetly not buying the new hoi4 dlc now"
+        },
+        {
+            "review_id": "227059901",
+            "steam_id": "76561198040408339",
+            "playtime_minutes": 24057,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5274360775947571,
+            "steam_purchase": true,
+            "review_text": "The game can be fun, but there are issues that just ruin it.\n\nCampaigns aren't ending because you're done, the coding decided you're done. While I definitely go well beyond the scope of the intended timeframe of the game, all my progress being undone by the game crashing at the exact same moment no matter what save I load, leaves me with that feeling of \"why bother with another campaign when its going to end against my will and through no fault of my own again?\"\n\nThe paradox crash reporter doesn't ever work, it always gets an error and nothing is ever sent. I don't have faith that this issue will ever get fixed. I had fun, I got my money's worth I guess? Its just disappointing because I know I could get more out of it, but I won't buy DLCs for this game if this issue isn't resolved."
+        },
+        {
+            "review_id": "225184291",
+            "steam_id": "76561199014815420",
+            "playtime_minutes": 29684,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.527070939540863,
+            "steam_purchase": true,
+            "review_text": "I love this game but I hate the studio behind it. Paradox always has this aggresive DLC policy, where core game features are locked behind a paywall."
+        },
+        {
+            "review_id": "226510967",
+            "steam_id": "76561198074455188",
+            "playtime_minutes": 200969,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5262778997421265,
+            "steam_purchase": true,
+            "review_text": "Probably more hours than any other game. The potential is there, but with Paradox's ♥♥♥♥♥♥ business model (Full game price then 30 DLC's for $30 each), mix in game breaking bugs, it's not worth it. Might as well play Vic 2 until they're completely done fixing this game. I wish I could keep playing but every time a bug occurs, one that has been happening for months, it ruins my runs and I want to rip out my hair."
+        },
+        {
+            "review_id": "226387627",
+            "steam_id": "76561198015788258",
+            "playtime_minutes": 261540,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5258620381355286,
+            "steam_purchase": true,
+            "review_text": "I've really enjoyed this game and have played it since it first came out. For a while each release pushed the game in the right direction.  The trade rework was amazing, until they patched it because the AI would give you anything you wanted. I agree it needed a patch but the implementation didn't solve the core issue and instead nerfed the update into oblivion. The national awakening patch seemed to serve no purpose other than some light content for a few countries and never ending coups and revolutions for everyone. Now with the latest patch they've finally broken the game- the combat system has always been buggy but now it's unusable. And if you save scrum to get around the never ending bugs your reward with be a front row seat to watch every country splinter and fragment because the AI cannot deal with said NEVER ENDING COUPS AND REVOLUTIONS."
+        },
+        {
+            "review_id": "227315487",
+            "steam_id": "76561197994168366",
+            "playtime_minutes": 4552,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5245072841644287,
+            "steam_purchase": true,
+            "review_text": "I've played Victoria 1 and 2 a lot in the past decades. I never thought it could be improved on by this much. Victoria 3 is, to put it bluntly, an exceptionally good game.\n\nNote that I have all the DLCs from the first 2 \"seasons\" of DLCs(so everything before the Great Wave). My personal preferred way to play Paradox games is to play the second or third to last patch, rather than the latest patch closest to a new DLC. Meaning, I wait for a DLC to come(with the associated discounts), get the game, then revert the patch from Steam to a previous, stabler and more balanced patch. This way I always avoid the worst parts of Paradox's poorly planned game development cycles. \n\nIn any case, Victoria 3 more or less focuses on the things I found interesting in the previous games(industrialization, trade, internal politics, diplomacy, society, etc), and leaves the least interesting part(warfare) fairly minor.\n\nIn particular I love the way the game does internal politics and lawmaking. Not only are there interest groups(landowners, industrialists, etc), but also political parties(conservatives, liberals, etc), and even movements for change in your country(radical movements, abolitionists, nationalists, separatists, etc). Altogether it makes for a very varied and interesting political landscape. (there's also political agitator individuals that change the way interest groups work by forcing their specific ideology on the broader ones of the interest groups. For instance, a socialist movement isn't particularly oppressive in itself, but if Vladimir Lenin is the leader of the group, it's a different matter altogether).\n\nIn short, if you're not at all interested in \"map painting\" of most other Paradox games, but rather an intricate simulation of the Victorian era, then this is the game to play. I was very surprised that this one was so much better than 1 and 2, when I already loved the first two. Can't imagine going back to them anymore, which is crazy given how much I liked them previously."
+        },
+        {
+            "review_id": "226188842",
+            "steam_id": "76561198022799089",
+            "playtime_minutes": 15884,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Update has killed my mood for the game, so many QOL changes in the wrong way, Please revert some of the changes, especially troop transports or at least give us a early way to get mass troops transports in a navy, it has become hell to unite troops and fleets as well.\n\n"
+        },
+        {
+            "review_id": "225675953",
+            "steam_id": "76561198050814078",
+            "playtime_minutes": 18154,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Every update is 2 steps forward, 5 steps back. Of all the Paradox titles, the AI in this one is the worst. On top of the game getting remade every update so it's impossible to pick up a new game, I am happy to just uninstall and forget this game."
+        },
+        {
+            "review_id": "226174288",
+            "steam_id": "76561198040601001",
+            "playtime_minutes": 16865,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "I can't remember the last time I gave a review for any game, but I'm pissed enough right now that I will. \r\n\r\nI'm a huge fan of Paradox games in general (5k+ hours in Hearts of Iron 4!), and I've actually had good experiences with Victoria 3 in the past. In fact, I'd quit playing this game about a year or so ago because it was too easy.\r\n\r\nAllow me to give a brief explanation. The driving engine of your economy in Victoria is your Capitalists. Every week, they contribute money towards a pool of money, the Investment Pool, which they will then use to either build new factories/mines/farms/railways/etc, or purchase existing constructions that are particularly profitable. The running costs of the weekly construction are deducted from the weekly contribution, and the rest grows the pool.\r\n\r\nI usually play as Prussia (though I've tried other nations), and a year or so ago, your economy would start off slow for the first few years, but generally creeping upwards. Then you'd beat up on Denmark and gain Schleswig Holstein, and you'd start to gain more momentum. Then you'd beat up on Austria, at which point all of North Germany would unify with you, and your economy would suddenly surge through the roof and never look back. Beating France and completing the unification of Germany was just the icing on the cake. Your capitalists would be spamming three or four new factories every week, making ludicrous amounts of money, and by the 1880s you would literally have so many factories built that every single possible person to employ in the country had a job and still more factories would be popping up.\r\n\r\nAt some point in the last year, Paradox apparently decided that needed a nerf. Reasonable, but they went so far in the other direction that its' genuinely broken the game completely. Now? Your capitalists don't do ♥♥♥♥. And that alone makes the game impossible to play.\r\n\r\nThrough the first three years of the game, to 1839, my private sector does not build a single f*cking factory in my own country. They'll privatize stuff that the government (me) own or the local workforce owns, they'll build stuff in other countries. The only things they'll build in my country are railways, without any method of procuring actual trains- I have to build that factory myself, which burns through the entire starting national gold reserve and then some through the 32 week construction. \r\n\r\nSo the economy never grows. No money ever comes into the country. Lowering taxes immediately puts me into the red, with my steel mills screaming for iron and my government offices screaming for paper, but my capitalists, instead of an iron mine or a paper mill, build A GODD*MN PORT IN BORNEO (that was the final straw). Raising taxes enrages the people and you get a nice little revolution in 1842. You can't even think about the wars you need to unite Germany. You can't do anything but watch your economy slowly die from day one regardless of what you do.\r\n\r\nTLDR: Dumb Capitalist AI BREAKS THE GAME."
+        },
+        {
+            "review_id": "225325277",
+            "steam_id": "76561198810339828",
+            "playtime_minutes": 3125,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "game is decent for what it is. no QA or respect for players, which is becoming standard at paradox at this point. buy with utmost caution."
+        },
+        {
+            "review_id": "225572049",
+            "steam_id": "76561198024866659",
+            "playtime_minutes": 39312,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5205479264259338,
+            "steam_purchase": true,
+            "review_text": "In 1.12 the game was almost perfect. The best title across all pdx games.\n1.13 undone almost all progress made after release of CoC.\nGame in current state is unplayable. AI is braindead. Bugs are everywhere. Absolute fiasco.\nDon't recommend buying it right now and i have no clue how many patches are needed to return it to 1.12 state."
+        },
+        {
+            "review_id": "225375823",
+            "steam_id": "76561198814033423",
+            "playtime_minutes": 20484,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5205479264259338,
+            "steam_purchase": true,
+            "review_text": "Game is currently unplayable, nothing more to add."
+        },
+        {
+            "review_id": "226774139",
+            "steam_id": "76561198006818858",
+            "playtime_minutes": 60118,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5199999809265137,
+            "steam_purchase": true,
+            "review_text": "The new DLC just doesn't work properly. It has a lot of great ideas and in theory it's very cool, but everything navy is insanely broken. Hate to do this, but it's disgusting that PDX releases a completely broken DLC for that amount of money."
+        },
+        {
+            "review_id": "225265405",
+            "steam_id": "76561198093061322",
+            "playtime_minutes": 3200,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5098039507865906,
+            "steam_purchase": true,
+            "review_text": "Could be one of the greatest grand strategy games of all time if Paradox could make a competent AI. They claim they’re going to update the AI in an “AI Focused Patch”, so wait for that and then consider buying it."
+        },
+        {
+            "review_id": "226929269",
+            "steam_id": "76561198968835589",
+            "playtime_minutes": 14855,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5089285969734192,
+            "steam_purchase": true,
+            "review_text": "This game has improved much since release, the last DLC was a bit of a mess, but most of its core problems were solved quickly."
+        },
+        {
+            "review_id": "225938871",
+            "steam_id": "76561198118403960",
+            "playtime_minutes": 276,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5081967115402222,
+            "steam_purchase": true,
+            "review_text": "Game freezes after every 30 min apprx. After update all my save games become invalid and game crashes on them. Awful, absolutely awful."
+        },
+        {
+            "review_id": "226443214",
+            "steam_id": "76561198056358119",
+            "playtime_minutes": 83970,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5045045018196106,
+            "steam_purchase": true,
+            "review_text": "The game crashed so frequently after latest DLC. It is unplayable at all"
+        },
+        {
+            "review_id": "225819139",
+            "steam_id": "76561198019646232",
+            "playtime_minutes": 8,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5020576119422913,
+            "steam_purchase": true,
+            "review_text": "Junk, I installed it at first on my game drive, it wouldn't launch and said it couldn't find the files.  k, fine, uninstalled and reinstalled on the C drive and it opens but crashes on the launch page.  not great.  I'll uninstall and reinstall one more time and see if I can get a refund."
+        },
+        {
+            "review_id": "225498673",
+            "steam_id": "76561198026436323",
+            "playtime_minutes": 14640,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5016523599624634,
+            "steam_purchase": true,
+            "review_text": "Game is nice.\n\nHowever, PDX DLC policy is BS, releasing unfinished and broken games and \"fixing\" and adding features via payed DLC. \n\nHuge performance issues and ugly bugs after the latest \"update\". One especially often and incredibly annoying bug is the fleet warping home, after unloading troops into an invasion. FIX IT!\n\nAlso, fix the fact, that is isn't possible to play multiplayer with multiple mods DESPITE SAME CHECKSUM!"
+        },
+        {
+            "review_id": "226909178",
+            "steam_id": "76561199542460206",
+            "playtime_minutes": 13570,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5016360282897949,
+            "steam_purchase": true,
+            "review_text": "They completely overhauled the entire game destroying half of what was already great about it. I booted up the game after the update and not only is it a buggy mess, it has completely new mechanics that destroy any hopes at an expansionist playstyle. What was once my favorite game has become an unplayable mess, because the devs refuse to let a game that has been out for four years exist in its current state."
+        },
+        {
+            "review_id": "226982100",
+            "steam_id": "76561197965139875",
+            "playtime_minutes": 3183,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5013770461082458,
+            "steam_purchase": true,
+            "review_text": "HOLY COW... This game is DEEP. What an amazing game. So much detail and the economy system is VAST. The treaties are an amazing touch. I am very impressed.   The ONLY thing I can say that I do not like is the loading time. Great game all around though."
+        },
+        {
+            "review_id": "227499475",
+            "steam_id": "76561198166215321",
+            "playtime_minutes": 119430,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Unable to play since the Great Wave. I'd love to continue the game, but I'm encountering many game-breaking bugs. Flying pirate ships that glide through Africa, a Russian fleet that circles the entire globe to go to a providence that's right next to it, and funding my navy so my sailors can go on a lifetime cruise is not enjoyable. Please fix because I feel like I got scammed."
+        },
+        {
+            "review_id": "227395123",
+            "steam_id": "76561198008006042",
+            "playtime_minutes": 4023,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Base game on sale is an absolute steal it plays really well and I haven't seen any major bugs. \n\nMost of the Dlcs mechanics are included in the base game and only minor features of each are locked behind pay walls. Really recommend this I've had a great time with it."
+        },
+        {
+            "review_id": "227316492",
+            "steam_id": "76561198375808670",
+            "playtime_minutes": 8716,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "hearts of iron but in the economics and politics"
+        },
+        {
+            "review_id": "226965959",
+            "steam_id": "76561198169026734",
+            "playtime_minutes": 22203,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Being honest if you somewaht like economic simulators ill recommend or other paradox strategy games , if you really iked victoria 2 i would be carfull management of the economy is better but warfare is so inferior there is no words,like a developping new game of paradox full of bugs and pains , and later game very intensive in the computer , besides this the first 50 years of the game very recommended , huge warning if you like managing warfare like moving units or design or anything complicated do not buy this game simmplifies warfare so much it becomes a paind and supply ♥♥♥♥ that bugs any time."
+        },
+        {
+            "review_id": "226803287",
+            "steam_id": "76561198061435678",
+            "playtime_minutes": 1584,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Vengo de CK3, EUV, EUIV pero Victoria no hay manera.\nPor mas horas que invierto en jugar y ver tutoriales no hay forma de no pasarme todas las horas que he jugado enfrente de la pantalla de productos y construcciones observando lo que va sucediendo. Nunca consigo llegar al punto donde la economía mas o menos me permite disfrutar de otros aspectos del juego, siempre estoy con el agua al cuello. \n\nNunca me he encontrado un juego de Paradox que frustre tanto y sea tan difícil llegar al punto donde se disfrute, pese a no entenderlo aún. \n\nQuizás vuelva a intentarlo, realmente quiero disfrutarlo, pero me llevará un tiempo volver a encontrar energía."
+        },
+        {
+            "review_id": "226764996",
+            "steam_id": "76561198448255557",
+            "playtime_minutes": 46511,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "My current favorite PDX game.\nWith the DLCs it has a good amount of flavor and replayability value."
+        },
+        {
+            "review_id": "226738637",
+            "steam_id": "76561199473970651",
+            "playtime_minutes": 62365,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The only game of its kind. If you love economics and looking at charts and graphs you'll love this game. It has a much more slow burn than something like hoi with the joy coming from slowly building up your nation taking it from a regional locality to a global super power."
+        },
+        {
+            "review_id": "226672686",
+            "steam_id": "76561198211623669",
+            "playtime_minutes": 44442,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is actually amazing. The base game is good, but not its best form; however when you give it a bunch of DLC, it becomes so much fun! Personally, Sphere of Influence, Charters of Commerce, and National Awakening are my favourite DLC, they make the came so much more enjoyable and deep. 9.5/10 would recommend, the only issue with this game is the combat system. \r\n\r\nThe reason combat is the issue is because if you have a bigger number, you just win, which isn't a great way to make the game. :("
+        },
+        {
+            "review_id": "226665747",
+            "steam_id": "76561199585236457",
+            "playtime_minutes": 75745,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "There are still many things that could use fixing or working on but with this many hours in this game i'd be damned if i didn't give it the old thumbs up"
+        },
+        {
+            "review_id": "226576991",
+            "steam_id": "76561199232612203",
+            "playtime_minutes": 4535,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "pretty good upgrade over victoria 2 tho the ai is still kinda trash and it could use some QoL features cause the click click click thing gets annoying when playing big countries."
+        },
+        {
+            "review_id": "226412898",
+            "steam_id": "76561198132824470",
+            "playtime_minutes": 6135,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is my all time favorite Paradox strategy game. Before this Stellaris and before that HOI4. Not as big of a EU4 or EU5 fan. I hope this helps in your decision. I love controlling the GDP and supply lines this offers compared to other games."
+        },
+        {
+            "review_id": "226340034",
+            "steam_id": "76561198877477801",
+            "playtime_minutes": 12031,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Buggy and overpriced, paradox is more focused on pumping out paid content than actually improving the game. They add miniscule things that barely affect the gameplay loop and make it the price of a fully developed game and fill it with issues. Worst part is that they're never gonna stop doing it until people stop rewarding them by buying their garbage."
+        },
+        {
+            "review_id": "226325835",
+            "steam_id": "76561198376959945",
+            "playtime_minutes": 1285,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game is great, like other paradox games, but the performance is ♥♥♥♥. I can't have a session longer than 1 hour. I believe there is a memory leak problem."
+        },
+        {
+            "review_id": "226229821",
+            "steam_id": "76561198073595590",
+            "playtime_minutes": 33647,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Extremely fun, I love building the economy. Steep learning curve, still learn a new thing each run. Hard."
+        },
+        {
+            "review_id": "226197774",
+            "steam_id": "76561198966838626",
+            "playtime_minutes": 9725,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Before the recent updates, I would have recommended this game to almost anyone looking for a calm and fun strategy game. But now many bugs and glitches make the game feel unplayable, and do not even get me started on the new revolutions, because whatever change paradox implemented to make 40k untrained German men with guns almost completely defeat and demoralized my 200k+ professional army is insane. So with the recent changes I would not recommend Victoria 3."
+        },
+        {
+            "review_id": "226159792",
+            "steam_id": "76561198056340869",
+            "playtime_minutes": 1980,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Political systems for dummies vol.3\n\nGame is about economic snowballing\nIt's fun\n\nDLC policy is not fun"
+        },
+        {
+            "review_id": "226159205",
+            "steam_id": "76561198143679879",
+            "playtime_minutes": 12419,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Honestly this game is annoying for having so many bugs otherwise it would have been a good game. The monopoly rights is annoying, it does not work. its very annoying. It spoils what you can do often."
+        },
+        {
+            "review_id": "226158267",
+            "steam_id": "76561198050816696",
+            "playtime_minutes": 45857,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I'm bed bound for the next few months and this has been my light at the end of the tunnel. I want to lear to mod it. Amazing game tbh."
+        },
+        {
+            "review_id": "226151106",
+            "steam_id": "76561198083767679",
+            "playtime_minutes": 358,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I was able to jump in and figure it out fairly quick. The tuturial will surely help actually play it right but I can have fun with it out of the box."
+        },
+        {
+            "review_id": "226149343",
+            "steam_id": "76561198098584915",
+            "playtime_minutes": 2997,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Took me a while to like Vic3, but I'm enjoying it a lot. Current game state is good."
+        },
+        {
+            "review_id": "225842544",
+            "steam_id": "76561198063525799",
+            "playtime_minutes": 12180,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is one of the few grand strategy games where your decisions actually have consequences beyond railroaded focus trees and scripted events. Even the countries without a specific narritive focus are fun to play and develop, their starting laws and tech make each nation a somewhat unique playthrough. Countries with a heavy narrtive focus are good aswell, Byzantine runs are the most satisfying but the new update has made it alot harder. Speaking of the new update (Great Wave), it still needs work but all of the changes made are heading in the right direction, the new influnce system adds so much depth to the game and makes the Navy worth investing in. The game has issues, but this is a paradox game."
+        },
+        {
+            "review_id": "225806935",
+            "steam_id": "76561199193125596",
+            "playtime_minutes": 1826,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Really want to love this game but every time i've tried to play it recently it crashes my computer, The game is a buggy mess."
+        },
+        {
+            "review_id": "225792808",
+            "steam_id": "76561198113524725",
+            "playtime_minutes": 683,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good game, a bit complicated to learn, but overall good game."
+        },
+        {
+            "review_id": "225786621",
+            "steam_id": "76561198160011444",
+            "playtime_minutes": 3067,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Uma vez que você pega o jeito, torna-se o jogo mais viciante do mundo. As horas passam e você não percebe pq está preocupado demais tentando anexar a Argentina."
+        },
+        {
+            "review_id": "225772401",
+            "steam_id": "76561199094202643",
+            "playtime_minutes": 5223,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The both the economy management and diplomacy is really interesting and well designed. Unfortunately wars against other major powers are just tedious and slow despite being such an important part of the game."
+        },
+        {
+            "review_id": "225771082",
+            "steam_id": "76561198418078145",
+            "playtime_minutes": 18296,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I should start by saying that I personally enjoy the game, but despite that there are so, so many problems. For one, basic stability. I don't play with many mods, and to test certain issues I've encountered I've even turned them off. Despite this, the game can still be choppy, unstable in multiplayer, and crashes for seemingly no reason. Second, not a lot happens in the game itself. Unless you're playing a VERY major nation, the game progress fairly normally without much interaction between nations. Finally, the combat system is easily the worst one Paradox has ever had. Despite the main focal point of the game being the economy and not combat, it is so jarringly bad that it is impossible to ignore. If this is somehow you're first Paradox game, I would point you somewhere else, or if it isn't and you haven't decided on whether you should buy it or not, I wouldn't recommend purchasing it"
+        },
+        {
+            "review_id": "225713769",
+            "steam_id": "76561198078031743",
+            "playtime_minutes": 39182,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is an industrialization simulator. It focuses on social, political and economic development and barely attempts to model military action. If that sounds good to you (as it does to me) then you'll find a difficult to learn, frustrating and insanely complicated puzzle box of a game that will consistently reward you for thinking systemically. It's a real achievement. You might hate it. So- duly warned!"
+        },
+        {
+            "review_id": "225646970",
+            "steam_id": "76561198081674006",
+            "playtime_minutes": 3137,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "So far very nice paradox game. simulation was good enough, some small bugs is there and sometimes I would appretiace more warnings if you overlook something like insufficient supplies for army before it is too late."
+        },
+        {
+            "review_id": "225494558",
+            "steam_id": "76561198003338824",
+            "playtime_minutes": 104324,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It has it's issues, but this game in multiplayer with 10-15 players is probably among my favourite gaming of all time."
+        },
+        {
+            "review_id": "225473866",
+            "steam_id": "76561198710230399",
+            "playtime_minutes": 3113,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun game, but not as hard as I'd like.\r\n\r\nComparing to Paradox games: worse than HOI4, Stellaris, EU4; better than CK3, Imperator.\r\n\r\nThe economy simulation is the main sell, but political simulation is also cool/fresh. Similarities to Frostpunk 2.\r\n\r\nBut for more pure economy games, Offworld Trading Company is a bit better imo. The +75%/-75% limits on prices in V3 do help playability w/ everything going on, but far from realistic."
+        },
+        {
+            "review_id": "225465646",
+            "steam_id": "76561198396183064",
+            "playtime_minutes": 5836,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I have been playing this game a lot recently. Its something of a pattern, because there is enough in the game to keep you hooked on for weeks. Then you go away and come back it has enough new things to be at it for a few weeks again. Paradox games in general have been out of what for some time now from their peaks, and if CK3 has too much RPG then Vic 3 has too much of sandbox where the historical content of the period doesn't need it to be. Some mods rectify this somewhat. \n\nI haven't encountered anything gamebreaking in the latest patch (1.13) given other reports of bugs and so on, but I don't play the Great Wave expansion."
+        },
+        {
+            "review_id": "225352124",
+            "steam_id": "76561198121539849",
+            "playtime_minutes": 1365,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Vic3 is great, scratches the itch for economic growth and market management."
+        },
+        {
+            "review_id": "225318515",
+            "steam_id": "76561197971373756",
+            "playtime_minutes": 6019,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Purchased on sale during the Great Wave update. \n\nThis is an interesting time period for an economic/political simulator but ultimately terribly frustrating to play. At nearly every turn, the game design is opaque and when you do manage to understand it almost seems designed to P1SS you off as a player. \n\nTop issues: \n1) Oh, you want to incorporate a new state into your growing empire, republic? Too bad, after twenty years just as it's about to complete you have an unavoidable nationalist movement that resets your timer. Lovely! I'd rather you didn't even give me the option if you're going to play that BS!\n\n2) Oh, you'd like to automate things. Sorry, you need to micromanage buildings one or two at a time to keep your economy from crashing. Why even have a goramn building queue system? \n\n3) Oh you want military conquest? Well it's a numbers game. Tech is for Sh1t. Armies and navies move past each other with impunity. The dice rolling mechanics of Axis and Allies or even Risk felt more meaningful. \n\nSeriously, play Steallaris or Hearts of Iron 4 if you need a grand strategy game. This is a hard pass."
+        },
+        {
+            "review_id": "225255945",
+            "steam_id": "76561199239285177",
+            "playtime_minutes": 11543,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game has consumed my life. I know people say it’s mid but I just can’t get enough of it, I think there is something wrong with me."
+        },
+        {
+            "review_id": "225245382",
+            "steam_id": "76561197982151487",
+            "playtime_minutes": 5750,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Political economy simulator of the industrial era / big boy version of civ."
+        },
+        {
+            "review_id": "225101485",
+            "steam_id": "76561199167833615",
+            "playtime_minutes": 712,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Initially, I couldn't get the game to load. Then my dumb ass figured out that in addition to the game's almost 18GB file size, it [b] requires [/b] an extra [b] 10GB [/b] of available space to compile shaders or some sh*t like that.\n\n[spoiler] The new system where you gain interests through 'involvement' instead of manually selecting that \"oh yes, I would indeed like to have an interest in that particular region\" did confuse me at first, but now that I know it's there, I don't know how to feel about it. [/spoiler]"
+        },
+        {
+            "review_id": "225101408",
+            "steam_id": "76561198010165936",
+            "playtime_minutes": 3829,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49833884835243225,
+            "steam_purchase": true,
+            "review_text": "You're like homer at his power plant job.  There are one million levers, buttons and knobs; none of which seem to have any scrutable effect. If you do nothing, the plant melts down.  If you try to use basic game knowledge to problem solve it will melt down even faster but in a rainbow pattern.  Tooltips and descriptions might as well be Sumerian.  There is no dog for the tail to wag, it's actually just mechanical tails wagging more mechanical tails all the way down.  Russia is invading your nation again.  The women of your country will never get equal rights.  Actually, everyone would rather subsist on porridge and live in shacks.  You can learn to lead your video game people into the modern era... after a time investment greater than that of learning an actual real life trade.   \n\nI like this game because of the era and themes- but its actual gamic design as an Arcane Puzzlebox is really offputting."
+        },
+        {
+            "review_id": "226145311",
+            "steam_id": "76561198071593152",
+            "playtime_minutes": 30520,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.4982578456401825,
+            "steam_purchase": true,
+            "review_text": "The new strait and interest mechanics from Great Wave are so bad and anti-fun.\n\nSo I will be going to give this thumbs down now.  Please revert or improve this design so i can give it a thumbs up cause the game was so better in the last DLC chapter."
+        },
+        {
+            "review_id": "225148857",
+            "steam_id": "76561198046701563",
+            "playtime_minutes": 15411,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.49450552463531494,
+            "steam_purchase": true,
+            "review_text": "As someone who has a degree in Economics, this is probably one of my favorite strategy games out there. There is something truly addiction to watching your society develop on various fronts from literacy to food stability. It is very well done.\r\n\r\nThe big draw is the combat system which can be buggy sometimes with frontlines often not setting correctly. However, it seems obvious that this game is not combat focused. I wish the government system was more dynamic. Also that you had more nuanced options with the laws. The naval changes in the new update are quite a learning curve and are frustration when trying to move troops around, however, I think with some time it makes sense and adds neat customization with ships.\r\n\r\nIf you are looking for something combat focused, like HOI4, this is not your game. However, if you love city builders and other sims, give this game a shot. It will be quite difficult at first due to its uniqueness, but soon enough you'll be staying up until 4:00am for  \"one more turn\" like I often feel in Civilization games!"
+        },
+        {
+            "review_id": "225134945",
+            "steam_id": "76561199838804163",
+            "playtime_minutes": 6957,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49450552463531494,
+            "steam_purchase": true,
+            "review_text": "Great game. Just takes time to learn the basics. I do like the updates and mostly an understandable game after awhile. Wars do give me a head ach sometimes."
+        },
+        {
+            "review_id": "225133083",
+            "steam_id": "76561198367365689",
+            "playtime_minutes": 26474,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49450552463531494,
+            "steam_purchase": true,
+            "review_text": "A much as we want to criticize the release of paradox games and their monetary strategies of dlc. i think its important to realize that no other company makes map games like paradox, so we dont have much choice if we want this experience.\n\nWith that said, ive played this game and liked it since release, my opinion hasnt changed on not recommending it however until this latest dlc, where i can now only point to one design flaw and annoying bugs as the reasons why you shouldnt play. Things like the gp menu not opening during diplomatic plays or boats not wanting to merge into a fleet, and performance. \n\nhowever, theres no other game like victoria 3 and i do believe that with a reworked combat system and more flavour, this game is one of the best second perhaps only to hearts of iron."
+        },
+        {
+            "review_id": "226203692",
+            "steam_id": "76561198133580513",
+            "playtime_minutes": 11284,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5435684323310852,
+            "steam_purchase": true,
+            "review_text": "I just love a Economy Focused Grand Strategy Game. Seeing the economy grow and your population being (for the most part) better off is just very satisfying."
+        },
+        {
+            "review_id": "227380909",
+            "steam_id": "76561198412951176",
+            "playtime_minutes": 51950,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.4925372898578644,
+            "steam_purchase": true,
+            "review_text": "Game Runs Well Should Remind Europe and America Why we should rule then world keep up the good work"
+        },
+        {
+            "review_id": "227003136",
+            "steam_id": "76561199471390378",
+            "playtime_minutes": 16485,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.47826087474823,
+            "steam_purchase": true,
+            "review_text": "Hoi4 for economics students i still hate this game but its better then hoi4 ok fr tho get it on sale its not worth full price but if you can set aside your week to learn the game then yeah it gets good but its still pretty shallow as with every paradox game \"the last instalment is better\""
+        },
+        {
+            "review_id": "225299082",
+            "steam_id": "76561199586391839",
+            "playtime_minutes": 536,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.47826087474823,
+            "steam_purchase": true,
+            "review_text": "impossible to understand, impossible to play"
+        },
+        {
+            "review_id": "225951598",
+            "steam_id": "76561198098321988",
+            "playtime_minutes": 30348,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.4778393507003784,
+            "steam_purchase": true,
+            "review_text": "I’m tired of this game.  I’m tired of stepping away from the game for a couple of months, coming back and having to watch 2 hours of YouTube videos to figure out the new mechanics that ended up breaking the game.  \n\nI’m tired of DLC that looks interesting and gets me excited, only for it to be completely broken and ruin the game.  \n\nI’m tired of not being able to complete a single game because the game crashes whenever you’ve gotten past the year 1910 and it has too much info to process and just immediately crashes, even though my PC meets the recommended settings. \n\nI’m tired of Paradox apologizing and saying they’ll fix it and they never do.  \n\nI’m tired of every single Paradox game like this having the exact same issues. \n\nI’m so very very tired."
+        },
+        {
+            "review_id": "226584135",
+            "steam_id": "76561198123384045",
+            "playtime_minutes": 88857,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4727229177951813,
+            "steam_purchase": true,
+            "review_text": "This game is good, there are just a lot of crybabies in the community and thats a fact, if u play a proper structured game with multiplayer it is a great experience."
+        },
+        {
+            "review_id": "226768557",
+            "steam_id": "76561198018983364",
+            "playtime_minutes": 69612,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Я не понимаю, почему мы - как потребители, должны терпеть подобное обращение. Мы покупаем патчи и дополнения, которые настолько сырые, что разработчик выпускает восемь хотфиксов за неделю и все равно вся новая механика остается сломанной. Мы злимся, материмся, не получаем никакого удовольствия, это же ужасно. Такая бизнес-модель должна умереть."
+        },
+        {
+            "review_id": "225409612",
+            "steam_id": "76561198212869080",
+            "playtime_minutes": 6448,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Politics? Basically roulette. Military? Esoteric Witchcraft. Economic? Can be turned into a Master's degree thesis."
+        },
+        {
+            "review_id": "225377520",
+            "steam_id": "76561198018147014",
+            "playtime_minutes": 3246,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great geosocioeconomic simulator game. Recommended"
+        },
+        {
+            "review_id": "225227028",
+            "steam_id": "76561198013568415",
+            "playtime_minutes": 508,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's so cool how the economy operates. Very very much enjoying this. I feel bad for waiting because of the reviews. I think I don't trust reviewers anymore. They seem like entitled nitpickers."
+        },
+        {
+            "review_id": "225089222",
+            "steam_id": "76561198138453770",
+            "playtime_minutes": 1454,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.4493618309497833,
+            "steam_purchase": true,
+            "review_text": "I never write reviews for games and have played paradox titles for over 10 years. This game is idiotic and anti-fun. Creating a game where the player can essentially do nothing directly is a stupid idea and explains why this game is essentially dead. You can affect nothing directly. The core gameplay loop is building something, watching number go red, then waiting for it to go green again. Diplomacy and war is idiotic aswell. You know what’s fun? Watching the brain dead AI control my armies. You know what else is fun, having zero idea if a country will join me or go against me in a diplomatic play. This game relies on save scumming. Brain dead morons sat around in a room and thought this would be a good idea. This game is for angsty neckbeard-having microecon students that are unemployed. Stupid game. Anybody who likes this game is a redditor/bot/paradox forum idiot. People who like this game never played any paradox games before the latest generation (eu5 ck3 vic3). Paradox now makes soulless sandbox games made for soulless microecon bots"
+        },
+        {
+            "review_id": "225108033",
+            "steam_id": "76561198173430190",
+            "playtime_minutes": 797,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49833884835243225,
+            "steam_purchase": true,
+            "review_text": "I love Economy Sim, I love Graphs and Charts and Numbers"
+        },
+        {
+            "review_id": "225600607",
+            "steam_id": "76561198087125811",
+            "playtime_minutes": 46625,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4958677887916565,
+            "steam_purchase": true,
+            "review_text": "Ha progresado mucho, siempre conviene esperar despues de cada actualización."
+        },
+        {
+            "review_id": "226054501",
+            "steam_id": "76561198026733821",
+            "playtime_minutes": 7874,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4301075339317322,
+            "steam_purchase": true,
+            "review_text": "The game has a really horrible tutorial and just throughs the player out there in front of 50,000 things to worry about. The game teaches you basic but the rest is up to you to figure out and the game can't be played without knowing the some of the hard stuff. I wouldn't recommend this to any player who is looking for a good Paradox experience because the experience if frustrating and annoying. Paradox missed this one on \"lets bring new players to Victoria\". This one is for the pros and only the pros so if you never played Victoria before then this game isn't for you.\r\n\r\nI bought this game 4 years ago and I have tried playing the tutorial about 500 times as Sweden only to fail to revolutions or just my GDP stalling at 5 million. Going from 4.9 to 5, back to 4.9 and to 5 again. Nothing I build or do will increase the amount and the game doesn't even tell me how to fix the issue. When playing the tutorial you see your standard of living go down but have no idea how to fix it before a revolutions happens so your just forced to sit there and die.\r\n\r\nThe game is for the pros and only the pros so if your not a Victoria pro, I recommended passing along."
+        },
+        {
+            "review_id": "225347234",
+            "steam_id": "76561198143703159",
+            "playtime_minutes": 9418,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.40175309777259827,
+            "steam_purchase": true,
+            "review_text": "The game presents a Marxist view of history. Construction sectors are horribly expensive and they are always state owned, at best you can have 75% of them \"leased\" for private construction. Communism is overpowered and is presented as the end of the road political system. Military system isn't as bad currently as it was on launch and actually works pretty well but its tweaked in every major patch. Landowners are shown as being useless roadblock to any change. I do feel like the old Vicky 2 had a better economic simulation than Vicky3 despite aging very badly."
+        },
+        {
+            "review_id": "226087524",
+            "steam_id": "76561198145564622",
+            "playtime_minutes": 34811,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "As a liberal parliamentary enthusiast myself, at some point I had -1k authority."
+        },
+        {
+            "review_id": "225816660",
+            "steam_id": "76561198836105939",
+            "playtime_minutes": 6788,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Open Victoria 3\nPick Great Qing\nGot attacked by British for banning opium\nSwarm all armies at naval invasion locations\nWin the war\nBuild the economy\nCommunism movement wants a revolution\nGreat Qing becomes Republic of China\nAnother revolution\nLost to revolution\nRestart\n\n\nAlready 10 hours marathon\n\nOnly play this on weekend or you will suffer unless you are unemployed"
+        },
+        {
+            "review_id": "225246213",
+            "steam_id": "76561199349355802",
+            "playtime_minutes": 1072,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.45473334193229675,
+            "steam_purchase": true,
+            "review_text": "Overly Complicated and NOT as \"straight forward\" as you would think. Game literally \"lanes you\" to certain outcomes that are predestined, no matter what you do."
+        },
+        {
+            "review_id": "225442485",
+            "steam_id": "76561198006247598",
+            "playtime_minutes": 4126,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5035461187362671,
+            "steam_purchase": true,
+            "review_text": "Completely bugged combat, especially in the latest patch, with armies spreading and fighting with one soldier in a battle. Also, the attack and defense got bugged, having only 1 of attack and one of defense. So multiple armies with the same and better composition can't win one smaller army.\nAlso, Navies got even more broken, not doing anything many times, not blockading or intercepting in the appointed region and even ships going away to fight in regions outside the appointed region (usually outnumbered and all sunk).\nIn the last patch they also broken the political system, especially with the authority, but also the handling of interest groups and party formation. Nothing of the most important things in the gameare working with consistency. If only I could refund it. Total slop and waste of money."
+        },
+        {
+            "review_id": "225813372",
+            "steam_id": "76561198099046801",
+            "playtime_minutes": 4107,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "complex, sandbox, random AI behavior, but follow history from beginning. So far enjoyable but limit 100 years =( at least give an option for 150 or 200 years."
+        },
+        {
+            "review_id": "226593731",
+            "steam_id": "76561199398064748",
+            "playtime_minutes": 32285,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5419847369194031,
+            "steam_purchase": true,
+            "review_text": "é uma luta acabar com a droga da escravidão sem ser traido por um general fdp que vai destruir seu governo por completo as vezes so compensar aceitar mesmo doque perder a prr de um save de 2 horas"
+        },
+        {
+            "review_id": "227174353",
+            "steam_id": "76561199829787063",
+            "playtime_minutes": 2260,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is amazing the only problem is that it is unbelievable complicated"
+        },
+        {
+            "review_id": "226242547",
+            "steam_id": "76561199128680792",
+            "playtime_minutes": 25632,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is my favorite paradox game it’s fun to play tall or wide learning it isn’t too hard"
+        },
+        {
+            "review_id": "225356738",
+            "steam_id": "76561198237137820",
+            "playtime_minutes": 5506,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "liberal liberal liberal liberal liberal liberal lalala"
+        },
+        {
+            "review_id": "227307155",
+            "steam_id": "76561199139856660",
+            "playtime_minutes": 13336,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.545157790184021,
+            "steam_purchase": true,
+            "review_text": "Many games have diffrent goals, in this game the goal is to achieve even a moment of fun."
+        },
+        {
+            "review_id": "227373959",
+            "steam_id": "76561198190109585",
+            "playtime_minutes": 56461,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The only bad thing about this game is how addicted to deficit spending you get"
+        },
+        {
+            "review_id": "227186687",
+            "steam_id": "76561199005034210",
+            "playtime_minutes": 60863,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.48783183097839355,
+            "steam_purchase": true,
+            "review_text": "Took Paradox 3 years, but VIC 3 is finally a good game."
+        }
+    ]
+}

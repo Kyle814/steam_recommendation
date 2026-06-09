@@ -1,0 +1,103 @@
+{
+    "ingested_at": "2026-06-08T19:23:16.035915",
+    "app_id": "495420",
+    "metadata": {
+        "type": "game",
+        "name": "State of Decay 2: Juggernaut Edition",
+        "steam_appid": 495420,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "The dead have risen and civilization has fallen. Now it's up to you to gather survivors, scavenge for resources and build a community in a post-apocalyptic world – a world where you define what it means to survive in this ultimate zombie survival simulation.",
+        "detailed_description": "<h1>Juggernaut Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/extras/17df4bdccbcbc1a0e321751775917db7.avif?t=1741378867\" width=614 height=180 /></span><br><i>State of Decay 2: Juggernaut Edition</i> re-imagines the popular survival game as a brand-new experience to welcome first-time players... and those who've come back from the dead. Available on Steam for the first time, this edition is packed with new and remastered content for the ultimate zombie survival experience.<br><br>Join over 10 million existing players and discover what Juggernaut Edition has to offer:<br><ul class=\"bb_ul\"><li>The base game plus all three add-on packs released to date, including the all-new Homecoming update:<br> • <strong>Homecoming</strong>: a full-size, fully remastered, open world version of Trumbull Valley for the core game, reintegrating the Mount Tanner and Fairfield regions to the map, and adding new sites to scavenge, along with new sights to behold.<br> • <strong>Heartland</strong>: an massive story campaign set in a familiar town with new challenges<br> • <strong>Daybreak Pack</strong>: a test of teamwork with siege-style, &quot;survive the horde&quot; gameplay<br> • <strong>Independence Pack</strong>: a celebration of history that blows up zombies... with fireworks!<br></li><li><strong><i>Remastered graphics</i></strong> and an upgraded engine featuring realistic fog effects<br></li><li>An <strong><i>expanded soundtrack</i></strong> with hours of new thematic musical arrangements<br></li><li>Providence Ridge: a <strong><i>brand-new open-world map</i></strong> full of forests, zombies, and mystery<br></li><li>Two-handed heavy weapons with <strong><i>new melee combat moves</i></strong> to bust zombie heads<br></li><li>A <strong><i>new introductory experience</i></strong> and improved controls to help you master the apocalypse</li></ul><br>... and countless other improvements to the classic open-ended sandbox gameplay.</p><br><h1>About the Game</h1><i>State of Decay 2</i> is an open-world survival-fantasy game set just after the zombie apocalypse. Your small community of survivors seeks to rebuild a corner of civilization, and you get to make all the decisions about how that happens.<br><br>You decide who to recruit to your team, where to settle your community, how to fortify and upgrade your base, and when it’s time to move to greener pastures. You select which survivor to bring along on a scavenging run for the food and ammo you need, and who you’ll use to fight off the zombies attacking your base. You choose how you’ll deal with other people who move into your town. Will you be friendly and welcoming... or will you aggressively defend your territory?<br><br>Every player’s experience in the sandbox is unique. Each character in your community has their own special set of skills and traits, so no two communities are ever the same. The challenges you face also vary from game to game, based on who you recruit and the decisions you make along the way.<br><br>With co-op multiplayer support, you can visit your friends' communities and help them through a tough spot, bringing back rewards for your own communities later. Alternate game modes include a full 10-hour narrative campaign and a four-player zombie-slaughtering &quot;siege defense&quot; mode.<br><br>Undead Labs is proud to present our best-ever vision of the zombie apocalypse. Keep your eyes peeled and your weapons ready. This is one apocalypse you won't want to miss.<br><br><strong>ACCESSIBILITY OPTIONS</strong><br><br><strong>Gameplay</strong><br><ul class=\"bb_ul\"><li>Adjustable difficulty can be set to ‘Green’, ‘Standard’, ‘Dread’, ‘Nightmare’, or ‘Lethal’, and can be adjusted separately each for ‘Action’, ‘Community’, and ‘Maps’ <br></li><li>Adjustable aim assist, allowing the character to automatically lock on to the nearest enemy, can be set to ‘None’, ‘Normal’, or ‘Maximum’ <br></li><li>Game can be paused in single-player mode (pause is unavailable in multiplayer) </li></ul><br><strong>Audio</strong><br><ul class=\"bb_ul\"><li>Volume controls can be adjusted for Music, Voice, and SFX audio<br></li><li>Adjustable audio output can be set to Surround, Stereo, Headphones or TV</li></ul><br><strong>Visual</strong><br><ul class=\"bb_ul\"><li>Subtitles for spoken content can be set to On or Off<br></li><li>Subtitle text size can be scaled to 50%, 75%, 100%, 125%, or 150% <br></li><li>Gamma levels can be adjusted to increase or decrease in-game brightness, and is available prior to game start <br></li><li>Field of view can be adjusted between 40% and 100%<br></li><li>Motion blur can be set to Off, Low, or High<br></li><li>‘Reduce auto-camera movement’ can be set to On or Off<br></li><li>HUD UI visibility can be set to On or Off<br></li><li>In-World Objective Icon visibility can be set to On or Off<br></li><li>UI prompts for Finisher Moves on zombies can be set to On or Off<br></li><li>Mini-map visibility can be set to On or Off<br></li><li>Mini-map rotation lock can be set to On or Off<br></li><li>Tooltip visibility can be set to On or Off<br></li><li>Notifications can be set to On or Off</li></ul><br><strong>Input</strong><br><ul class=\"bb_ul\"><li>Input remapping for keyboard &amp; mouse, and most controller buttons*<br></li><li>Controller vibration can be set to On or Off<br></li><li>‘Auto Camera Tracking on Foot’ can be set to On or Off<br></li><li>‘Auto Camera Tracking in Vehicle’ can be set to On or Off<br></li><li>‘Use camera to target interactions’ can be set to ‘Never’, ‘Always’, or ‘Only when using mouse’<br></li><li>‘Aim on Movement Stick’ can be set to On or Off<br></li><li>‘Rapid Button Tap’ can be replaced with ‘Hold Button Down’<br></li><li>‘Hold to Aim’ can be replaced with ‘Aim Toggle’<br></li><li>‘Remember Aim Zoom Level’ can be set to On or Off<br></li><li>Reduce Auto Camera Movement can be set to On or Off<br></li><li>Adjustable sensitivity for camera movement and weapon aiming for controller joystick and mouse <br></li><li>Ability to invert camera X and Y axes for controller joystick and mouse<br></li><li>Ability to swap left and right controller joystick functionality</li></ul>*For Xbox controllers: the right stick, ‘view’, and ‘menu’ buttons are not remappable. To move your character while also aiming a weapon, a mouse or controller joystick stick is required – this cannot be done with a keyboard only.",
+        "developers": [
+            "Undead Labs"
+        ],
+        "publishers": [
+            "Xbox Game Studios"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 599,
+            "discount_percent": 80,
+            "initial_formatted": "$29.99",
+            "final_formatted": "$5.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 69,
+            "url": "https://www.metacritic.com/game/pc/state-of-decay-2?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            }
+        ],
+        "recommendations": {
+            "total": 57584
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 13, 2020"
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "ingested_at": "2026-06-08T18:54:56.721755",
+    "app_id": "1366800",
+    "metadata": {
+        "type": "game",
+        "name": "Crosshair X",
+        "steam_appid": 1366800,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Improve your aim and accuracy in every shooter you play. Crosshair X overlays a custom crosshair on top of any game, even games that do not include one. Choose from thousands of community designs or build your own with the designer.",
+        "detailed_description": "<h2 class=\"bb_tag\" >Dominate Every Match with the Perfect Crosshair</h2><br><p class=\"bb_paragraph\" >Crosshair X gives you a decisive competitive edge in every FPS, tactical shooter, and battle royale you play. Whether you're grinding ranked matches, clutching intense rounds, or pushing squads in open-world combat — your crosshair should never hold you back.</p><br><p class=\"bb_paragraph\" ><strong>Trusted by millions of players</strong> and rated Very Positive with over 40,000 reviews, Crosshair X is the most popular crosshair overlay on Steam.</p><h2 class=\"bb_tag\" >Why Competitive Players Choose Crosshair X</h2><ul class=\"bb_ul\"><li><strong>Thousands of Community Designs:</strong> Browse an ever-growing library of reticles shared by the Crosshair X community — including pro player replicas and tournament-ready setups<br></li><li><strong>Precision Designer:</strong> Build your ideal crosshair from scratch with intuitive sliders for every parameter — lines, dot, outlines, color, opacity, and more<br></li><li><strong>Works in Every Game:</strong> Overlay your crosshair on any title — first-person shooters, third-person shooters, battle royales, and tactical shooters alike<br></li><li><strong>Game Bar Integration:</strong> The safest overlay method on PC — powered by Microsoft's trusted Game Bar platform for seamless exclusive fullscreen compatibility<br></li><li><strong>Multi-Monitor Support:</strong> Display your crosshair on any monitor and save custom positions for each game<br></li><li><strong>Share &amp; Export:</strong> Share your creations with friends or save them as .PNG/.SVG files<br></li><li><strong>Smart Toggle:</strong> Show or hide your crosshair with configurable mouse states and keyboard shortcuts<br></li><li><strong>Workshop Powered:</strong> Discover, share, and download crosshairs via Steam Workshop</li></ul><h2 class=\"bb_tag\" >Full Customization Control</h2><ul class=\"bb_ul\"><li><strong>Lines:</strong> Opacity, Length, Width, Offset, Color, Blur, Rotation<br></li><li><strong>Center Dot:</strong> Opacity, Size, Color, Blur<br></li><li><strong>Outlines:</strong> Opacity, Thickness, Color, Blur<br></li><li><strong>T-Shape:</strong> Remove the top arm — never, always, or only when firing<br></li><li><strong>Bloom:</strong> Dynamic crosshair spread during firing<br></li><li><strong>Position:</strong> Fine-tune X and Y coordinates for pixel-perfect placement</li></ul><h2 class=\"bb_tag\" >Your Aim, Your Rules</h2><p class=\"bb_paragraph\" >Stop settling for default crosshairs that disappear against bright backgrounds or blend into dark corners. Crosshair X puts you in complete control of your reticle — so you can focus on what matters: hitting your shots.</p>",
+        "developers": [
+            "CenterPoint Gaming"
+        ],
+        "publishers": [
+            "CenterPoint Gaming"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 199,
+            "final": 199,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$1.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "56",
+                "description": "Software Training"
+            },
+            {
+                "id": "57",
+                "description": "Utilities"
+            }
+        ],
+        "recommendations": {
+            "total": 39667
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Aug 17, 2020"
+        }
+    }
+}

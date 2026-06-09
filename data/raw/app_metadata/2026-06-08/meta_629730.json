@@ -1,0 +1,84 @@
+{
+    "ingested_at": "2026-06-08T18:41:56.584187",
+    "app_id": "629730",
+    "metadata": {
+        "type": "game",
+        "name": "Blade and Sorcery",
+        "steam_appid": 629730,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Blade &amp; Sorcery is a built-for-VR medieval fantasy with full physics driven melee, ranged and magic combat. Become a powerful warrior, ranger or sorcerer and devastate your enemies.",
+        "detailed_description": "Blade &amp; Sorcery is a medieval fantasy like no other, focusing on melee, ranged and magic combat that fully utilizes a unique and realistic physics driven interaction and combat system.<br><br>Built exclusively for VR, collisions are dictated by fine hitboxes, objects have weight and follow the laws of physics, creatures have full body physics and presence, and blades can be used to penetrate soft materials or deflect magic.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/extras/5cb31321452df3dd6b09b37f51b0885c.poster.avif?t=1765901841\" width=480 height=270 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/extras/5cb31321452df3dd6b09b37f51b0885c.webm?t=1765901841\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/extras/5cb31321452df3dd6b09b37f51b0885c.mp4?t=1765901841\" type=\"video/mp4\"></video></span><br><br>Embark on an adventure in Crystal Hunt progression mode, with 78 skills to unlock. Explore the dungeons and dive into the deep lore of Byeth to uncover the secrets of the ancient Dalgarians.<br><br>Play in unrestricted sandbox mode to access all 76 weapons, 90 armour pieces, and enable any skill you desire.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/extras/bdf3f4a65a74439464c6dede7e85758d.poster.avif?t=1765901841\" width=480 height=270 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/extras/bdf3f4a65a74439464c6dede7e85758d.webm?t=1765901841\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/extras/bdf3f4a65a74439464c6dede7e85758d.mp4?t=1765901841\" type=\"video/mp4\"></video></span><br><br>In Blade &amp; Sorcery, the combat is limited only by your own creativity. Choose your weapon, choose your stance, choose your fighting style; Be the powerful warrior, ranger or sorcerer you always dreamed of becoming!",
+        "developers": [
+            "WarpFrog"
+        ],
+        "publishers": [
+            "WarpFrog"
+        ],
+        "price_overview": {
+            "currency": "PLN",
+            "initial": 9999,
+            "final": 9999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "99,99 zł"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 52,
+                "description": "Tracked Controller Support"
+            },
+            {
+                "id": 54,
+                "description": "VR Only"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            }
+        ],
+        "recommendations": {
+            "total": 58260
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "17 Jun, 2024"
+        }
+    }
+}

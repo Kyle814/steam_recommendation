@@ -1,0 +1,100 @@
+{
+    "ingested_at": "2026-06-08T19:24:07.197911",
+    "app_id": "444090",
+    "metadata": {
+        "type": "game",
+        "name": "Paladins®",
+        "steam_appid": 444090,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Paladins is the ultimate fantasy team-based shooter experience, with over 50 customizable Champions fighting in 5v5 action across a diverse Realm of modes and maps!",
+        "detailed_description": "Paladins is a fantasy team-based shooter set in a vibrant Realm, featuring a large cast of Champions from sharpshooting mercenaries, magic wielding scholars, supernatural entities, and even deities and monstrosities from the stars. Teams of 5 face off in a variety of modes from pushing a payload to contesting rotating objectives. <br><br>Our roster of over 50 Champions is the largest in the genre, with various archetypes for players to learn and master. Between the versatile and lethal Damage class, the aggressive and elusive Flank class, the sturdy and space-making Frontline class, and the healing and buff managing Support class; there is a Champion that matches every player's expression. Each Champion allows you to customize and augment their abilities out of match &amp; itemize in-game to play exactly how you want them to.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/extras/a686fb47f31bc6894c89013055ba2d83.avif?t=1713560419\" width=600 height=338 /></span><br><br>Customization reigns supreme even beyond your gameplay, from the ability to show off your profile to unique Champion skins that alter their presentation and voices, to even effects after you eliminate opponents or fall in battle. Cosmetics explore themes from across the Realm and beyond, meaning your version of a Champion not only plays unique, but looks it too!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/extras/2d3d3d23eb13d009b1a6883ac788b649.avif?t=1713560419\" width=650 height=431 /></span>",
+        "developers": [
+            "Evil Mojo Games"
+        ],
+        "publishers": [
+            "Hi-Rez Studios"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 83,
+            "url": "https://www.metacritic.com/game/pc/paladins?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 8735
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 8, 2018"
+        }
+    }
+}

@@ -1,0 +1,997 @@
+{
+    "ingested_at": "2026-06-08T19:23:41.649323",
+    "app_id": "636480",
+    "review_count": 99,
+    "reviews": [
+        {
+            "review_id": "225863400",
+            "steam_id": "76561199635910493",
+            "playtime_minutes": 3501,
+            "voted_up": true,
+            "votes_up": 18,
+            "weighted_score": 0.6565953493118286,
+            "steam_purchase": true,
+            "review_text": "It's an amazing game. Updates are a little slow, but get over it. Overall 10/10 would recommend."
+        },
+        {
+            "review_id": "226514412",
+            "steam_id": "76561198333163686",
+            "playtime_minutes": 15533,
+            "voted_up": true,
+            "votes_up": 9,
+            "weighted_score": 0.6271186470985413,
+            "steam_purchase": true,
+            "review_text": "i started playing this game shortly before covid hit, it remains one of my most played games, i can say the steam workshop is the biggest reason why i still play this game, so much custom content along with big scale battles, plus if im cheating the whole time in the session, i dont have to care cause its all bots, i love this game, it can get boring, or drawn out a little to long from time to time but its so unbelievably replayable i have been able to put it completely down for like eightish years now.\n\nid like to personally thank draegast for introducing me to this game way back when.\n"
+        },
+        {
+            "review_id": "225275269",
+            "steam_id": "76561198038414779",
+            "playtime_minutes": 382,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.54356849193573,
+            "steam_purchase": true,
+            "review_text": "Fun concept, but lacking a lot of polish and development is incredibly slow."
+        },
+        {
+            "review_id": "227056552",
+            "steam_id": "76561198165090010",
+            "playtime_minutes": 25360,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "been playing this since 2017, this game is amazing and the fact that the dev is still pumping out updates after a decade is insane to me. \n\nmy only complaint is bot optimization, i feel like being able to run fights with a few hundred bots on larger maps without a massive FPS drop would be incredibly fun\n\noverall though, this game is worth buying. keep up the good work steelraven!"
+        },
+        {
+            "review_id": "226773040",
+            "steam_id": "76561198845834760",
+            "playtime_minutes": 7271,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Ravenfield is a fun and highly replayable sandbox shooter with smooth combat, huge battles, and an incredible modding community that constantly adds new weapons, maps, and factions. Its game modes—Battles, Spec Ops, and Conquest—keep the experience fresh and creative. While the AI can be limited, performance may drop with heavy mods, and the graphics are simple, the game still shines thanks to its freedom, customization, and endless community-driven content."
+        },
+        {
+            "review_id": "226187864",
+            "steam_id": "76561199233571807",
+            "playtime_minutes": 2778,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "A very fun game to mess around with, and not very hard on your computer. Modding is INSANELY easy to get into with zero hassle, and even without it I still sunk hours into this game whenever I was bored or upset and wanted to zone out and just *play*. It's just good, honest, FUN."
+        },
+        {
+            "review_id": "225881273",
+            "steam_id": "76561198883556337",
+            "playtime_minutes": 3891,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Very fun game with mods to enjoy, however, there are still some minors bugs and glitches but nothing too seriously. 9/10 game, very fun, keep up the good work."
+        },
+        {
+            "review_id": "225811400",
+            "steam_id": "76561199792261461",
+            "playtime_minutes": 565,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Great game. Lots of cool mods, worth playing."
+        },
+        {
+            "review_id": "226490966",
+            "steam_id": "76561198134439614",
+            "playtime_minutes": 11233,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5167195796966553,
+            "steam_purchase": true,
+            "review_text": "Ravenfield can be a fun time waster but the more I play it, the more bored of it I get. For a game that's been in development for nearly 10 years now, you'd expect a more complete game than just a handful of maps, weapons, and an unpolished \"arcade mode\", but that's pretty much what all you get. There are multiple game modes but only two of them are really mainstays (point match and battle), the others are either gimmicks or get boring after one or two matches. The AI has been bad for a long time, as they're predictable and vehicles usually never last long because of it. Obviously there are tons of mods, but most of these are weapons and maps. Many of these mods far surpass the game's vanilla stuff, but it's hard to keep the game engaging with mods when the core gameplay loop is just inherently flawed. \n\nIt's going to be the 10 year anniversary since the release of this game's prototype soon, and this is all there is to offer? It was excusable when it was just one guy working on this, but there's a full team behind it now, and there's just really no excuse anymore."
+        },
+        {
+            "review_id": "227456500",
+            "steam_id": "76561198138712979",
+            "playtime_minutes": 1007,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "a lot of fun, desperately needs at least coop multiplayer"
+        },
+        {
+            "review_id": "227432611",
+            "steam_id": "76561199802596522",
+            "playtime_minutes": 265,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "runs pretty well u don't actually need 400+fps like some people say 40+ works pretty well except for lag spikes and this game doesn't really do that\r\n"
+        },
+        {
+            "review_id": "227406836",
+            "steam_id": "76561198696327114",
+            "playtime_minutes": 573,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I appreciate the amount of vehicle options this game has to offer, being able to fly planes and use APC's in a game with modding support is rarely seen in today's gaming world.\r\nThe mods for this game are incredibly good, the cold war one's are especially my favorite, but I know the mods have several different era's and several choices, so if you like WW2 then they have that."
+        },
+        {
+            "review_id": "227377043",
+            "steam_id": "76561199226362452",
+            "playtime_minutes": 2198,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game runs alright with most maps and mods on my potato computer! Modding is endless and props to the solo dev.\r\n"
+        },
+        {
+            "review_id": "227185856",
+            "steam_id": "76561198757335091",
+            "playtime_minutes": 978,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I've played this game for a while and I have came to a conclusion that this game is absolutely peak!!! It may seem boring at first but when you try out mods, gamemodes or anything to change up the game it will make it worth your money!!!"
+        },
+        {
+            "review_id": "227167215",
+            "steam_id": "76561198785833926",
+            "playtime_minutes": 1846,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is a really fun game that is definatley worth the price, its just such a good combo that words cant describe enough in this description and with new updates it only gets better, Highly recommended!"
+        },
+        {
+            "review_id": "227128781",
+            "steam_id": "76561199261785236",
+            "playtime_minutes": 621,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "loved watching this game as a kid, it was one of the first games i got once i got a computer. runs great even with tons of mods"
+        },
+        {
+            "review_id": "227118370",
+            "steam_id": "76561199007097195",
+            "playtime_minutes": 269,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Overall, Its a great game about bots vs bots and that you can use mods to make the game similar to any other FPS using mods."
+        },
+        {
+            "review_id": "227106148",
+            "steam_id": "76561199882305261",
+            "playtime_minutes": 340,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A very nice game with and without mod but i recommend you to install some mods it make the game better trust me X)"
+        },
+        {
+            "review_id": "227100407",
+            "steam_id": "76561197993552188",
+            "playtime_minutes": 4086,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good 'ol fashioned shoot'm up action game, no excessive graphics, gore, or lag.  LOTS of game modes and mods available."
+        },
+        {
+            "review_id": "227099829",
+            "steam_id": "76561199629633830",
+            "playtime_minutes": 240,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Lot's of fun, though it can get boring playing alone quick, it still does have lot's of fun!"
+        },
+        {
+            "review_id": "227044812",
+            "steam_id": "76561199234681651",
+            "playtime_minutes": 3661,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Ravenfield is a really fun single player sandbox shooter. I like how you can set up these huge chaotic fights and just jump in and mess around with different weapons vehicles and strategies. and with workshop item this game is just so fun"
+        },
+        {
+            "review_id": "227028099",
+            "steam_id": "76561199491694138",
+            "playtime_minutes": 246,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very customizable PvE sandbox, the workshop for the game is constantly updated with great mods. I do wish you could sort and put weapons and vehicles in certain folders, I feel that would make it much easier to use the config UI."
+        },
+        {
+            "review_id": "227000046",
+            "steam_id": "76561197970854253",
+            "playtime_minutes": 8156,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A pretty fun game if you just want to kill some time with some action. I don't normally play it on my gaming laptop, but I have it installed on my work Macbook Pro and it runs pretty well. The mods makes the game even more fun."
+        },
+        {
+            "review_id": "226973009",
+            "steam_id": "76561198063010590",
+            "playtime_minutes": 8405,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Base Game is good but the mod community really makes this game great. Its my chill out game"
+        },
+        {
+            "review_id": "226919722",
+            "steam_id": "76561197973245321",
+            "playtime_minutes": 198,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun battlefield sandbox that is everything it needs to be. I only expect it to get better with future updates and workshop content."
+        },
+        {
+            "review_id": "226919421",
+            "steam_id": "76561199172482921",
+            "playtime_minutes": 13468,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love it when the entity visits me mid-game and gives me such a spook before being banished back to the depths of the void!"
+        },
+        {
+            "review_id": "226905457",
+            "steam_id": "76561199214363357",
+            "playtime_minutes": 278,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "gmod but fps, you can make it anything from ww1 to titanfall, pretty easy to run as well, some mods get really in depth on things like armored vehicles and a medical system."
+        },
+        {
+            "review_id": "226857608",
+            "steam_id": "76561198841831688",
+            "playtime_minutes": 842,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Honestly I've been a dumb (and broke) prick all my life and actually have about 3400+ hours on this game unofficially. This game has ruined my life. The AI sucks, it is incredibly poorly optimised as it is very processor dependant and its AI is run on ONE CORE (which is hard coded into the game, yes I tried to fix this). The modding community saves this game. Been playing for about 8 years, and while I only have bad things to say, its still in my top 3."
+        },
+        {
+            "review_id": "226835538",
+            "steam_id": "76561199594948965",
+            "playtime_minutes": 414,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its a veryfun game but idk bout the 17 $ price tag i know u guys need moolah but i can to play this game with my freind cuz its priced at that maybe if it was 5 or 10 but the reson why my freind cant get this is cuz of the price everyhtign else is amazing just the price and please make the guns and ppl and vehicles \"moderner\""
+        },
+        {
+            "review_id": "226831844",
+            "steam_id": "76561198331990772",
+            "playtime_minutes": 206,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "amazing.im playing on a laptop and it works amazing.if you like these type of shooters pls play this,i have not seen any bugs (yet).pls continue to work on this game ."
+        },
+        {
+            "review_id": "226800558",
+            "steam_id": "76561198865319197",
+            "playtime_minutes": 3867,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I once said something to the Dev about \"making a free version like Unturned\" on gamejolt. That's my literal first memory of the game. \n\nthe game still holds up as an arcade shooter and honestly its a big provident on the past regardless of how nostalgic i feel about that time. \n\n10/10 would buy again."
+        },
+        {
+            "review_id": "226786676",
+            "steam_id": "76561199185131050",
+            "playtime_minutes": 7900,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Wonderful game. It's been one of my favorites for a while now, runs well on allmost any computer and has a really good mod support, you just never run out of things to do. I think that the best part is the active developer that hasn't stopped perfecting the game ever since it came out."
+        },
+        {
+            "review_id": "226777191",
+            "steam_id": "76561199220147508",
+            "playtime_minutes": 9025,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its a lot like arma in that the game needs mods and the mods take forever to load and framerates will vary on unknown reasons\r\n\r\nits a lot different in that ravenfield will actually play and not crash after 2 hours"
+        },
+        {
+            "review_id": "226742513",
+            "steam_id": "76561198120371063",
+            "playtime_minutes": 7402,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "gta 6 might actually release before ts, but overall a great passion project i cant believe is still in development\n"
+        },
+        {
+            "review_id": "226739725",
+            "steam_id": "76561198160867998",
+            "playtime_minutes": 4437,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great game, been playing for years and i started on an old mac. it will run on just about anything and I've never encountered any recuring bugs that bothered me. the game is fun, simple and has both active development and a great mod scene. the weapons feel snappy and there is decent variety, especially with mods.\ngreat game to get away from the modern shooter chaos."
+        },
+        {
+            "review_id": "226730431",
+            "steam_id": "76561199794662583",
+            "playtime_minutes": 3961,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very moddable. But playable without mods. Addicting."
+        },
+        {
+            "review_id": "226466551",
+            "steam_id": "76561199591942485",
+            "playtime_minutes": 3227,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Really fun game, especially with mods. Some maps are basic (tunnel) but most are great. Can't wait to see what the devs come up with next"
+        },
+        {
+            "review_id": "226265277",
+            "steam_id": "76561198774658181",
+            "playtime_minutes": 461,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Super fun game wheather playing with freinds using the multi player mod or solo would highly recomend"
+        },
+        {
+            "review_id": "226218329",
+            "steam_id": "76561198726150395",
+            "playtime_minutes": 545,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this is a very good game, can be laggy sometimes if you have alot of mods overall it is a great game"
+        },
+        {
+            "review_id": "226169912",
+            "steam_id": "76561199869817953",
+            "playtime_minutes": 3012,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fantastic game, grew up watching videos about it and was ecstatic to finally play it once i got a computer. FANTASTIC sandbox, and the engine can really take a beating. Amazing game, almost endless possibilites."
+        },
+        {
+            "review_id": "226097965",
+            "steam_id": "76561198864640289",
+            "playtime_minutes": 5433,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The one game I always come back to, great mechanics and real fun gameplay, especially for a one man project. Loving it!"
+        },
+        {
+            "review_id": "226030361",
+            "steam_id": "76561199466657599",
+            "playtime_minutes": 446,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The vehicle handling can be a little jank but overall very solid game."
+        },
+        {
+            "review_id": "226027849",
+            "steam_id": "76561199827526339",
+            "playtime_minutes": 1273,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing game, not demanding at all and can run on slower PCs."
+        },
+        {
+            "review_id": "226007607",
+            "steam_id": "76561199859016310",
+            "playtime_minutes": 796,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "7/10. enjoyable but please add multiplayer. it would make this game a 10/10. i know you dont like the idea but cmon."
+        },
+        {
+            "review_id": "225989673",
+            "steam_id": "76561198368169858",
+            "playtime_minutes": 7508,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is a low poly masterpiece. It's literally any war game you could imagine into one, you literally can do a war in any context, star wars, zombie apocalypse, space war, wwII war, only melee, only tanks, only vehicles, only infantry, iperrealistics, etc.. This game without the modding community can't be what it is.\nOnly downside is OPTIMIZITION. This game is not that much optimized when loaded with many mods. Even with a good PC it can start eating ram and cpu. Keep in mind it's also modders' fault in this case.\nGraphics and visuals can improve much more. From the rest, I play it for the mods. Without it's useless imo.\n\nI don't really care about updates since they're also inconvinient for mod updates. YOU make the updates, the modding community is what updates the game apart from graphics and bug fixes."
+        },
+        {
+            "review_id": "225981660",
+            "steam_id": "76561199446933704",
+            "playtime_minutes": 460,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good game, quite like g-mod for a fps shooter, 10/10"
+        },
+        {
+            "review_id": "225970201",
+            "steam_id": "76561198214077383",
+            "playtime_minutes": 3270,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "I just don't really like this game anymore, making me angry with how insane enemy AI is and then im getting shot in the back by friendlies with guided tow missiles while they decide to never enter a vehicle. PLUS anytime i enter a helicopter I am targeted by everyone on the map that has a anti-armor missile immediately. It is impossible to be stealthy in this game bc enemies ALWAYS know where you are even if I am sniping from a mile away and peak for half a second. ♥♥♥♥ THIS GAME!"
+        },
+        {
+            "review_id": "225692370",
+            "steam_id": "76561199888485750",
+            "playtime_minutes": 681,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very fun just kinda gets boring after awhile but still fun to play again"
+        },
+        {
+            "review_id": "225652754",
+            "steam_id": "76561199054156251",
+            "playtime_minutes": 7016,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Have you ever wonder what it would like if a cavalry using RPG would fight agaisnt an army of mecha wielding single man army, or wether you can defeat a team of 10 fully equipped man using only knifes, or...you get the idea. The base game is okay, but the workshop item and the community, abundant. Like the base game is only a 5 or 6, but with the workshop, its hours or replayability, pretty sweet if you ask me(btw atp my mods are probably a couple times fold of the original games lol)"
+        },
+        {
+            "review_id": "225633560",
+            "steam_id": "76561198160090100",
+            "playtime_minutes": 3502,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very Fun Sandbox, you can find yourself being immersed for hours, though heavily relying on workshop/community made content."
+        },
+        {
+            "review_id": "225622639",
+            "steam_id": "76561199013133157",
+            "playtime_minutes": 40367,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i have played this game for like, half a decade - and the modding community has made it unforgettable and enjoyable throughout it all. literally never boring. awesome community. awesome dev. awesome game."
+        },
+        {
+            "review_id": "225515120",
+            "steam_id": "76561199681709422",
+            "playtime_minutes": 2243,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is so customizable with mods it's amazing if you're looking to simulate battles"
+        },
+        {
+            "review_id": "225387255",
+            "steam_id": "76561198956289926",
+            "playtime_minutes": 661,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Do you love Battlefield but wish it was about furries with giant mechs fighting moon nazis? If so, that's very oddly specific but this game's for you."
+        },
+        {
+            "review_id": "225386687",
+            "steam_id": "76561198449320705",
+            "playtime_minutes": 5760,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun, though I can't wait for it to be a full game. The modding scene is crazy big and crazy good. No issues with crashes or lag."
+        },
+        {
+            "review_id": "225380947",
+            "steam_id": "76561199815345895",
+            "playtime_minutes": 404,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I get out of spawn and my head immediately gets blown off and my whole team gets blown up by a helicopter. 10/10 game"
+        },
+        {
+            "review_id": "225341602",
+            "steam_id": "76561199588090507",
+            "playtime_minutes": 1146,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I shot people, it was frigging wonderful, they all deserved to die"
+        },
+        {
+            "review_id": "225317769",
+            "steam_id": "76561199214721655",
+            "playtime_minutes": 647,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun to re-enact D-Day or just mass genocide with bomber drones and nuclear weapons. You haven't truly played if you haven't installed mods yet."
+        },
+        {
+            "review_id": "225310919",
+            "steam_id": "76561198747521914",
+            "playtime_minutes": 501,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very good maps ,ai could do better in some areas but great game\r\n"
+        },
+        {
+            "review_id": "225304155",
+            "steam_id": "76561199454853232",
+            "playtime_minutes": 971,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The mods are a little screwed up but the base game is fun"
+        },
+        {
+            "review_id": "225301899",
+            "steam_id": "76561198287557983",
+            "playtime_minutes": 4180,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "one of the best mindless shooters on steam. or play the campaign if you dont want it to be mindless. win-win"
+        },
+        {
+            "review_id": "225284749",
+            "steam_id": "76561199068740387",
+            "playtime_minutes": 4874,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game is perfect for goofy chaos but, can transform into a shooter of almost any theme with a sprinkle of mods. Theres a bunch for everyone. 10/10\n"
+        },
+        {
+            "review_id": "225239821",
+            "steam_id": "76561199135913787",
+            "playtime_minutes": 11421,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Ravenfield is certainly a game. From doing stupid wacky alien vs predator type battles, to serious battles that will fully immerse you from seeing your friends die and having their bodys fly into the air for some reason. Depending on size of battle, your pc will either become a device that scientists would attempt to run doom on, or the game running so smooth you forget about the 37 terrabytes of chinese spyware that you picked up from a pirating website. The modding scene for this game is [h1] FANTASTIC [/h1] (oh i am hoping that the attempted \"code\" from the formatting help button makes that bold) anyways this game is fantastic 10 eagles out of 10 ravens (please mod the game the base game is hot trash)"
+        },
+        {
+            "review_id": "225231231",
+            "steam_id": "76561198261337249",
+            "playtime_minutes": 14023,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Starting all the way back when these dudes were blocks, the game is now better ten fold, Imagine a FPS focused garry's mod instead of a sandbox."
+        },
+        {
+            "review_id": "225219786",
+            "steam_id": "76561199621100721",
+            "playtime_minutes": 1909,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this is a fun game without mods but it became 100 times better when adding mods."
+        },
+        {
+            "review_id": "225137499",
+            "steam_id": "76561199217938111",
+            "playtime_minutes": 1122,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "a very fun game for offline play, practice, etc. you can even get mods too."
+        },
+        {
+            "review_id": "225131368",
+            "steam_id": "76561198148100240",
+            "playtime_minutes": 2399,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is ridiculously fun, the battles are super epic. This game is a massive sandbox that is similar to Battlefield but in low poly and many customizable settings. The community and their mods keeps this game thriving and implementing multiplayer into the mix makes this a timeless game. This game features simplified gore so kids can play this as well."
+        },
+        {
+            "review_id": "225114963",
+            "steam_id": "76561199066531369",
+            "playtime_minutes": 1011,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game is one of my favirotes out there. i remember playing this game a while ago but i have returned. really wish there was a co-op/squad mode where you could do diffrent gamemods with each other.really fun. i recommend. my platime will be 100 hours one day"
+        },
+        {
+            "review_id": "225939202",
+            "steam_id": "76561197977957631",
+            "playtime_minutes": 173,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.4833475649356842,
+            "steam_purchase": true,
+            "review_text": "So long in development and it feels like the same game it was nearly a decade ago, but with worse AI than ever and all the disappointment of comparing it to the games that have been released in the intervening years.\n\nThe AI in the base game are just so completely helpless and dull to fight against, and that undermines whatever else the game might have going for it."
+        },
+        {
+            "review_id": "226036121",
+            "steam_id": "76561199237274391",
+            "playtime_minutes": 409,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.48076924681663513,
+            "steam_purchase": true,
+            "review_text": "Amazing game! Super fun. If the dev is reading this then do you think you could make the weapons modable? specifically the Recon LRR? It needs a suppressor"
+        },
+        {
+            "review_id": "226915331",
+            "steam_id": "76561198020306703",
+            "playtime_minutes": 2381,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5297805666923523,
+            "steam_purchase": true,
+            "review_text": "Its sometimes fun and cinematic but very few times"
+        },
+        {
+            "review_id": "227015248",
+            "steam_id": "76561198217273235",
+            "playtime_minutes": 2336,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.47826087474823,
+            "steam_purchase": true,
+            "review_text": "It's a good game but has no point and needs a ton of updates as well as better mechanics. $9.29 is way too much for what it offers."
+        },
+        {
+            "review_id": "227245147",
+            "steam_id": "76561198140526204",
+            "playtime_minutes": 2046,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "nop. I mean, there is just so many details that just don't add up in the final product. The AI, which have a bunch of status and things going on, still is dumb, the sound design is terrible. I loved the game when it came out and for the potential it had. because 9 years ago it wasn't obvious having 200 AI playing on the same map; but that just doesn't make it up, not anymore."
+        },
+        {
+            "review_id": "225980525",
+            "steam_id": "76561198704267315",
+            "playtime_minutes": 227,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "iTS BASICALLY WHAT i IMAGINED AS A KID WHEN I PLAY USING TOY SOLDIERS\r\n\r\nANYWAYS YES RECCOMANDED IF YOU WANT A POLYFIELD TYPE GAME//"
+        },
+        {
+            "review_id": "227026980",
+            "steam_id": "76561199090580836",
+            "playtime_minutes": 524,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4545454680919647,
+            "steam_purchase": true,
+            "review_text": "Game has promise but obvious issues, for example in arcade on a paradrop level the reinforcements seem to all drop at the same objective, instead of an objective held by the team recieving the reinforcements"
+        },
+        {
+            "review_id": "226736756",
+            "steam_id": "76561198034219634",
+            "playtime_minutes": 6,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4503152072429657,
+            "steam_purchase": true,
+            "review_text": "Please allow option to invert controls for infantry and vehicle modes, it makes it unplayable for many people."
+        },
+        {
+            "review_id": "226734540",
+            "steam_id": "76561199107638884",
+            "playtime_minutes": 974,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "All i can say is W game one of my fav games please keep updating its worth the money"
+        },
+        {
+            "review_id": "225881867",
+            "steam_id": "76561198163712967",
+            "playtime_minutes": 1688,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Reminds me of classis Star Wars Battlefront before it got ravaged by EA."
+        },
+        {
+            "review_id": "227189267",
+            "steam_id": "76561198991570879",
+            "playtime_minutes": 1146,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5297805666923523,
+            "steam_purchase": true,
+            "review_text": "It's like battlefield, but with absurd modablity and without all the sweats. Peak."
+        },
+        {
+            "review_id": "225190346",
+            "steam_id": "76561199864526002",
+            "playtime_minutes": 1099,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "peak sandbox battlefield with mods is better i recommend mods from sofa and that can work on EA35 worth buying"
+        },
+        {
+            "review_id": "226818040",
+            "steam_id": "76561199114668164",
+            "playtime_minutes": 622,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.41208791732788086,
+            "steam_purchase": true,
+            "review_text": "Until Multiplayer is released this game is NOT worth playing or the money.\r\nI dont Even think fixing the A.I. could save this game"
+        },
+        {
+            "review_id": "225832218",
+            "steam_id": "76561199049491396",
+            "playtime_minutes": 4754,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i sent 100 blue men to their deaths and not for one second did they hesitate and i watch brutal combat"
+        },
+        {
+            "review_id": "225803648",
+            "steam_id": "76561199467042449",
+            "playtime_minutes": 379,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "GET OMAHA BEACH MOD NOW\r\n(Ps no vehicle spawns other than boats and turrets tho)"
+        },
+        {
+            "review_id": "227492178",
+            "steam_id": "76561198157179111",
+            "playtime_minutes": 28987,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Poor man's Battlefield, not that I'm complaining. I love it"
+        },
+        {
+            "review_id": "226692835",
+            "steam_id": "76561197966240636",
+            "playtime_minutes": 20344,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the gmod of battlefield, which means its peak"
+        },
+        {
+            "review_id": "226267256",
+            "steam_id": "76561199446507105",
+            "playtime_minutes": 88,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4150943160057068,
+            "steam_purchase": true,
+            "review_text": "Game is just dead. Nothing to really do. Better off spending your money elsewhere."
+        },
+        {
+            "review_id": "227314317",
+            "steam_id": "76561199873285462",
+            "playtime_minutes": 684,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "honestly such a fun game with all the workshop mods 10/10."
+        },
+        {
+            "review_id": "226781902",
+            "steam_id": "76561199521830234",
+            "playtime_minutes": 23404,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game is really fun to play with and without mods  check it out right now!!!!!!"
+        },
+        {
+            "review_id": "226735458",
+            "steam_id": "76561198115368499",
+            "playtime_minutes": 8072,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "9 years of early access is crazy but i love ravenfield no matter what"
+        },
+        {
+            "review_id": "225811309",
+            "steam_id": "76561198795083459",
+            "playtime_minutes": 200,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very good game lots of mods you can add overall 5 stars"
+        },
+        {
+            "review_id": "225326486",
+            "steam_id": "76561199521224187",
+            "playtime_minutes": 642,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "turn off all items for the opposing team and now you have the nuremberg special"
+        },
+        {
+            "review_id": "227282255",
+            "steam_id": "76561199695867427",
+            "playtime_minutes": 6422,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "this game is made by 1 dude and some modders use mods with it its more fun"
+        },
+        {
+            "review_id": "226337850",
+            "steam_id": "76561199123304664",
+            "playtime_minutes": 206,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I can recreate ANY war and really do anything imaginable. I do wish the modders or devs would add more graphics settings."
+        },
+        {
+            "review_id": "226207663",
+            "steam_id": "76561199396643733",
+            "playtime_minutes": 7555,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "battlefield, but not battlefield"
+        },
+        {
+            "review_id": "225976454",
+            "steam_id": "76561199540531821",
+            "playtime_minutes": 323,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Amazing the best don't bother with call of duty or any other this is all you need"
+        },
+        {
+            "review_id": "225862981",
+            "steam_id": "76561198053313186",
+            "playtime_minutes": 321,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5628384351730347,
+            "steam_purchase": true,
+            "review_text": "Scrapped the conquest mode for whatever abomination the new arcade mode is. Some of the maps are 30v30 now even some of the large maps that were 100v100 it makes no sense."
+        },
+        {
+            "review_id": "226733341",
+            "steam_id": "76561198732247149",
+            "playtime_minutes": 210,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very fun, it is like a fps modding playground"
+        },
+        {
+            "review_id": "226517637",
+            "steam_id": "76561198846220657",
+            "playtime_minutes": 3858,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing game good graphics. Would reccomend"
+        },
+        {
+            "review_id": "225537874",
+            "steam_id": "76561198029841156",
+            "playtime_minutes": 326921,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's good and there's lots of mods and you should play it."
+        },
+        {
+            "review_id": "225528806",
+            "steam_id": "76561199390167906",
+            "playtime_minutes": 6800,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "bloody great game especially with mods\r\n"
+        }
+    ]
+}

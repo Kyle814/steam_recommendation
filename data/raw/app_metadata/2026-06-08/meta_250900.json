@@ -1,0 +1,89 @@
+{
+    "ingested_at": "2026-06-08T19:07:58.549244",
+    "app_id": "250900",
+    "metadata": {
+        "type": "game",
+        "name": "The Binding of Isaac: Rebirth",
+        "steam_appid": 250900,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+        "detailed_description": "<h1>New DLC Available</h1><p><p class=\"bb_paragraph\" ></p></p><br><h1>About the Game</h1>When Isaac’s mother starts hearing the voice of God demanding a sacrifice be made to prove her faith, Isaac escapes into the basement facing droves of deranged enemies, lost brothers and sisters, his fears, and eventually his mother. <br><br><strong>Gameplay</strong><br>The Binding of Isaac is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.<br><br><strong>About the Binding Of Isaac: Rebirth</strong><br>The Binding of Isaac: Rebirth is the ultimate of remakes with an all-new highly efficient game engine (expect 60fps on most PCs), all-new hand-drawn pixel style artwork, highly polished visual effects, all-new soundtrack and audio by the the sexy Ridiculon duo Matthias Bossi + Jon Evans. Oh yeah, and hundreds upon hundreds of designs, redesigns and re-tuned enhancements by series creator, Edmund McMillen. Did we mention the poop?<h2 class=\"bb_tag\" >Key Features:</h2><ul class=\"bb_ul\"><li>Over 500 hours of gameplay<br></li><li>4 BILLION Seeded runs!<br></li><li>20 Challenge runs<br></li><li>450+ items, including 160 new unlockables<br></li><li>Integrated controller support for popular control pads!<br></li><li>Analog directional movement and speed<br></li><li>Tons of feature film quality animated endings<br></li><li>Over 100 specialized seeds<br></li><li>2-Player local co-op<br></li><li>Over 100 co-op characters<br></li><li>Dynamic lighting, visual effects and art direction<br></li><li>All-new game engine @60FPS 24/7<br></li><li>All-new soundtrack and sound design<br></li><li>Multiple Save slots<br></li><li>Poop physics!<br></li><li>The ultimate roguelike<br></li><li>A bunch of achievements</li></ul><br><strong>Uber secrets including: </strong><br><ul class=\"bb_ul\"><li>10 Playable Characters<br></li><li>100+ enemies, with new designs<br></li><li>Over 50 bosses, including tons of new and rare bosses<br></li><li>Rooms FULL OF POOP!<br></li><li>Mystic Runes<br></li><li>Upgradeable shops</li></ul>",
+        "developers": [
+            "Nicalis, Inc.",
+            "Edmund McMillen"
+        ],
+        "publishers": [
+            "Nicalis, Inc."
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1499,
+            "final": 1499,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$14.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 358356
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 4, 2014"
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "ingested_at": "2026-06-08T19:47:20.380677",
+    "app_id": "1328670",
+    "metadata": {
+        "type": "game",
+        "name": "Mass Effect™ Legendary Edition",
+        "steam_appid": 1328670,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "The Mass Effect™ Legendary Edition includes single-player base content and over 40 DLC from the highly acclaimed Mass Effect, Mass Effect 2, and Mass Effect 3 games, including promo weapons, armors, and packs — remastered and optimized for 4K Ultra HD.",
+        "detailed_description": "One person is all that stands between humanity and the greatest threat it’s ever faced. Relive the legend of Commander Shepard in the highly acclaimed Mass Effect trilogy with the Mass Effect™ Legendary Edition. Includes single-player base content and over 40 DLC from Mass Effect, Mass Effect 2, and Mass Effect 3 games, including promo weapons, armors and packs — remastered and optimized for 4K Ultra HD.<br><br>Experience an amazingly rich and detailed universe where your decisions have profound consequences on the action and the outcome.<h2 class=\"bb_tag\" ><strong>Relive the Cinematic Saga</strong></h2> <strong>Heart-pounding action meets gripping interactive storytelling, where you decide how your unique story unfolds. </strong><br><ul class=\"bb_ul\"><li>Three Games, One Launcher: Play through the single-player base content and over 40 DLC from all three games, including promo weapons, armors, and packs.<br></li><li>Remastered for a New Generation: Experience the trilogy in 4K Ultra HD with enhanced performance, visuals, and graphics, all available in HDR.<br></li><li>Visual Improvements on All 3 Games: Updates include enhanced models, shaders, FX, lighting and depth of field, plus full-resolution audio.</li></ul><h2 class=\"bb_tag\" ><strong>Experience the Legend of Shepard</strong></h2><strong>Create and customize your own character — from appearance and skills to a personalized arsenal — then lead your elite recon squad across a galaxy in turmoil.</strong><br><ul class=\"bb_ul\"><li>New Shepard Customizations: With improved hair, makeup, eye color and skin tones you can create your Shepard in a unified character creator with all options available across the full trilogy, or choose to play as the iconic Femshep from Mass Effect 3 now available in all titles.<br></li><li>Gameplay Enhancements for the First Mass Effect Game: Enjoy improved aiming and weapons balance, SFX, better Mako controls, input/controls, squad behavior, cover behavior and gameplay cameras.</li></ul><h2 class=\"bb_tag\" ><strong>Reflect on Your Choices</strong></h2><strong>Your choices seamlessly travel from one game to the next. Each decision you make will control the outcome of every mission, every relationship, every battle — and even the fate of the galaxy itself.</strong><br><ul class=\"bb_ul\"><li>Visual Enhancements for the First Mass Effect Game: The game's been given a full world-building pass including environmental art, VFX and level relighting.<br></li><li>PC Updates: Enjoy a modernized PC experience across all three games with native controller and 21:9 widescreen support, user interface navigation improvements, and DirectX 11 compatibility. </li></ul><h2 class=\"bb_tag\" ><strong> Included Content </strong></h2><strong>Mass Effect Legendary Edition includes single-player base content for all 3 titles (Mass Effect, Mass Effect 2 and Mass Effect 3), your favorite single-player story DLC, promo weapons, armors and packs:</strong><br><ul class=\"bb_ul\"><li>DLC: Bring Down the Sky, Genesis, Zaeed — The Price of Revenge, Kasumi — Stolen Memory, Lair of the Shadow Broker, Firewalker Pack, Overlord, Normandy Crash Site, Arrival, Genesis 2, From Ashes, Mass Effect 3: Extended Cut, Leviathan, Omega and Citadel.<br></li><li>Weapons and Armor: Cerberus Weapons and Armor, Arc Projector, Collector's Weapon and Armor, Terminus Weapon and Armor, M-21 Incisor, Blood Dragon Armor, Inferno Armor, Recon Hood, Sentry Interface, Umbra Visor, N7 Warfare Gear, AT-12 Raider, Chakram Launcher, M-55 Argus, M-90 Indra and Reckoner Knight Armor.<br></li><li>Packs: Equalizer Pack, Aegis Pack, Firepower Pack, Groundside Resistance Pack, Recon Operations Pack, Firefight Pack, ME2 Alternate Appearance Pack 1, ME2 Alternate Appearance Pack 2, ME3 Alternate Appearance Pack 1, and N7 Collector's Edition Pack.</li></ul>",
+        "developers": [
+            "BioWare"
+        ],
+        "publishers": [
+            "Electronic Arts"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 5999,
+            "final": 5999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$59.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 86,
+            "url": "https://www.metacritic.com/game/pc/mass-effect-legendary-edition?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 60091
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 14, 2021"
+        }
+    }
+}

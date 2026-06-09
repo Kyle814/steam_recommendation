@@ -1,0 +1,60 @@
+{
+    "ingested_at": "2026-06-08T19:37:57.951022",
+    "app_id": "4760",
+    "metadata": {
+        "type": "game",
+        "name": "Rome: Total War™ - Collection",
+        "steam_appid": 4760,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Control and conquer the greatest empire ever known to man.",
+        "detailed_description": "<h1>Total War: ROME REMASTERED announced!</h1><p></p><br><h1>About the Game</h1>Once the Roman Empire is under your command, don't lay down your sword just yet - the Barbarians are coming. With two award-winning titles from the esteemed Total War series, you'll have twice as many obstacles and opportunities to control and conquer the greatest empire ever known to man.<br>\t\t\t\t\tThe Collection Edition includes:<br>\t\t\t\t\t<strong>Rome: Total War</strong> Guide one of three noble Roman families on a century spanning quest to seize control of the Roman Empire.<br>\t\t\t\t\t<strong>Rome: Total War - Barbarian Invasion</strong><br>\t\t\t\t\t (official expansion pack to Rome: Total War) Witness the decline of Rome as Barbarian hordes attack, forcing a bitter internal struggle between rival factions.<br>\t\t\t\t\t<ul class=\"bb_ul\"><li>Voted 2004 Best Strategy game by IGN, GameSpy and GameSpot.<br>\t\t\t\t\t</li><li>Fight alongside or against history's greatest leaders such as Julius Caesar, Spartacus, and Hannibal to expand or destroy the Roman Empire.<br>\t\t\t\t\t</li><li>Lay siege against the Romans as Attila the Hun, fearful Saxons, or other savage factions using signature weapons and abilities.<br>\t\t\t\t\t</li><li>Command warrior-tested legions in cinematic epic battles with thousands of soldiers on-screen at once.<br>\t\t\t\t\t</li><li>A century-spanning campaign charges players with strategically managing the economic, civil, religious and military arms of their empire.</li></ul>",
+        "developers": [
+            "CREATIVE ASSEMBLY"
+        ],
+        "publishers": [
+            "SEGA"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 92,
+            "url": "https://www.metacritic.com/game/pc/rome-total-war?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 12974
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Aug 28, 2007"
+        }
+    }
+}

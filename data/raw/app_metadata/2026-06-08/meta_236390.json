@@ -1,0 +1,144 @@
+{
+    "ingested_at": "2026-06-08T18:41:21.284468",
+    "app_id": "236390",
+    "metadata": {
+        "type": "game",
+        "name": "War Thunder",
+        "steam_appid": 236390,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "War Thunder is the most comprehensive free-to-play, cross-platform, MMO military game dedicated to aviation, armoured vehicles, and naval craft, from the early 20th century to the most advanced modern combat units. Join now and take part in major battles on land, in the air, and at sea.",
+        "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/4dd974ef2221302188173d11f26f3b2a.poster.avif?t=1780485515\" width=780 height=400 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/4dd974ef2221302188173d11f26f3b2a.webm?t=1780485515\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>War Thunder</strong> is the most comprehensive free-to-play, cross-platform, MMO military game dedicated to aviation, armoured vehicles, from the early 20th century to the most advanced modern combat units. Join now and take part in major battles on land, in the air, and at sea, fighting with millions of players from all over the world in an ever-evolving environment.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/b4b9bbc29596dece5f7885b1308b639b.poster.avif?t=1780485515\" width=780 height=350 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/b4b9bbc29596dece5f7885b1308b639b.webm?t=1780485515\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In War Thunder, aircraft, attack helicopters, ground forces and naval ships collaborate in realistic competitive battles. You can choose from over 3,000 vehicles and an extensive variety of combat situations many of which are exclusive. You can find yourself blasting your pursuers from a bomber turret, defending your teammates on the ground from an air raid with anti-aircraft guns, shooting down enemy planes with a firestorm from multiple rocket launchers, or trying to sink an enemy warship with a torpedo from a fast attack boat. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/1c6134e20b3a9cf8c71db6adcc81de4f.poster.avif?t=1780485515\" width=780 height=350 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/1c6134e20b3a9cf8c71db6adcc81de4f.webm?t=1780485515\" type=\"video/webm; codecs=vp9\"></video></span></p><h2 class=\"bb_tag\" >Features include:</h2><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Seamless cross-platform gameplay between Windows PC, Linux, Mac, PlayStation®4, PlayStation®5, Xbox One with Xbox Series X|S – everyone on the same server.</p></li><li><p class=\"bb_paragraph\" >Over 3,000 highly detailed aircraft, helicopters, tanks, warships and other combat vehicles crafted carefully from historical documents and surviving sources. </p></li><li><p class=\"bb_paragraph\" >100 maps representing the main historical battle theaters.</p></li><li><p class=\"bb_paragraph\" >Intense PvP experiences in full-scale combat missions at various difficulty settings for all play styles and degrees of experience.</p></li><li><p class=\"bb_paragraph\" >Rich PvE content including dynamic historical campaigns and solo missions.</p></li><li><p class=\"bb_paragraph\" >Regular content updates including new vehicles, maps, missions and nations.</p></li><li><p class=\"bb_paragraph\" >Astonishing graphics, authentic sound effects and beautiful music creating an atmosphere to fully immerse yourself in.</p></li><li><p class=\"bb_paragraph\" >Create custom content for War Thunder and share it on War Thunder Live, with the prospect of earning real money through the Revenue Share Partner System!</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/411eb8940b5b505105f54734b5324d6e.poster.avif?t=1780485515\" width=780 height=350 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/extras/411eb8940b5b505105f54734b5324d6e.webm?t=1780485515\" type=\"video/webm; codecs=vp9\"></video></span></p>",
+        "developers": [
+            "Gaijin Entertainment"
+        ],
+        "publishers": [
+            "Gaijin Network Ltd"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 81,
+            "url": "https://www.metacritic.com/game/pc/war-thunder?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 53,
+                "description": "VR Supported"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 1972
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Aug 15, 2013"
+        }
+    }
+}

@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T20:04:19.291455",
+    "app_id": "393380",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "226423695",
+            "steam_id": "76561198143027647",
+            "playtime_minutes": 12164,
+            "voted_up": true,
+            "votes_up": 34,
+            "weighted_score": 0.7098059058189392,
+            "steam_purchase": true,
+            "review_text": "My friend Connor Eckhart will not buy the game. Makes me very sad because all the boys could play\n\nEdit: he still will not buy the game"
+        },
+        {
+            "review_id": "226363768",
+            "steam_id": "76561198103922444",
+            "playtime_minutes": 63019,
+            "voted_up": false,
+            "votes_up": 30,
+            "weighted_score": 0.6947883367538452,
+            "steam_purchase": true,
+            "review_text": "Well I used to love this game but the most recent update where they felt the need to add controller Adaption ruined binding customization. I now cant bind the Helicopter controls how i want them and has made me think to just uninstall until fixed. This is probably the most infuriating update added to the game."
+        },
+        {
+            "review_id": "226984303",
+            "steam_id": "76561198029456258",
+            "playtime_minutes": 181944,
+            "voted_up": false,
+            "votes_up": 10,
+            "weighted_score": 0.6216259598731995,
+            "steam_purchase": true,
+            "review_text": "Vehicle track glitch makes some of the most potentially enjoyable gameplay borderline unplayable. Devs fail to fix patch after patch after patch."
+        },
+        {
+            "review_id": "226601227",
+            "steam_id": "76561199015825113",
+            "playtime_minutes": 29823,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5833333134651184,
+            "steam_purchase": true,
+            "review_text": "After several years of on/off gameplay I can say that the game at the core is great. Combat overhaul was a bit much and took a long time to adjust to, and in some cases is an absolute pain but once you learn it it's satisfying and just challenging enough to not just be a point-and-click adventure/call of duty-style game.\n\nPerformance: 8/10\nI see people complain about low performance, but for my system/specs I've been having a decent time. I cap my FPS using Goverlay on Linux to 90 FPS and my 1% lows don't drop below 80 FPS, majority of the time getting the full 90. I use cinematic effects and keep the other settings reasonable (med-very high depending on setting) and gameplay is MUCH smoother recently than when they initially ported to UE5.\n\nCommunity: 5/10\nThis is where the game really makes it or breaks it for me. There are plenty of good servers out there, but from my time playing on both RU/EU/US servers, it seems the US servers are the ones that are the most disorganized/chaotic. You'll have plenty of games where you get steamrolled because nobody on your team has set up FOBs, you'll have some squads entirely in the middle of nowhere and the general teamwork is lackluster at best. On EU/RU servers (with a primarily Russian-speaking playerbase) it is the polar opposite - great amount of teamwork, games last longer and actually play out well and everyone does their part - the only downside is (for some) a language barrier and getting bullied if you're not helping/are a new player.\n\nOverall: 7/10\nIf you find good servers with good communities, end up learning the game mechanics well and find experienced communities maybe your time will be better than mine. I still have a blast with this game, there are bad apples with players/servers, and performance COULD be improved further (though I experience no issues), I would say this game is still worth picking up on a sale."
+        },
+        {
+            "review_id": "225996615",
+            "steam_id": "76561199021790689",
+            "playtime_minutes": 9753,
+            "voted_up": true,
+            "votes_up": 6,
+            "weighted_score": 0.5832206010818481,
+            "steam_purchase": true,
+            "review_text": "I would 100% show this game to anyone who loves Realistic Milsim's. This is one of the best games on the market when it comes to graphics, mayhem, and all out war. It reminds me alot of the old arma 3 days."
+        },
+        {
+            "review_id": "227082416",
+            "steam_id": "76561198991987605",
+            "playtime_minutes": 25013,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5652173757553101,
+            "steam_purchase": true,
+            "review_text": "Failed my first two exams within the first two weeks after buying this game. Coincidence? I don't think so.\r\n\r\nSquad is an amazing game when you have a team that communicates and squad leaders who know what they're doing. The teamwork, strategy, and large-scale battles make every match feel unique.\r\n\r\nExpect to spend around 20–40 hours learning the basics, understanding the maps, and figuring out how to actually spot enemies instead of getting shot by invisible bushes. After that, the game becomes incredibly rewarding.\r\n\r\n100% worth it and highly recommended.\r\n\r\nWarning: May cause sudden interest in military tactics, map reading, and yelling \"MEDIC!\" at your monitor. 😆"
+        },
+        {
+            "review_id": "225499230",
+            "steam_id": "76561197998371769",
+            "playtime_minutes": 17242,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5569866299629211,
+            "steam_purchase": true,
+            "review_text": "i enjoy this game greatly. its very fun. if you like hell let lose or arma this is a great game. its not as micro as arma. but still needs more thought than a normal FPS. but negative because after this update my performance has been destroyed. i used to get 50-90 fps on high settings. after update it went down to 10-30. i had to set my settings to low to keep it over 30. and if there are too many trees and explosions ill go down to 20. my specs arent the best. but this is unacceptable.\n(after checking the specs i see i just barely exceed the recommended specs. frankly these specs are the minimum to actually play the game. anything lower and you can only load the game.)"
+        },
+        {
+            "review_id": "227351129",
+            "steam_id": "76561198369996299",
+            "playtime_minutes": 49550,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5417766571044922,
+            "steam_purchase": true,
+            "review_text": "The Game has progressively gotten worse overtime, used to be great. You would realize most negative reviews only really came in since 2024. I don't expect the game to get better at all without change in the managment levels, because this all really boils down to bad design choice rather than technical implementation difficulty.\n\n1. The move to upgrade to UE5 is a pretty bad one because performance is only a suggestion now. I used to have steady 60+ FPS and that's all I needed. The gameplay and explosion were cinematic, now you can't even shoot an enemy because on some maps you would have such bad frames, and your gunshots are tied to your frames. And yes, I have a 4060 TI + 32GB of ram, I currently have better frames playing Arma 3 than Squad, which is a terrible sign because Arma 3 is one of the most unoptimized game out there.\n\n2. The move to upgrade to UE5 is suppose to improve the vechicle gameplay and experience, which was why it was exciting because UE4 didn't have the best vechicle physics. But I've found that UE5 has significantly worse vechicle physics than UE4, not to mention the amount of bugs that's been around since they moved to UE5. \nDriving is way worse, UE4 driving experience was a bit slippery, but UE5 driving experience is like driving on ice, no grip whatsoever. One of the bug that's still yet to be fixed is the Vechicle being stucked in the ground after a collison, with how awful the driving experience is, you are expected to run into objects more often than before, meaning you are more likely to run into the bug.\n\n3. Factions are unbalanced, some factions receive more updates than others, you would essentially have a modern 2020 faction fighting a post 2000 or early 2010 faction. Meaning you team will play with disadvantage from the start and destined to lose, that is assuming players on both side are skilled and knowing what they are doing.\n\n4. They are still trying to figure out how to make ICO gunplay not awful, and essentially slowly backtracking the ICO update by removing little bit of it every new update, you can literally go through their update announcements in the past two year and that's all they've been doing. But they still don't want to remove ICO update entirely because it means that, they, as a company made a terrible, and unpopular mistake, and companies do not like admitting mistakes.\n\n5. Most veteran players only play on a few specific servers so you generally aren't going to have a fun game outside of them, since they are THE players that knows what to do, and that is what makes game interesting. However with every new updates, we lose more and more veteran players. Hence why despite Squad grows in sales numbers, the average playercounts does not reflect it properly.\n\nIs the game terrible currently? No, it is okay, but that's all it, it is just okay now with every issue it faces.\nThe reason why older players stops playing because they experienced the older version of the game, which was GREAT and it is not through a nostalgic lens. "
+        },
+        {
+            "review_id": "226352708",
+            "steam_id": "76561198024766630",
+            "playtime_minutes": 175,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5388484597206116,
+            "steam_purchase": true,
+            "review_text": "Will probably take you longer than 2 hours to even understand what is going on. You will die. Over and over. And if you try to do something other than die, like try to get into a tank, the admins will kick you from the game."
+        },
+        {
+            "review_id": "226355752",
+            "steam_id": "76561198054578265",
+            "playtime_minutes": 163,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5357354879379272,
+            "steam_purchase": true,
+            "review_text": "The  game is for all intents and purposes a walking simulator.  Once you get somewhat close to the action you will get shot instantly and spend the next 300 seconds (the game has a countdown plastered on you screen  telling how much time you will waste not doing anything) waiting for a medic. If you manage not to quit the walking sim and try to get armor vehicle admins will question you directly why you are using a vehicle and if you don't give a good answer you will be server kicked."
+        },
+        {
+            "review_id": "226750593",
+            "steam_id": "76561199027524285",
+            "playtime_minutes": 4442,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5318479537963867,
+            "steam_purchase": true,
+            "review_text": "The term optimization and performance doesn't exist in this game and its devs"
+        },
+        {
+            "review_id": "226901553",
+            "steam_id": "76561198990126058",
+            "playtime_minutes": 7251,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "I've played Squad from 2019 to 2026 and my overall experience is mildly enjoyable, only really held together by the community itself.\r\n\r\nNow, as to why I'm saying this game isn't worth the ($40?) is because their \"Easy Anti-Cheat\" is absolutely chopped. I don't know what's happened within the last 2 years but EAC has effectively broken itself for a number of games I own that run it and the only way that I've been able to get the game to moderately run with out it ♥♥♥♥♥♥♥♥ the bed and getting mad at me was to Reinstall the game. (The EAC repair trick only worked for Recon Wildlands) I cleared out the Squad folder and did a fresh install and it, for whatever reason now no longer recognizes my mic, which in a game that requires communication, is a tiny bit important. \r\n\r\nI've been struggling for a Month trying to get this game to run with all intended features to no avail. Either, I can play with no mic, or the EAC ♥♥♥♥♥ the bed. \r\n\r\nI could also cry about how they butchered gun handling but, I think for what Little I've been able to play in recent time, it has improved."
+        },
+        {
+            "review_id": "226828095",
+            "steam_id": "76561198026949372",
+            "playtime_minutes": 7368,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "It's an alright game but I feel the biggest thing holding it back is the settings and controls. It feels clunky to move around and perform basic actions. Normally that'd be fine and something I'd expect to get better but I dont think it ever will because it seems core to the dev's vision for slowing down game play and keeping it from becoming run and gun, which I can respect and even appreciate but I think making the game feel clunky is the wrong way of going about it.\n\nAlso the settings suck specifically that they refuse to use standard stuff that other milsim type games do for controls but most most most of all the individual sensitivity settings for each zoom on each scope is so annoying.\n\nAlso a skin shop on a $50 game? I mean I know the devs need to support themselves actively but I feel like making the game more interesting to more players and fixing above issues would sell more copies and nullify the need for the shop."
+        },
+        {
+            "review_id": "226231979",
+            "steam_id": "76561198431714027",
+            "playtime_minutes": 5248,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "you won't have the experience youtube would lead you to believe. Those are highly edited clips of when the game is interesting or even fun. It takes alot of time investment to get good at the game, until then it is very frustrating."
+        },
+        {
+            "review_id": "225585730",
+            "steam_id": "76561199861749756",
+            "playtime_minutes": 2334,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "TRASH, this game has no official servers and depend on french incels.... this ♥♥♥♥ is the worst live service i payd for..."
+        },
+        {
+            "review_id": "225075043",
+            "steam_id": "76561198087622672",
+            "playtime_minutes": 490,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "fresh install of game instantly crashes to desktop, great work devs!"
+        },
+        {
+            "review_id": "227431257",
+            "steam_id": "76561198107657207",
+            "playtime_minutes": 5691,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5183086395263672,
+            "steam_purchase": true,
+            "review_text": "I used to love this game, however I tried to get back into it after the latest update. No matter what I do, I cannot do a few things.\n\nFirst, I can't load into a server at all. I know it is not my internet, but I stay in the waiting list for a server, and when I get to position 3 or 4, without fail I get removed from the queue. Tried on three different servers with the same result.\n\nSecond, the filter tab just does not work. As soon as I go to filter by anything, all servers disappear. \n\nThird, closing the game doesn't close it fully. I have to physically restart my computer to get the game to shut down fully because task manager can't even close it.\n\nAs I said I do love the game and this review is reflected for the current state, I may edit it later but for now I physically cannot play the game.\n"
+        },
+        {
+            "review_id": "225518378",
+            "steam_id": "76561198375163447",
+            "playtime_minutes": 10157,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5363701581954956,
+            "steam_purchase": true,
+            "review_text": "Good game, bad review because of it's performance. Bought the game prior to UE5, now I have to resort to spells, witchcraft and dark rituals to (maybe) get 30FPS. Game needs far more optimization rather than upgraded graphics, this is an old game afterall."
+        },
+        {
+            "review_id": "225172044",
+            "steam_id": "76561198318294254",
+            "playtime_minutes": 3908,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5167785286903381,
+            "steam_purchase": true,
+            "review_text": "Pretty good. Even with the ICO changes its still pretty much one of the best teamwork based shooters out there. every match still feels fresh and different. glad to see the devs care too. zero said that ♥♥♥♥ fr."
+        },
+        {
+            "review_id": "225538834",
+            "steam_id": "76561198069003348",
+            "playtime_minutes": 1816,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5144804120063782,
+            "steam_purchase": true,
+            "review_text": "I just can't recommend it. \n\nThe game takes some learning, and nothing's wrong with that. The learning curve isn't too steep outside of certain vehicles and mechanics - Which many lobbies will require you to have X amount of hours training on that particular vehicle before you can even think about touching it. The community? Well, very hit and miss. These days it seems more miss than anything. For a game that likes to talk about communication being key, there certainly isn't a whole lot of it. Even on the \" Beginner Friendly \" servers there's not much of it going on, which doesn't help the new folks who are trying to get into the game. There's also quite a number of hackers in the game also, so that's a thing, unfortunately.\n\nThe gameplay is okay and decently responsive, feeling weighty but not clunky outside of stance change, vaulting, and vehicle and loadout manipulation. Okay, that means half the total movement and interactions are clunky. Whoops, but true. The vehicle damage system is absolutely horrendous and it's frankly insulting that it's so bad. As much as I hate to mention War Thunder - Squad could learn at least 2 things from the damage model system. Especially since the combat in this game is supposed to feel respectably authentic and realistic. Then there's the game's lack of optimization and performance issues even on medium and low settings. \n\nIt's one of those games that is best played with some friends rather than solo. Solo playing simple isn't ideal because you just can't count on your random teammates to help you when you need it. Playing with friends, I wasn't let down. Randoms, I was. There isn't much cohesion at all in Squad these days."
+        },
+        {
+            "review_id": "225324526",
+            "steam_id": "76561198061111741",
+            "playtime_minutes": 28488,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5144804120063782,
+            "steam_purchase": true,
+            "review_text": "every single update they release ends up breaking the game more than fixing it, how are you gonna have a game that is supposedly \"full release\" yet i still have the same audio problems i had during the \"open beta\" ♥♥♥♥ is mad annoying to have to join a server, get into combat and have to leave and rejoin because the game doesn't want to read my mic input even though i was already speaking in a vehicle, i swear this is turning into a post scriptum situation. always gotta add ♥♥♥♥ before fixing problems"
+        },
+        {
+            "review_id": "225115612",
+            "steam_id": "76561199575215298",
+            "playtime_minutes": 2232,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5115842223167419,
+            "steam_purchase": true,
+            "review_text": "optimize your game. i have good specs but on lowest graphic i have a lot of problems with fps and overall perfomance"
+        },
+        {
+            "review_id": "227063667",
+            "steam_id": "76561198263792699",
+            "playtime_minutes": 464,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5101902484893799,
+            "steam_purchase": true,
+            "review_text": "this game feels like its in early access. its a sludge unreal engine 5 game. save your money. dont buy it."
+        },
+        {
+            "review_id": "226575057",
+            "steam_id": "76561198004972882",
+            "playtime_minutes": 6646,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5068492889404297,
+            "steam_purchase": true,
+            "review_text": "I seriously regret buying this game. Calling the servers “new player friendly” is straight up false advertising. The second you join a server you either get kicked instantly or kicked out of every squad you try to join for absolutely no reason. It does not matter what squad you pick because people will just remove you like you are not even allowed to play the game.\n\nThen when you try to make your own squad and lead it yourself people still complain and somehow you end up getting kicked again. The developers clearly have no control over their own game or community. They allow this toxic behavior to continue and do absolutely nothing about it.\n\nThis is one of the worst experiences I have had in a multiplayer game. I paid money just to get bullied out of matches by toxic players while the developers sit there doing nothing. The game is completely unwelcoming to new players and should NEVER be tagged as “new player friendly” because that is a complete lie.\n\nThe servers are terrible too. It is basically only Australian or Chinese servers and nothing else. If you are outside those regions then good luck having a decent experience.\n\nTotal waste of money. I want my refund back because this game is honestly a joke.\n"
+        },
+        {
+            "review_id": "227060860",
+            "steam_id": "76561199230206319",
+            "playtime_minutes": 1452,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5061728358268738,
+            "steam_purchase": true,
+            "review_text": "the fun to not fun ratio is off the charts in the ♥♥♥♥♥♥ direction.\n\nJoin a squat that actually communicates and everyone sounds like they want to kill themselves.\nThis game is about as fun as vomiting in a toilet with three ♥♥♥♥♥ in it.  OH and it runs like hot garbage no matter what system you play on.  Good one guys.   \n\nJust because there isn't many other options doesn't mean you have to subject yourself to this mess of a game"
+        },
+        {
+            "review_id": "226476917",
+            "steam_id": "76561198951517633",
+            "playtime_minutes": 3010,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5061569809913635,
+            "steam_purchase": true,
+            "review_text": "Good game, Trash developers. Even Project Reality has better optimization."
+        },
+        {
+            "review_id": "226765314",
+            "steam_id": "76561199589728048",
+            "playtime_minutes": 60,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5054200291633606,
+            "steam_purchase": true,
+            "review_text": "Genuinely GREATLY Let down by this game. \n\nI wanted to love Squad. On paper, it sounds like everything I’ve wanted out of a tactical shooter — teamwork, communication, realism, coordination, and intense firefights where strategy actually matters. Instead, what I got was one of the most frustrating multiplayer experiences I’ve had in years.\n\nThe biggest issue? Communication is practically dead unless you’re lucky enough to land in the perfect server at the perfect time. This is a game BUILT around teamwork and voice communication, yet half the matches feel like you’re dropped into total silence. Nobody talks, nobody coordinates, nobody listens. And when people DO finally start talking, half the time I can’t even understand them because nobody is speaking English on the servers I keep getting thrown into.\n\nI don’t care where people are from — genuinely. But if the entire game depends on communication and coordination, there has to be better server organization or filtering. It becomes impossible to enjoy a tactical game when every squad sounds like six different conversations happening in languages you don’t understand while the squad leader blasts music into the mic and drives a transport truck straight into an ambush.\n\nThen there’s the community side of things, which somehow manages to be even worse. I’ve heard people openly praising or joking about genuinely heinous extremist groups and violent ideologies during gameplay, and way too often nobody even bats an eye. Instead of getting shut down, it gets laughed off like “edgy humor.” It completely kills the atmosphere and makes the community feel toxic in a way that goes beyond normal online trash talk.\n\nAnd that’s what irritates me most: Squad SHOULD be incredible. The gunplay can feel immersive. The sound design is fantastic. Some moments genuinely feel like you’re inside a war movie. But those moments are buried under poor communication, disconnected teammates, dead squads, language barriers with no good matchmaking support, and a community that too often tolerates garbage behavior.\n\nI came into Squad expecting teamwork and realism. What I got was 45 minutes of running across fields alone while people scream nonsense in voice chat, squads ignore objectives, and somebody debates extremist politics over local comms.\n\nAt its best, Squad feels unmatched.\nUnfortunately, most of the time, it feels like wasted potential."
+        },
+        {
+            "review_id": "225699603",
+            "steam_id": "76561198825173523",
+            "playtime_minutes": 14674,
+            "voted_up": false,
+            "votes_up": 7,
+            "weighted_score": 0.5033992528915405,
+            "steam_purchase": true,
+            "review_text": "Community is nothing but toxic children larping with Cheeto fingers."
+        },
+        {
+            "review_id": "226200118",
+            "steam_id": "76561199215928338",
+            "playtime_minutes": 504,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5014684796333313,
+            "steam_purchase": true,
+            "review_text": "super jank and poorly optimized. Like a gut punch that people put this on the same level as arma. Im still gonna play it because its kinnndaaaa fun, but its overall a pretty ♥♥♥♥♥♥ game."
+        },
+        {
+            "review_id": "227493349",
+            "steam_id": "76561198150323118",
+            "playtime_minutes": 8370,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Squad is a great milsim game with some of the best memories I’ve had in gaming. Nothing beats the chaos, teamwork, and funny moments. You’ll never forget your first C4 on a motorcycle."
+        },
+        {
+            "review_id": "227472906",
+            "steam_id": "76561198068788020",
+            "playtime_minutes": 299,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "well most of the time i have no clue what is going on and i die everyway possible and beyond , some people talk to me and want me to do stuff that i again have no clue how to do buuuuuuuuuuuuuuuut good game overall \n"
+        },
+        {
+            "review_id": "227469757",
+            "steam_id": "76561199490623887",
+            "playtime_minutes": 20494,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Want action, want to shoot guns, wanna play multiplayer matches, wanna play a realistic war game, and tired of ♥♥♥♥♥♥ games. This game is it."
+        },
+        {
+            "review_id": "227466984",
+            "steam_id": "76561198287830563",
+            "playtime_minutes": 10872,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It is far from perfect. It has its flaws. A lot of flaws, actually.\nIt has got a long way to go even with the label of Early Access dropped.\nMost are all issues that can be addressed down the line, knock on wood.\n\nEvery game feels like pulling the arm of a slot machine, chasing a decent match.\nThose matches are few and far between.\nYou'll get one out of maybe twenty, fifty, or even hundred.\n\nBut by God, when you get that game, that high of clockwork executions is unbeatable."
+        },
+        {
+            "review_id": "227450715",
+            "steam_id": "76561198101898096",
+            "playtime_minutes": 1328,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Squad is one of the best teamwork-focused shooters I've played. The communication, strategy, and large-scale battles create some incredibly memorable moments. It has a learning curve, but once you find a good squad and work together, it's extremely rewarding. If you enjoy tactical gameplay and team coordination, Squad is definitely worth checking out."
+        },
+        {
+            "review_id": "227432452",
+            "steam_id": "76561199611039003",
+            "playtime_minutes": 1228,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "community is great and very friendly to new players.\r\n\r\n11/10"
+        },
+        {
+            "review_id": "227386917",
+            "steam_id": "76561198354832913",
+            "playtime_minutes": 11813,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing game!!! if you have the right pc for it the graphics and gameplay is smooth as butter! most realistic mil sim out there!"
+        },
+        {
+            "review_id": "227304713",
+            "steam_id": "76561199233665226",
+            "playtime_minutes": 24244,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "You will be forced to squad lead for the first 100 hours, then proceed to never squad lead again out of the sheer pain that it brings, 10/10 will never squad lead again"
+        },
+        {
+            "review_id": "227118679",
+            "steam_id": "76561199261465067",
+            "playtime_minutes": 46184,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "6/3/26\nI have about 700hrs I learned keyboard and mouse on this game, as long as your patient, calm, (not always lol) & focused this game is fairly easy to get in to relative to other milsims. games are long and rewarding from 1-2hrs per match. No game I've played matches the reward of one tapping an enemy 300m out!!! By far the best thing about this game that nobody mentions is the sound FX this game has is better than any AAA studio by miles this game doe not have compressed audio gunshots THEY ARE LOUD YOU WILL BE STARTLED AND SCARED THE IMMERSION IS REAL!!      10/10 would recommend."
+        },
+        {
+            "review_id": "227113803",
+            "steam_id": "76561198379320359",
+            "playtime_minutes": 1140,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Game was great, but I crash on startup now for no reason. Currently unplayable"
+        },
+        {
+            "review_id": "227113562",
+            "steam_id": "76561198191571750",
+            "playtime_minutes": 383,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I have spent 2 days trying to get my mic to work in this game, no luck. I have followed every guide and tried literally everything possible. Straight up unacceptable in my opinion for a game that relies on communication."
+        },
+        {
+            "review_id": "227112067",
+            "steam_id": "76561197969801973",
+            "playtime_minutes": 44716,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "What can i say? I've had some of the best gaming moments in Squad. Highly recommend for any milsim that wants action and be part of a great community."
+        },
+        {
+            "review_id": "227106865",
+            "steam_id": "76561198057243633",
+            "playtime_minutes": 12459,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great game! make sure you join a sever that has a community behind it. if you can't launch the game Micosoft C++ download cant help ypu out. Download everything restart computer and reinstall the game! good luck out there\r\n"
+        },
+        {
+            "review_id": "227082632",
+            "steam_id": "76561198931016504",
+            "playtime_minutes": 16000,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is a little older now and has been replaced with games like arma reforger but if you like Milsim games you can still find some enjoyment with this."
+        },
+        {
+            "review_id": "227080881",
+            "steam_id": "76561198698517194",
+            "playtime_minutes": 521,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great game but u definitely need people to play with u.......i really like project reality more in this aspects and keep your settings low to midium if u have a nodrate pc like me\r\n\r\n"
+        },
+        {
+            "review_id": "226976531",
+            "steam_id": "76561199441410402",
+            "playtime_minutes": 3202,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good when you play with other people in a coherent team, not the best if you don't but when you get in those good squads its excellent\r\n"
+        },
+        {
+            "review_id": "226963247",
+            "steam_id": "76561199242800312",
+            "playtime_minutes": 298,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Played only for 4 days. I guess I have to go crazy to play this game. I ♥♥♥♥♥♥♥ recommend it."
+        },
+        {
+            "review_id": "226957029",
+            "steam_id": "76561198290168730",
+            "playtime_minutes": 15317,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Trash Game with bugs and a community ban site where mods lick up to you if you use discord. Wait for new Arma don't buy this kiddy game with no non-community servers and simple controls."
+        },
+        {
+            "review_id": "226944427",
+            "steam_id": "76561199553420932",
+            "playtime_minutes": 1780,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the best Mil Sim games . if you really want reallism but dont want like games that are like Arma Reforger like tooo realistic then its a perfect game for you"
+        },
+        {
+            "review_id": "226924788",
+            "steam_id": "76561198995370142",
+            "playtime_minutes": 6698,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Child soldier simulator. Allegedly a grown man wearing flip flops and a chest rig can't hold an ak74 straight after sauntering down a city block? alright buddy. Don't even get me started on the Federated servers and community blacklist."
+        },
+        {
+            "review_id": "226834967",
+            "steam_id": "76561199252622019",
+            "playtime_minutes": 2802,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "games fps is horrible, I get 60-120 fps in most games, but ever since the ue5 update, this game is just unplayable, I'm stuck on 20-30 fps now."
+        },
+        {
+            "review_id": "226820851",
+            "steam_id": "76561199138662061",
+            "playtime_minutes": 601,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This should be the only fps game you should play. The community is great and playing as a team is so fun."
+        },
+        {
+            "review_id": "226803133",
+            "steam_id": "76561198363930926",
+            "playtime_minutes": 5924,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Believe it or not, whenever people follow the game's intended format, this game can be incredibly fun. Teamwork and communication are a must. Putting those two mindsets together makes any round of Squad enjoyable."
+        },
+        {
+            "review_id": "226789914",
+            "steam_id": "76561198005890828",
+            "playtime_minutes": 21612,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love getting stuck in the dumb video every time when i start the damn game. garbage."
+        },
+        {
+            "review_id": "226694932",
+            "steam_id": "76561199167534222",
+            "playtime_minutes": 13020,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "one of the greatest games ever especiallly with mods . its great just u need to learn basics"
+        },
+        {
+            "review_id": "226692485",
+            "steam_id": "76561199224043645",
+            "playtime_minutes": 1063,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game, a little hard and maybe even to realistic."
+        },
+        {
+            "review_id": "226684750",
+            "steam_id": "76561198718124064",
+            "playtime_minutes": 142312,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I would not recommend the game in its current state, certain maps for certain people run severely unoptimized with frequent drops in frames, vehicle physics continue to be abysmal, server browser is still broken and doesn't show how many are in a queue nor is there a party feature, it feels like the devs go out of their way to ignore the community and introduce new bugs and glitches with every patch. BUT AT LEAST WE HAVE SKINS AND USELESS INTERIORS AND EMOTES RIGHT, avoid the game."
+        },
+        {
+            "review_id": "226666251",
+            "steam_id": "76561198939206279",
+            "playtime_minutes": 391,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i finally find a sever where people actually speak english. i start learning the game. i decide to play squad lead. accidently lead my squad into an ambush Lt.squiggles legs are pulverised. 10/10 would tramatize myself again"
+        },
+        {
+            "review_id": "226651878",
+            "steam_id": "76561198130739462",
+            "playtime_minutes": 34,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I spent over half an hour trying to trouble shoot this turd of a game by getting rid of discord and updating my drivers and everything in-between and it still cant launch without crashing. Save your money and buy Arma."
+        },
+        {
+            "review_id": "226633037",
+            "steam_id": "76561198860578013",
+            "playtime_minutes": 14600,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Spectacular game all around. Amazing gun and sound mechanics coupled with organized gameplay makes this game perfect for someone seeking a realistic warfare experience. If you are someone who enjoys games that involve teamwork and communication, this game is for you. If you don't have a mic.. stay away."
+        },
+        {
+            "review_id": "226582091",
+            "steam_id": "76561199550059138",
+            "playtime_minutes": 1167,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Honestly a amazing game, if you want something fun and realistic this is the game to go."
+        },
+        {
+            "review_id": "226567317",
+            "steam_id": "76561198067455300",
+            "playtime_minutes": 71400,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Game is good. If you can get past the fact that the community is basically ran by reddit moderators. they will ban you for breaking the rules. They will ban you for reporting their friends for breaking the rules. Once they ban you, your info goes onto a game wide database. Which bans you from all servers. I wouldn't buy this game unless you want to be overly moderated for everything and watch a core group do whatever they want."
+        },
+        {
+            "review_id": "226496751",
+            "steam_id": "76561199755162160",
+            "playtime_minutes": 1952,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is one of the best designed mil-sims I've ever seen. The paywall means you are not likely to encounter low effort gamers or Fortnite kids. The community can be toxic at times but the majority of the player base genuinely care and put time and effort in."
+        },
+        {
+            "review_id": "226466520",
+            "steam_id": "76561199687197299",
+            "playtime_minutes": 74,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "not ♥♥♥♥♥♥♥ worth it had to refund servers are dead cant even join , stop wasting your money on this game"
+        },
+        {
+            "review_id": "226414486",
+            "steam_id": "76561198404176871",
+            "playtime_minutes": 2476,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Squad is either a game where you:\r\nGet into match, hop in squad, proceed to pull off some spec ops crap with john wick on your team somehow killing 2 squads singlehandedly while you run around as the medic playing PTSD simulator while getting shelled by mortars and airstrikes and having the funniest conversations ever over mic with your team and having a blast\r\n\r\nOr:\r\nYou meet a bunch of people who say your playing the game wrong, always say to clear chat, constantly blame everyone else and you go in a loop of spawn dying because your in the worst position possible\r\n(These sort of matches are few and far between tho, most of them end up like the first one I said and its an absolute blast)\r\n\r\n9/10 best milsim I've ever played, would get tinnitus from getting shot at and shelled for 20 minutes straight again"
+        },
+        {
+            "review_id": "226345194",
+            "steam_id": "76561197993787644",
+            "playtime_minutes": 966,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "New install of game crashes constantly, and I don't have this issue with any other game."
+        },
+        {
+            "review_id": "226326073",
+            "steam_id": "76561198136272737",
+            "playtime_minutes": 7550,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I was looking for a game that would most closely resemble my experience playing Battlefield 2 and, though Squad is of course its own game, this was a great recommendation. However, Squad feels a lot more like Battlefield for adults due to its balance between realism and having a fun experience where teamwork is key. You are basically forced to have a microphone, though playing without a microphone as a participant (not as a squad leader!) is possible but not recommended. The downside is that if you do not want to talk or make noise, you might be unmotivated to play the game. The upside is that you will rarely meet anyone without a microphone. Most people playing Squad have a great sense of humor, and it is nigh impossible not to have a unique and fun experience. Every time I play Squad, something happens that I never could have expected. Whether it is a cinematic experience you will want to tell your friends about or an interaction with one of your teammates, most times it is memorable and, in my opinion, that is pretty rare in games since most of them are indeed forgettable and a waste of time.\r\n\r\nSquad deserves all the praise. It feels like a game made for the player, whereas other games feel like they have a different agenda. Squad has a training feature where you get to familiarize yourself with the game mechanics without embarrassing yourself in front of others, which is great.\r\n\r\nI would recommend this to anyone and everyone. Great game! Get it, keep it, love it!"
+        },
+        {
+            "review_id": "226303700",
+            "steam_id": "76561199062920797",
+            "playtime_minutes": 1936,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Excellent laughs. Best played with idiot mates who are just tryna have fun, I dont like the gooses who take this game to seriously and scream in chat. I sure do love forcing my friend into a fatal funnel though"
+        },
+        {
+            "review_id": "226278599",
+            "steam_id": "76561199208994297",
+            "playtime_minutes": 2430,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "game runs better now with DLSS support and some better optimization"
+        },
+        {
+            "review_id": "226277111",
+            "steam_id": "76561198216160813",
+            "playtime_minutes": 11270,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "As an army vet with 3 combat tours I have to give a massive nod to this game. Not only does it perfectly capture a real mil-sim environment but its a game that actually emphasizes teamwork to achieve objectives. The game looks beautiful graphically and the sound effects are spot on. It also feels optimized, I have never experienced any tearing or fps stutters. A wide selection of maps and factions to choose from gives you lots of variety to diversify your FPS experience every single battle. I highly recommend this game!"
+        },
+        {
+            "review_id": "226238685",
+            "steam_id": "76561198055366447",
+            "playtime_minutes": 30174,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is a pure military sim, Not COD. If you're looking for a fast paced shooter this is not it. Tactics, FOB (forward operating base) placements, faction and more. Sometime you are the cog in the machine that wins the game, and sometimes your the calculated sacrifice to hold a point. The community is what elevated this game in my option. Just the chat makes this game worth it some rounds."
+        },
+        {
+            "review_id": "226192164",
+            "steam_id": "76561199143155889",
+            "playtime_minutes": 509,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "pretty fun. really realistic, really in depth. once you figure out what you're doing, its a blast. is a bit of a time investment though."
+        },
+        {
+            "review_id": "226191554",
+            "steam_id": "76561198033602422",
+            "playtime_minutes": 4855,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Game is an excellent combat simulation program, designed specifically to enhance performance of players who choose to communicate and thrive together!"
+        },
+        {
+            "review_id": "226157899",
+            "steam_id": "76561198052922009",
+            "playtime_minutes": 57779,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the tl;dr without getting into it: horrible devs with an especially bad project lead(new one isn't an improvement). stupid federated server structures that ruins the game & vile community."
+        },
+        {
+            "review_id": "226130024",
+            "steam_id": "76561198017865191",
+            "playtime_minutes": 770,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game is very realistic and fun. But be prepared that on most servers I've tried, squad leaders absolutely hate newbies (even on those servers that claim to be noob-friendly) and kick you out of the squad before you even had a chance to do anything. Once you crossed that threshold and learned basics, things get much better and fun part starts."
+        },
+        {
+            "review_id": "225955745",
+            "steam_id": "76561199292411664",
+            "playtime_minutes": 12402,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game! i love the feeling getting shot by LAV and screaming to my teammates when there's infantry on our FOB. Best experience with friends aswell!"
+        },
+        {
+            "review_id": "225785892",
+            "steam_id": "76561199524267066",
+            "playtime_minutes": 5824,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good game with good immersive and arcade gameplay\n\nхорошая игра со смесью иммерсивности и аркадности в гемплее. очень нравится это, а не пот в армаподобных играх\n\nneed to be more optimised"
+        },
+        {
+            "review_id": "225783376",
+            "steam_id": "76561197980901368",
+            "playtime_minutes": 8690,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I'm writing this review as it pertains to my specs.\nI run the game at 1440p upscaled 4k on the latest AMD drivers. I between 70-100 fps in mod and vanilla servers. Every now and then I'll get a hitch but not often. I cant speak to other comments about optimization but the game runs fine for me. \nUp until the latest update...\nNow, I'll get random UE5 errors that cause weird rgb artifacting and game crashes. Is this annoying? Yes, absolutely. Does it ruin the game for me? No. Do I wish they would optimize the game to run better? I'm sure I'm not the only one. \nThat being said, this game is still extremely fun when youre in a squad that is actually working and communicating together. \nI would still recommend this game to anyone that is a fan of \"milsims\". \nDefinitely recommend checking out mods like supermod or steel division."
+        },
+        {
+            "review_id": "225762816",
+            "steam_id": "76561199049359036",
+            "playtime_minutes": 9605,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "project reality player here, the game is promising and good overall, the inf combat is awesome with a decent helpful community, but i thought and i might be wrong here that the devs of squad gave a promise to keep the legacy of PR (project reality) no im not asking to add CAS (even tho it will be awesome) but updating to EU5 and excluding many good players from the game is a bad move.\n- game is not optimized (huge spikes)\n- the devs need to go back to the basics\n- maybe a rework for APCs/tanks\noverall it's a good game i'll give it 7/10"
+        },
+        {
+            "review_id": "225718162",
+            "steam_id": "76561198329125473",
+            "playtime_minutes": 8843,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its a good game, kind of needs more work and admins in the servers get a lil power trippy"
+        },
+        {
+            "review_id": "225696441",
+            "steam_id": "76561198362700913",
+            "playtime_minutes": 37302,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "pretty good game, devs make alright updates but dont focus on optimization and are not amazing at listening to what the people want. otherwise, great gameplay systems that promote teamwork."
+        },
+        {
+            "review_id": "225662386",
+            "steam_id": "76561198144982759",
+            "playtime_minutes": 8790,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "3/5\nSquad has always been in a pretty volatile state as far as I can remember, but for what its worth its always been a decently \"realistic\" game that you can still drop into and have some fun with without needing too much game sense.\nIn its current state the weapons handling has been improved, so its a good time to try squad at the best state I've seen it in for some time."
+        },
+        {
+            "review_id": "225658858",
+            "steam_id": "76561197994587564",
+            "playtime_minutes": 40807,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The most boring game if not for Galactic Contention.\n\nSquad plays host to the best Star Wars shooter created, Galactic Contention.\nGC is a free mod you can get from the steam workshop and it completely converts Squad into Star wars.\n\nIf you're a Star Wars fan, check out Galactic Contention."
+        },
+        {
+            "review_id": "225651587",
+            "steam_id": "76561199773593305",
+            "playtime_minutes": 28510,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "poor optimization, pls do something with it and I believe most of players will change their opinion on this game"
+        },
+        {
+            "review_id": "225647816",
+            "steam_id": "76561199812575973",
+            "playtime_minutes": 13778,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "solid game, devs finally adressing ICO makes it feel much better, arms are feeling much less jelly like and runs well since the UE5 performace has been updated."
+        },
+        {
+            "review_id": "225635422",
+            "steam_id": "76561199663199692",
+            "playtime_minutes": 1443,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "my game keeps crashing when trying to launch . i dont have mods or anything and im def about to msg for a refund. what good is a game that you cant play. ps i love this game and want to get back into it so ifd anyone knows how to fix that please let me know \n"
+        },
+        {
+            "review_id": "225630310",
+            "steam_id": "76561199172254606",
+            "playtime_minutes": 144002,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its game. game fun. heli go boom by tank me sad. get another heli go boom again big sad. go hunt tank kill tank big happy. fly heli into tree success"
+        },
+        {
+            "review_id": "225620000",
+            "steam_id": "76561199434469594",
+            "playtime_minutes": 2657,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I played some found the game ok. I started playing medic and meeting new people. I had a movie rated experience of someone need rezed and me jumping off a building not knowing he was behind me. Found the game amazing and am going to get to a 100 hours in 2 days."
+        },
+        {
+            "review_id": "225603016",
+            "steam_id": "76561198980582804",
+            "playtime_minutes": 4539,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Bought this game to communicate and work as a team.\nEnded up getting yelled at by a 32-year-old squad leader named ‘ToiletDestroyer’ because I parked the logi backwards.\n10/10 military experience."
+        },
+        {
+            "review_id": "225589906",
+            "steam_id": "76561199018943051",
+            "playtime_minutes": 297,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Honestly, the community is very unfriendly to new players. Only have 5 hours but already banned from 2 servers. Had a mod tell me \"The lack of experience on your (talking about me) part makes the game less enjoyable for the rest of the people in your squad, team, and game.\" The other server I got banned from was because they wanted me to be a pilot and when I told them i cant fly and im new they said just try and i crashed moments later and got banned from \"misuse of squad roles\""
+        },
+        {
+            "review_id": "225583278",
+            "steam_id": "76561199262261193",
+            "playtime_minutes": 5,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "if you live in south africa dont buy it. you wont even be able to get past the main menu. there are 0 servers available you just have an empty game"
+        },
+        {
+            "review_id": "225291137",
+            "steam_id": "76561199248618850",
+            "playtime_minutes": 67550,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love this game , with all its problems and everything but nothing scratches the itch that i have like squad does.The Firefights and the intense battles that happen when you have a good squad are amazing."
+        },
+        {
+            "review_id": "225290022",
+            "steam_id": "76561199095292560",
+            "playtime_minutes": 30723,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "honestly one of my favorite games to play. i understand this is meant to be a team game and for the majority of the time it is. i however find it to be a game i can just kind of turn my mind off and shoot at people. I strictly play the medic role so maybe thats why i feel that way. Just put on some music and heal people is the majority of my time on this game. Or driving logistics trucks to your front lines, trying to find the most optimal path while dodging enemy combatants. I just cant recommend this game enough. Its honestly some of the most fun ive had playing video games. 10/10 would recommend above any other game."
+        },
+        {
+            "review_id": "225250986",
+            "steam_id": "76561199229173508",
+            "playtime_minutes": 1961,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "read about some redditor complaining about seeing someone hip firing an MG3, Best game ever!"
+        },
+        {
+            "review_id": "225247121",
+            "steam_id": "76561199125889497",
+            "playtime_minutes": 6565,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Still worth it as a casual player?\r\nI’ve got just 109 hours in Squad over the last 3 years. I know that’s not a lot compared to most people who play this game, but I’ve tried to hop in after almost every big update.\r\nThe game still hits different when everything clicks. Good squad, decent SL, everyone on comms, and you’re actually working together with vehicles and infantry — those moments are why I keep coming back. The scale, the tension, building FOBs, long fights… no other shooter gives me that feeling. Gunplay feels solid, especially after the recent updates, and winning a close match after an hour+ of fighting is genuinely satisfying.\r\nI’ve seen the game change a lot since I started. New maps, new factions, performance improvements, and the big Unreal Engine 5 update. It’s cool watching it evolve even if I only play every couple of months. I usually play rifleman, or MG — nothing too complicated.\r\nBut it’s not perfect. As a casual player it can be rough. A lot of games I join, the squad is dead quiet or the SL has no idea what they’re doing. Then you just spend 30-40 minutes running around doing nothing. Matches are long, and if your team is bad it feels like a waste of time. Sometimes I finish a session feeling frustrated instead of having fun.\r\nStill, when I get a good game… man, it’s special. That’s why I keep checking in after every major patch.\r\nIf you want a realistic, slow-paced, teamwork-heavy shooter and you’re okay with long matches and depending on random people, Squad is still one of the best. If you want fast action or to play solo, this is not the game for you.\r\nMy score: 7.5/10\r\nIt’s not my most played game, but it’s one of the few I return to years later and still enjoy when the stars align."
+        },
+        {
+            "review_id": "225116958",
+            "steam_id": "76561198205030335",
+            "playtime_minutes": 1751,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I had high hopes for this game, But sadly ever since the UE5 update the games performance has been going down to the point where i can't even run it on low anymore. When it was on UE4 and DirectX11 i could run the game on medium to high, i still have some hope since the devs said they want to work on optimisation we will have to see about that."
+        },
+        {
+            "review_id": "225074574",
+            "steam_id": "76561199122124430",
+            "playtime_minutes": 37185,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "spawn \r\nrun for 10 minutes\r\nsee enemy\r\nshoot enemy\r\nrun for another 5 minutes\r\nsee btr\r\na10 kills btr\r\nrun for 5 more minutes\r\nget sniped\r\nrisen and repeat \r\nlove this game so much\r\n"
+        },
+        {
+            "review_id": "225073836",
+            "steam_id": "76561198060901022",
+            "playtime_minutes": 7512,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "90% walking, 10%  the best combat action you have every witnessed. Please get rid of the intro video, hearing \"welcome to squad\" every time I launch the game makes me want to KMS."
+        },
+        {
+            "review_id": "225141234",
+            "steam_id": "76561199585232813",
+            "playtime_minutes": 2251,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.49588194489479065,
+            "steam_purchase": true,
+            "review_text": " [h1]Overall Rating: 8/10[/h1]\r\n\r\n- Gameplay: [b]9/10[/b]\r\n- Graphics: [b]7/10[/b]\r\n- Audio: [b]10/10 [/b]\r\n- Performance: [b]6/10[/b]\r\n\r\n Pros:\r\n- Incredible teamwork and communication with players \r\n- Intense gameplay Best sound design in the genre Good Net Code for long range battles.\r\n-  Great selection in factions/Countries\r\n\r\n Cons: \r\n-Performance issues in large battles on low end pc's\r\n- Matches depend heavily on good squad leaders and 50% of the time your Squad lead will leave the game for not wanting to play that role.\r\n- Community can be hit or miss depending on the server \r\n\r\nReview: Squad feels like the perfect middle ground between Arma 3 and Arma Reforger. It's the realism and teamwork from Arma while being much easier to jump into and enjoy with out having to install 100 plus mods. Compared to Arma 3, Squad is more polished and focused. You spend less time dealing with UI systems and more time actually playing the game and compared to Reforger, Squad feels more complete for teamwork, even if the graphics are not as modern. The sound design is honestly great. Gunfire, explosions, and helicopters sound wonderful in the best way possible especially with headphones. When communication is good most matchs feels cinematic and intense. which is one of the reason I bought the game after seeing all of those youtube videos by Nano and milsim youtubers If you want a military shooter without going full military simulator. Squad is probably the way to go but dont quote me on that."
+        },
+        {
+            "review_id": "225837101",
+            "steam_id": "76561198117405424",
+            "playtime_minutes": 3684,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5454545617103577,
+            "steam_purchase": true,
+            "review_text": "One of the best military shooters on the market right now and with an excellent modding scene at that.\n\n-Gameplay. You basically spawn, join a squad and do something. Defend the point, attack, wage asymmetric warfare, anything goes, as long as you win. I want to say, that gunplay here is excellent. Weapons feel good, and that also goes for reactive launchers and all the other ♥♥♥♥ that isn't handguns. Machines are also great, they all have their different feel, their weapons feel good. You also can build ♥♥♥♥, like walls, reinforced points, ATGMs, etc... But the main hero is of course the focus on the teamwork. You may be a Rambo, but without good teamwork you won't do ♥♥♥♥ here. Unfortunately, if the team is bad, and not that they play bad, that's fine, but that they refuse to communicate and basically play this as a Battlefield, it really starts to fall apart a little. Still, most of the time I had a great time. My only serious gripe is that the game doesn't feature any destruction and at times it really looks bad.\n\n-Graphics. They are good. Weapons, tanks, APCs, all look great. And I didn't really check, but I am more than confident that they look almost as their real counterparts.\n\n-OST. Unexpectedly there are some great tracks. You won't hear them often, cause they play in the main menu, but still.\n\n-Technical side. I didn't encounter any serious bugs, but expect the game to go hard on your PC, you really need a good spec to play comfortably.\n\n-Support and Modding. The game features an EXCELLENT modding scene, which basically gives the game a second breath at times. Also it gets regular updates with an actual content, not just bugfixes, so the devs have my respect here.\n\nSo, if you are a fun of military and tactical shooters, it's basically a must buy now at my opinion. Give the game a destruction mechanic and it's a masterpiece, but still 9/10."
+        },
+        {
+            "review_id": "226361765",
+            "steam_id": "76561199767649708",
+            "playtime_minutes": 4550,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5445801019668579,
+            "steam_purchase": true,
+            "review_text": "I really like Squad\r\n\r\nI invited my friends to buy it and play with me when it goes on sale\r\n\r\nBut today when I received the notification that Squad was on sale, my friends said that because the price had increased, they couldn't afford to buy it\r\n\r\nI hate Squad"
+        }
+    ]
+}

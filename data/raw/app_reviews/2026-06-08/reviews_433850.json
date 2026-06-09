@@ -1,0 +1,97 @@
+{
+    "ingested_at": "2026-06-08T18:44:56.859085",
+    "app_id": "433850",
+    "review_count": 9,
+    "reviews": [
+        {
+            "review_id": "225659052",
+            "steam_id": "76561198034821974",
+            "playtime_minutes": 19412,
+            "voted_up": true,
+            "votes_up": 23,
+            "weighted_score": 0.728723406791687,
+            "steam_purchase": true,
+            "review_text": "Man I got way too many fond memories for this game to give this a negative review. I don't care if it sucks now because back in its prime days, Nothing came close to the fun I had with my mates on this. I have met randoms through this game and still friends with till this day."
+        },
+        {
+            "review_id": "226990059",
+            "steam_id": "76561197961019938",
+            "playtime_minutes": 110634,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "amazing game, not blinded by nostalgia because i played it consistently never stopping. cant find a lobby naturally but god it would be great to get there again."
+        },
+        {
+            "review_id": "226449007",
+            "steam_id": "76561198046552252",
+            "playtime_minutes": 2922,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It is a really good game with crazy graphics, would defo r\r\n\r\neccomend to ppl that r good at shting games and warfare"
+        },
+        {
+            "review_id": "226272494",
+            "steam_id": "76561198294452022",
+            "playtime_minutes": 83956,
+            "voted_up": true,
+            "votes_up": 6,
+            "weighted_score": 0.6083551049232483,
+            "steam_purchase": true,
+            "review_text": "Ill give my left nut to have this game back along iwith Just Survive. Daybreak why would you abandon it"
+        },
+        {
+            "review_id": "225332326",
+            "steam_id": "76561198287202428",
+            "playtime_minutes": 6080,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5129870176315308,
+            "steam_purchase": true,
+            "review_text": "I miss this game a lot it was so much fun back in the day"
+        },
+        {
+            "review_id": "227049648",
+            "steam_id": "76561197961939649",
+            "playtime_minutes": 17972,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5631618499755859,
+            "steam_purchase": true,
+            "review_text": "Best BR game to ever exist during its peak days!"
+        },
+        {
+            "review_id": "226128021",
+            "steam_id": "76561198179729411",
+            "playtime_minutes": 682,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5283018946647644,
+            "steam_purchase": true,
+            "review_text": "Game went F2P, lost 15 bucks"
+        },
+        {
+            "review_id": "226275907",
+            "steam_id": "76561198087575868",
+            "playtime_minutes": 4105,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "what a shame THIS GAME USED TO BE THE ♥♥♥♥!!!!"
+        },
+        {
+            "review_id": "226736495",
+            "steam_id": "76561198101850219",
+            "playtime_minutes": 8868,
+            "voted_up": true,
+            "votes_up": 6,
+            "weighted_score": 0.5982608795166016,
+            "steam_purchase": true,
+            "review_text": "I miss H1Z1 more than my family sometimes."
+        }
+    ]
+}

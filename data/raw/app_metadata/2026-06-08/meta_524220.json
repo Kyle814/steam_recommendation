@@ -1,0 +1,104 @@
+{
+    "ingested_at": "2026-06-08T19:49:56.539161",
+    "app_id": "524220",
+    "metadata": {
+        "type": "game",
+        "name": "NieR:Automata™",
+        "steam_appid": 524220,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "NieR: Automata tells the story of androids 2B, 9S and A2 and their battle to reclaim the machine-driven dystopia overrun by powerful machines.",
+        "detailed_description": "<h1>NieR:Automata™ Game of the YoRHa Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/extras/8a3ecda24f500e3ef1287da0dc5ac159.avif?t=1773364834\" width=616 height=1522 /></span><br>The NieR:Automata™ Game of the YoRHa Edition includes the game itself and comes packed with DLC and bonus content for the full experience of the award-winning post-apocalyptic action RPG, including:<br><br><ul class=\"bb_ul\"><li>3C3C1D119440927 DLC*<br></li><li>Valve Character Accessory<br></li><li>Cardboard Pod Skin<br></li><li>Retro Grey Pod Skin<br></li><li>Retro Red Pod Skin<br></li><li>Grimoire Weiss Pod<br></li><li>Machine Mask Accessory<br></li><li>Exclusive set of wallpapers in the following sizes: 1024 x 768, 1280 x 1024, 1920 x 1080, 2560 x 1600</li></ul><br>*To enjoy this content you will need to have progressed a certain way into the main story of the game. There are also some scenes during the progression of the main game scenario in which this content cannot be accessed.</p><br><h1>Reviews &amp; Accolades</h1><p><p class=\"bb_paragraph\" >9/10 &quot;Don’t miss this&quot; – VideoGamer</p><p class=\"bb_paragraph\" >10/10 &quot;One of the best games I’ve ever played&quot; – RPGSite</p><p class=\"bb_paragraph\" >4/5 &quot;Pure genius&quot; – Trusted Reviews</p><p class=\"bb_paragraph\" >9/10 &quot;One of the most interesting and unique games you’ll play this year&quot; – God is a Geek</p><p class=\"bb_paragraph\" >9/10 &quot;Classic Platinum action combined with a deep role-playing system&quot; – Metro</p></p><br><h1>About the Game</h1><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/extras/9079b497f79f1da39de77146695f9f4c.poster.avif?t=1773364834\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/extras/9079b497f79f1da39de77146695f9f4c.webm?t=1773364834\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/extras/9079b497f79f1da39de77146695f9f4c.mp4?t=1773364834\" type=\"video/mp4\"></video></span><br>NieR: Automata tells the story of androids 2B, 9S and A2 and their battle to reclaim the machine-driven dystopia overrun by powerful machines.<br><br>Humanity has been driven from the Earth by mechanical beings from another world. In a final effort to take back the planet, the human resistance sends a force of android soldiers to destroy the invaders. Now, a war between machines and androids rages on... A war that could soon unveil a long-forgotten truth of the world.<br><br>Key Features:<br><ul class=\"bb_ul\"><li><strong>Action-Packed Battles</strong> – Players will switch between using melee and ranged attacks in battle against hordes of enemies and challenging bosses across a variety of open field maps. The tight controls and incredibly fluid combat are simple to learn for newcomers while offering plenty of depth for more experienced action gamers. Players can perform high-speed battle actions—combining light and heavy attacks—and switch through an arsenal of weaponry while evading enemies with speed and style. <br></li><li><strong>Beautifully Desolate Open-World</strong> – The game seamlessly joins together hauntingly beautiful vistas and locations with no area loading. The environments are rendered in 60fps and contain a wealth of sub-events in addition to the main storyline. <br></li><li><strong>Masterfully Crafted Story and Characters</strong> – NieR: Automata tells the story of androids 2B, 9S and A2 and their ferocious battle to reclaim a machine-driven dystopia overrun by powerful weapons known as machine lifeforms.<br></li><li><strong>Elements of an RPG</strong> – Players will obtain a variety of weapon types, level up in battle, learn new combat skills, and customise a loadout that caters to their playstyle.<br></li><li><strong>Utilise the Pod Support System to Assist In and Outside of Battle</strong> – Pods can attack the enemy in both manual and lock-on modes. They can also assist outside of battle, such as allowing the player to glide through the air. Pods can be enhanced throughout the game, with upgrades including new attack methods and variations.<br></li><li><strong>“Auto Mode” Available for Beginners </strong>– Novice players can elect “Auto Mode” for easy attacks and evasions.</li></ul>",
+        "developers": [
+            "Square Enix",
+            "PlatinumGames Inc."
+        ],
+        "publishers": [
+            "Square Enix"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 84,
+            "url": "https://www.metacritic.com/game/pc/nier-automata?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 113293
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 17, 2017"
+        }
+    }
+}

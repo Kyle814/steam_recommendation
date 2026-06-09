@@ -1,0 +1,79 @@
+{
+    "ingested_at": "2026-06-08T18:46:56.619830",
+    "app_id": "42700",
+    "metadata": {
+        "type": "game",
+        "name": "Call of Duty®: Black Ops",
+        "steam_appid": 42700,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "The biggest first-person action series of all time and the follow-up to critically acclaimed Call of Duty®: Modern Warfare 2 returns with Call of Duty®: Black Ops.",
+        "detailed_description": "The biggest first-person action series of all time and the follow-up to last year’s blockbuster Call of Duty®: Modern Warfare 2 returns with <strong>Call of Duty®: Black Ops</strong>.<br>\t\t\t\t\t   <strong>Call of Duty®: Black Ops</strong> will take you behind enemy lines as a member of an elite special forces unit engaging in covert warfare, classified operations, and explosive conflicts across the globe. With access to exclusive weaponry and equipment, your actions will tip the balance during the most dangerous time period mankind has ever known.<br>\t\t\t\t\t   <h2 class=\"bb_tag\" >Key Features:</h2>\t\t\t\t\t   <ul class=\"bb_ul\"><li><strong>Cinematic Single Player Campaign</strong>: An epic campaign and story that takes you to a variety of locations and conflicts all over the world where you will play as an elite Black Ops soldier in deniable operations where if you are caught, captured or killed, your country will disavow all knowledge of your existence.<br>\t\t\t\t\t\t\t</li><li><strong>Signature Multiplayer</strong>: Call of Duty’s signature multiplayer gameplay returns with new perks and killstreaks, deeper levels of character and weapon customization, and all new modes including:<br>\t\t\t\t\t\t\t   <ul class=\"bb_ul\"><li><strong>Wager Matches</strong>: One in the Chamber, Gun Game, Sticks and Stones, Sharpshooter<br>\t\t\t\t\t\t\t\t   </li><li><strong>Theater Mode</strong>: View, record, and edit your favorite moments from multiplayer, and share with your friends<br>\t\t\t\t\t\t\t\t   </li><li><strong>Combat Training</strong>: Test your skill solo or Co-Op with friends against AI enemy players<br>\t\t\t\t\t\t\t   </li></ul></li><li><strong>Zombies!</strong>: Fan favorite Zombie mode is back providing endless hours of Zombie-slaying entertainment, solo or Co-Op<br>\t\t\t\t\t   </li></ul>",
+        "developers": [
+            "Treyarch"
+        ],
+        "publishers": [
+            "Activision"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 81,
+            "url": "https://www.metacritic.com/game/pc/call-of-duty-black-ops?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 8,
+                "description": "Valve Anti-Cheat enabled"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 21787
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 9, 2010"
+        }
+    }
+}

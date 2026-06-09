@@ -1,0 +1,75 @@
+{
+    "ingested_at": "2026-06-08T19:58:39.075679",
+    "app_id": "627690",
+    "metadata": {
+        "type": "game",
+        "name": "Idle Champions of the Forgotten Realms",
+        "steam_appid": 627690,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Idle Champions of the Forgotten Realms is a Dungeons &amp; Dragons strategy management game uniting Champions from throughout the D&amp;D multiverse into a grand adventure.",
+        "detailed_description": "<p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/627690/extras/24eb1cd8c66093fc6e8916db6667bf22.poster.avif?t=1780944704\" width=600 height=512 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/627690/extras/24eb1cd8c66093fc6e8916db6667bf22.webm?t=1780944704\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/627690/extras/24eb1cd8c66093fc6e8916db6667bf22.mp4?t=1780944704\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/627690/extras/a5b38316cf3818cf03bffcac16df901c.avif?t=1780944704\" width=600 height=108 /></span></p><p class=\"bb_paragraph\" >Recruit legendary Champions for the ultimate endless adventure!</p><p class=\"bb_paragraph\" >Idle Champions of the Forgotten Realms is a strategy management game that unites iconic Champions from D&amp;D TRPG campaigns, video games, novels, actual plays, comic books, and shows into a grand adventure. </p><p class=\"bb_paragraph\" >Optimize formations using over 140 Champions, each with unique abilities, to defeat countless monsters across hundreds of adventures. Mastery requires pushing formations further with every adventure – only the most powerful formations will complete the greatest challenges Idle Champions has to offer.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/627690/extras/85f3967152e9eb761fa1c7cb9bcf3414.avif?t=1780944704\" width=1560 height=878 /></span></p><p class=\"bb_paragraph\" ><strong>COLLECT ICONIC CHAMPIONS</strong></p><p class=\"bb_paragraph\" >Unlock unique Champions from across the Dungeons &amp; Dragons multiverse, each with their own formation abilities and ultimate powers. Fan favorites include Drizzt Do'Urden and the Companions of the Hall, Minsc &amp; Boo, Astarion and Karlach from Baldur's Gate 3, …and many, many more!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/627690/extras/e9aeb3ee78d29dd1205d91ef0dd7d1a6.avif?t=1780944704\" width=1560 height=878 /></span></p><p class=\"bb_paragraph\" ><strong>EASY TO LEARN, HARD TO MASTER</strong></p><p class=\"bb_paragraph\" >Manage multiple adventuring parties to test your Champions' mettle and earn even greater rewards. Your Champions automatically fight enemies until defeated, even if you close the game. Your Familiars automate basic gameplay like leveling Champions and picking up gold so YOU can focus on optimizing your formation strategy. Build powerful synergies and unleash the full power of your Champions to complete the most difficult adventures!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/627690/extras/2eb3ba5927dfae4f169ec0e67b4b4615.avif?t=1780944704\" width=1560 height=878 /></span></p><p class=\"bb_paragraph\" ><strong>TRAVEL THE D&amp;D MULTIVERSE</strong></p><p class=\"bb_paragraph\" >Adventure throughout the Sword Coast and beyond. Visit legendary cities like Baldur's Gate, Waterdeep, and Sigil, the City of Doors. Explore the mists of Barovia, brave the endless Blood War of Avernus, and sail the Astral Sea.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/627690/extras/370e5e4b3a611f1563977fed999fa1f5.avif?t=1780944704\" width=1560 height=878 /></span></p><p class=\"bb_paragraph\" ><strong>REGULAR CONTENT UPDATES</strong></p><p class=\"bb_paragraph\" >There are multiple content updates every month. Since launching in 2017, Idle Champions has introduced 140+ Champions, over 200+ adventures, 8 campaigns based on official TRPG releases, and introduced dozens of new features and systems to the game. The next big update is never far away!</p>",
+        "developers": [
+            "Codename Entertainment Inc."
+        ],
+        "publishers": [
+            "Codename Entertainment Inc."
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 25, 2020"
+        }
+    }
+}

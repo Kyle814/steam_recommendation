@@ -1,0 +1,84 @@
+{
+    "ingested_at": "2026-06-08T19:58:33.317051",
+    "app_id": "322170",
+    "metadata": {
+        "type": "game",
+        "name": "Geometry Dash",
+        "steam_appid": 322170,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Jump and fly your way through danger in this rhythm-based action platformer!",
+        "detailed_description": "Jump and fly your way through danger in this rhythm-based action platformer!<br><br>Prepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.<h2 class=\"bb_tag\" >Game Features</h2><br><ul class=\"bb_ul\"><li> Rhythm-based Action Platforming!<br></li><li> Lots of levels with unique soundtracks!<br></li><li> Build and share your own levels using the level editor!<br></li><li> Thousands of high quality user generated levels!<br></li><li> Unlock new icons and colors to customize your character!<br></li><li> Fly rockets, flip gravity and much more!<br></li><li> Use practice mode to sharpen your skills!<br></li><li> Lots of achievements and rewards!<br></li><li> Challenge yourself with the near impossible!<br></li><li> Steam users get two exclusive unlockable icons!</li></ul>",
+        "developers": [
+            "RobTop Games"
+        ],
+        "publishers": [
+            "RobTop Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 499,
+            "final": 499,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$4.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "recommendations": {
+            "total": 559308
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Dec 22, 2014"
+        }
+    }
+}

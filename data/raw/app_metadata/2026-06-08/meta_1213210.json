@@ -1,0 +1,88 @@
+{
+    "ingested_at": "2026-06-08T20:00:30.001090",
+    "app_id": "1213210",
+    "metadata": {
+        "type": "game",
+        "name": "Command & Conquer™ Remastered Collection",
+        "steam_appid": 1213210,
+        "required_age": "13",
+        "is_free": false,
+        "short_description": "Command &amp; Conquer and Red Alert are both remastered in 4K by the former Westwood Studios team members. Includes all 3 expansions, rebuilt multiplayer, a modernized UI, Map Editor, bonus footage gallery, and over 7 hours of remastered music.",
+        "detailed_description": "<h1>Steam Workshop</h1><p>Steam workshop support for User Maps</p><br><h1>About the Game</h1>Command &amp; Conquer and Red Alert defined the RTS genre 25 years ago and are now both fully remastered in 4K by the former Westwood Studios team members at Petroglyph Games. Includes all 3 expansion packs, rebuilt multiplayer, a modernized UI, Map Editor, bonus gallery of unreleased FMV footage, and over 7 hours of legendary remastered music by Frank Klepacki. Welcome back, Commander.<h2 class=\"bb_tag\" ><h2 class=\"bb_tag\" ><strong>New and Remastered Features</strong></h2></h2><ul class=\"bb_ul\"><li><strong>Graphics Switching</strong> — Switch in real-time between legacy and remastered 4K graphics when in solo play.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1213210/extras/fee8b702ca5b7d446dd319a8f03c4d0d.avif?t=1779987581\" width=610 height=342 /></span><br><br></li><li><strong>Bonus Gallery</strong> — Contains over 4 hours of B-roll footage, making-of photos, and unreleased music tracks.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1213210/extras/355ceddae2f74cdbe2588461d0f3f8d7.avif?t=1779987581\" width=610 height=342 /></span><br><br></li><li><strong>Music</strong> — Enjoy over 7 hours of remastered music, including 20 music tracks re-recorded live by original composer Frank Klepacki and the Tiberian Sons.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1213210/extras/27044fdce5f12cd9c29b33760045f553.avif?t=1779987581\" width=610 height=342 /></span><br><br></li><li><strong>Mod Support</strong> — Create, share, and play mods with the Steam Workshop.<br><br></li><li><strong>Cinematics</strong> — Immerse yourself in hours of upscaled full-motion video cinematic footage.<br><br></li><li><strong>Enhanced Sidebar UI</strong> — The fully redesigned Sidebar UI embraces a modern approach with less scrolling.<br><br></li><li><strong>Jukebox</strong> — Customize your entire soundtrack via an enhanced Jukebox with playlist support.<br><br></li><li><strong>Custom Game Lobbies</strong> — Host and join custom game lobbies to set game rules, teams, and maps.<br><br></li><li><strong>Rise Through the Ranks</strong> — Go head to head in 1v1 Quickmatches, and fight your way to the top of the Leaderboard.<br><br></li><li><strong>See All the Action</strong> — Don’t miss a minute of combat with Replays and Observer mode.<br><br></li><li><strong>From Console to PC</strong> — Experience the original console missions now on PC.<br><br></li><li><strong>Console Cinematics</strong> — Watch the original console cinematic videos now on PC, featuring community favorite General Carville.<br><br></li><li><strong>Maps</strong> — Take control of the terrain with the Map Editor, available on both Origin and Steam versions.<br><br></li><li><strong>Mission Selection</strong> — Track your campaign progress on the new Mission Selection Screen.<br><br></li><li><strong>Camera Zoom</strong> — Zoom the camera between the legacy DOS and Gold distances for a better look at the battlefield.<br><br></li><li><strong>Skirmish Mode</strong> — Take on the AI — with controllable difficulty settings — in Skirmish mode, new for Tiberian Dawn.<br><br></li><li><strong>Customizable Hotkeys</strong> — In-game Hotkey customization, now with support for the new Sidebar UI.<br><br></li><li><strong>EVA</strong> — Your battle interface sounds better than ever! The original voice-over actress, Kia Huntzinger, reprised her role as EVA and re-recorded her lines in high definition for Tiberian Dawn.<br><br></li><li><strong>Control Improvements</strong> — Enjoy updated mouse controls, camera movement, unit queueing, and selection improvements.</li></ul>     <br>Additional features and content:<br><ul class=\"bb_ul\"><li>Over 100 campaign missions<br></li><li>Over 250 multiplayer maps<br></li><li>In-game tooltips<br></li><li>Accessibility features<br></li><li>Quicksave and Autosave support<br></li><li>Cinematic subtitles for both games<br></li><li>Text localization in French, German, Russian, Spanish, Polish, Simplified Chinese, and Traditional Chinese<br></li><li>Voice-over in English, French, and German</li></ul>The Steam version includes:<br><ul class=\"bb_ul\"><li>Steam achievements<br></li><li>Steam friends lists<br></li><li>Steam Trading Cards<br></li><li>Steam Workshop support for User Maps</li></ul>",
+        "developers": [
+            "Petroglyph",
+            "Lemon Sky Studios"
+        ],
+        "publishers": [
+            "Electronic Arts"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 82,
+            "url": "https://www.metacritic.com/game/pc/command-conquer-remastered-collection?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 31162
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jun 5, 2020"
+        }
+    }
+}

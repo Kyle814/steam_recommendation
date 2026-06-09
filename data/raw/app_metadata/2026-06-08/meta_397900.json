@@ -1,0 +1,143 @@
+{
+    "ingested_at": "2026-06-08T19:58:05.725753",
+    "app_id": "397900",
+    "metadata": {
+        "type": "game",
+        "name": "Business Tour - Board Game with Online Multiplayer(大富翁)",
+        "steam_appid": 397900,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Business Tour is a free-to-play multiplayer tabletop game. Build your own monopoly, play with friends, complete daily tasks, and compete against players from around the world. Easy to learn, fun to master, and perfect for quick matches.",
+        "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/1da67d47b4082b0b0e54f4df0c93d1cc.avif?t=1779635728\" width=640 height=387 /></span><br><br>&quot;Business Tour&quot; simple and entertaining gameplay allows you to come up with many interesting strategies, come to agreements with your rivals and even enter into conspiracies against other players. Apart from that, the game helps you to reveal your inner entrepreneurial qualities. For precisely this reason, children and adults alike can enjoy this game equally.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/e57547e59d0ccb6a00377e4d5c7e1eeb.poster.avif?t=1779635728\" width=640 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/e57547e59d0ccb6a00377e4d5c7e1eeb.webm?t=1779635728\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/e57547e59d0ccb6a00377e4d5c7e1eeb.mp4?t=1779635728\" type=\"video/mp4\"></video></span><br>&quot;Business Tour&quot; allows you to play a classic tabletop game online with your friends. The main advantage of &quot;Business Tour&quot; is that it's easy to learn to play, but that doesn't mean it's easy to win. You'll have to use all your bravery and business acumen to defeat real opponents. Difficulty and unpredictability make the classic table-top game more interesting, and the gameplay more diverse.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/8154b0da0a757c7ef97b451c11c60f9d.avif?t=1779635728\" width=640 height=376 /></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/198fb3a9853d81dfca76bcf33aab7a67.poster.avif?t=1779635728\" width=640 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/198fb3a9853d81dfca76bcf33aab7a67.webm?t=1779635728\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/198fb3a9853d81dfca76bcf33aab7a67.mp4?t=1779635728\" type=\"video/mp4\"></video></span><br><br>Key features:<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/c678df40ebce49290a7f60c1f27dad6e.poster.avif?t=1779635728\" width=640 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/c678df40ebce49290a7f60c1f27dad6e.webm?t=1779635728\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/c678df40ebce49290a7f60c1f27dad6e.mp4?t=1779635728\" type=\"video/mp4\"></video></span><br><ul class=\"bb_ul\"><li> Online multiplayer mode, 2-4 players<br></li><li> Online 2x2 mode <br></li><li> Offline mode with bots<br></li><li> Offline playing with others via one or more screens<br></li><li> Invite friends to play at the same table<br></li><li> Leaderboards<br></li><li> Tournament mode</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/31a93240794324f6ba76540e61af3a2f.poster.avif?t=1779635728\" width=640 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/31a93240794324f6ba76540e61af3a2f.webm?t=1779635728\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/extras/31a93240794324f6ba76540e61af3a2f.mp4?t=1779635728\" type=\"video/mp4\"></video></span>",
+        "developers": [
+            "8Floor"
+        ],
+        "publishers": [
+            "8Floor"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 39,
+                "description": "Shared/Split Screen Co-op"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 25,
+                "description": "Steam Leaderboards"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jul 27, 2017"
+        }
+    }
+}

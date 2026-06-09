@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T19:12:15.630313",
+    "app_id": "1144200",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "225123337",
+            "steam_id": "76561199163152500",
+            "playtime_minutes": 5932,
+            "voted_up": false,
+            "votes_up": 455,
+            "weighted_score": 0.837581992149353,
+            "steam_purchase": true,
+            "review_text": "The Game on itself is a ♥♥♥♥♥♥♥ masterpiece. But the Developers would rather roll out another 10€ DLC than making the AI better, which is absolutely ♥♥♥♥♥♥♥ ♥♥♥♥♥♥♥ and a pain in the ass to use."
+        },
+        {
+            "review_id": "226777707",
+            "steam_id": "76561198331770079",
+            "playtime_minutes": 7376,
+            "voted_up": true,
+            "votes_up": 34,
+            "weighted_score": 0.7614749073982239,
+            "steam_purchase": true,
+            "review_text": "Ready or Not isn't a bad game. It's simply not the game it claims or wants to be. Originally intended as a spiritual successor to SWAT 4 (which you can find on GoG for cheap, I highly recommend it), RoN boasts sleek and modern graphics, on an up to date engine with solid gunplay, and a host of new features. While I really do enjoy it, it is simply flawed and frustrating and here's a couple of the core reasons why;\n\nEnemy AI is not very good, and tends to begin manuevering like a prime boxer and magdumping the player with inhuman accuracy, regardless of the situation or their background. Furthermore, they don't often give up, and it feels like it's simply down to chance rather than a reaction to immediate threats and figth or flight as it is in SWAT 4. Less than lethal means are available, but unless you are aiming to S Rank a level, which requires taking every suspect alive, they're a poor choice as they are only a mild suggestion to the enemy AI and suck for managing multiple threats. This shooting gallery approach is also reflected in the scoring, where an itchy trigger finger isn't at all punished as long as you yell \"Police\" beforehand and the target isn't someone who needs to be brought alive. In SWAT 4 on the Normal difficulty setting, even a couple of dead suspects might actually cost you the level, making every decision to open fire mean something and bear potential consequences. If simply shooting capable enemies was all I wanted, there are better games for that out there, and considering that this interacton with suspects is the core game loop, it's a pretty shoddy one and weighs the rest of the game down.\n\nAtmosphere and environmental storytelling are quite well done in Ready or Not, presenting to the player a fictional Los Angeles on the verge of chaos. But the key moments that complete the image of a horrfying and grim reality are flawed to say the least, relying upon scale and severity. These moments were memorable, and many people who played it will attest to this, at least until the 1.0 update stripped these moment of even the grisly detail which facilitated that intial shock, turning them into simply a marker that this might be important evidence. SWAT 4 handles this a lot better, building dread and discomfort a lot more subtly until revealing its play, and also doesn't fall into the trap of trying to tie all of its levels together in one big plot. Again, scale holds RoN back because it starts to become cliche and unbelievable, the DLCs in particular are proof enough of this.\n\nUltimately the worst injustice in my opinion is the constant breaking of mods. For a game that has only limited levels and weapons, even with DLC included, community content greatly increases the enjoyment and longievity of the game. And there was a great number of great mods. But with every major update, most mods are broken, and only a few creators bother to update them. While this is apparently a result of the engine's limitations, it's still criminal and is no doubt a bar to entry for many because making a mod for a game that's garunteed to break it sooner or later would probably feel like a wasted effort. I will sadly never again get to clear a Boeing 747 full of hijackers with no equipment but a TLE1911, flashbangs, and a buddy who brought only a revolver. That was one of the highs of this game for me, and now it's lost to time.\n\nThere are many things I probably forgot to include in this review but it's gone on long enough. Ultimately, I would recommend Ready or Not if you can get it on sale and are willing to put up with the AI being frustratingly braindead. Until at least that changes though, and I do really hope it changes, it will remain a middling 6/10 in my books."
+        },
+        {
+            "review_id": "225644787",
+            "steam_id": "76561197989184203",
+            "playtime_minutes": 5424,
+            "voted_up": true,
+            "votes_up": 43,
+            "weighted_score": 0.7095983624458313,
+            "steam_purchase": true,
+            "review_text": "Went from 2-4 maps and guns to real AAA game \r\nCrazy dev progress and still no microtransactions. Big W."
+        },
+        {
+            "review_id": "226712268",
+            "steam_id": "76561199057988608",
+            "playtime_minutes": 755,
+            "voted_up": true,
+            "votes_up": 21,
+            "weighted_score": 0.6393969655036926,
+            "steam_purchase": true,
+            "review_text": "Walk into door, get seen, run away, send swat team in to deal with it for me, all die, I'm left with nothing but rising music and random yells, I close the game, 10/10"
+        },
+        {
+            "review_id": "226629531",
+            "steam_id": "76561199478214825",
+            "playtime_minutes": 1553,
+            "voted_up": false,
+            "votes_up": 33,
+            "weighted_score": 0.6295216679573059,
+            "steam_purchase": true,
+            "review_text": "How to ruin a great title in a few easy steps:\n\n1) remove support for most of your widely used mods.\n2) make it debilitating to play multiplayer with just one friend. (While also making it unrealistic, because we all know ONLY two swat officers are going into a major mass shooting incident by themselves....)\n3) censor your game\n4) raise the price of said game after delivering buggy, low-tier DLCs, and failing to optimize the AI.\n5) congratulations you've just earned yourself a bad reputation, and a negative review!"
+        },
+        {
+            "review_id": "226301633",
+            "steam_id": "76561198824539031",
+            "playtime_minutes": 887,
+            "voted_up": false,
+            "votes_up": 11,
+            "weighted_score": 0.5895649194717407,
+            "steam_purchase": true,
+            "review_text": "[h1]I cannot recommend Ready or Not at its current state, even though I really wanted to.[/h1]\n\nThe core issues consist of performance, AI behaviour and level design.\n\n[h2]Performance[/h2]\nThe game can run at stable 144 FPS in the police HQ. However, load any level and it drops significantly, especially during shootouts. I consider this a core issue because being able to react and make split-second decision in a tactical SWAT game is vital for the experience. It is notable to add that you can turn DLSS on but in this game, this impacts your ability to see clearly as many areas are poorly lit and any shadows caused by your flashlight are grainy. \n\n[h2]AI behaviour[/h2]\nReady or Not advertises itself on realism and immersion. NPC encounters in this game fail to deliver on both. Enemies can shoot through walls and they never miss. It's comical sometimes seeing a trained SWAT operative miss all shots because of the random weapon sway and recoil, but the untrained suspect hits every shot and never panics. Civillians are not any better. I understand that civillians are unpredictable and there are people who will not comply with police, making things even harder. However, making every single NPC disobey orders is laughable. Imagine being surrounded by 5 people pointing rifles at you, and you deside it's a good idea to call them words and not comply. Every interaction is like this: You order NPCs to get their hands up and go on the ground and keep doing so at least 5 times, sometimes to no avail. Then you have to go to them and put cuffs on them, but that usually involves getting shot. So, you just have to leave them be for a bit and hope they don't draw a gun.\n\nThe last encounter I tried was the cherry on top. A suspect took a civillian hostage and tried to kill them. I was fortunate to be behind him, while my squad was distracting with suppressing fire. I assessed by his motions that he wanted to pull the trigger, so I shot him in the leg. It registered, there was a red dot of blood on his leg, however the NPC did not move. It disconnected with the hostage, then it took them again, while that was happening, I kept shooting, but no dice. He pressed the trigger, killed the civillian, and then died. This happened at the beginning of the mission, which means I might as well not play the rest, as I can't get a high rating and squad's anxiaty would increase.\n\n[h2]Level Design[/h2]\nIt starts really promising and then drops off a cliff. After the tutorial, the first mission is the 4U Gas Station, which is compact, and feels like a set of doors you have to clear and try to anticipate enemies. It's when the game shines most. However, later levels rely on more open spaces and more complex environments, which in theory sounds amazing, but they just don't work in this type of game. Not when enemies are snipers and you can barely aim 10 metres ahead. Not when your team never moves forward, so you are the only oone getting shot. You can't clear a room if you don't have a room to clear.\n\n[h2]Updates[/h2]\nThey arrive avery few months or so, and they always address AI behaviour in some way, but in gameplay, it never feels any different. They censored some encounters along the way and, despite downgrading the graphics a bit, the game still runs poorly.\n\n[h2]TLDR;[/h2]\nThe closest thing to great games such as Rainbow Six: Vegas and SWAT 4, but it fails to deliver on the tense encounters and tough choices it needs to provide, in order to be an excellent game. If you like games that run smoothly, packeed with AI that feels believable, and meaningful updates, then you might want to skip this one for now."
+        },
+        {
+            "review_id": "226918206",
+            "steam_id": "76561198036966421",
+            "playtime_minutes": 6473,
+            "voted_up": false,
+            "votes_up": 8,
+            "weighted_score": 0.5867606401443481,
+            "steam_purchase": true,
+            "review_text": "I held off on my judgement until after I played with the \"Big Update\" that lead to a lot of division among the player base. First off I will tell you that I bought this game since it was Early Access so I've been around for ALOT of the jankiness, bugs and crashes that came with the game since then. When I first bought it, I was hoping that this would be the next Rainbow Six: Vegas or any of the old SOCOM games but its falls extremely short of that.\n\nThe suspect and SWAT AI has always been a mess but since the update before the big one it has been one huge pile of dog manure. Here are some hightlights:\n-Suspects have aimbot and wallhax, they can hear a pin drop from 5 rooms over so don't expect to get much of a drop on anyone unless the randomizer allows one or two suspects on one particular level to be dumb as bricks, which is rare. \n-Suspects at times will be aiming into a wall or even aiming in the complete opposite direction from you, take a shot and the bullet will magically find its way into your chest. \n-Suspects have no recoil on their weapons no matter what gun they are holding, they will put rounds into you and your officers with the precision of a well trained soldier, be it meth-head or paramilitary. The brightside is that they no longer go for headshots as much as they used to, so there's that.\n-Depending on the level (I'm looking at you Elephant) suspects will take hostages and will at times kill them within 1-2 minutes of hearing a commotion, killing your S tier runs pretty quick. This wouldn't be a problem if you could move quick but your character and officers are morbidly obese and move at a snails pace.\n-Assume all suspects are CQC experts, they will push you upon hearing a reload, grenade pin pull or you bandaging behind cover and will also hear you stacking a door only to open it and at the very least kill one of your officers. This mostly has to do with the fact that your and your officers guns are pointed up when getting close to a solid object, makes sense but the game treats suspects in the same way and thus you cannot fire properly. This rule does not apply to suspects and they WILL abuse this.\n-Suspects use guerilla tactics very well(gun and run): This is actually a very cool thing IMO but the fact that suspects can see you through the SMALLEST of openings as well as shoot extremely accurately while rushing, getting into cover or running to reposition make this mechanic not as cool as it's just another way the suspect AI abuses to take you out.\n-While suspects can go on full on sprints and rush to cover, you cannot. It wouldn't be \"tactical\" for an officer to get into cover on the off chance they were caught off guard so you are forced to waddle to cover in the hopes that the suspect doesn't dump a whole mag into your face.\n-Windows are 1 way mirrors: On a lot of levels every window looks like it has frosting on it when you're looking from the outside-in but you can see clear as day from the inside-out, you can get around this on nighttime levels by using NODS but other than that Suspect's will take full advantage of this and light you up from any window.\n-Suspects can shoot VERY accurately if you're behind solid cover if they \"discover\" you, they will unleash their whole mag into the wall you're behind and will more often than not hit or kill you because of it. Attempts to do the same to them fail more often than not because of some enemies \"Gun and Run\" personalities. \n-Officers are dumb as bricks if their AI decides to break they will literally stand in a doorway and get lit up by suspects until dead\n-If you bring \"Order to chaos\" and secure all civilians and send your team to collect scattered evidence, there is a good chance their AI also breaks and they will stand around doing nothing.\n-At times Officers will not go through orders once you have them queued and executed \n-In large rooms, it is ABSOLUTELY necessary to use your officers and coordinate attacks on it. The thing is that the suspects have been to the shooting range and your officers have not, so expect your officers to miss more often than the suspects and stand around shooting at a solid brick wall where they last saw the suspect or has his head peeking out slightly, but they will never go for a headshot unless the suspect is fully out from cover.\n-Officers can and WILL throw flashbangs, stingers and gas at the threshold of a doorway and not at the center of a room, I've seen them do this multiple times and every it's gotten me killed or my officers killed on multiple occasions as they willfully handicap themselves for the suspect\n-Situational awareness: Suspects can tell when a player is looking at them and will turn around to light you up on the drop of a dime. Officers will stand around, feel bullets strike their armor and politely allow the suspect to dump a whole mag in them until they either die or turn around to respond. Though sometimes they will notice a suspect looking at them but its a REAL crapshoot. \n-If a suspect runs up on your officers from a corner or burst through a door, the likely result will be that at least one of your officers will be dead by the end of the exchange.\n-If doing S tier runs non-lethals work very well or they become nerf guns, there is no in between.\n-Schrodinger's Gun: Both lethal and non-lethal, I've had rounds disappear from existence even when I get the rare chance of getting the drop on a suspect. At first I thought it had to do with suspects wearing armor but even aiming for headshots, it happens quite a bit.\n-If your Player-Officer dies it's an instant restart, your officers will NOT complete the mission. They will either go braindead then and there or will start clearing rooms only for them to turn into vegetables while clearing a room.\n-While suspects have the eyes of a hawk, spotting players and officers from golfball size holes on the map do not expect your officers to have the same ability. I've seen firefights from their cams where a suspect has hidden behind a statue (A New America) with their upper torso completely exposed but to the officer AI he may as well have been standing behind a solid brick wall.\n-Removal of hidden suspects and civilians: Honestly was a very cool concept and definitely made things more tense as you REALLY had to make sure rooms were cleared. The traphouse levels were definitely more terrifying because of it. But that's been done away with now, now you have civvies \"hiding\" in corners out in the open.\n\nHonestly, very disappointing. No idea why this game is currently \"Very Positive\" in recent reviews, anyone that's played it since Early Access will tell you that this is a marked downgrade from the initial vision of the game in a pretty package. Couple the MAJOR gameplay issues with the very clear graphics downgrade(every NPC or suspect looks like they had their faces buttered and have recently gotten hair plugs) and levels that look like they came out of a PS3 FPS, sterilizing \"controversial\" things that made this game have a gritty story as well as the DLC that sells you the rest of the story that should have been in the base game and the way the devs have been regulating mods to stop people from restoring certain aspects of the game? Well it all adds up to make a very mediocre game. If you want to buy it for a laugh with your buddies you'll have fun but its definitely not worth the current $50 price tag (+30 for DLCs), even $20 seems expensive for the game as it stands now. The only thing I'm thankful for is that I got it before the price hike to $50 for the base game and I got my moneys worth before VOID sanitized, broke and dumbed everything down. I almost prefer the buggy mess it was before instead of the bait and switch everyone got.\n\nTL;DR: Do not buy unless on deep discount (For Reference: The game was $25 on Early Access) or if the devs ever get around to fixing their miserable AI, glaring gameplay problems and sterilizing their product for profit."
+        },
+        {
+            "review_id": "226159575",
+            "steam_id": "76561198057033488",
+            "playtime_minutes": 4389,
+            "voted_up": true,
+            "votes_up": 7,
+            "weighted_score": 0.5673351883888245,
+            "steam_purchase": true,
+            "review_text": "For the first few hours once you get the hang of the commands, it's going to feel quite repetitive. The best way I would describe this game is Puzzle / Strategy game disguised as a Tactical Shooter. The game forces you to slow down and do proper clearing as you can't just go in guns blazing and wipe the entire floor as there are civilians. The AIs in this game even in Standard mode can feel very oppressing. I've read in a few groups that certain map AIs need to be nerfed. The multiplayer mode seems dead as well even when I tick all regions I don't seem to pick up any matches. I aimed and completed S Rank on all base maps and it was brutal for me as I had to take an entire day to get S rank on certain maps. If you're looking for a challenging solo shooter game, this is it."
+        },
+        {
+            "review_id": "225104296",
+            "steam_id": "76561199006739572",
+            "playtime_minutes": 3587,
+            "voted_up": false,
+            "votes_up": 7,
+            "weighted_score": 0.5625646114349365,
+            "steam_purchase": true,
+            "review_text": "Not disclosing AI-generated asset usage in spite of Steam's new terms REQUIRING developers to disclose AI. This is one of VOID's many decisions when crafting this game's facade; looking great on the outside and misleading until you buy and play the game. The civilian, cop, and suspect AI are also horrible and haven't been fixed, rather, VOID has chosen to lobotomize them further. I can recommend the game if you want a decent tactical SWAT experience with very well designed maps (save for the use of AI in some). The game is at its base good, but woefully flawed in many areas. As soon as you've finished the levels and tried some S ranks or achievements you'll realize how frustrating it is once the novelty of its shiny exterior has stripped away. Do not expect that any of these issues will ever be fixed, VOID has made themselves clear focusing on DLC rather than improving the game. I should not see slop, AI generated posters and possibly 3d models all over the place in only the second level, peppered with blatant AI, in a game that costs $40."
+        },
+        {
+            "review_id": "226841912",
+            "steam_id": "76561198345982700",
+            "playtime_minutes": 35393,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5460500121116638,
+            "steam_purchase": true,
+            "review_text": "After playing this game for 500+ hours. I've seen that the devs are really lazy to fix their suspect AI. patch after patch are getting harder to play I had to use mods to modify the AI. it's just embarrassing for the devs to make a really good game but gave the players wallhacking aimbot AI for us to play with. it just lack balances. Pistols feels like they're shooting peas it didn't even stunt suspects like they used to in the previous patch anymore. overall it's playable and fun but really frustrating to play, even with friends.\n\nps. \ncivilian bots are incredibly dumb, why would anyone in any situations stand against the police that has a 5.56 rifle pointed at their face? not only that some of them even ran into the crossfire. Basically -200 point, gone. And why do some of them that wear bomb vests doesn't just sat down surrendered like the rest of the NPC, we need to disable the bomb first, then they'll sat down, it's just stupid. (NPC Behaviors like this got updated to stand and wait for you to disable the bomb first before surrendering is because of \"All gods burn\" mission in boiling point update, because of the protestors NPC.) \n\npepperballs launchers are ♥♥♥♥ like usual BUT\n\nBeanbag shotgun SHOULD guarantee 1 hit stunt. but NO devs thought it would be better to just make suspect tank 3-4 shots of beanbag unfazed while running and shooting at players."
+        },
+        {
+            "review_id": "227014504",
+            "steam_id": "76561198100009515",
+            "playtime_minutes": 7435,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5460351705551147,
+            "steam_purchase": true,
+            "review_text": "VOID's use of AI art without warning to the user on the Steam page is unacceptable.\nThe AI is broken to the point that your canonically heavily trained SWAT element cannot seem to figure out how to walk through an open door.\nMeanwhile, in hard mode, the enemy will proceed to perfectly track you and blast you through walls, have a 0.05 sec reaction time (literally, as per in the game files), an accuracy that would make even the most dedicated and experienced marksmen feel jealous, and tap you through pixel gaps so tight that it'd make every counter strike professional ♥♥♥♥ their pants.\nMost achievements are vague in what counts as a \"clear\", so much so that to this day a lot of what counts as a clear is treated as much of a myth as the Big Foot himself back in 2012 - not to mention that the big majority of them are genuinely glitched and broken in some way.\nProgrammed Psychosis, the hardest achievement in the game, is also not actually created to be obtained under these conditions, but to drive the player insane. That is where it obtains its name from.\n\nI bought this game before I knew about its generative AI use, and stopped playing after 2h. A good few months after I decided to open up the game to achievement hunt, only to waste 100+ hours of my life falling victim to the sunken cost fallacy while I hoped to God there would be some way to easily get the last achievement just so I could never play this dog water trash game ever again in my life.\n\nYes, I am a masochist. Yes, I have spent 124 hours at the time of this review. Yes, I will probably invest 60 more hours into this ♥♥♥♥♥♥♥♥ before quitting it for good, but ♥♥♥♥♥♥♥♥♥♥♥ once I get the 100% I will never touch this again.\n... Unless they add more achievements.\nWhich they will, when they add another AI generated slop-fest of a 10€ DLC for 3 more generic missions.\n\nIf you want a SWAT sim, play SWAT 4."
+        },
+        {
+            "review_id": "225590151",
+            "steam_id": "76561198136302721",
+            "playtime_minutes": 2786,
+            "voted_up": true,
+            "votes_up": 5,
+            "weighted_score": 0.5433647036552429,
+            "steam_purchase": true,
+            "review_text": "absolute banger game, just few patches for AI and u will get a perfect game"
+        },
+        {
+            "review_id": "225210667",
+            "steam_id": "76561197966973461",
+            "playtime_minutes": 494,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5403295755386353,
+            "steam_purchase": true,
+            "review_text": "I waited for this game to come out of early access and bought it immediately when 1.0 released. The hype online before the 1.0 release had me expecting a dark atmospheric tactical police sim in horror inspired environments that tell you a dark twisted story of the crime scene as you clear out each room.\n\nBut ever since 1.0 I've never been able to enjoy this game without constant micro stuttering and other stability issues. I decided to patiently wait for these issues to be fixed and never saw improvement. I now have a way better PC and every now and then I launched this game to see if the micro stuttering has improved at all and last time I checked, it had not. In fact the game only became a bigger disappointment over time when developers decided to censor the dark content in the game, removing some of that dark environmental story telling content I was expecting.\n\nThis game has been nothing but a disappointment as time has gone on. Don't be like me, don't be disappointed. Don't buy this game."
+        },
+        {
+            "review_id": "226615906",
+            "steam_id": "76561198011388079",
+            "playtime_minutes": 26642,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5384615659713745,
+            "steam_purchase": true,
+            "review_text": "The game would be decent if the Ai (the core element of a tactical shooter) wasn't egregious."
+        },
+        {
+            "review_id": "225531671",
+            "steam_id": "76561199870604018",
+            "playtime_minutes": 13487,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5354411005973816,
+            "steam_purchase": true,
+            "review_text": "This game quickly became my most played game. Crossplay with Epic works great. Definitely a Adult horror shooter."
+        },
+        {
+            "review_id": "225238988",
+            "steam_id": "76561199217592382",
+            "playtime_minutes": 11655,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5275334119796753,
+            "steam_purchase": true,
+            "review_text": "Void has been consistently neglecting the game as of Now, making both the enemy and team AI run to ♥♥♥♥. It would be nice to play Greased Palms without having an enemy AI glitch out and refuse to surrender, ruining an Ironman run"
+        },
+        {
+            "review_id": "227027371",
+            "steam_id": "76561199869333834",
+            "playtime_minutes": 33794,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5259481072425842,
+            "steam_purchase": true,
+            "review_text": "2 Things. I dont know what was changed in the most recent update but get rid of this unrealistic john wick AI. It makes no sense realistically and it makes the game unenjoyable when you want to play more casual and not have to take the game overly serious every run. It was fine before the new DLC update. And 2,  make civilians realistically compliant especially on valley of the dolls. Civilians charging up on you every 2 seconds gets so annoying. There are so many good things about this game I enjoy but with the AI being the most important component, it makes a lot of sessions annoying."
+        },
+        {
+            "review_id": "227353446",
+            "steam_id": "76561199802391006",
+            "playtime_minutes": 1217,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Very good game. Love using the less lethal weapons since they are satisfying to shoot with. \r\nI average around 50 fps with my specs but its a high quality game so it still looks smooth.\r\nI bought this when it was 50 procent off and it is worth every single penny even if it was not on sale.\r\nThe game is about being a SWAT with your friends or with 4 AIs and your objective is to clear buildings that are being attacked by terrorists or sum shi and keep in mind that you have to have good tactics and skill for this game, especially on the later levels.\r\n\r\n11/10 this is the first game im showing my kids."
+        },
+        {
+            "review_id": "227242936",
+            "steam_id": "76561199246264722",
+            "playtime_minutes": 936,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "As far as I've played, Ready or Not is an amazing tactical shooter. It's rewarding when things go right and brutally punishing when they don't, which is exactly what I want from a game focused on realistic SWAT operations.\n\nThe gameplay can become repetitive at times—after all, you're essentially carrying out police raids over and over—but the variety of maps, suspects, and mission scenarios keeps things interesting. The game truly shines in multiplayer. Playing with friends or even random players adds a whole new level of coordination and immersion.\n\nOne of my favorite features is the voice chat system. When you're close to teammates, you communicate normally, but when they're farther away, you switch to radio communication. It's a small detail that adds a lot to the realism.\n\nThe graphics are excellent, and the character customization is surprisingly deep. There's a good selection of weapons, attachments, and tactical equipment, allowing you to tailor your loadout to your playstyle. Despite running on Unreal Engine, which can sometimes be demanding, the game performs surprisingly well on my RTX 5060 Laptop GPU at 1440p with Epic settings. The install size is also impressively small considering the visual quality, number of maps, and DLC content available.\n\nThat said, the optimization could still be better. Some levels suffer from occasional performance drops, and there are areas where the environment feels a little empty. Fortunately, the developers do a good job of keeping your focus on the mission, so it rarely affects the overall experience.\n\nThe mission lore and environmental storytelling are also underrated. Many locations tell disturbing stories through their design, making each operation feel more meaningful than simply clearing rooms and arresting suspects.\n\nMy biggest criticism would be some of the animations. Actions such as lockpicking or opening doors from a distance can feel somewhat basic compared to the incredible level of detail found elsewhere in the game. More realistic interactions would have been nice, though I understand that would likely come at the cost of additional development time, storage space, and performance.\n\nThe gunplay is excellent. Weapons feel powerful, realistic, and satisfying to use. Every shot matters, and careless play is heavily punished. The AI can occasionally make questionable decisions, but there are mods available that improve many aspects of the experience. The downside is that using gameplay-altering mods often means your scores and rankings become unofficial.\n\nOverall, Ready or Not is one of the best tactical shooters available today. It combines realistic gunplay, immersive communication systems, detailed maps, and tense missions into an experience that rewards teamwork and patience. It isn't perfect, but if you're looking for a modern SWAT simulator, this game is an easy recommendation."
+        },
+        {
+            "review_id": "227152734",
+            "steam_id": "76561198151914887",
+            "playtime_minutes": 333,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "I remember playing SWAT 4 In Childhood with my friend from different country. We were laughing a lot if we happened  friendly fire each other.\nNow this game give me new vibes.\n -The Briefing Function is much more entertaining for \n -Customization is amazing.\n -Me and my Best Friend died by laugh for friendly fire each other again.\n -The Difficult is interesting, Especially Hardcore one gonna be so much fun.\n-Sometimes it has spooky places \n\nBut would be amazing if this game had more Maps, Custom Missions for playing it further more.\nI may buy it's DLC while the discounts are active but I don't know if it would be enough. I just completed it with my friend Half of All Missions there. \n \nEnjoyable Game."
+        },
+        {
+            "review_id": "227119311",
+            "steam_id": "76561198178048513",
+            "playtime_minutes": 18727,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "At one point this game was really good, then they changed the AI or something and now its just meh"
+        },
+        {
+            "review_id": "227106924",
+            "steam_id": "76561199096402876",
+            "playtime_minutes": 2654,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "I love every single detail about this game, the fact they engrain lore into every single map and connect them together so well just amazes me."
+        },
+        {
+            "review_id": "227051937",
+            "steam_id": "76561199219816016",
+            "playtime_minutes": 2515,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "\n---{ Graphics }---\n☐ You forget what reality is\n☑ Beautiful\n☐ Good\n☐ Decent\n☐ Bad\n☐ Don‘t look too long at it\n☐ MS-DOS\n\n---{ Gameplay }---\n☐ Very good\n☑ Good\n☐ It's just gameplay\n☐ Mehh\n☐ Watch paint dry instead\n☐ Just don't\n\n---{ Audio }---\n☐ Eargasm\n☐ Very good\n☑ Good\n☐ Not too bad\n☐ Bad\n☐ I'm now deaf\n\n---{ Audience }---\n☐ Kids\n☑ Teens\n☑ Adults\n☐ Grandma\n\n---{ PC Requirements }---\n☐ Check if you can run paint\n☐ Potato\n☐ Decent\n☑ Fast\n☐ Rich boi\n☐ Ask NASA if they have a spare computer\n\n---{ Game Size }---\n☐ Floppy Disk\n☐ Old Fashioned\n☑ Workable\n☐ Big\n☐ Will eat 15% of your 1TB hard drive\n☐ You will want an entire hard drive to hold it\n☐ You will need to invest in a black hole to hold all the data\n\n---{ Difficulty }---\n☐ Just press 'W'\n☐ Easy\n☐ Easy to learn / Hard to master\n☑ Significant brain usage\n☐ Difficult\n☐ Dark Souls\n\n---{ AI }---\n☐ Unplayable\n☑ AI is overpowered\n☐ Minor bugs, but it's workable\n☐ Reasonable\n☐ Rare\n☐ What's a bug?\n\n---{ Story }---\n☐ No Story\n☐ Some lore\n☐ Average\n☐ Good\n☐ Lovely\n☑ It'll replace your life\n\n---{ Game Time }---\n☐ Long enough for a cup of coffee\n☐ Short\n☑ Average\n☐ Long\n☐ To infinity and beyond\n\n---{ Price }---\n☐ It's free!\n☐ Worth the price\n☑ If it's on sale\n☐ If u have some spare money left\n☐ Not recommended\n☐ You could also just burn your money\n\n---{ Bugs }---\n☐ Never heard of\n☐ Minor bugs\n☑ Can get annoying\n☐ ARK: Survival Evolved\n☐ The game itself is a big terrarium for bugs\n\n---{ ? / 10 }---\n☐ 1\n☐ 2\n☐ 3\n☐ 4\n☐ 5\n☐ 6\n☐ 7\n☑ 8\n☐ 9\n☐ 10\n"
+        },
+        {
+            "review_id": "227048558",
+            "steam_id": "76561198420513814",
+            "playtime_minutes": 7353,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Ready or Not is one of the most immersive tactical shooters with some of the best gun sounds in the genre. Weapons feel powerful, and the suppression and stopping power make firefights feel intense and realistic. The game also offers decent character and weapon customization, a good variety of maps, and even a surprisingly solid story.\n\nOne interesting design choice is the lack of sprinting. It forces players to think carefully about positioning and movement, but it can also feel frustrating and unrealistic at times when you need to move quickly.\n\nPerformance is generally very good. However, the integrated mod repository can be buggy, especially after updates, which unfortunately have become less frequent since the 1.0 release.\n \n7/10"
+        },
+        {
+            "review_id": "226957660",
+            "steam_id": "76561198033683913",
+            "playtime_minutes": 768,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Game crashes, your interface can just dissapear so u have to exit to main menu to fix it, no open mic for NO REASON and works only when playing with gamepad, weapon attachmens dissapear randomly, bots with aimbot and wallhacks, shield on your back saves you from bullets, most weapons are the same with the same 5 attachments, your charactes customisation breaks his arms sometimes. And you also need to spend like 5 seconds around every kill u do to get more points FOR NO REASON AGAIN, u can even do that after u cleared the whole mission, so u just walk and \"collect\" every body and every weapon they dropped. The game just feels unfinished and in \"Beta\" stage like Tarkov but somehow feels even worse."
+        },
+        {
+            "review_id": "226901171",
+            "steam_id": "76561198072504934",
+            "playtime_minutes": 207,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Sergeant Retrack \"Big Man\" Five kicked open the door with a splintering crunch. This was a seasoned operative in full kit, including full-coverage, heavy body armor and a gas mask. Raising a tactical shotgun loaded with lead slugs, he aimed it directly at civilian Rachel D'Agosta's head.\r\n\r\n\"POLICE, SHOW ME YOUR HANDS!\"\r\n\r\nThe lieutenant paused the bodycam footage.\r\n\r\n\"In a crisis, often one's most basic temperament will come to the fore. Many in D'Agosta's situation would have frozen, run away, or perhaps complied. But members of her community, when later interviewed, identified her as a stubborn individual who had a natural hatred of authority figures.\"\r\n\r\n\"Sergeant Retrack 'Big Man' Five was identified by his peers as a patient man who understood the minds of people who were not trained for a combat situation. However, as you saw, just forty five seconds earlier he had been struck by five 5.56 rounds from a suspect's submachine gun. Against all odds, 'Big Man' kept his feet and managed to put a slug through the suspect's unarmored right calf. As his duo, Isvus 'Flashbang' Wright, called orders to another suspect across the room to put down his weapon, Sergeant Five's priorities were to secure his side of the fatal funnel as quickly as possible and assist his teammate.\"\r\n\r\n\"Keep this in mind as we view the rest of the footage.\"\r\n\r\nThe Lieutenant rewound the footage five seconds.\r\n\r\n\"POLICE! SHOW ME YOUR HANDS!\"\r\n\r\n\"Make me, ♥♥♥♥♥♥♥♥♥♥♥♥!\"\r\n\r\n[b]BOOM--[/b]\r\n\r\nThe Lieutenant paused the footage. again, freezing an unintelligibly blurred frame of gray and brown.\r\n\r\n\"Now,\" the Lieutenant said. \"Sergeant Five did claim correctly that the civilian told him to make her surrender. However, this did not hold up in court. This is a classic example of getting tunnel vision. This could all easily happen to you. Any questions?\"\r\n\r\nCorporal Gregory Judge raised his hand. \"What happened to Isvus Wright?\"\r\n\r\nThe Lieutenant inclined his head. \"That brings me to the Nguyen Family incident.\""
+        },
+        {
+            "review_id": "226888419",
+            "steam_id": "76561199759477495",
+            "playtime_minutes": 4403,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Good game and i wish they will add more language's in the future so everyone can get the full experience"
+        },
+        {
+            "review_id": "226732774",
+            "steam_id": "76561198823278024",
+            "playtime_minutes": 11350,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "This game is great but don't be fooled by my positive review. If you are planning on buying the game and want to play it solo. Just look somewhere else it is not worth it. If you're still adamant on it, take a group of homeless people hostage or something. Do LITERALLY anything to avoid having to babysit the SWAT ai unless you like the idea of a SWAT themed visual novel that hasn't implemented dialogue autoplay.\r\n\r\n(taking in account that \"better with friends\" means you like your friends)\r\nWith friends you can at the very least communicate to each other effectively, and usually can rely on them to watch your back or execute a plan. Relying on the SWAT ai however, is completely boolean. If you try to rely on them halfway it will just not work out. They either require full attention to perform well, and even then sometimes their pathfinding will have a stroke, so one guy runs off and goes on a killing spree just to enter a hallway from the other side. Or you will relent and just have them fall in behind you. Either you do the mission yourself or you play a set of context menus.\r\n(From memory the pathfinding issue is exclusive to Neon Tomb. I think it happens around the pools? I'm not sure exactly where it can happen but I know it can happen and it can produce amusing results.)\r\n\r\nI rate it positively despite my complaints because overall I've enjoyed the game despite the horrible shortcomings. I dislike the part where the SWAT ai requires me to play the equivalent of some old text based adventure game, I hate how the enemy ai continues to hit fragmovie wallbangs for no reason, And I especially hate how post-op you have to sweep the place like a squad of maids. (At least give us trailers back so we have something interesting to look at) \r\n\r\nBut I very much enjoy the adrenaline rush of the firefights. The firefights truly shine when they catch you completely off guard. But engaging firefights alone do not make the game worth 70$ AUD. Maybe when solo gameplay isn't either instant death upon first contact or staring at context menus for a whole mission with nearly no in between, it might be worth 50$ AUD."
+        },
+        {
+            "review_id": "226723349",
+            "steam_id": "76561198104030456",
+            "playtime_minutes": 28974,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Been playing this game for a while (since late in the alpha) and I'll admit It was only around 50 hours in that I felt I had even a decent grasp of the mechanics and employing and my team and tools under duress. That said, I can't really recommend it. If you're interested in the game maybe look for another tactical shooter. But if you commit, manage your expectations. The squad AI is spotty at best. Even this late into the release and multiple patches they still blast hostages, ignore suspects, put their backs to obvious danger areas, including staring at walls and not reacting to suspect gunfire. Squad commands still glitch out in the most hilarious and frustrating ways. Suspects still achieve consistent wall shots, home in on you like missile on crack, and your squad is pitiful at watching your back. You're pretty much forced to keep you squad attached to your hip at all times just to keep them out of trouble.. and to use then as an all-too-thin veneer of protection against the Terminator-esque AI. Even at early levels, it's a pain in the butt to get them to tackle multiple objectives or movements and sometimes they will swap roles (as in switch team positions,) running across the area to (maybe) carry out your orders. Breaching charges still (as in happened to me 1 hour prior to this review) occasionally attach on the opposite side of a door as you and detonate in your face. Flash bangs and breaching charges remain inconsistent in their effects. Suspects remain immune to the laws of physics, firing unlimited automatic fire from 50-75 meters and not missing a shot with no signs of muzzle rise or bullet spread in sight. Looking at you, 90 pound Midsommar reject wielding an infinite ammo M14 on fully automatic at a full sprint.\r\n\r\nThe hell of it is, I really enjoy this game. Even as I play less multiplayer now, it's remained in my queue for whenever I need to get a quick fix on some tactical, squad-based shooties. And when you nail down the mechanics and tactics it can be a truly rewarding experience. But the problems just sort of compound and damage the overall experience. Now, I just don't want the thing taking up room on my drive anymore.\r\n\r\nOverall, multiplayer is still (possibly) worth it, if you can get reliable teammates. Playing with randos is basically what you'd expect: occasionally leading to some real awesome experiences, the most hilarious hijinks, or literally the most rage-inducing frustration with very little in between.\r\n\r\n"
+        },
+        {
+            "review_id": "226454851",
+            "steam_id": "76561198349636017",
+            "playtime_minutes": 3019,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "I like every aspect of the game except a few things, they need to fix the SWAT AI. They dont act like Swat officers and they cant clear any angles at all and they cant defend themselves at all. Sometimes they wander around by themselves like actual idiots. In terms of bugs, sometimes your commands dont register, so even if you command them multiple times to clear a room, they just stand there and do nothing as if theyre stuck. The singleplayer experience in this game is frustrating, I'd only recommend this if they update their Swat AI so that they can actually clear rooms without killing themselves or if you have any friends to play with. The other thing im a bit bothered by is the censorship but since i used a mod, it didnt take away my experience with the map detail."
+        },
+        {
+            "review_id": "225447638",
+            "steam_id": "76561198041765442",
+            "playtime_minutes": 23875,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Overall good and solid gameplay but lately there has been a massive amount of network issues no matter the region or who you join in quick play, There is more often than not you'll be going through an operation and connection with the entire lobby drops."
+        },
+        {
+            "review_id": "225408142",
+            "steam_id": "76561199212247742",
+            "playtime_minutes": 2745,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Incredible tactical shooter.\nThe ambiance, setting, mechanics are great. Very immersive game.\n\nTrying to master and get your S Ranks for unlockable items is a plus for replayability.\n\nOST is a masterpiece"
+        },
+        {
+            "review_id": "225248166",
+            "steam_id": "76561198406023068",
+            "playtime_minutes": 4964,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "I would not recommend this game to anyone until Void Interactive fixes the AI. The AI has god like aim and on some levels will actually start shooting at the ground trying to aim bot you. Their reaction times on some interactions are so broken that you don't even get a chance to react. It's not simply a \"just react faster forehead\" moment. Good luck trying to flashbang some enemies. Some just like to defy all reason and just not become disoriented when hit by a flashbang or 9 bang, which makes clearing rooms all that more difficult. I want to love the game, but I can't because of how little Void Interactive cares for the game. People have been posting in their discord server telling them that the AI is way overtuned and they need to be brought down a little. Void Interactive's response? Wait. What response? Yeah, not a single word addressing the issue. Please Void Interactive , fix the damn game so we can all stop having our own Programmed Psychosis playing your broken game."
+        },
+        {
+            "review_id": "225135950",
+            "steam_id": "76561199208909342",
+            "playtime_minutes": 2687,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "47 hours and I'm uninstalling because the issues are ruining missions\r\n\r\nTeam AI is horrible. the more you play, the more brain dead you realize they are. uninstalled game after AI disobeyed orders, got themselves killed, wouldn't shoot armed suspects, kept shooting mission critical suspects, had no object perm, would not cover doors, got stuck constantly, cant check for traps, missing shots constantly, flashing themselves, not taking cover, staying still and doing nothing while suspects actively shoot them, dies in one shot, giving fake \"all clear\" calls in a room with enemies still present, pathing completely around a room that I told them to clear through a specific door way, and lastly disobeying orders.\r\n\r\nGame is not worth buying until they fix it"
+        },
+        {
+            "review_id": "226803321",
+            "steam_id": "76561198124626217",
+            "playtime_minutes": 26,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5230104923248291,
+            "steam_purchase": true,
+            "review_text": "I definitely understand why people like this game, but it's not for me.  It's just too slow paced.  I also don't really like stealth games for the same reason.  I don't want to have to peek under every door, slightly open them, look around, then tell my squad to do a bunch of positioning.  I just wanna kick that sucker down and blow something up.\n\nI mean, I know it's supposed to be super realistic, and in some ways it is, I suppose, but if it were actually realistic, I'd be able to run.  It's not like a SWAT officer can only walk -- I'm pretty sure they go through extensive physical tests and training -- and the idea that pointing my gun down makes me walk just slightly faster is kind of silly."
+        },
+        {
+            "review_id": "225805516",
+            "steam_id": "76561198242750386",
+            "playtime_minutes": 4846,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5220270156860352,
+            "steam_purchase": true,
+            "review_text": "Why are people reviewing this game as positive? The Ai is one of the most incompetent non-functioning Mechanics is the game. They constantly get stuck on the walls and entrances of various rooms they proceed to stare at the enemy that is mag dumping them then die. First they sellout for console trash and proceed to censor what made the game great in the first place, then proceed to ignore all the problems like Hard mode bots shooting and pre aiming through walls because they already know where you are at. they need to fix this by adding a way for bots to clear rooms not spring through five dorrways then aimbot you from a mile away. DO BETTER YOU SELLOUTS"
+        },
+        {
+            "review_id": "226800221",
+            "steam_id": "76561199674830049",
+            "playtime_minutes": 282,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "It's highly appreciated how realistic and authentic the developers were trying to achieve in this product, However there is just too many bugs and glitches for it to be called playable, i think they should really focus more on fixed those issues. I'm not encouraging anyone to play this game but i still find it enjoyable, especially with friends, Purchase at your own risk."
+        },
+        {
+            "review_id": "226738633",
+            "steam_id": "76561198984030153",
+            "playtime_minutes": 3522,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "i have nothing but good to say about this game. well designed levels, grounded mechanics, gritty and uncomfortable settings, and a great game to play with friends. it does a really good job at showing what law enforcement has to put up with. i will recommend this game to anyone who likes slow and methodical gameplay that feels rewarding when  planning and coordination works flawlessly in exaction."
+        },
+        {
+            "review_id": "226570434",
+            "steam_id": "76561199562888962",
+            "playtime_minutes": 20,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5213537216186523,
+            "steam_purchase": true,
+            "review_text": "Forces you to use epic games account that barely works if you want to play with friends who cant afford a pc, they banned my epic account before I was in the game every time and support is just a bot who tells you to go to support that your already at. Refunded almost instantly 0/100"
+        },
+        {
+            "review_id": "225781388",
+            "steam_id": "76561198235898246",
+            "playtime_minutes": 6852,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5203189253807068,
+            "steam_purchase": true,
+            "review_text": "Most ♥♥♥♥♥♥♥ coded ai for enemies. Every enemy in every level is just a delta operator. Reaction times quicker than F1 drivers. They can see through the smallest ass cracks in any walls. Running and gunning without consequences. Other then that pretty good game"
+        },
+        {
+            "review_id": "227113496",
+            "steam_id": "76561198699191185",
+            "playtime_minutes": 509,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5199999809265137,
+            "steam_purchase": true,
+            "review_text": "Enjoyable for people who enjoy slow gameplay and adrenaline rush, and raging when you get shot behind you while breaching a door, I dig this game. it is fun especially with buddies."
+        },
+        {
+            "review_id": "227061459",
+            "steam_id": "76561198709211975",
+            "playtime_minutes": 285,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5199999809265137,
+            "steam_purchase": true,
+            "review_text": "genuinly a very amazing first person coop game, my only downside is the ai having extreme aimbot on the hardest dificulty (call it a skill issue but sometimes its unrealistic and insane.)\r\n\r\nother than that? amazing."
+        },
+        {
+            "review_id": "225320999",
+            "steam_id": "76561198028828908",
+            "playtime_minutes": 18790,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5197705030441284,
+            "steam_purchase": true,
+            "review_text": "Love this Game, or Should I say... Loved this game :(  Even though I've only been playing for the last couple years, when I started it was a complete Love Letter to SWAT 4, in fact, back then I was still able to find the majority of the SWAT 4 maps re-created to download through the in-game mods downloads. The Base game was Fantastic, the Original Maps were great, Game had challenge, AI could be un predictable sometimes but you could still take some little time to mirror under a door and plan your attack. I played hours and hours just to get A+ and S ratings to unlock new aesthetics. \n        However, Now, after more Recent 2026 updates, DLC and Changes, I Cannot recommend in this State... \nThe Ai in even the smallest simplest map, say Hunger Strike included with the Los Suenos DLC, the gang thugs just hear a peep of you and They've grabbed Hostages, and within 5 seconds they execute them all, making it hard to finish a map with a better rating. To top it off, if you send your AI team in, the get killed as if they were pulled off the street, given SWAT gear and told to go into the building. The Enemy AI is way too impossible now, and the Friendly AI seems to have been Nerfed Heavily since I started playing a couple years ago.\n      I would HOPE that the Developers would fix these issues, In recent Updates It still appears not. And For God's Sake, get those Damn Lights off their helmets, I could Care less if they are implemented in Multiplayer or Co-op, but for Pete's sakes, not in PVE/Single player, it should be an option. DEVELOPERS, please fix your game that we so much loved, I hate even starting it up now, the broken bits now make me want to Uninstall it."
+        },
+        {
+            "review_id": "226839323",
+            "steam_id": "76561199811469525",
+            "playtime_minutes": 237,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5192307829856873,
+            "steam_purchase": true,
+            "review_text": "runs great rlly realistic the ai is smarter than me...  overall very good"
+        },
+        {
+            "review_id": "226674042",
+            "steam_id": "76561199197848732",
+            "playtime_minutes": 1839,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5192307829856873,
+            "steam_purchase": true,
+            "review_text": "Would recommend this game, really fun if you play with friends. The NPCs do have aim bot."
+        },
+        {
+            "review_id": "225213422",
+            "steam_id": "76561199538769916",
+            "playtime_minutes": 2181,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5192307829856873,
+            "steam_purchase": true,
+            "review_text": "ass game, I spent a full on hour finding the last civ in hide and seek. 0/10, if void intercative sees this fix your game."
+        },
+        {
+            "review_id": "225358130",
+            "steam_id": "76561198053342313",
+            "playtime_minutes": 2982,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5190778970718384,
+            "steam_purchase": true,
+            "review_text": "So, I WANT to recommend this game. But, the problems I have with it are similar to other people's issues, and some hot takes. \r\n\r\n\"A swat simulator like no other!\" They say. \"So much better than Swat 4!\" They say. \r\n\r\nHere's the thing, everything up to Boiling Point is fun. The enemy AI is disgusting, yes. The game has excessive muzzle movement or hit registration. Those are points that a lot of people are making. But, the point I'm making is that they're DOING TOO MUCH! Before it was a cool Swat game with different levels you can play. A campaign came out later that was actually pretty decent even though the friendly AI sucks. But, the problem is Los Suenos has basically becoming Gotham where the SWAT team is playing Bat Man. Boiling point seems interesting. Stopping a terror attack. When you fight this stupid comic book villain who talks to in your ear and looks like a goofy teen titans villain. And not the good teen titans either. Why is that necessary? If you wanted a story, at least make it believable. But, no, let's make some stupid comic book villain that's trying to blow up a bunch of sky scrapers. WHY?! It just isn't believable. It just throws off the entire vibe of the game. And, honestly it's boring. Why not give us, oh I don't know, an entire mission of just riot control? Not some stupid bank robbery where almost everyone is a suspect so there's no real guess work. It moves the game from fighting a wave of organized crime and that one mission dealing with a cult to a B Rated action movie with actors nobodies heard written and directed by a guy who commonly wears a tinfoil hat and liked the 2022 batman film way too much. The ending is also just so similar. \"Ah yes, we've found the real culprit! And, he's somehow jammed our signal yet also at the same time hijacked our comms! He's trying to be all villainy!\"\r\n\r\nThe stupid antagonist says things like:\r\n\r\n\"We know about Blackwood.\" (referencing the initial pier massacre).\"You'll be seeing us again soon.\" \"They are lying to you, Judge. We are the only ones telling you the truth.\" \"The signal interference is just the beginning. Can you hear the city screaming yet?\"\r\n\r\n\"\"Look at you. Still playing your part. Still following the script they wrote for you. You think you're the hero? You’re just a tool. A blunt instrument used to keep a dying world on life support. But the 'authors' of this world... they’ve lost the plot. The ink is dry, Judge. We are the ones who move beyond authorship. We don’t follow the story; we write the end. You’ve seen the truth in the streets. You’ve seen what your 'order' really looks like. It’s chaos wrapped in a badge. I’m offering you a choice. Stop being a character. Start being an author. Drop the gun, walk away from their lies, and see what the world looks like when the mask finally comes off.\"\r\n\r\n\r\nIt's all so stupid. It's campy. Is comical. It's DUMB. Honestly, I was excited for boiling point. And, boiling point ruined the entire game for me."
+        },
+        {
+            "review_id": "225325091",
+            "steam_id": "76561199142692999",
+            "playtime_minutes": 1820,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5190778970718384,
+            "steam_purchase": true,
+            "review_text": "The hard difficulty is genuinely one of the worst gaming experiences ever. I know this game is oldish but ♥♥♥♥♥♥♥♥♥ the enemy ai is some of the worst designed trash out there. There is absolutely zero reliable enemy footstep audio. Oh yea and every time you luck into a solid run, the game deploys one of its various run ending bugs just to make sure you have an awful time. Otherwise fun game."
+        },
+        {
+            "review_id": "227373269",
+            "steam_id": "76561199141026482",
+            "playtime_minutes": 10250,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5180723071098328,
+            "steam_purchase": true,
+            "review_text": "Absolutely love this game but i have a few things to say hoping the devs actually see this review.\r\n\r\nDev's please for the love of god bring back the FULL \"checkin' in mission from early access. as someone that has played this since early access i miss the full maps. sure they took an hour or something to complete. i genuinley have scoured the entire internet hoping to find a mod that brings this map back. no luck.\r\n\r\nsecondly, it would be really cool to see an actual aug platform and not the aug para. more exotic guns from foreign police agencies such as teh FAL, AUG, FAMAS or even a few SMG/PDW extensions. especially the M16A4/3. \r\n\r\nregardless of the yearn i have for the maps that genuinley made me fall inlove with this game i do positivly rate it. like any game there are a few quirks and annoying features like getting stuck on ur teamates and they just saying \"in my way chief\" or accidentally popping a civilian openly running at you and then ur entire team goes \"WHOA WHOA\" and just 4 ai swat members mag dump on you causing you to fail the entire mission. \r\n\r\nits a very fun game with a lot of realistic features and ive put many hours into this game and will likely get it to 1000's of hours in the future. Just wish we had a little more feedback on some of the extremely requested features that players yearn for like the ones above."
+        },
+        {
+            "review_id": "227372985",
+            "steam_id": "76561198857803657",
+            "playtime_minutes": 5709,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5180723071098328,
+            "steam_purchase": true,
+            "review_text": "This game is amazing and can be A LOT of fun. Solo or with friends. But at the same time its broken and the lazy piece of ♥♥♥♥ devs don't fix the simplest issues. Such as broken AI and broken/bugged achievements. Its quite sad."
+        },
+        {
+            "review_id": "225231517",
+            "steam_id": "76561198168550409",
+            "playtime_minutes": 2850,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5172414183616638,
+            "steam_purchase": true,
+            "review_text": "Between censorship blunting the story and the updates that break more then they fix this is one of the rare games I would not recomend to someone. Near constant crash to desktops, broken loadouts, and other errors. There is jus tnot enough quality control to be 30$ let alone the 60$ the game asks for."
+        },
+        {
+            "review_id": "225906594",
+            "steam_id": "76561198136486770",
+            "playtime_minutes": 6303,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5169777274131775,
+            "steam_purchase": true,
+            "review_text": "Owned this game since 2021. Almost every issue you see mentioned in other negative reviews (namely bad AI, poor optimisation and lack of QoL features) have been around since the early access days. 5 years later and they still go almost completely unaddressed by the devs. \n\nVery fun if you have a solid group of friends to play coop with regularly. Reconsider buying if you don't."
+        },
+        {
+            "review_id": "226854836",
+            "steam_id": "76561199226763239",
+            "playtime_minutes": 4248,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5168141722679138,
+            "steam_purchase": true,
+            "review_text": "its a shame this game was so fun when it worked ever since they added it to console it hasn't worked at all on pc from not even booting up to now not being able to peek doors or open closets and the suspects being in a stun animation still shooting you when there shot by bean bags unless they fix there game i cant recommend buying it"
+        },
+        {
+            "review_id": "227381273",
+            "steam_id": "76561199345868794",
+            "playtime_minutes": 1595,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5167285799980164,
+            "steam_purchase": true,
+            "review_text": "Played the game when it first came out and really enjoyed it, playing with friends felt amazing as each of us had a role to play in the encounter. And, when the game felt dry we always had mods to install, plus we could always do a full lethal run which is always a good time. Joking around, shooting suspects for looking at us funny and going about our day was the highlight of this game for me. Eventually all good things come to an end however and me and my buddies topped playing altogether. Fast forward to today. I have played this game both singleplayer and multiplayer extensively and when I tell you the ai has gotten somehow worse since release? I don't know about you but I'd rather have my whole squad clear a room rather than just 2 of them. I have never and will never want to do this so seeing the fact that I have to constantly switch between who I'm talking to is very annoying. I understand you can swap to yellow to do all commands but it switches back consistently and is just a pain overall, a step back in my opinion. Another thing is the general jankyness of the ai overall, from flat out ignoring commands to the command prompt itself being glitchy and sometimes requiring you to ads to even function properly, I don't remember this being a problem before. The enemy ai is just straight up horrible. I mean worse than waw on the hardest difficulty awful. If you aren't wearing heavy armor + face protection all the time suspects will gun you down before you can see the situation unfold. I get the realism of this but cmon man we can't even see the guy before he starts shooting at us? The enemy seems to have better aim than my teammates who for lack of better word are very very dumb. I don't see the point in this other than making it more realistic. Now to why I just stopped playing the game in general. I wanted to make a fun montage style video for my channel and when I was clearing the apartment complex level by myself with ai I found a suspect holding someone hostage. I could only see the tops of their heads and nothing else. I started shooting the hostage with pepper balls (couldn't tell them apart) until the suspect grabbed him and then shot him. I planned on making a funny edit of the situation and wanted to do something slightly meme oriented and give this guy the ultimate justice. After cuffing him I ordered my team in a different room and decorated the wall with the inside of his head. End of story right? WRONG. My teammates then proceed to gun ME down and the mission ends instantly. 20 minutes of my life right down the drain with little to no warning at all. I can't explain to you how much I do not like this feature. It takes away so much player freedom and forces one kind of playstyle. I don't care what game you are making player freedom of choice is a huge plus in my opinion and only hurts the game when it is limited. On top of that that completely ignores when civilians get in the crossfire. People online talk about how they were killed out of nowhere because of a mistake they made with a flashbang and such. And there is no fighting back. Once you are in line of sight of your team you are instantly killed. Aren't casualties part of the experience? I don't get the rationale behind this. Honestly remove that feature alone and this will get rid of my negative review."
+        },
+        {
+            "review_id": "226656437",
+            "steam_id": "76561199078286186",
+            "playtime_minutes": 102,
+            "voted_up": false,
+            "votes_up": 11,
+            "weighted_score": 0.5158575773239136,
+            "steam_purchase": true,
+            "review_text": "AI Slop is featured in the game despite there being no tag for AI generated content, game is incredibly unoptimized and had to tinker with a lot of different settings both in game and on my pc to get it to run semi smoothly, and the Ally/Enemy AI is... questionable. I haven't seen the AI act THAT weird myself, but I've seen clips of AI snapping 180 degrees while pepper-balled and popping you in the head instantly.\n\nIt pains me to say all this though, because the core of this game does seem quite interesting, but the execution is nothing short of abysmal. I also have no respect for more than capable developers using AI images when they, evidently - have absolutely ZERO need for it, no matter how much it is used. It doesn't look good, and just serves as a big neon sign saying that you have cut corners in your FULLY PRICED game and disrespected artists.\n\nTLDR; a cool concept executed in possibly the worst way imaginable. If the developers got a grip, this could be one of my favourite games ever. Unfortunate.\n\n"
+        },
+        {
+            "review_id": "226644107",
+            "steam_id": "76561199394891842",
+            "playtime_minutes": 239,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.515070915222168,
+            "steam_purchase": true,
+            "review_text": "cant play the game with 1 mod installed. get a ♥♥♥♥♥♥♥ workshop for this game"
+        },
+        {
+            "review_id": "226824557",
+            "steam_id": "76561199123030751",
+            "playtime_minutes": 376,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5147679448127747,
+            "steam_purchase": true,
+            "review_text": "Crashes often, i have played 6 hours of the game and it has crashed twice. It's kind of wild since I didn't have this issue while playing on console. Negative review until they fix the game to where it can be played without me having to google some special settings configuration, just for it to run how it should've at launch."
+        },
+        {
+            "review_id": "226795487",
+            "steam_id": "76561198778423747",
+            "playtime_minutes": 1061,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5147679448127747,
+            "steam_purchase": true,
+            "review_text": "I have about 18 hours in this game, and have completed most levels in this game, and unfortunately the things i have to say about it are mostly negative. Let me start with the negatives:\n 1.) So much content in this game is locked behind a paywall 2.) The AI actually sucks. My teammates are always blocking me in doors and getting in my way 3.) On bigger levels (like the post office) some sort of guide or enemy ping needs to be implemented, because its a huge pain when Im just trying to finish a level and i gotta search a whole map for that one objective or that one enemy. I consulted google so much while playing this game and maybe its a skill issue, but i dont want to spend 30 minutes wandering around because i forgot to secure one silent hostile/civvy quivering under a desk. 4.) WAYYYY to expensive. DO NOT BUY THIS GAME AT $50, wait for it to be AT MOST $30, and if you are planning on getting dlcs too, i'd wait for 50% off (which it is right now as of writing this). 5.) This isnt really a problem but some sort of casual pvp would be nice (other than shooting friends in the live fire range) 6.) Impossible to get S tier without beanbag guns (as far as i know) and this can be a pain when someone isnt going down after 6 F*****g SHOTS with the beanbag shotgun\nDespite all the negatives the game does have some nice positives such as:\n1.) Very interesting and fun level design 2.) Fun gunplay and mechanics 3.) GREAT with friends and fun with strategy game nerds 4.) ♥♥♥♥ statue 5.) Awesome gun and class modification system. Cosmetic unlocks locked behind certain achievments on levels is fun too and adds replayability.\nIf you want a Strategy SWAT game, wait for a sale and buy this, never worth it at full price, and i probably wont launch it again anytime soon. Overall 6/10. I would not recommend this game to friends mirroring my \"do not recommend\" review."
+        },
+        {
+            "review_id": "226915579",
+            "steam_id": "76561197996242091",
+            "playtime_minutes": 14,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5134726762771606,
+            "steam_purchase": true,
+            "review_text": "Ok, so I see the positive reviews and I buy it.\n\nFirst launch - game asks for firewall permissions and refuses to load after that.\n\nSecond launch - no servers found. Wtf? This is a 2 year old game with thousands of recent positive reviews. What do you mean there are no servers on North America?\n\n3rd try - enable crossplay and everything. Ok, I got in. 300ms ping. 6 players that don't talk and don't do teamwork.... Ok, so is the gameplay at least fun? Nope. If you like slowly moving from room to room pressing F at every NPC to tell them to drop the gun, before shooting them in the face when they pull a gun out - this game is for you. Every game is identical to another. Even the graphics are bland, having supposedly been nerfed some time ago.\n\nThis game feels like a conceptual rip off of Rainbow Siege with elements of the Bodycam game the trailer for which that came out few months prior.\n\nNo idea who people reviewing this game are. The multiplayer in this game is dead."
+        },
+        {
+            "review_id": "225384214",
+            "steam_id": "76561198020523584",
+            "playtime_minutes": 927,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5134490728378296,
+            "steam_purchase": true,
+            "review_text": "The game is fun with friends so if you are getting it to meme around then fine, but I still don't recommend it for the price.\n\nThe game's AI is egregious. I honestly have never seen such ♥♥♥♥♥♥♥♥. I saw a man sprint through an open door that had two bots stacked on it, from across a hall way and another room. The AI did not fire a single shot. The enemy entered the room, head shot me, killing me instantly, then proceeded to unload a full clip into an officer, killing him, reloading, and doing the same thing again two more times. The entire time not a single one of the AI officers even reacted.\n\nSomething must have triggered because the only officer left alive finally downed the suspect with pepper balls, but then just stood there again, didn't make an arrest, and the enemy got up and killed him."
+        },
+        {
+            "review_id": "225707603",
+            "steam_id": "76561198114057386",
+            "playtime_minutes": 912,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5116822719573975,
+            "steam_purchase": true,
+            "review_text": "Ready or Not has a fantastic concept behind it, with an incredible amount of detail and thought put into the experience. It’s tense, immersive, and clearly designed for players looking for a more tactical and realistic approach to PvE shooters.\r\n\r\nThe difficulty itself isn’t the problem—I actually appreciate that the game doesn’t hold your hand. So why the negative review?\r\n\r\nBecause in a PvE-focused game, I’ve been griefed and team-killed by other players over and over again. Sometimes right at the start of a mission, sometimes halfway through, and other times after we had already completed everything.\r\n\r\nAt a certain point, it completely ruins the experience. A tactical game that relies so heavily on teamwork becomes frustrating when toxic players can repeatedly sabotage missions without consequence.\r\n\r\nThere’s a great game here, but the multiplayer experience desperately needs stronger systems to deal with griefing and intentional team-killing."
+        },
+        {
+            "review_id": "225384525",
+            "steam_id": "76561199078476772",
+            "playtime_minutes": 9164,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5116490125656128,
+            "steam_purchase": true,
+            "review_text": "The game no longer resembles what I originally purchased. Ever since the update for console, the game has been nothing but bugs and framerate so poor it begs for money on the street and lives in a van down by the river."
+        },
+        {
+            "review_id": "226747429",
+            "steam_id": "76561199411072372",
+            "playtime_minutes": 1553,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5116279125213623,
+            "steam_purchase": true,
+            "review_text": "i like balls its a fun game tho... im white, i failed art school, and im austian"
+        },
+        {
+            "review_id": "225347670",
+            "steam_id": "76561198072928281",
+            "playtime_minutes": 301,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5111110806465149,
+            "steam_purchase": true,
+            "review_text": "It's unplayable using DX12, the screen stretches and goes back to normal many times per second. It runs on DX11 but it doesn't run as smooth as it used to be, unstable framerate. Drivers are updated, over 100 gb are free on the ssd, a clean installation was done and it's the only game with that DirectX problem. It used to run a lot better the last time I played it. \n\nI can't recommend it in the current state."
+        },
+        {
+            "review_id": "226896298",
+            "steam_id": "76561199088713443",
+            "playtime_minutes": 6439,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5108502507209778,
+            "steam_purchase": true,
+            "review_text": "Started playing this game in Beta, came back yesterday 5/30/26. While there has been much improvement, and the game is great playing multiplayer with friends, the AI teammates are still  ridiculous.  Have them cover an area, and a tango comes up behind them. 3 team mates  turn around and stare at him. They do nothing, and then get cut down. As far as the single player campaign goes, the biggest issue imo is the friendly ai. PLEASE improve it. This has been one of the main complaints since beta."
+        },
+        {
+            "review_id": "226827356",
+            "steam_id": "76561199760069572",
+            "playtime_minutes": 64,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5094488859176636,
+            "steam_purchase": true,
+            "review_text": "pretty good game beside the fact it kept crashing on me everytime i suggest you dont play but its ur choice tbh"
+        },
+        {
+            "review_id": "226715966",
+            "steam_id": "76561199013041953",
+            "playtime_minutes": 1119,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.508976399898529,
+            "steam_purchase": true,
+            "review_text": "Somehow still a buggy mess at times. Interactions dont work half the time, sometimes scopes and lasers dont show up on the weapon despite equipping them ten times and weapons (evidence) may just fall through the floor. The main gameplay is good and all, but the bugs are too annoying to ignore. And apparently putting out even more DLCs is more important than fixing all these simple bugs.\nAlso somehow the ♥♥♥♥♥♥♥♥♥ netcode ever.\nAlso add a ♥♥♥♥♥♥♥ restart button to the single player. Having to go back to the lobby just to sit through three loading screens just to restart is ridicolous."
+        },
+        {
+            "review_id": "226899821",
+            "steam_id": "76561198736198110",
+            "playtime_minutes": 214,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5089285969734192,
+            "steam_purchase": true,
+            "review_text": "Im running this game on a sh*t laptop that burns my legs when on for too long and most games dont run well but this game is different so im very happy thank you for making this game all friendly\r\n"
+        },
+        {
+            "review_id": "226727516",
+            "steam_id": "76561198835583181",
+            "playtime_minutes": 6917,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5081967115402222,
+            "steam_purchase": true,
+            "review_text": "Absolutely love this game. The tactical gameplay feels intense and realistic, especially when playing with friends. Great atmosphere, solid gunplay, and the attention to detail is amazing. Definitely one of the best tactical shooters out there right now."
+        },
+        {
+            "review_id": "226726262",
+            "steam_id": "76561199120736457",
+            "playtime_minutes": 416,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5081967115402222,
+            "steam_purchase": true,
+            "review_text": "Most responsive FPS game I've ever played. The learning curve is realistic, the gameplay is smooth, and I've never had so much of a challenge in the genre before. And I love the abundance of attachments :)"
+        },
+        {
+            "review_id": "227244140",
+            "steam_id": "76561198271921234",
+            "playtime_minutes": 1512,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5077106356620789,
+            "steam_purchase": true,
+            "review_text": "Very realistic and immersive when a suspect wearing nothing but a t-shirt brushes off serval rounds of 6.5 creedmoor to the sternum long enough to get behind cover and dome me with a single 9mm through my ballistic helmet. We might as well be using paintball guns while the suspects get a .50 cal with aimbot and unlimited ammo."
+        },
+        {
+            "review_id": "226388559",
+            "steam_id": "76561199117081276",
+            "playtime_minutes": 2395,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5074419975280762,
+            "steam_purchase": true,
+            "review_text": "I don't know how i got 40 hours in Ready or Not. But i do know something about the game. \n\nBefore i'll rant about what i hate about this game, i'll tell you what i like:\n\nFirst of all - guns. \"And if that doesn't work... Use more guns\". Only from the way how firearms in this game works, sounds and looks i have a boner. \nStory-telling is also on a high level. Design of the locations you'll have to visit is stunning. Seeing the crime-scences of murdering, torturing (i mean, visit the the places where it happened), makes you imagine the scariest things that happend there before.\nAnd overall feeling of team work with freinds brings to me a lot of joy.\n\nBut this game comes with its weaknesses...\n\nWhy i wouldn't recommend to buy Ready or Not? - There's not that much to do. Sure, there's around 15 mission and ~10 in DLCs, but they all repetative af. Strategy for the very first Gas Station will be the same as for the big-ass Hospital. And not that it's bad, but there's lack of alternative playstyles to get the same high ranks.\n\nJust like with playstyles, there's lack of random. What do i mean? Sure, enemies, civillians, stretching with grenades are random, but it doesn't really change anything. Yes, on certain maps appears some unique enemies, like terrorist with shotguns/ak47 or jihadists, but it's very rare across the missions. \n\nI already mentioned that Ready or Not has ranking system. Whether you did well or not, you'll get your rank for the mission (From F to S). And this is where the \"fun\" begins. You'll probably go for S-ranks because it unlocks cosmetics, and who wouldn't wanted to look cool? To get an S-rank you'll have to (write it down): \n1. Capture all of the bad guys and not killing or even hurting them;\n2. Capture all of the civillians;\n3. In addition to the first one, you'll probably have to capture 1 or 2 specific bad guys as the main suspects;\n4. Find and report 'secret' objectives (like mining-servers, plans of the bad guys on the map and that sort of things);\n5. And pack up ALL of the WEAPONS of suspects. The funniest thing about that is that suspect can have a secondary, primary or a knife or everything at the same time. What is more fun, is that when they're giving up, they throw their sh*t away in an unpredicted direction. And the last but not the least - there's no counter while you're on mission. You can easily miss some F*CKING small pistol and only because of that fact you can wave your hand to your S-rank. Not to mention, this isn't even SWAT's job. This is what f*cking forensic experts do.\n6. And, ofc, you should survive and you can't let no one of your squad dies.\n\nSounds fun, isn't it? And imagine is that you have to do all of this with only like 5 weapons and 3 utilities!\nYep, that's right. This game has a huge arsenal, and that's good (if you don't trying to get an S-rank). But utilites are so gimmicky, that you don't want to use them. You'll probably pick 'em a few times, say: \"oh, that's cool\" and will never pick them again. \nYou can customize your weapons, but the only things that are actually viable is the scope and muzzle. Other customization slots feels like a cosmetic and don't affects gameplay in any significant way.\n\nNPC's AI is broken. I can't count how much of the runs were ruined, because some crazy terrorist decited to run straight in the door, behind the one me with my friends were, and just kill at least one of us. And alright, this is \"crazy terrorist\", but what about some generic bad guys with guns or even trained agents and security? Plus, no matter who has a gun: terrorist, crazy retired soldier, civillian - they all shooting like f*cking snipers. \nI am also mad at civillians that i had to save from bad guys. Imagine, you're in the middle of the shooting. Crazy people with guns all around and while you was alone, you was found by SWAT team. They're asking you to throw your hands up and get down on your knees. What will you do? If you answered \"i would be angry at SWAT team and swearing at them and would resist\", then you are probably RoN civillian. Check yourself.\n\nAnd how could i forget about what i like a lot. The Unreal B*llshit 5. Worst engine to make games and the devs dont want to optimize their game on that engine at all. Ready or Not still unstable even after realease. Still crashing and can be laggy even on high-end PCs.\n\nSo, if you want to play Ready or Not. Think twice. This game is good its first ~10-15 hours. The end game content sucks."
+        },
+        {
+            "review_id": "226988346",
+            "steam_id": "76561199798120545",
+            "playtime_minutes": 1144,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5073439478874207,
+            "steam_purchase": true,
+            "review_text": "Tactical shooter i replaced siege with. still infuriating getting shot from seemingly nowhere but at least its not a unemployed sweat on the other side of the screen."
+        },
+        {
+            "review_id": "227110309",
+            "steam_id": "76561198055197943",
+            "playtime_minutes": 34692,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5061728358268738,
+            "steam_purchase": true,
+            "review_text": "I've been playing this since it came out and a huge Swat 3,4 fan. However, it seems to be that every update is making the game worse. Your AI teammates will sometimes not follow orders, won't clear a room, walk into a room backwards or halfway, or have a suspect start shooting at them and not respond. It seems that the AI was better in previous releases. Before adding DLC, the developers should fix the basic issues with the game first, then I would be willing to buy the DLC."
+        },
+        {
+            "review_id": "226138935",
+            "steam_id": "76561198454993696",
+            "playtime_minutes": 536,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5049504637718201,
+            "steam_purchase": true,
+            "review_text": "I like playing this game casually with friends but I feel betrayed that I originally bought this game with the knowledge it would of been made by people, but I see AI slop on the walls of levels.\nWhere's the gen AI usage disclosure VOID interactive?"
+        },
+        {
+            "review_id": "225094077",
+            "steam_id": "76561198873215066",
+            "playtime_minutes": 5031,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.503326952457428,
+            "steam_purchase": true,
+            "review_text": "Atmosphere, map and sound design, and most other things are great but few frustrating things ruin it. AI sees through walls, accurately shoot you from a shotgun while running even on enormous distances, shoot through obstacles players can't, and worst of all, sometimes phase in and out of existence. Hard mode is annoying, standard is enjoyable."
+        },
+        {
+            "review_id": "227175864",
+            "steam_id": "76561199394952413",
+            "playtime_minutes": 4057,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5029585957527161,
+            "steam_purchase": true,
+            "review_text": "Game was awesome, maps were detailed, storyline was cool, then 2023 came along and devs started to rush maps, use AI images(they still do the new DLC is full of AI images bs), and also i think some voice lines are also AI. You could do better!"
+        },
+        {
+            "review_id": "226995518",
+            "steam_id": "76561198022062425",
+            "playtime_minutes": 12709,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5029069781303406,
+            "steam_purchase": true,
+            "review_text": "From my viewpoint of entertainment and gameplay, \"Ready or Not\" can easily be called an exceptional game. It can be noted that most of the funniest moments I experienced in my gaming career have happened while playing this title. Naturally, all missions are completed cooperatively in the company of my closest friendly gamers. Hence, there is no doubt about the quality of this cooperation.\n\nGunplay scores 8 out of 10. All weapons in the game feel extremely powerful and responsive depending on your loadout, creating an opportunity to enjoy tactical aspects of gameplay to the fullest. Moreover, the immersion created by means of the shooting experience is rather impressive yet terrifying.\n\nIt should be admitted that artificial intelligence does not satisfy my expectations in most cases. The point is that the opponents may seem to be either too OP (janky AI) or superb in their skills due to their awareness. One more aspect which I have never expected before is the replayability of the game. Repeating a mission will certainly bring new impressions because of diverse opponent's behavior and options for completing the mission.\n"
+        },
+        {
+            "review_id": "227335620",
+            "steam_id": "76561199039924418",
+            "playtime_minutes": 2425,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5020747184753418,
+            "steam_purchase": true,
+            "review_text": "As a SWAT member, I can't ♥♥♥♥♥♥♥ sprint in this game, and every enemy just moves like the Flash. They rush you and instantly kill you. Even some hostages keep running like crazy. I like this game, but it still has a lot of problems."
+        },
+        {
+            "review_id": "227079329",
+            "steam_id": "76561199205536025",
+            "playtime_minutes": 4241,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5020747184753418,
+            "steam_purchase": true,
+            "review_text": "Like it is not a bad game but I just feel it came short, especially when I think of its predecessors ( SWAT 3/4 ) which were great. It is just too flawed and frustrating, especially with the AI.\r\nI enjoyed the game for the most part but I don't think I can recommend it because it feels unpolished and unfinished, especially the AI slug. Not to mention the price tag of this game full price is insanely high.\r\n\r\nThe Good:\r\n- The enviorment and atmosphere are decent. I felt the grim situation of these scenarios.\r\n- The story telling is good. There is lore and enviromental storytelling showcasing the situations.\r\n- Team commands are clear and easy to use, once you get used to do it fast it's pretty good.\r\n\r\nThe Bad:\r\n- Nothing I hate more than censorship. Like why? woke culture is a debuff.\r\n- AI is weird. Both enemy, teammates and NPC. From the enemy side they are basically super soldiers and super precision, see trough walls and tend to never surrender never mind the odds. As for teammates, they block your path sometimes which is annoying goes too deep into rooms while ignoring covers and etc...\r\n- Too much AI art. Very noticeable, I know we are in the era of AI but for the love of god just get a person to do it when the help of AI instead of letting AI design, we are yet in the position to let AI dictate these things for us.\r\n"
+        },
+        {
+            "review_id": "227012516",
+            "steam_id": "76561197970507642",
+            "playtime_minutes": 18679,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5019920468330383,
+            "steam_purchase": true,
+            "review_text": "Rewarding gameplay. Tense situations. Amazing detail in the maps."
+        },
+        {
+            "review_id": "226910336",
+            "steam_id": "76561198795329446",
+            "playtime_minutes": 1110,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5019920468330383,
+            "steam_purchase": true,
+            "review_text": "this game is very fun and has amazing graphics, the campain has a very suddle story line and when you start to realize a bit before the end its bone chilling. this is a very good game to play with freinds to."
+        },
+        {
+            "review_id": "226895878",
+            "steam_id": "76561198385254442",
+            "playtime_minutes": 4066,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5019920468330383,
+            "steam_purchase": true,
+            "review_text": "Game is fun if it is not with randos. Play with friends and dive into emersion :)"
+        },
+        {
+            "review_id": "226878590",
+            "steam_id": "76561198139473236",
+            "playtime_minutes": 374,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5019920468330383,
+            "steam_purchase": true,
+            "review_text": "Love the authenticity and realism this game offers. If you enjoy realistic shooter sims this game offers hours of fun game play. Recommended for people who enjoy games like Rainbow 6 Siege or similar slower paced action shooters. Mature content warning though, most scenarios contain dark subject matter that some people may find disturbing. Overall, in my own opinion this game is a really good time for anyone looking for a grounded and strategic fps that has good fleshed out sim elements that requires well thought-out planning and strategy. Also, the overall game performance is really good, I'm running full ultra settings and haven't experienced any frame dipping or stutters, graphics are very realistic and with 6 hours of play time at the time of this review I have only seen 1 minor bug where an npc got stuck in their pathing and required me to start the current mission over. 9/10 Recommend"
+        },
+        {
+            "review_id": "227365235",
+            "steam_id": "76561198024956145",
+            "playtime_minutes": 3911,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5013412833213806,
+            "steam_purchase": true,
+            "review_text": "Another case of devs who butcher their own game. The dlcs are overpriced and about the same you can find on the workshop made by other people.  AI seems to just get worse and worse with every patch, censored the violence to appease people who won't even play their game anyway.  And from what I've seen, the devs/community managers in general are terrible people so I wouldn't recommend giving them money for a game they are purposefully degrading and then charging dlcs to undo things."
+        },
+        {
+            "review_id": "226100417",
+            "steam_id": "76561199618745830",
+            "playtime_minutes": 7312,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5013412833213806,
+            "steam_purchase": true,
+            "review_text": "While Ready or Not can be very fun and immersive at times, I cannot recommend it in its current state due to the amount of bugs, inconsistencies and its treatment by the developers. The unique maps, gunplay, and variety of weapons and loadouts give you lots of choice in how to play each mission, and RoN is definitely memorable for that. Unfortunately it is undermined by the lack of polish and quality throughout. For a game that has been out since 2023 with several major patches since then, there are a ridiculous amount of issues that affect gameplay. Suspects phase through walls and teleport around the map, their weapons fall through the ground, some of your own weapons bug you out of leaning after firing, some are disproportionally inaccurate if you're wounded, etc etc. This isn't even mentioning the parts of the game that work as intended, but are outright bad. In particular, suspects on Hard mode are awful to play against. Their reaction times (sub 30ms sometimes!), accuracy, and movement make it so that taking gunfights is impossible, with the only solution being to abuse the poorly designed awareness mechanics or flashbang every single room. Civilian AI is also poor as they are always uncooperative regardless of the situation. There is also obvious and undisclosed use of GenAI in some of the maps, including the paid DLCs. These issues really take away from its replayability, and until the bugs and AI issues (both kinds) are addressed, I would hold off on buying it."
+        },
+        {
+            "review_id": "226097248",
+            "steam_id": "76561198300483142",
+            "playtime_minutes": 5316,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5013412833213806,
+            "steam_purchase": true,
+            "review_text": "the fact i cant access 6 LEVELS of the base game on quickplay due to a known bug (that people of course on reddit try to tell you is because you need to complete them on commander first which is BS) that has been in the game for well over a year to my knowledge is unforgiveable, you have apparently released this game out of beta and ♥♥♥♥ like this still exists. GET YOUR ♥♥♥♥ TOGETHER"
+        },
+        {
+            "review_id": "225954683",
+            "steam_id": "76561198052457379",
+            "playtime_minutes": 8834,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5013412833213806,
+            "steam_purchase": true,
+            "review_text": "Ally ai is brain dead. As a sucker for punishment I will continue to play but most people wont like this. \r\nAlso no gore anymore either. Game needs dismemberment. It should atleast be as gory as soldier of fortune...."
+        },
+        {
+            "review_id": "225850325",
+            "steam_id": "76561198227064900",
+            "playtime_minutes": 1346,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5013412833213806,
+            "steam_purchase": true,
+            "review_text": "AI is crap, AI squad mates are CS2 low level bots and enemies have wallhack. 3 DLCs for 10$ each combined have less than half the missions the base game has. Not worth buying. It also runs like every other UE5 game out there, ♥♥♥♥."
+        },
+        {
+            "review_id": "225804842",
+            "steam_id": "76561199235285397",
+            "playtime_minutes": 1295,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5013412833213806,
+            "steam_purchase": true,
+            "review_text": "if you have friends it can be a great game but the AI teamates are like toddlers with guns. trying to do a non-lethal run and they breach the room and then stand there well the guys with guns surrender then they dont arrest them they just stand there until the guys get back up and shoot them"
+        },
+        {
+            "review_id": "225782454",
+            "steam_id": "76561198723952069",
+            "playtime_minutes": 217,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5013412833213806,
+            "steam_purchase": true,
+            "review_text": "This game will constantly crash for me and i have no idea why. My system is a lot better then the recommend but yet it will still crash also the AI is ♥♥♥♥♥♥♥"
+        },
+        {
+            "review_id": "225536848",
+            "steam_id": "76561199388920864",
+            "playtime_minutes": 1564,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5013412833213806,
+            "steam_purchase": true,
+            "review_text": "I cannot recommend this game as much as i like tactical shooters. how is swat 4 still better than this pile of garbage?"
+        },
+        {
+            "review_id": "225503082",
+            "steam_id": "76561197992332041",
+            "playtime_minutes": 5795,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5013412833213806,
+            "steam_purchase": true,
+            "review_text": "Used to be our go to game as a group. After the censorship and xbox move its been nothing but downhill.\n\nThe nail in the coffin was the useless large update with minor bug fixes. Im not okay with a massive update with three items identified.\n\nGame ai has been trash since the port and continued to get worse, lack of content and frankly poor dev and large patches with no substance being the nail."
+        },
+        {
+            "review_id": "225492606",
+            "steam_id": "76561198917060494",
+            "playtime_minutes": 450,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5013412833213806,
+            "steam_purchase": true,
+            "review_text": "Dead game, Dead game, Dead game. not player base that actually plays, lobbys all have crazy high pings, and most randoms are ♥♥♥♥♥♥♥ idiots brings grenade launchers into close quarter combat... not worth the price tag unless you plan on playing solo which again not really worth price tag."
+        },
+        {
+            "review_id": "225455315",
+            "steam_id": "76561198072603650",
+            "playtime_minutes": 6667,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5013412833213806,
+            "steam_purchase": true,
+            "review_text": "Good game mechanics but AI is complete ass. Suspects shoot through gaps 1 pixel wide instant headshots while friendly AI can't find their own nose. Especially in the latest DLC.\nPls fix"
+        },
+        {
+            "review_id": "225382108",
+            "steam_id": "76561198040555930",
+            "playtime_minutes": 488,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5013412833213806,
+            "steam_purchase": true,
+            "review_text": "Sometimes fun, but it's tedious and buggy. Very annoying having to reset the state of my laser sight and flash light every time I spawn. Then you have to wait like 20 seconds every time you die for the mission completion animation to play out. Evidence sometimes clips into the environment and can't be interacted with, making missions impossible to complete. Motion blur keeps turning itself up to 90-100% despite me not touching the setting. Framerate feels unoptimized and DLSS doesn't seem to help like it does in most games.\n\nThe game is just kind of a mess, which is a bit disappointing since it has already been out for a few years now. There is a fun game buried under all the jank, so hopefully they can sort it out at some point."
+        },
+        {
+            "review_id": "227500454",
+            "steam_id": "76561198015072793",
+            "playtime_minutes": 2314,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I've gone through the game twice now, once on standard difficulty and once on hard core. I had tons of fun playing exclusively solo, but I can see this game being even more fun with friends. To enjoy playing alone, you'll need TONS of patience, especially if you're trying to get \"S\" rank (no kills). Here are my major complaints with single player. Read it before you buy!\n\n\nGameplay\n-Extreme suppression effects and screen shake that only applies to the player, not bots.\n-Less lethal weapons are much less effective on later levels (takes more hits to incapacitate an enemy, and there are more enemies).\n-Single player for some reason has a 10 seconds wait time before confirming a mission and 10 more seconds before mission start. This is a complete waste of time especially when you’re restarting often on higher difficulties.\n-Enemies aren’t affected by darkness.\n-Rules of engagement are extremely inconsistent. Sometimes, dropping someone wearing body armor, mask, and holding a rifle inside a nightclub in an active shooter situation without announcing yourself will trigger an “excessive force” penalty.\n-The reason I don’t announce myself all the time is because your character tilts their weapon downwards EVERY TIME you yell, messing up your aim.\n-Door interaction is wonky. The action prompt depends on the part of the door you're looking at, which can be affected by random camera sway when turning or stopping. I've had so many instances when my character boots the door when I'm just trying to peek, leading to me either eating a bullet or setting off door traps.\n\nAI teammates\n-AI teammates either aim like John Wick or a storm trooper, no in between.\n-AI teammates don’t move to cover entryways unless commanded to do so. Otherwise they just stand in the center of the room.\n-You can't instruct AIs to throw grenades more than a meter away from you.\n-AIs will almost exclusively throw grenades at their feet or onto door frames, even with a grenade launcher.\n-AI teammates will try to bag evidence or arrest suspects at the most inopportune moments, like during a firefight.\n\nEnemies\n-Suicide bombers detonate instantly on higher difficulties, making smaller maps insanely challenging to navigate solo.\n-Enemies shrug off being shot. Planting two 5.56s into their chest doesn’t affect their accuracy at all.\n-No limb dismemberment. Shooting the suspects’ legs and arms doesn't disable their movements.\n-Enemies have no transition time between one animation and firing. They can instantly turn around and shoot you with 100% accuracy while running away or recovering from a stun grenade.\n-Enemies can headshot you through walls, beyond line of sight, across long distances, on the move and with 0.1 second reaction time. I’m not exaggerating; a bot once nailed me through a fence from a ground floor court yard 20m away, while I was behind the wall on the second floor.\n-Enemies can see through foliage.\n\nCivilians\n-The civilian AI is probably one of the worst I’ve ever seen. They’ll barge through doors towards you while wearing a bomb vest, or run directly into lines of fire during a shootout.\n-Civilians hate you more than they do enemies. Everyone treats you as if you’re a threat no matter the location and scenario and ignores your commands.\n-You can’t issue instructions to civilians and suspects in custody (tell them to move towards you etc.)"
+        },
+        {
+            "review_id": "227497351",
+            "steam_id": "76561199516215566",
+            "playtime_minutes": 2159,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very cool game, Bad enemy AI with aimbot. These mfs can shoot you without missing from a mile."
+        },
+        {
+            "review_id": "227494179",
+            "steam_id": "76561198023141757",
+            "playtime_minutes": 1545,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great Tactical Shooter, So far really enjoying the game"
+        },
+        {
+            "review_id": "227491100",
+            "steam_id": "76561199684398840",
+            "playtime_minutes": 275,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is absolutely amazing. Gunplay actually feels weighty and realistic. AI enemies are smart and they will constantly try to outplay you. The grading system forces you to slow down and not just go into every level shooting everything that moves. Overall 10/10 :)"
+        }
+    ]
+}

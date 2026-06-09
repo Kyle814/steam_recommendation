@@ -1,0 +1,47 @@
+{
+    "ingested_at": "2026-06-08T23:45:45.810009",
+    "steam_id": "76561198171056010",
+    "game_count": 10,
+    "games": [
+        {
+            "appid": 730,
+            "playtime_forever": 0
+        },
+        {
+            "appid": 33910,
+            "playtime_forever": 0
+        },
+        {
+            "appid": 33930,
+            "playtime_forever": 0
+        },
+        {
+            "appid": 105600,
+            "playtime_forever": 0
+        },
+        {
+            "appid": 224580,
+            "playtime_forever": 0
+        },
+        {
+            "appid": 252490,
+            "playtime_forever": 0
+        },
+        {
+            "appid": 304930,
+            "playtime_forever": 0
+        },
+        {
+            "appid": 892970,
+            "playtime_forever": 0
+        },
+        {
+            "appid": 1808500,
+            "playtime_forever": 0
+        },
+        {
+            "appid": 3241660,
+            "playtime_forever": 0
+        }
+    ]
+}

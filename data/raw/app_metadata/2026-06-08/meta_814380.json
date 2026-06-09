@@ -1,0 +1,89 @@
+{
+    "ingested_at": "2026-06-08T20:02:36.725321",
+    "app_id": "814380",
+    "metadata": {
+        "type": "game",
+        "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+        "steam_appid": 814380,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Game of the Year - The Game Awards 2019 Best Action Game of 2019 - IGN Carve your own clever path to vengeance in the award winning adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series. Take Revenge. Restore Your Honor. Kill Ingeniously.",
+        "detailed_description": "This Game of the Year Edition now includes bonus content*:<br />\r\n<br />\r\n- Reflection and Gauntlet of Strength - new boss challenge modes<br />\r\n- Remnants - leave messages and recordings of your actions that other players can view and rate<br />\r\n- 3 unlockable cosmetic skins<br />\r\n<br />\r\nGame of the Year  - The Game Awards 2019<br />\r\nBest Action Game of 2019 - IGN<br />\r\nOver 50 awards and nominations<br />\r\n<br />\r\nCarve your own clever path to vengeance in the critically acclaimed adventure from developer FromSoftware, creators of the Dark Souls series.<br />\r\n<br />\r\nIn Sekiro™: Shadows Die Twice you are the 'one-armed wolf', a disgraced and disfigured warrior rescued from the brink of death. Bound to protect a young lord who is the descendant of an ancient bloodline, you become the target of many vicious enemies, including the dangerous Ashina clan. When the young lord is captured, nothing will stop you on a perilous quest to regain your honor, not even death itself.<br />\r\n<br />\r\nExplore late 1500s Sengoku Japan, a brutal period of constant life and death conflict, as you come face to face with larger than life foes in a dark and twisted world. Unleash an arsenal of deadly prosthetic tools and powerful ninja abilities while you blend stealth, vertical traversal, and visceral head to head combat in a bloody confrontation.<br />\r\n<br />\r\nTake Revenge. Restore Your Honor. Kill Ingeniously.<br />\r\n<br />\r\n*Download required.<br />\r\n<br />\r\nInternet connection required for asynchronous Multiplayer.",
+        "developers": [
+            "FromSoftware, Inc."
+        ],
+        "publishers": [
+            "Activision (Excluding Japan and Asia)",
+            "FromSoftware, Inc. (Japan)",
+            "方块游戏 (Asia)"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 5999,
+            "final": 5999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$59.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 88,
+            "url": "https://www.metacritic.com/game/pc/sekiro-shadows-die-twice?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 254326
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 21, 2019"
+        }
+    }
+}

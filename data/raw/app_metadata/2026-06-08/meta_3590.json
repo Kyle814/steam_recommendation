@@ -1,0 +1,72 @@
+{
+    "ingested_at": "2026-06-08T19:10:46.686036",
+    "app_id": "3590",
+    "metadata": {
+        "type": "game",
+        "name": "Plants vs. Zombies GOTY Edition",
+        "steam_appid": 3590,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Zombies are invading your home, and the only defense is your arsenal of plants! Armed with an alien nursery-worth of zombie-zapping plants like peashooters and cherry bombs, you'll need to think fast and plant faster to stop dozens of types of zombies dead in their tracks.",
+        "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590/extras/3800a7c34bfe3019b1816377a2b0263e.avif?t=1777394124\" width=600 height=188 /></span><br><br>Zombies are invading your home, and the only defense is your arsenal of plants! Armed with an alien nursery-worth of zombie-zapping plants like peashooters and cherry bombs, you'll need to think fast and plant faster to stop dozens of types of zombies dead in their tracks. Obstacles like a setting sun, creeping fog and a swimming pool add to the challenge, and with five game modes to dig into, the fun never dies!<h2 class=\"bb_tag\" >Features</h2>                    <ul class=\"bb_ul\"><li>Play five game modes: Adventure, Mini-Games, Puzzle, Survival, plus the stress-free Zen Garden<br>                    </li><li>Conquer all 50 levels of Adventure mode  through day, night, and fog, in a swimming pool and on the rooftop<br>                    </li><li>Battle 26 types of zombies including pole-vaulters, snorkelers and Zomboni drivers<br>                    </li><li>Earn 49 powerful perennials and collect coins to buy a pet snail, power-ups and more!<br>                    </li><li>Open the Almanac to see all the plants and zombies, plus amusing facts and quotes<br>                    </li><li>Browse Crazy Daves shop for special plants and tools to stem any zombie assault<br>                    </li><li>Amazing graphics and soundtrack, plus a bonus music video<br>                    </li><li>Infinite replayability: the game is never the same experience twice!<br>                    </li><li>Unlock all the Steam Achievements<br>                    </li></ul>",
+        "developers": [
+            "PopCap Games, Inc."
+        ],
+        "publishers": [
+            "PopCap Games, Inc.",
+            "Electronic Arts"
+        ],
+        "price_overview": {
+            "currency": "CNY",
+            "initial": 2100,
+            "final": 2100,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "¥ 21.00"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 87,
+            "url": "https://www.metacritic.com/game/pc/plants-vs-zombies?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 140602
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "5 May, 2009"
+        }
+    }
+}

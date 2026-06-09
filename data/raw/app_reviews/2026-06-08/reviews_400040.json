@@ -1,0 +1,107 @@
+{
+    "ingested_at": "2026-06-08T19:11:00.543102",
+    "app_id": "400040",
+    "review_count": 10,
+    "reviews": [
+        {
+            "review_id": "29918390",
+            "steam_id": "76561198047463015",
+            "playtime_minutes": 25484,
+            "voted_up": true,
+            "votes_up": 6,
+            "weighted_score": 0.5729196667671204,
+            "steam_purchase": true,
+            "review_text": "Excellent program for capture screenshots and parts of the screen. Using it for 4 years now. For work and for game screenshot capture."
+        },
+        {
+            "review_id": "29760754",
+            "steam_id": "76561197981124799",
+            "playtime_minutes": 28,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5525326132774353,
+            "steam_purchase": true,
+            "review_text": "I literally had to enable Steam integration so I had enough \"time played\" to leave this review, thats how much I love this product.\n\nHonestly buying the donation was less of a hassle but I'm really irritated with all the \"I couldn't figure out how to record!\" bad reviews I needed to balance them out, plus it's a good product.\n\n\nReally short ACTUAL review, ShareX is a fantastic, highly customizable screenshotting tool that also allows you to record short clips like gifs or webms, and is entirely free with tons of options for uploading them. It even lets you upload to puush if for some reason you're obsessed with hosting images/files there!\n\nUse this software it's very good and has no negatives I can even think of."
+        },
+        {
+            "review_id": "29592478",
+            "steam_id": "76561198121527611",
+            "playtime_minutes": 24,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.4927021265029907,
+            "steam_purchase": true,
+            "review_text": "For the love of God , ShareX is \" NOT \" a Game Recording Software , do not give it a \"Negative review\" if you used it wrongly.\n\nthis is THE best software I ever used , simple and a lot of features .\n\n\n"
+        },
+        {
+            "review_id": "30227842",
+            "steam_id": "76561197960561169",
+            "playtime_minutes": 82,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5585706233978271,
+            "steam_purchase": true,
+            "review_text": "like the best screenshoter I ever used. I used to run Lightshot but this seems to be more simple and open source."
+        },
+        {
+            "review_id": "29855862",
+            "steam_id": "76561198098363514",
+            "playtime_minutes": 1224,
+            "voted_up": true,
+            "votes_up": 6,
+            "weighted_score": 0.5622895359992981,
+            "steam_purchase": true,
+            "review_text": "Best software for making of tons of screenshots in the whole world. Respect!"
+        },
+        {
+            "review_id": "30165266",
+            "steam_id": "76561198283557259",
+            "playtime_minutes": 6,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5270270705223083,
+            "steam_purchase": true,
+            "review_text": "Good for beginners starting up Youtube but will need another application to edit.\n"
+        },
+        {
+            "review_id": "29716299",
+            "steam_id": "76561198060624270",
+            "playtime_minutes": 20,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5003244876861572,
+            "steam_purchase": true,
+            "review_text": "Software I use frequently. It's design is very streamliny."
+        },
+        {
+            "review_id": "29814218",
+            "steam_id": "76561198078345896",
+            "playtime_minutes": 286,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5003244876861572,
+            "steam_purchase": true,
+            "review_text": "I've been using it for QA testing and it works really well for me. simple."
+        },
+        {
+            "review_id": "30056962",
+            "steam_id": "76561198076227492",
+            "playtime_minutes": 105,
+            "voted_up": true,
+            "votes_up": 6,
+            "weighted_score": 0.5547799468040466,
+            "steam_purchase": true,
+            "review_text": "Does what it says."
+        },
+        {
+            "review_id": "29453333",
+            "steam_id": "76561198133704419",
+            "playtime_minutes": 19,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.2788057029247284,
+            "steam_purchase": true,
+            "review_text": "Having issues recording Civilization V"
+        }
+    ]
+}

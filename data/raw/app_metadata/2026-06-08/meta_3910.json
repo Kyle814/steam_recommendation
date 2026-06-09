@@ -1,0 +1,67 @@
+{
+    "ingested_at": "2026-06-08T18:45:28.307966",
+    "app_id": "3910",
+    "metadata": {
+        "type": "game",
+        "name": "Sid Meier's Civilization® III Complete",
+        "steam_appid": 3910,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Sid Meier's Civilization III: Complete, the latest offering in the Sid Meier's Civilization III franchise, provides gaming fans with Sid Meier's Civilization III, the highly-addictive journey of discovery.",
+        "detailed_description": "Sid Meier's Civilization III: Complete, the latest offering in the Sid Meier's Civilization III franchise, provides gaming fans with Sid Meier's Civilization III, the highly-addictive journey of discovery, combined with the updated and enhanced multiplayer expansion pack Sid Meier's Civilization III: Play the World*, as well as all of the great new civilizations, scenarios, and features from Sid Meier's Civilization III: Conquests! Sid Meier's Civilization III: Complete provides more ways to explore, more strategies to employ, more modes of play, and more ways to win, all in one box!<br />\r\n<br />\r\n*Online Multiplayer to be suspended as of May 31st 2014, LAN mode still supported",
+        "developers": [
+            "Firaxis Games"
+        ],
+        "publishers": [
+            "2K"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 499,
+            "final": 499,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$4.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 90,
+            "url": "https://www.metacritic.com/game/pc/sid-meiers-civilization-iii?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 5598
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 25, 2006"
+        }
+    }
+}

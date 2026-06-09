@@ -1,0 +1,100 @@
+{
+    "ingested_at": "2026-06-08T19:00:56.091427",
+    "app_id": "2552430",
+    "metadata": {
+        "type": "game",
+        "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+        "steam_appid": 2552430,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX- is an HD remastered collection of 6 unforgettable KINGDOM HEARTS experiences. Take up your Keyblade to save the Disney worlds from darkness.",
+        "detailed_description": "<h1>KINGDOM HEARTS INTEGRUM MASTERPIECE</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/extras/a7ebf9ad809924f28bfce44bea8e6ddb.avif?t=1779418330\" width=616 height=352 /></span><br>※The items in this bundle are also available as individual purchases. <br><br>Experience the full story of KINGDOM HEARTS! The journey begins in KINGDOM HEARTS -HD 1.5+2.5 ReMIX- as Sora, Donald, and Goofy battle the Heartless, making friends and having spectacular adventures along the way. The story culminates in KINGDOM HEARTS III + Re Mind, where our heroes take on tremendous challenges and persevere against the darkness threatening iconic Disney and Pixar worlds.</p><br><h1>About the Game</h1><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/extras/76761ba3402cd06fcf550cfe35e30939.poster.avif?t=1779418330\" width=614 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/extras/76761ba3402cd06fcf550cfe35e30939.webm?t=1779418330\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/extras/76761ba3402cd06fcf550cfe35e30939.mp4?t=1779418330\" type=\"video/mp4\"></video></span><br>KINGDOM HEARTS -HD 1.5+2.5 ReMIX- is an essential collection of the first six stories in the KINGDOM HEARTS series, a collaboration between Disney and SQUARE ENIX. Wield the legendary Keyblade and unlock the true power of friendship as you explore Disney worlds and defend them from darkness.<br><br><ul class=\"bb_ul\"><li>KINGDOM HEARTS FINAL MIX<br></li><li>KINGDOM HEARTS Re:Chain of Memories<br></li><li>KINGDOM HEARTS II FINAL MIX<br></li><li>KINGDOM HEARTS 358/2 Days (HD cutscene compilation)<br></li><li>KINGDOM HEARTS Birth by Sleep FINAL MIX<br></li><li>KINGDOM HEARTS Re:coded (HD cutscene compilation)</li></ul><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/extras/de2a6abf7e1a2faa19879643b555ae4f.poster.avif?t=1779418330\" width=614 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/extras/de2a6abf7e1a2faa19879643b555ae4f.webm?t=1779418330\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/extras/de2a6abf7e1a2faa19879643b555ae4f.mp4?t=1779418330\" type=\"video/mp4\"></video></span><br><br>Enhanced backgrounds make this collection more stunning than ever before. Start your KINGDOM HEARTS journey now!<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/extras/b4ba248e3b402adde94852ae9eaa264f.poster.avif?t=1779418330\" width=616 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/extras/b4ba248e3b402adde94852ae9eaa264f.webm?t=1779418330\" type=\"video/webm; codecs=vp9\"></video></span><br><br>This game is available in two versions: Japanese and International.<br>Select your preferred language via the Steam launcher by right-clicking the title, then selecting &quot;Properties&quot; followed by &quot;General&quot;.<br><br>NOTICE: Save data cannot be transferred between the Japanese and International versions.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/extras/895aa93d4b14a442246d79c0c8f037c0.poster.avif?t=1779418330\" width=614 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/extras/895aa93d4b14a442246d79c0c8f037c0.webm?t=1779418330\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/extras/895aa93d4b14a442246d79c0c8f037c0.mp4?t=1779418330\" type=\"video/mp4\"></video></span>",
+        "developers": [
+            "Square Enix"
+        ],
+        "publishers": [
+            "Square Enix"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 4999,
+            "final": 4999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$49.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 75,
+                "description": "Keyboard Only Option"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 8792
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jun 13, 2024"
+        }
+    }
+}

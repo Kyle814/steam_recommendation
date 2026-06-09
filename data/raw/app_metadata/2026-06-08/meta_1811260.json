@@ -1,0 +1,98 @@
+{
+    "ingested_at": "2026-06-08T20:03:59.037091",
+    "app_id": "1811260",
+    "metadata": {
+        "type": "game",
+        "name": "EA SPORTS™ FIFA 23",
+        "steam_appid": 1811260,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "FIFA 23 brings The World’s Game to the pitch, with HyperMotion2 Technology, men’s and women’s FIFA World Cup™, women’s club teams, cross-play features**, and more.",
+        "detailed_description": "<h1>Join the Club with EA SPORTS FC™ 24</h1><p></p><br><h1>Highlights</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/extras/be2f573a64df8e18821eda18d08e077e.avif?t=1750187458\" width=610 height=1552 /></span></p><br><h1>About the Game</h1><strong>The World’s Game</strong><br><br>Experience the pinnacle of women’s international football in EA SPORTS™ FIFA 23 with the FIFA Women’s World Cup Australia and New Zealand 2023™ available on June 27th at no additional cost*. Rep your country’s colors and live the tournament in the most immersive EA SPORTS™ FIFA Women’s World Cup™ experience yet, complete with each of the 32 qualified nations, custom stadium dressings, cinematics, match presentations, dedicated commentary, and of course, the authentic trophy to hoist at the end.<br><br>EA SPORTS™ FIFA 23 brings The World’s Game to the pitch, with HyperMotion2 Technology that delivers even more gameplay realism, both the men’s and women’s FIFA World Cup™ coming to the game as post-launch updates, the addition of women’s club teams, cross-play features**, and more. Experience unrivaled authenticity with over 19,000 players, 700+ teams, 100 stadiums, and over 30 leagues in FIFA 23.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/extras/82bfe61cab0fef174872abcf011e894f.avif?t=1750187458\" width=610 height=2223 /></span>",
+        "developers": [
+            "EA Canada",
+            "EA Romania"
+        ],
+        "publishers": [
+            "Electronic Arts"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 39,
+                "description": "Shared/Split Screen Co-op"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            }
+        ],
+        "genres": [
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "18",
+                "description": "Sports"
+            }
+        ],
+        "recommendations": {
+            "total": 123812
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "30 Sep, 2022"
+        }
+    }
+}

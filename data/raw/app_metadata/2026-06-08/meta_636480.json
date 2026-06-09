@@ -1,0 +1,76 @@
+{
+    "ingested_at": "2026-06-08T19:23:39.256418",
+    "app_id": "636480",
+    "metadata": {
+        "type": "game",
+        "name": "Ravenfield",
+        "steam_appid": 636480,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Fight upon the Ravenfield together with your Blue allies! Take down those pesky Reds using helicopters, tanks, guns, and active ragdoll physics!",
+        "detailed_description": "Fight upon the Ravenfield together with your Blue allies! Take down those pesky Reds using helicopters, tanks, guns, and active ragdoll physics!<br><br>Ravenfield is a singleplayer game in the vein of older team-vs-team AI shooters. The game is designed to be easy to pick up and play, but also rewarding for all skill levels!<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Easy-to-pickup, singleplayer mayhem<br></li><li>Fight as infantry, or in ground vehicles, aircraft, or watercraft<br></li><li>Active ragdoll physics combines tactical strategies with a sprinkle of silly fun<br></li><li>The number of combatants is only limited by what your computer can handle!<br></li><li>Damaged soldiers drop team-colored blood splats, indicating where battles have taken place</li></ul><h2 class=\"bb_tag\" >Development Roadmap</h2>Ravenfield is being developed as an early access game, with major content updates scheduled to be released every 4-6 weeks. Additionally, incremental updates are distributed via a beta branch for those who do not fear slightly more buggy releases.<br><br><br>While some content, such as new weapons, vehicles and maps will be released on a regular basis, other key features will be added roughly in the following order:<br><ul class=\"bb_ul\"><li>Custom map support<br></li><li>Steam Workshop integration<br></li><li>AI Commanding<br></li><li>Custom weapon support<br></li><li>Custom vehicle support<br></li><li>Conquest mode</li></ul>",
+        "developers": [
+            "SteelRaven7"
+        ],
+        "publishers": [
+            "SteelRaven7"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1799,
+            "final": 1799,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$17.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "70",
+                "description": "Early Access"
+            }
+        ],
+        "recommendations": {
+            "total": 75394
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 18, 2017"
+        }
+    }
+}

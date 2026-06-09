@@ -1,0 +1,27 @@
+{
+    "ingested_at": "2026-06-08T20:04:49.087370",
+    "app_id": "386180",
+    "review_count": 2,
+    "reviews": [
+        {
+            "review_id": "221098978",
+            "steam_id": "76561198060586973",
+            "playtime_minutes": 967,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5347753763198853,
+            "steam_purchase": true,
+            "review_text": "Great game, tons of content - I would prefer instead of separate game modes they actually focus on extending main game - there is still tons of stuff to do but extending main game should be priority. There is no other game like that, its not pay to win - you can enjoy without paying and some DLCs are indeed overpriced but after discount they can be at good enough. Totally recommended!"
+        },
+        {
+            "review_id": "224795584",
+            "steam_id": "76561198236576002",
+            "playtime_minutes": 22227,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good game, great visual and audio design, but the constant power creep and premium price tag on some of the better parts is definitely a turnoff for people that want to play for free. The devs are active but maybe a bit lazy and maybe should listen to the players a bit more. \r\n\r\nUntil something better comes around, this game will be hanging on by a thread."
+        }
+    ]
+}

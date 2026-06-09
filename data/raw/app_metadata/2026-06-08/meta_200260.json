@@ -1,0 +1,79 @@
+{
+    "ingested_at": "2026-06-08T20:05:19.797084",
+    "app_id": "200260",
+    "metadata": {
+        "type": "game",
+        "name": "Batman: Arkham City - Game of the Year Edition",
+        "steam_appid": 200260,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Get Batman: Arkham City and all DLC for one low price with the release of the GOTY Edition!",
+        "detailed_description": "<p class=\"bb_paragraph\" >Batman: Arkham City builds upon the intense, atmospheric foundation of Batman: Arkham Asylum, sending players flying through the expansive Arkham City - five times larger than the game world in Batman: Arkham Asylum - the new maximum security &quot;home&quot; for all of Gotham City's thugs, gangsters and insane criminal masterminds. Featuring an incredible Rogues Gallery of Gotham City's most dangerous criminals including Catwoman, The Joker, The Riddler, Two-Face, Harley Quinn, The Penguin, Mr. Freeze and many others, the game allows players to genuinely experience what it feels like to be The Dark Knight delivering justice on the streets of Gotham City. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Batman: Arkham City - Game of the Year Edition includes the following DLC:  </strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Catwoman Pack</p></li><li><p class=\"bb_paragraph\" >Nightwing Bundle Pack</p></li><li><p class=\"bb_paragraph\" >Robin Bundle Pack</p></li><li><p class=\"bb_paragraph\" >Harley Quinn’s Revenge</p></li><li><p class=\"bb_paragraph\" >Challenge Map Pack</p></li><li><p class=\"bb_paragraph\" >Arkham City Skins Pack</p></li></ul><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Batman: Arkham City - Game of the Year Edition packages new gameplay content, seven maps, three playable characters, and 12 skins beyond the original retail release: </p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Maps:</strong> Wayne Manor, Main Hall, Freight Train, Black Mask, The Joker's Carnival, Iceberg Lounge, and Batcave  </p></li><li><p class=\"bb_paragraph\" ><strong>Playable Characters:</strong> Catwoman, Robin and Nightwing  </p></li><li><p class=\"bb_paragraph\" ><strong>Skins:</strong> 1970s Batsuit, Year One Batman, The Dark Knight Returns, Earth One Batman, Batman Beyond Batman, Animated Batman, Sinestro Corps Batman, Long Halloween Catwoman, Animated Catwoman, Animated Robin, Red Robin and Animated Nightwing </p></li></ul>",
+        "developers": [
+            "Rocksteady Studios"
+        ],
+        "publishers": [
+            "WB Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 91,
+            "url": "https://www.metacritic.com/game/pc/batman-arkham-city?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 54341
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 7, 2012"
+        }
+    }
+}

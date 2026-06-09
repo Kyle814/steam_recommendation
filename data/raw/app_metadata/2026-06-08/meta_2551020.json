@@ -1,0 +1,87 @@
+{
+    "ingested_at": "2026-06-08T19:48:05.782428",
+    "app_id": "2551020",
+    "metadata": {
+        "type": "game",
+        "name": "One-armed robber",
+        "steam_appid": 2551020,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "One-armed robber is a chaotic first-person heist game that centers around a uniquely challenging premise. Players take the role of a determined robber equipped with only one arm, tasked with pulling off daring heists on banks, shops, and various establishments.",
+        "detailed_description": "Experience the challenge of robbing banks, but now with only one arm! Grab a friend and you'll have two arms in total.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551020/extras/e235008895536e7a615a906ef3df916a.poster.avif?t=1726393211\" width=610 height=343 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551020/extras/e235008895536e7a615a906ef3df916a.webm?t=1726393211\" type=\"video/webm; codecs=vp9\"></video></span><br><br>Unlock and buy new guns, which can be customized to fit your playstyle. If you are trying to go stealth, the optimal choice might be a suppressor, but if you're going loud, damage and bullets is all that matters, so put on an extended mag and get going!<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551020/extras/a6e6a635be114a44050a95efe0151069.poster.avif?t=1726393211\" width=610 height=343 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551020/extras/a6e6a635be114a44050a95efe0151069.webm?t=1726393211\" type=\"video/webm; codecs=vp9\"></video></span><br><br>Each heist is suited for any playstyle, whether you want to sneak in and take out guards quietly, or you go in guns blazing shooting everthing in your sight until you reach the vault, the choice is yours. <br><br>As you become a more experienced robber new tools will be unlocked, which will make it easier for you to complete the heists. Each tool has a special purpose, and unique tools make it possible to complete heists in new ways you couldn't do before. <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551020/extras/84853d4971284ac6bc8c2892a63091c9.poster.avif?t=1726393211\" width=610 height=343 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551020/extras/84853d4971284ac6bc8c2892a63091c9.webm?t=1726393211\" type=\"video/webm; codecs=vp9\"></video></span><br><br>Whether you go loud or stealth, once you are in the vault, the objective is the same: Gather as much loot as possible, and get out alive!<br>If you can't fit all the loot in the vault in your duffel bag, you can either run back to the truck and get a new one, or get your friends to help you carry out everything!",
+        "developers": [
+            "Duhndal"
+        ],
+        "publishers": [
+            "Duhndal"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 15,
+                "description": "Stats"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Dec 15, 2023"
+        }
+    }
+}

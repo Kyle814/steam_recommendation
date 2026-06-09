@@ -1,0 +1,104 @@
+{
+    "ingested_at": "2026-06-08T19:32:40.904086",
+    "app_id": "289650",
+    "metadata": {
+        "type": "game",
+        "name": "Assassin's Creed® Unity",
+        "steam_appid": 289650,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Paris, 1789. In this action-adventure game, experience the French Revolution through the eyes of Arno Dorian. Become an Assassin and expose the true powers behind the Revolution for the fate of a nation.",
+        "detailed_description": "<h2 class=\"bb_tag\" >A RUTHLESS NEW HERO FOR A BRUTAL NEW WORLD</h2><p class=\"bb_paragraph\" >Play as Arno, an entirely new breed of Assassin more lethal than his ancestors. Take down your prey with a range of new weapons such as the Phantom Blade, a Hidden Blade with crossbow capabilities.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/extras/4a1fae13143b814108062fa5bd618003.poster.avif?t=1773328332\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/extras/4a1fae13143b814108062fa5bd618003.webm?t=1773328332\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/extras/4a1fae13143b814108062fa5bd618003.mp4?t=1773328332\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >EXPERIENCE SEAMLESS PARKOUR, COMBAT, AND STEALTH GAMEPLAY</h2><p class=\"bb_paragraph\" >Enjoy a high degree of freedom and control over your Assassin, with parkour mechanics for seamless free running, a revamped fighting system, and enhanced stealth gameplay.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/extras/0fc50968572ac193611e66d23e8c39b3.poster.avif?t=1773328332\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/extras/0fc50968572ac193611e66d23e8c39b3.webm?t=1773328332\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/extras/0fc50968572ac193611e66d23e8c39b3.mp4?t=1773328332\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >DISCOVER REVOLUTIONARY PARIS</h2><p class=\"bb_paragraph\" >The French Revolution turns a once magnificent city into a place of terror and chaos. Explore the stunning, full-scale open world city and witness history unfold. Experience key events, from the storming of the Bastille to the execution of King Louis XVI, as France's fate is shaped in the streets of a city on the edge of transformation.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/extras/e9e06d81088adff9aa05e8837c768939.poster.avif?t=1773328332\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/extras/e9e06d81088adff9aa05e8837c768939.webm?t=1773328332\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/extras/e9e06d81088adff9aa05e8837c768939.mp4?t=1773328332\" type=\"video/mp4\"></video></span></p>",
+        "developers": [
+            "Ubisoft"
+        ],
+        "publishers": [
+            "Ubisoft"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 749,
+            "discount_percent": 75,
+            "initial_formatted": "$29.99",
+            "final_formatted": "$7.49"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 76,
+                "description": "Mouse Only Option"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 76992
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 11, 2014"
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "ingested_at": "2026-06-08T19:38:46.215098",
+    "app_id": "2567870",
+    "metadata": {
+        "type": "game",
+        "name": "Chained Together",
+        "steam_appid": 2567870,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Climb up from the depths of Hell. Scale various worlds solo or chained together with your friends in the 1-4 player platforming sensation.",
+        "detailed_description": "<h2 class=\"bb_tag\" ><strong>Climb or die!</strong></h2><p class=\"bb_paragraph\" >Take on the challenge of the infamous hardcore platformer either alone or chained together with up to three friends.</p><p class=\"bb_paragraph\" >Climb as high as possible to escape Hell. Coordinate your clambering and perfect your jumps to scale punishing platforms and outrun the scorching heat. Each layer threatens your ascension with unique challenges, tougher than the last.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/extras/0c979398fd2d7444831d2e88f6aaf252.poster.avif?t=1780398049\" width=1170 height=500 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/extras/0c979398fd2d7444831d2e88f6aaf252.webm?t=1780398049\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/extras/0c979398fd2d7444831d2e88f6aaf252.mp4?t=1780398049\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Will you make it to the summit or perish before glory?</strong></h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Features</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Choose your difficulty:</strong> Brave the punishing Normal Mode, play with checkpoints in Beginner Mode, or race against constantly rising flames in Lava Mode. It's masocore heaven!</p></li><li><p class=\"bb_paragraph\" ><strong>Local and online co-op: </strong>Play together in person or online</p></li><li><p class=\"bb_paragraph\" ><strong>Realistic chain physics:</strong> The chain is fully simulated and wraps around platforms. Use this power to your advantage</p></li><li><p class=\"bb_paragraph\" ><strong>Leaderboards:</strong> Compare your climbs with the world</p></li><li><p class=\"bb_paragraph\" ><strong>Meaningful rewards:</strong> Leaderboards and Achievements are only valid in Normal and Lava Modes</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/extras/c105bb1b356ae985af6b8ba310dc1f18.poster.avif?t=1780398049\" width=1170 height=500 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/extras/c105bb1b356ae985af6b8ba310dc1f18.webm?t=1780398049\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/extras/c105bb1b356ae985af6b8ba310dc1f18.mp4?t=1780398049\" type=\"video/mp4\"></video></span></p>",
+        "developers": [
+            "Anegar Games"
+        ],
+        "publishers": [
+            "Secret Mode"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 499,
+            "final": 399,
+            "discount_percent": 20,
+            "initial_formatted": "$4.99",
+            "final_formatted": "$3.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 39,
+                "description": "Shared/Split Screen Co-op"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            }
+        ],
+        "recommendations": {
+            "total": 52668
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jun 19, 2024"
+        }
+    }
+}

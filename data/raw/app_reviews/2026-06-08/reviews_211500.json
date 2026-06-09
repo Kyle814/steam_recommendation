@@ -1,0 +1,47 @@
+{
+    "ingested_at": "2026-06-08T19:06:44.017574",
+    "app_id": "211500",
+    "review_count": 4,
+    "reviews": [
+        {
+            "review_id": "222808745",
+            "steam_id": "76561198160565205",
+            "playtime_minutes": 58052,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I think it's a fun racing simulator. I am able to get in, and race with relative ease. And it's good to know that the other players in the race are subject to the same rules, physics and conditions as me. It's why I put as much time in to it, as I have."
+        },
+        {
+            "review_id": "221430045",
+            "steam_id": "76561198161322217",
+            "playtime_minutes": 1485,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "You don't really want my review. At all. I have a basic grasp of how to operate this game and I'm having a blast. Last time I played a car racing game, It came on a cassette tape and it was called \"outrun\". Had no idea how things had progressed in the video game world but for fossils like me? Play this. try the practice feature and try not to run into a tree. Also. Bought a steering wheel with pedals from shopgoodwill. Not even joking. You'll need one of those."
+        },
+        {
+            "review_id": "222656220",
+            "steam_id": "76561198034461432",
+            "playtime_minutes": 9844,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The goat, they just need to add weather effects!"
+        },
+        {
+            "review_id": "223931208",
+            "steam_id": "76561198030982481",
+            "playtime_minutes": 762334,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "ingested_at": "2026-06-08T20:00:17.446126",
+    "app_id": "2254890",
+    "metadata": {
+        "type": "game",
+        "name": "The Killing Antidote",
+        "steam_appid": 2254890,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "This is a TPS game. Shooting, fighting, dress-up, puzzle solving, and more. In the future, a special germ causes humans to be constantly infected and mutated. The protagonist, Jodi, is a brave journalist who goes on her way to find the legendary antidote and is in danger.",
+        "detailed_description": "<h2 class=\"bb_tag\" >Synopsis</h2><p class=\"bb_paragraph\" >In the future, a special germ will cause human beings to continue to be infected and mutated, and the human world is about to come to an end.</p><p class=\"bb_paragraph\" >The protagonist, Jodi, is a brave freelance journalist who investigates the inside story of the incident and searches for the legendary antidote, and unknowingly is in danger.</p><h2 class=\"bb_tag\" >Gameplay features</h2><p class=\"bb_paragraph\" >This game is a third-person action genre that mainly contains elements such as shooting, melee combat, and puzzle solving.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254890/extras/a6a2891928e56dc5d3c14a839346f9e7.poster.avif?t=1776157910\" width=800 height=232 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254890/extras/a6a2891928e56dc5d3c14a839346f9e7.webm?t=1776157910\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254890/extras/a6a2891928e56dc5d3c14a839346f9e7.mp4?t=1776157910\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >● Detailed visual rendering</p><p class=\"bb_paragraph\" >● A stunningly beautiful protagonist</p><p class=\"bb_paragraph\" >● Customizable wardrobe, hairstyles, and makeup for endless style variations</p><p class=\"bb_paragraph\" >● Satisfying combat with a variety of melee weapons, firearms, and bows</p><p class=\"bb_paragraph\" >● Stealth, assassination, and decisive combat strategies intertwine seamlessly</p><p class=\"bb_paragraph\" >● Rich action and interaction design</p><p class=\"bb_paragraph\" >● A chilling post-apocalyptic atmosphere teeming with secrets</p><p class=\"bb_paragraph\" >● Machines, deciphering puzzles, and mini-games abound, offering various enigmatic riddles</p><p class=\"bb_paragraph\" >● A innovative random loot system</p><p class=\"bb_paragraph\" >● Challenging gameplay features, Rogue-Lite, randomized dungeons, and more</p><p class=\"bb_paragraph\" >● Diverse enemies with unique characteristics</p><p class=\"bb_paragraph\" >● A gripping storyline unfolds</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254890/extras/0cecd08d43c3a15422bd5fff0af77805.poster.avif?t=1776157910\" width=800 height=234 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254890/extras/0cecd08d43c3a15422bd5fff0af77805.webm?t=1776157910\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254890/extras/0cecd08d43c3a15422bd5fff0af77805.mp4?t=1776157910\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Development Team</h2><p class=\"bb_paragraph\" >This game is developed by Johnny and Naux, we hope that this game will bring you an enjoyable gaming experience. Thank you for your interest and support.</p><p class=\"bb_paragraph\" >The game is still in development and is not yet complete, so please feel free to communicate with us and we'll work together to make this game better!</p>",
+        "developers": [
+            "MetalStar Studio"
+        ],
+        "publishers": [
+            "MetalStar Studio"
+        ],
+        "price_overview": {
+            "currency": "HKD",
+            "initial": 18700,
+            "final": 18700,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "HK$ 187.00"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "70",
+                "description": "Early Access"
+            }
+        ],
+        "recommendations": {
+            "total": 7144
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "5 Oct, 2024"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "ingested_at": "2026-06-08T20:05:05.411131",
+    "app_id": "1677740",
+    "review_count": 2,
+    "reviews": [
+        {
+            "review_id": "227075272",
+            "steam_id": "76561199231745258",
+            "playtime_minutes": 2258,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "horrid cash grab"
+        },
+        {
+            "review_id": "227456986",
+            "steam_id": "76561198983298062",
+            "playtime_minutes": 4104,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "mt ez"
+        }
+    ]
+}

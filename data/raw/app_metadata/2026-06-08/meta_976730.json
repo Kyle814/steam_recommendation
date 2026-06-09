@@ -1,0 +1,120 @@
+{
+    "ingested_at": "2026-06-08T19:19:25.654581",
+    "app_id": "976730",
+    "metadata": {
+        "type": "game",
+        "name": "Halo: The Master Chief Collection",
+        "steam_appid": 976730,
+        "required_age": "18",
+        "is_free": false,
+        "short_description": "The Master Chief’s iconic journey includes six games, built for PC and collected in a single integrated experience. Whether you’re a long-time fan or meeting Spartan 117 for the first time, The Master Chief Collection is the definitive Halo gaming experience.",
+        "detailed_description": "The series that changed console gaming forever is on PC with six blockbuster games in one epic experience.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/extras/30126b272fe0670ecf5872db7d9b39ff.poster.avif?t=1774466074\" width=600 height=100 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/extras/30126b272fe0670ecf5872db7d9b39ff.webm?t=1774466074\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/extras/30126b272fe0670ecf5872db7d9b39ff.mp4?t=1774466074\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >PC Settings/Optimizations</h2> Halo: The Master Chief Collection is now optimized for PC and looking better than ever at up to 4k UHD and at 60+ FPS.* Other setting options include customizable mouse and keyboard support, ultrawide support, FOV customization, and more.<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/extras/c317c505d03c48bf3029cdcaf8b85842.poster.avif?t=1774466074\" width=600 height=100 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/extras/c317c505d03c48bf3029cdcaf8b85842.webm?t=1774466074\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/extras/c317c505d03c48bf3029cdcaf8b85842.mp4?t=1774466074\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Campaign</h2> Featuring Halo: Reach, Halo: Combat Evolved Anniversary, Halo 2: Anniversary, Halo 3, Halo 3: ODST Campaign, and Halo 4, The Master Chief Collection offers players their own exciting journey through the epic saga. Starting with the incredible bravery of Noble Six in Halo: Reach and ending with the rise of a new enemy in Halo 4, the Master Chief’s saga totals 67 campaign missions over six critically-acclaimed titles.<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/extras/1aa0af626dcd83c797685c73c3ae5ab5.poster.avif?t=1774466074\" width=600 height=100 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/extras/1aa0af626dcd83c797685c73c3ae5ab5.webm?t=1774466074\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/extras/1aa0af626dcd83c797685c73c3ae5ab5.mp4?t=1774466074\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Multiplayer</h2> Each of the six games in The Master Chief Collection brings its own multiplayer maps, modes and game types. With more than 120 multiplayer maps and countless ways to play with community-created Forge content the Collection has the most diverse and expansive Halo multiplayer experience to date.<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/extras/c5fdab8305aebecba379d141ea302f24.poster.avif?t=1774466074\" width=600 height=100 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/extras/c5fdab8305aebecba379d141ea302f24.webm?t=1774466074\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/extras/c5fdab8305aebecba379d141ea302f24.mp4?t=1774466074\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Forge</h2> Halo’s iconic map editor is improved, refreshed and better than ever. Build new maps with expanded functionality, increased budget, new objects and create new ways to play with custom game modes.**<br><br><br>*Look to system requirements for guidance on hardware minimum specs to achieve performance metrics.<br><br>**Forge mode not available in Halo: Combat Evolved Anniversary or Halo 3: ODST.",
+        "developers": [
+            "343 Industries",
+            "Splash Damage",
+            "Ruffian Games",
+            "Bungie",
+            "Saber Interactive"
+        ],
+        "publishers": [
+            "Xbox Game Studios"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 47,
+                "description": "LAN PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 48,
+                "description": "LAN Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 236193
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Dec 3, 2019"
+        }
+    }
+}

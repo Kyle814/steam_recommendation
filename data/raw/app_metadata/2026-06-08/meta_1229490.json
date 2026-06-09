@@ -1,0 +1,72 @@
+{
+    "ingested_at": "2026-06-08T19:10:17.373690",
+    "app_id": "1229490",
+    "metadata": {
+        "type": "game",
+        "name": "ULTRAKILL",
+        "steam_appid": 1229490,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "ULTRAKILL is a fast-paced ultra-violent retro FPS that combines the skill-based style scoring of character action games with the unadulterated carnage inspired by the best shooters of the '90s. Rip apart your foes with varied destructive weaponry and shower in their blood to regain your health.",
+        "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/extras/7817b92f84d492285698bd23b3048550.poster.avif?t=1779956369\" width=600 height=94 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/extras/7817b92f84d492285698bd23b3048550.webm?t=1779956369\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/extras/7817b92f84d492285698bd23b3048550.mp4?t=1779956369\" type=\"video/mp4\"></video></span><br><br><strong><i>ULTRAKILL</i></strong> is a fast-paced ultraviolent old school FPS that fuses together classic shooters like <i>Quake</i>, modern shooters like <i>Doom (2016)</i> and character action games like <i>Devil May Cry</i>.<br><br>Mankind has gone extinct and the only beings left on earth are machines fueled by <strong>blood</strong>.<br>But now that blood is starting to run out on the surface...<br>Machines are racing to the depths of <strong>Hell</strong> in search of more.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/extras/9b8c611f17622caa18ade61a5f1cd064.poster.avif?t=1779956369\" width=600 height=94 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/extras/9b8c611f17622caa18ade61a5f1cd064.webm?t=1779956369\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/extras/9b8c611f17622caa18ade61a5f1cd064.mp4?t=1779956369\" type=\"video/mp4\"></video></span><br><br><ul class=\"bb_ul\"><li>Use your many movement abilities to stay mobile and avoid the relentless attacks of the dead, demons and other machines.<br></li><li>Destroy them with an arsenal of incredibly powerful weapons, each with multiple available variations.<br></li><li>Soak yourself in their blood to regain health and keep fighting.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/extras/cabdd9a2ea70a26debe67902ab5abd50.poster.avif?t=1779956369\" width=600 height=94 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/extras/cabdd9a2ea70a26debe67902ab5abd50.webm?t=1779956369\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/extras/cabdd9a2ea70a26debe67902ab5abd50.mp4?t=1779956369\" type=\"video/mp4\"></video></span><br><br></li><li>Kill fast and with SSStyle to rack up combos and gain points that can be used on weapon variations between missions.<br></li><li>Master the many levels to achieve high ranks and take on unique optional challenges.<br></li><li>Explore the varied and unique campaign environments inspired by <strong>Dante's Inferno</strong> to find plentiful hidden secrets</li></ul>",
+        "developers": [
+            "Arsi \"Hakita\" Patala"
+        ],
+        "publishers": [
+            "New Blood Interactive"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 2999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$29.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "70",
+                "description": "Early Access"
+            }
+        ],
+        "recommendations": {
+            "total": 203268
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 3, 2020"
+        }
+    }
+}

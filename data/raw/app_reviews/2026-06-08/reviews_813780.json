@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T18:55:40.083249",
+    "app_id": "813780",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "226613484",
+            "steam_id": "76561198194410390",
+            "playtime_minutes": 3264,
+            "voted_up": true,
+            "votes_up": 26,
+            "weighted_score": 0.734472930431366,
+            "steam_purchase": true,
+            "review_text": "I have bought this game on Windows, Linux, Xbox, but I would have never thought I'd ever see this game available on MacOS. I don't know what happened but I'm glad it did!"
+        },
+        {
+            "review_id": "225467981",
+            "steam_id": "76561198393456696",
+            "playtime_minutes": 488,
+            "voted_up": true,
+            "votes_up": 14,
+            "weighted_score": 0.6782854795455933,
+            "steam_purchase": true,
+            "review_text": "Best PC game ever, works very well on Linux.\n\nToday installing this on macOS, I don't even have to pay for this MacOS support! wow! Happy!"
+        },
+        {
+            "review_id": "225444859",
+            "steam_id": "76561198002564316",
+            "playtime_minutes": 16971,
+            "voted_up": true,
+            "votes_up": 9,
+            "weighted_score": 0.6470363736152649,
+            "steam_purchase": true,
+            "review_text": "I’ve been playing AoE2 since the original game released back in 1999. It’s honestly kind of crazy how well this game has held up over the years.\n\nThe Definitive Edition is exactly what I wanted from a modern remake. It keeps that classic AoE2 feel intact while adding modern graphics, quality of life improvements, new content, active support, and overall just making the game smoother to play.\n\nA lot of older games lose what made them special when they get remade, but this one didn’t. It still has that same addictive gameplay loop and charm that made me love it decades ago. \n\nVery few games can stay relevant for over 25 years and still feel this good to play. Absolute classic.  10/10 an absolute must play."
+        },
+        {
+            "review_id": "227124063",
+            "steam_id": "76561198165110366",
+            "playtime_minutes": 10107,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5636203289031982,
+            "steam_purchase": true,
+            "review_text": "Game won't even launch after the latest 177723 patch, it's been more than 24 hours with no fix please do something devs"
+        },
+        {
+            "review_id": "226733651",
+            "steam_id": "76561198039479430",
+            "playtime_minutes": 3003,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5483871102333069,
+            "steam_purchase": true,
+            "review_text": "You know what this one is about, there's not much else to be said, arguably the best RTS in the history of gaming so far and i say this as someone who does not hold it as his no.1 RTS.\r\n\r\nHit or Miss, the amount of single player handcrafted content on this game with it's dlc is absolutely staggering."
+        },
+        {
+            "review_id": "227212956",
+            "steam_id": "76561198066478992",
+            "playtime_minutes": 1721,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5454545617103577,
+            "steam_purchase": true,
+            "review_text": "Great game that has stood the test of time better than any game I've ever seen. This version of the game has 3x the civilizations you remember as a kid, with tons of extra single player content if that interests you, as well as balanced multiplayer that gets updated constantly. It's streamlined and easy to play multiplayer, unlike how I remember playing on 3rd party apps when I was younger. Genuinely everything is improved upon and more fun than the 2013 HD version, as well as the original. Might be the best RTS game to get into right now."
+        },
+        {
+            "review_id": "225254753",
+            "steam_id": "76561198077634014",
+            "playtime_minutes": 23477,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5397781133651733,
+            "steam_purchase": true,
+            "review_text": "Love this game, very active multiplayer scene as well as a lot of solid single player content. 10/10"
+        },
+        {
+            "review_id": "226040338",
+            "steam_id": "76561198125035928",
+            "playtime_minutes": 52679,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.539617657661438,
+            "steam_purchase": true,
+            "review_text": "Used to be the best RTS ever.  Updates lately have made it less playable in frustrating ways.  Map gens are worse, pathing is worse, and I'm certain that click hit boxes are bugged, clicking and double clicking units often behave unpredictably.  Simple things like laying down a wall often fail for weird game breaking reasons.  And the terrain is worse somehow, making it impossible to find gaps without locking gates and testing. The game was more stable and playable before.  I'm excited to recommend again someday if they fix it.  Please make this as good as AOE2 CE."
+        },
+        {
+            "review_id": "225862758",
+            "steam_id": "76561199771843653",
+            "playtime_minutes": 6446,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5350803136825562,
+            "steam_purchase": true,
+            "review_text": "This game is hard to get into competitively because of it's complexity, but it still gets love from it's developers decades after it was made. Still gets updates and tweaks. the community is very non-toxic compared to other games. The developers also openly support mods made by the community and allow them to be downloaded internally. It takes a while to get into but in my opinion it is well worth it."
+        },
+        {
+            "review_id": "227223900",
+            "steam_id": "76561198180509117",
+            "playtime_minutes": 108875,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5247315764427185,
+            "steam_purchase": true,
+            "review_text": "Still getting matchmaking bugs, where you sit in queue for 5 minutes before it tells you there's an error.\r\nOn ready up screen for ranked gameplay entire interface froze not allowing me to ready up or pick civ/color.\r\nAnother update after another update where they do not address smurfing, don't set up punishment for people intentionally dropping ELO.\r\nCan we please get a lobby function. Why do groups of players/friends have to reform after every single match. When the game ends allow the group that queue'd together to be back in matchmaking groups. This would help with queue times as well.\r\n\r\nDevs couldn't even have the decency for MAC players to be able to play online with Windows. \r\n\r\nBut thank god they gave us another 3-4 civs that we can drop $15-20 on. Stop giving us civilizations and improve the game. What was once a dedicated company like Ensemble Studios and fan-inspired official ForgottenEmpires, we are now stuck with XBOX gaming and corporate shills that don't understand the playerbase and fanbase of AOE II. \r\n\r\nI have almost 2000 hours, and can say that you still need to fix pathing."
+        },
+        {
+            "review_id": "227193229",
+            "steam_id": "76561199013498571",
+            "playtime_minutes": 210,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5241493582725525,
+            "steam_purchase": true,
+            "review_text": "Cannot play w/ my friend because he's on MacOS... why release a game to an OS but not have the full game available to them, isn't that false-advertisement? :( Im very upset. CROSSPLAY WINDOWS WITH MAC WHEN?"
+        },
+        {
+            "review_id": "227153328",
+            "steam_id": "76561199497793817",
+            "playtime_minutes": 3200,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5239773988723755,
+            "steam_purchase": true,
+            "review_text": "Game generally worked as expected. But NO CROSSPLAY between windows and mac is not acceptable. And at this point wish I hadnt bought two versions for my son and me, but too late."
+        },
+        {
+            "review_id": "227171567",
+            "steam_id": "76561198749336500",
+            "playtime_minutes": 2465,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5192307829856873,
+            "steam_purchase": true,
+            "review_text": "What is there to say. The legendary game plus dozens of civilisations, 500 poulation cap, user interface improvements and better graphics. Still the best RTS!"
+        },
+        {
+            "review_id": "225902930",
+            "steam_id": "76561198005046629",
+            "playtime_minutes": 28172,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.518677294254303,
+            "steam_purchase": true,
+            "review_text": "Its surprising the amount of smurf accounts, literally unplayable.\r\nAccount boosting, people tanking 1200-1500 elo accounts to play with 600-800\r\n\r\nAlso, report system doesnt work."
+        },
+        {
+            "review_id": "227475246",
+            "steam_id": "76561198074516973",
+            "playtime_minutes": 24,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5170940160751343,
+            "steam_purchase": true,
+            "review_text": "No cross play on macos! Why release this game with no cross play, I want to play with my friends"
+        },
+        {
+            "review_id": "227472378",
+            "steam_id": "76561198335376037",
+            "playtime_minutes": 112,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5170940160751343,
+            "steam_purchase": true,
+            "review_text": "Controls are still clunky, minimap pretty much unreadable. Why can't we have proper remake with QoL improvements? I can't bind different productions on the same button like in other RTS, pathing is griefing me and overall the game feels outdated with just new upscaled textures. Low effort remake"
+        },
+        {
+            "review_id": "225847658",
+            "steam_id": "76561198822151771",
+            "playtime_minutes": 108182,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5145630836486816,
+            "steam_purchase": true,
+            "review_text": "Age of empire II runs well out-of-the-box on the last Ubuntu LTS\r\n"
+        },
+        {
+            "review_id": "227200089",
+            "steam_id": "76561198185346691",
+            "playtime_minutes": 38,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5051319599151611,
+            "steam_purchase": true,
+            "review_text": "I have been playing this game since it came out. I'm old.\r\n\r\nIt WAS a good relaxing thing, fun and balanced.\r\n\r\nBut the devs pulled some bull**** and broke the game iwth some update and it won't load. I am not alone.\r\n\r\nApparently they have not fixed it for days, I am not alone and not a word from the devs.\r\n\r\nSpend your money on games that work.  This one does not.  A sad end to a decent game."
+        },
+        {
+            "review_id": "227480596",
+            "steam_id": "76561198738075631",
+            "playtime_minutes": 358,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Runs great on base Apple Silicon"
+        },
+        {
+            "review_id": "227461340",
+            "steam_id": "76561198030907842",
+            "playtime_minutes": 4741,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Classic RTS, one of the GOATS, so great to have it supported for modern hardware."
+        },
+        {
+            "review_id": "227457523",
+            "steam_id": "76561199568873875",
+            "playtime_minutes": 7,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I know this game is great, I played it all the time when I was kid. But I had to give this one a thumbs down for advertising in the description that it work on OS when in fact it doesn't. It crashes at the startup every time. Even when I've changed the setting to bypass it and start directly in the game it still crashes. Tried integrity check still didn't work. I have a Macbook pro M5. It says on the description M1 and over so there shouldn't be any issues. I'm really disappointed and I was looking forward to the nostalgic gameplay. If they ever fix this issue, I'll definitely buy it again in a heartbeat and change my review..."
+        },
+        {
+            "review_id": "227450709",
+            "steam_id": "76561199227042486",
+            "playtime_minutes": 26420,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love this game.  it is my childhood afterall :D \n\nI would like to see more co-op Campaigns even from DLCs \nI would like to see campaigns of Jurchen and Khitans\n\n"
+        },
+        {
+            "review_id": "227447024",
+            "steam_id": "76561198210702700",
+            "playtime_minutes": 35305,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is a fantastic game. The learning curve is steep, but it can be a lot of fun."
+        },
+        {
+            "review_id": "227428660",
+            "steam_id": "76561198030027035",
+            "playtime_minutes": 22256,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the best RTS games of all time. They continue to add incredible campaigns and updates and I highly recommend this game."
+        },
+        {
+            "review_id": "227420207",
+            "steam_id": "76561198816149763",
+            "playtime_minutes": 111,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Después de la última actualización no pudo iniciar más el juego, no se qué pasó realmente pero es molesto"
+        },
+        {
+            "review_id": "227404700",
+            "steam_id": "76561198062881778",
+            "playtime_minutes": 4284,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The GAME is fantastic, Steam's oversight is buggy AF. The game is never ready to play and has \"corrupted files\" constantly, requiring an uninstall before launching. Do better."
+        },
+        {
+            "review_id": "227386896",
+            "steam_id": "76561198256604634",
+            "playtime_minutes": 10000,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I've been playing Age of Empires II: Definitive Edition since childhood, and it's still one of the best games I've ever played. The mix of strategy, resource management, and epic battles never gets old. Every match feels different, and there's always a new tactic or civilization to explore. It's one of those rare games that has stayed fun and relevant for decades, and I keep coming back to it even after all these years. A true classic and easily one of the greatest strategy games ever made."
+        },
+        {
+            "review_id": "227383618",
+            "steam_id": "76561198061659215",
+            "playtime_minutes": 309,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing that such an old game can be still so good.  MacOS port is really good too."
+        },
+        {
+            "review_id": "227377857",
+            "steam_id": "76561199526736283",
+            "playtime_minutes": 497,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun, even though this game is very old, pretty cool how the gameplay is still so fun and addicting even after 20 something years"
+        },
+        {
+            "review_id": "227376904",
+            "steam_id": "76561198259762509",
+            "playtime_minutes": 10854,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Multiplayer Ranked not recommend, On top of that, the gameplay is incredibly smooth."
+        },
+        {
+            "review_id": "227364329",
+            "steam_id": "76561198143160115",
+            "playtime_minutes": 3695,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "child hood classic rts that still holds up to this utter love this game and will never stop"
+        },
+        {
+            "review_id": "227362595",
+            "steam_id": "76561198701884477",
+            "playtime_minutes": 1236,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Just a great classic that can still be enjoyed as time goes on by new and returning players."
+        },
+        {
+            "review_id": "227357593",
+            "steam_id": "76561198273948549",
+            "playtime_minutes": 371,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "As good now as it ever was. It infiltrates my dreams. It compels me. I suspect I'll play for a few days and then leave it a year but be drawn back."
+        },
+        {
+            "review_id": "227355386",
+            "steam_id": "76561198159105521",
+            "playtime_minutes": 6380,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "great game. play at your own speed, against the computer or others."
+        },
+        {
+            "review_id": "227355270",
+            "steam_id": "76561198725396727",
+            "playtime_minutes": 6828,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Age of Empires isn't just entertaining, it actually makes you think through every move like a chessboard. It's a really fun game, and it totally brings back childhood memories"
+        },
+        {
+            "review_id": "227328230",
+            "steam_id": "76561199864812869",
+            "playtime_minutes": 10616,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game, so much to learn and plenty room for improvement makes it worth pursuing."
+        },
+        {
+            "review_id": "227327500",
+            "steam_id": "76561198009723579",
+            "playtime_minutes": 600,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "My all time favorite pc game during my childhood and now it's now playable on mac, the three kingdom DLC is incredible, heroes are amazing, units are unique. Highly recommended. Look forward to more DLC."
+        },
+        {
+            "review_id": "227227468",
+            "steam_id": "76561197969031665",
+            "playtime_minutes": 4095,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I bought this when it originally came out in 1999 and have loved playing it ever since.  It is, hands down, the greatest game ever made.  If you on the fence, just buy it, you will not be disappointed."
+        },
+        {
+            "review_id": "227129697",
+            "steam_id": "76561199011335774",
+            "playtime_minutes": 76672,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It is the greatest game in the history of the earth and probably other planets too. Long live the Ballistics Elephants! 🐘🚀"
+        },
+        {
+            "review_id": "227100920",
+            "steam_id": "76561198016720494",
+            "playtime_minutes": 19951,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Possibly the greatest real-time strategy game of all time."
+        },
+        {
+            "review_id": "227100788",
+            "steam_id": "76561199480815523",
+            "playtime_minutes": 1139,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Every time I want to play, I have to fight with updates trying to start. Ain't no way I'm waiting for 4 GB slop to squeeze through 20 Mbps every time I run this. It's a 30 year old game and I play single player, that's completely pointless."
+        },
+        {
+            "review_id": "227091655",
+            "steam_id": "76561198071809011",
+            "playtime_minutes": 103,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Guys, it's Age Of Empires 2. Its one of the greatest games of all time. There is a reason that it's still dropping content  even after being released in 1999. GOAT."
+        },
+        {
+            "review_id": "227091288",
+            "steam_id": "76561198104600858",
+            "playtime_minutes": 827,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing game, lots to learn and be efficient on tasks, good helping community"
+        },
+        {
+            "review_id": "227087432",
+            "steam_id": "76561197995653352",
+            "playtime_minutes": 7578,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I played this game growing up, and it still gives me pleasure! A true diamond amongst pebbles, just get it!"
+        },
+        {
+            "review_id": "227068836",
+            "steam_id": "76561199813664263",
+            "playtime_minutes": 220,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Me buying the game was purely sentimental. A hark back to my childhood where I would use cheat codes and play. Now that I have a brain, this game is quite fun to play. The content is rich because you can play for hours and not get tired. The winning factor for this game is that the developers update the game frequently. So buying the game rather than cracking is better."
+        },
+        {
+            "review_id": "227066834",
+            "steam_id": "76561198117117694",
+            "playtime_minutes": 54019,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I catch up for the AoE train in recent year, but never regret it. 900 hours of fun single and sometimes multiplayer to."
+        },
+        {
+            "review_id": "227063122",
+            "steam_id": "76561199795458249",
+            "playtime_minutes": 50950,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fantastic game of strategy that involves the topography as the ultimate weapon.  Just have to have an excellent memory and the eye to defend the most land with the least amount of resources."
+        },
+        {
+            "review_id": "227059825",
+            "steam_id": "76561198696889088",
+            "playtime_minutes": 622,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A classic, really good game with new content going out all the time and active devs."
+        },
+        {
+            "review_id": "227036822",
+            "steam_id": "76561198014452789",
+            "playtime_minutes": 7326,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5454545617103577,
+            "steam_purchase": true,
+            "review_text": "Overall the game is great.\n\nUpdate of 2026-06-02 broke running on Linux due to a Nullpointer on the updated .exe - SeregaMP found the solution to be to reinstall vcredist2022.exe which did not work for me. purging all game files and installing from scratch (not transferring from other PC) worked for me."
+        },
+        {
+            "review_id": "227034449",
+            "steam_id": "76561198106043476",
+            "playtime_minutes": 218,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing game, great execution, long awaited classic finally came to Mac! Can't wait for the rest of AoE franchise to be converted to the Apple ecosystem. The graphics are flawless and the game runs smoothly without crashes or issues. The only negative part is that there is (not yet) cross-platform multiplayer :("
+        },
+        {
+            "review_id": "227031982",
+            "steam_id": "76561198085342575",
+            "playtime_minutes": 25999,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I played this game when I was 6 years old, I shall keep playing it until the day I die, after which my ghost will come back to haunt this game and finally teach the AI how to pathfind properly"
+        },
+        {
+            "review_id": "227015023",
+            "steam_id": "76561199094320205",
+            "playtime_minutes": 1238,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of my favorite childhood games. Coming back to Age of Empires II feels like reliving old memories. A true classic."
+        },
+        {
+            "review_id": "227012507",
+            "steam_id": "76561199172849864",
+            "playtime_minutes": 249793,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "this game is an absolute banger a real masterpiece nice campaign nice multijoeur the game is a bit buggy the pathfinding is not the best and but overall great game just look how many times i have played"
+        },
+        {
+            "review_id": "227001394",
+            "steam_id": "76561198088713932",
+            "playtime_minutes": 777,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Extremely fun game for people interested in ancient warfare strategy and such"
+        },
+        {
+            "review_id": "226994066",
+            "steam_id": "76561199541214744",
+            "playtime_minutes": 664,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Awesome game. I played this game when I was a kid and now it's new like just the way it is. If you want to play war strategy game, you should try it."
+        },
+        {
+            "review_id": "226987329",
+            "steam_id": "76561198133604402",
+            "playtime_minutes": 57880,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game, Keeps the nostalgia of growing up with it while offering competitive and wonderful gameplay in the online community"
+        },
+        {
+            "review_id": "226986714",
+            "steam_id": "76561198025418408",
+            "playtime_minutes": 107,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Excellent remake of the 2002 classic. There has been significant content added, and the game is more fun than ever. I only play multiplayer, and I must warn other Mac players that queue times take a few minutes. There is no crossplay, so other means of playing the Windows version may become necessary for multi-player in the long-term."
+        },
+        {
+            "review_id": "226963602",
+            "steam_id": "76561199858111172",
+            "playtime_minutes": 2434,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "classic game, great to play with my son"
+        },
+        {
+            "review_id": "226955776",
+            "steam_id": "76561198093504884",
+            "playtime_minutes": 4993,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love this game. My friends got me into it, T90's relentless streaming got me invested into it. Not an easy game by any means, you will absolutely get stomped again and again. But it's fun to play and more fun to win, and it keeps me coming back."
+        },
+        {
+            "review_id": "226910558",
+            "steam_id": "76561198059355033",
+            "playtime_minutes": 633,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Hands down best AoE game. Awesome job with the updates and continuing support for the community."
+        },
+        {
+            "review_id": "226884600",
+            "steam_id": "76561198001003757",
+            "playtime_minutes": 3023,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Evn replaying while still giving you familiarity, still offers decent challenges with always different scenarios to play in. Love that - never gets boring."
+        },
+        {
+            "review_id": "226880554",
+            "steam_id": "76561198871736591",
+            "playtime_minutes": 15318,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Have only really played the multiplayer, not the campaigns.  The game runs well and is a timeless classic, with a strong community.  Ranked is a one of the less toxic I've encountered and overall a great time, but I mostly play with friends.  Sometimes I wish the devs would put more effort into improving QoL features such as keeping your multiplayer lobby together after a match, but maybe that's just part of the Y2K charm. The fact that this game is essentially almost 30 years old and still getting regular content updates tells you all you need to know."
+        },
+        {
+            "review_id": "226846548",
+            "steam_id": "76561198121743798",
+            "playtime_minutes": 489,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A classic game with a game play that does not get old. Finally available on MacOS and running smoothly."
+        },
+        {
+            "review_id": "226819714",
+            "steam_id": "76561198271177029",
+            "playtime_minutes": 204,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Man I missed this game. Just massive throwback style remastered and just as fun."
+        },
+        {
+            "review_id": "226815438",
+            "steam_id": "76561198127399817",
+            "playtime_minutes": 936,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very fun and nostalgic to play against AI, however the multiplayer is full of boring \"performative\" kids, who rage quit if you don't follow the eact base layout as them (which consists of squares of buildings), nothing like we used to play. I've there are some servers that play for fun with organic behavior but I haven't met any of them yet"
+        },
+        {
+            "review_id": "226784763",
+            "steam_id": "76561199837444830",
+            "playtime_minutes": 211,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is a classic! I enjoyed it when I was 12, and again now at 35. It can easily be played online with friends either versing each other or co-op against the game generated enemies."
+        },
+        {
+            "review_id": "226749166",
+            "steam_id": "76561197980784502",
+            "playtime_minutes": 295,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "As good as I remember it. Several quality of life additions, upgraded graphics, rich historical campaigns, varied societies and ages. All around fun."
+        },
+        {
+            "review_id": "226723574",
+            "steam_id": "76561198062295149",
+            "playtime_minutes": 2026,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is a masterpiece and a LEGEND! That's why he still have new players and tournaments until now."
+        },
+        {
+            "review_id": "226650123",
+            "steam_id": "76561198332739469",
+            "playtime_minutes": 1044,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It is one of the first games I have ever played and one of my favorites. Should you wish for what it offers, you shall be happy with what you receive."
+        },
+        {
+            "review_id": "226640926",
+            "steam_id": "76561198003757915",
+            "playtime_minutes": 2100,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game is legenday and I have long enjoyed on an old PC but now finally can run on my modern Mac OS and the port is near-perfect! Thanks for another stellar Mac port by Feral!"
+        },
+        {
+            "review_id": "226639864",
+            "steam_id": "76561198062940791",
+            "playtime_minutes": 20916,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of the best games off all time is still alive and being constantly updated and balance. In my opinion the best currently RTS"
+        },
+        {
+            "review_id": "226636996",
+            "steam_id": "76561198440418881",
+            "playtime_minutes": 9360,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Best game ever, I do not know were the passion for games like this simple and fun went."
+        },
+        {
+            "review_id": "226627300",
+            "steam_id": "76561198887573310",
+            "playtime_minutes": 1472,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is unreal. One of the best real-time strategy games of all time. Lots of campaigns to play through. Peak."
+        },
+        {
+            "review_id": "226621840",
+            "steam_id": "76561199543257951",
+            "playtime_minutes": 58,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Been playing AoE2 for 20 years, and as a Mac user, I'm super excited about this. Fingers crossed that Age of Empires IV gets a Mac version too—it'll be an instant buy for me!"
+        },
+        {
+            "review_id": "226617784",
+            "steam_id": "76561199144441875",
+            "playtime_minutes": 38750,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "AoE2 is a genius game that I play since I was 11 years old. It teaches a great deal of history in the campaign mode, plus the ability to multitask when you start to play on simple maps against AI or other players. It is also a nice gaming platform to play with friends or strangers."
+        },
+        {
+            "review_id": "226560318",
+            "steam_id": "76561198165040807",
+            "playtime_minutes": 1001,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Particularly close to me since it was one of the first games I played as a kid, and it still holds up surprisingly well. Probably will forever be one of the best RTS games of all time."
+        },
+        {
+            "review_id": "226558480",
+            "steam_id": "76561198200765150",
+            "playtime_minutes": 14049,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Been playing this game for near 27 years and no other game has ever come close to beating it, not even it's sequels 10000% worth any $ but i do wish there were more of a community for the old custom scenario maps that used to be around during the voobly or earlier days."
+        },
+        {
+            "review_id": "226547403",
+            "steam_id": "76561198205259955",
+            "playtime_minutes": 3442,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love this game, if you're upset with a country, just raze it to the ground with an elephant and watch the world burn."
+        },
+        {
+            "review_id": "226542164",
+            "steam_id": "76561197974725958",
+            "playtime_minutes": 277,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Haven't played this in 20 years. Spun up a game vs AI and had a blast. Had the mechanics, buit no strategy, to what I was doing, just spammed out military units and villagers, but had so muhc fun. What a classic."
+        },
+        {
+            "review_id": "226528664",
+            "steam_id": "76561199388864139",
+            "playtime_minutes": 5922,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "An excellent game indeed. If possible, make a thorough campaign on The Crusades. from the 1st to the 9th"
+        },
+        {
+            "review_id": "226524995",
+            "steam_id": "76561198040573497",
+            "playtime_minutes": 8220,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great edition of a fantastic game.  Can run tons of units on screen which makes massive armies a blast.  Challenging and sharp and fun.  Pick it up!"
+        },
+        {
+            "review_id": "226521260",
+            "steam_id": "76561199008111306",
+            "playtime_minutes": 40570,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "1. Be good at the game\r\n2. Find someone else that isn't quite as good, but can still put up a bit of a fight\r\n3. They keep trying\r\n4. Win every time\r\n5. Somehow get 676 hours\r\n\r\n9/10, fun if you have someone (or a group) to play it with"
+        },
+        {
+            "review_id": "226513184",
+            "steam_id": "76561198027618519",
+            "playtime_minutes": 183,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I really like this game. It's a bit nostalgic for me as I played AoE 2: The Conquerors Expansion back in the mid to late 2000s. Most of what I remember is still here. The difficulty for the skirmishes feels a bit easier than I remember, but given I haven't played this in nearly 20 years, it does help in easing back in to the game."
+        },
+        {
+            "review_id": "226487600",
+            "steam_id": "76561198085014018",
+            "playtime_minutes": 8630,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "If I was trapped in a cell inside a bunker and had to choose ONE single videogame in all of history, to play for a long time, I would choose this one for its amazing gameplay, charming graphics, great mechanics, balance, campaign and replayability, I would choose this one above all. It has withstood the test of time while other RTS have faded slowly (I write with sorrow as a Warcraft 3 and CnC fan)\r\nNot only the campaigns are amazing and has a great training scenario, but you can run dozens of skirmishes with various difficulties and variables, as well as a living and kicking multiplayer, either for fun with friends or competitive\r\nIts a must in every PC gamers library, and a must to experience for everyone\r\n"
+        },
+        {
+            "review_id": "226454399",
+            "steam_id": "76561198250753976",
+            "playtime_minutes": 1245,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Play this game if you want to get destroyed by every player online. Still cant even beat the AI on normal difficultly after 20 hours of playing. No idea how to build anything in the correct order and still cant remember the 10 million hot key options. 10/10"
+        },
+        {
+            "review_id": "226409535",
+            "steam_id": "76561198087686811",
+            "playtime_minutes": 3374,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "why anti-cheat in single player? i understand banning cheaters in online games but not in single player.... you get home from work exhausted, you want to play and relax a bit vs ai or in campaign...."
+        },
+        {
+            "review_id": "226387244",
+            "steam_id": "76561198848552225",
+            "playtime_minutes": 3950,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good game to play with friends. Competitive and strategic as well."
+        },
+        {
+            "review_id": "226357853",
+            "steam_id": "76561198353504372",
+            "playtime_minutes": 26333,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I love this game, I have been playing this game since it first came out on CD and when you had to manually download the conquerors on a separate disk. That being said I love the new DLC's and how they allow you to return to Age of Empires (The OG) within this game. I love the new civs they added as well as the new units from the rocket carts and fire lancers. Overall, have had no issues with this game and I hope they continue to grow and add new civs, new units, and new gameplay features"
+        },
+        {
+            "review_id": "226344205",
+            "steam_id": "76561199077124035",
+            "playtime_minutes": 9578,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Used to play this game as a little kid, but at the time I didn't know how to play it. I would have the enemy levels extremely low, so I could mess around with the village, and pretend to be a farmer. \r\n\r\nNow I actually play what was intended, and this game is HARD! But so much fun!"
+        },
+        {
+            "review_id": "226311230",
+            "steam_id": "76561198107897834",
+            "playtime_minutes": 37025,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Coming from a long-time player of Age of Empires: The Rise of Rome, this game feels like home too. It's even better because AoE2's defensive advantage allows for longer games and late-game units to appear more often. Absolutely recommended."
+        },
+        {
+            "review_id": "226272400",
+            "steam_id": "76561198842795269",
+            "playtime_minutes": 4716,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "no tengo nada que decir, todos los que jugamos originalmente encontraremos en esta version la alegria. para los nuevos jugadores solo dire que es un juego que deben jugar, tiene historia, estrategia y mas. que buenos tiempos"
+        },
+        {
+            "review_id": "226197784",
+            "steam_id": "76561199124039123",
+            "playtime_minutes": 35313,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I play this game to better feel what racial dominance provides in an ancestral setting. 10/10"
+        },
+        {
+            "review_id": "226117525",
+            "steam_id": "76561199803545853",
+            "playtime_minutes": 13669,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "been playing ever since i was probably 8 i'm 22 now, 225+ hours in multiplayer for now i can proudly say I suck at this game. Love the game though and hope to improve in next 20y or so. Absolutely recommend to people who want to try fun war strategy game."
+        },
+        {
+            "review_id": "226116682",
+            "steam_id": "76561198116825397",
+            "playtime_minutes": 8266,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "best rts game ever, one of the best games ever.  There is a reason it is still played after almost 30 years"
+        },
+        {
+            "review_id": "226105775",
+            "steam_id": "76561199166584417",
+            "playtime_minutes": 1248,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I’ve spent a lot of hours screaming to my low iq friends that for some reason turned into ♥♥♥♥♥♥♥ Napoleon Bonaparte, and then another few in story mode riding a city with a army of camels I love this game"
+        },
+        {
+            "review_id": "226089909",
+            "steam_id": "76561199096653637",
+            "playtime_minutes": 12173,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the best strategy game that ever existed, nothing more to say"
+        },
+        {
+            "review_id": "226034446",
+            "steam_id": "76561198125330436",
+            "playtime_minutes": 1495,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Incredible game that was improved in every way (imo) with the remaster. If you enjoy RTS/MOBA games, this one is the best. Learning curve is a little high for multiplayer, but that's to be expected with this genre."
+        },
+        {
+            "review_id": "225963291",
+            "steam_id": "76561198217875023",
+            "playtime_minutes": 43679,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I played this game when I was teenager in 1999 I used to spend a lot of time playing it, and I'm still playing it today in 2026, it is a really fun game to play with friends."
+        },
+        {
+            "review_id": "225933939",
+            "steam_id": "76561198005612457",
+            "playtime_minutes": 15722,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "AOE 2 is an all-time classic and the modern DE updates make it even better.  Whether you enjoyed the game back in the day or are looking for something new, AOE 2 is a joy to play.  It's fun for a casual like me and I also love watching the pro player tourneys.  The community around the game is the best!"
+        },
+        {
+            "review_id": "225924219",
+            "steam_id": "76561198012358202",
+            "playtime_minutes": 160,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Like:\n- They sticked with origins of AoE II , without changing much the mechanics\n- Multiplayer and gameplay are improved and more smooth\n\nDislike:\n- I honestly don't like the visuals. Both menu and ingame they're not well polished, they tried to mimic a bit LoL and Fortinite style, I guess to attract more fanbase, but I rather prefer AoE II HD style by a mile, they could improve but still remain the same calm and clean design.\n- Multiplayer options and ELO are too clumsy and confusing, too many ELO types, ranked options. Let alone the UI , it's quite hard to understand in the matches if you will have good or bad teammates.\n\nFinal review: it is what it is, I would rather prefer AoE HD version 2.0, with same visuals, same simple ELO rating, with the newer mechanics and smoother gameplayer DE has. But it what we have, so buy it in a sale. I would never buy it a full price, it doesn't deserve the full price tag, it is far from being unplayable, but it's lazy done in comparison with HD edition."
+        }
+    ]
+}

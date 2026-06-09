@@ -1,0 +1,79 @@
+{
+    "ingested_at": "2026-06-08T19:58:16.860904",
+    "app_id": "297000",
+    "metadata": {
+        "type": "game",
+        "name": "Heroes® of Might & Magic® III - HD Edition",
+        "steam_appid": 297000,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "The most popular Heroes® title of all time is back in HD! Fifteen years later, rediscover the epic tale of Queen Catherine Ironfist, as she re-embarks on her critically acclaimed quest to unite her ravaged homeland and re-conquer the kingdom of Erathia.",
+        "detailed_description": "<strong>Important note: Heroes III – HD Edition content is based on the original 1999 game: The Restoration of Erathia. </strong><br><br><br>Do you remember all those sleepless nights spent fighting Black Dragons and Archangels, Demons and Necromancers? Were you a true fan of Heroes® of Might &amp; Magic® III? We have great news for you!<br><br>The most popular Heroes® title of all time is back in HD! Fifteen years later, rediscover the epic tale of Queen Catherine Ironfist, as she re-embarks on her critically acclaimed quest to unite her ravaged homeland and re-conquer the kingdom of Erathia.<br><br>Forge the destinies of mighty and magical heroes, leading fantastic and ferocious creatures in a game that still stands today as the landmark opus of the Might &amp; Magic: Heroes’ franchise.<br><br>Heroes® of Might &amp; Magic® III is a turn-based strategy game, originally released in February 1999.<br><br><strong>Key Features</strong><br><br>•\t<strong>A new HD experience</strong>: re-live the Heroes® III in HD, a true craftsmanship which offers players updated graphics, with wide screen compatibility.<br><br>•\t<strong>Enjoy the critically acclaimed Heroes® III gameplay</strong>, with 7 exciting campaign scenarios, around 50 skirmish maps, a local multiplayer mode and a map editor.<br><br>•\t<strong>A new online multiplayer lobby</strong>: Now Steamworks compatible, Heroes® III offers an online multiplayer lobby, where you can share your experience with the Heroes III community.",
+        "developers": [
+            "Dotemu"
+        ],
+        "publishers": [
+            "Ubisoft Entertainment"
+        ],
+        "price_overview": {
+            "currency": "HKD",
+            "initial": 10800,
+            "final": 10800,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "HK$ 108.00"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 65,
+            "url": "https://www.metacritic.com/game/pc/heroes-of-might-magic-iii---hd-edition?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 19803
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "28 Jan, 2015"
+        }
+    }
+}

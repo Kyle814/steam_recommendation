@@ -1,0 +1,77 @@
+{
+    "ingested_at": "2026-06-08T19:21:46.673088",
+    "app_id": "1608450",
+    "metadata": {
+        "type": "game",
+        "name": "Hellslave",
+        "steam_appid": 1608450,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Hellslave is a dark fantasy dungeon crawler where you make a pact with the Devil to fight back a demon invasion. Customize your character with powerful demonic abilities, explore a cursed world, and battle nightmarish enemies to save humanity if you can resist the darkness.",
+        "detailed_description": "<p class=\"bb_paragraph\" ><strong>Hellslave: A Dark Fantasy Dungeon Crawler</strong> </p><p class=\"bb_paragraph\" >The apocalypse is here, and humanity stands on the edge of extinction. In <i>Hell slave</i>, the only way to stop the demon horde is by making a pact with the Devil and choosing which of the 6 demons to worship. Will you embrace the power of darkness to save the world, or will it consume you? </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608450/extras/9011f39135e1c3204aabb380cdf45353.avif?t=1756893030\" width=610 height=196 /></span></p><h2 class=\"bb_tag\" ><strong>KEY FEATURES</strong></h2><p class=\"bb_paragraph\" ><strong>Fight Fierce Enemies and Overcome Nightmarish Bosses</strong> </p><p class=\"bb_paragraph\" >Deal with dozens of enemies from reanimated zombies, ghastly ghosts, and hellish demons. Confront monstrous bosses that could be the end of you or your salvation. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608450/extras/82239d8af095cdf88d05758bc6226fa0.poster.avif?t=1756893030\" width=600 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608450/extras/82239d8af095cdf88d05758bc6226fa0.webm?t=1756893030\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608450/extras/82239d8af095cdf88d05758bc6226fa0.mp4?t=1756893030\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Unleash Powerful Demonic Abilities</strong> <br>Customize your character with a unique passive skill tree, and experiment with dozens of demonic powers. Master the art of synergy, create devastating combos that crush your enemies. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608450/extras/4a2ff3d9adff73d4fd26214598a23ddb.avif?t=1756893030\" width=610 height=210 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Explore a Dark and Dangerous World</strong> <br>Travel on world maps filled with dozens of unique landmarks but beware of what lurks in the dark. From villages to graveyards and crypts, destroy your foes, retrieve old relics to help the inhabitants of this doomed world. <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608450/extras/7efccc5885e39729932a8247495e9b31.poster.avif?t=1756893030\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608450/extras/7efccc5885e39729932a8247495e9b31.webm?t=1756893030\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608450/extras/7efccc5885e39729932a8247495e9b31.mp4?t=1756893030\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Immerse Yourself in Dark Fantasy Art</strong> <br>Every moment of your journey is brought to life with stunning hand-crafted visuals and atmospheric cutscenes. Immerse yourself in a world where beauty and horror coexist, inspired by dark fantasy literature and art. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608450/extras/6cc4aea126d3caa1db2d36053e231fe9.avif?t=1756893030\" width=600 height=300 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>New Game+ for Endless Replays</strong> <br>The demons may have been defeated, but <i>Hellslave</i> is never the same twice. Unlock New Game+ and replay the nightmare with increased difficulty, different starting demons, and new challenges awaiting at every turn. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>A Dark Fantasy Experience Like No Other</strong> </p><p class=\"bb_paragraph\" ><i>Hellslave</i> brings classic dungeon crawling to life in a new, twisted form. Drawing inspiration from dark fantasy literature and artists like John Milton, it combines brutal turn-based combat, strategic gameplay, and a gripping story that will keep you on the edge. </p>",
+        "developers": [
+            "Ars Goetia"
+        ],
+        "publishers": [
+            "Dear Villagers",
+            "Gamersky Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 299,
+            "discount_percent": 85,
+            "initial_formatted": "$19.99",
+            "final_formatted": "$2.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 657
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 26, 2022"
+        }
+    }
+}

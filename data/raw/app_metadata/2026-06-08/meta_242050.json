@@ -1,0 +1,76 @@
+{
+    "ingested_at": "2026-06-08T18:42:48.827637",
+    "app_id": "242050",
+    "metadata": {
+        "type": "game",
+        "name": "Assassin’s Creed® IV Black Flag™",
+        "steam_appid": 242050,
+        "required_age": "18",
+        "is_free": false,
+        "short_description": "Discover Assassin's Creed IV Black Flag, the classic pirate action-adventure game from 2013. Command your ship, hunt Templars and carve your legend as Edward Kenway across the Caribbean's Golden Age of Piracy.",
+        "detailed_description": "<h1>Gold Edition</h1><p><p class=\"bb_paragraph\" >The Gold Edition includes the base game and the following content:</p><p class=\"bb_paragraph\" >- Freedom Cry DLC</p><p class=\"bb_paragraph\" >- The Illustrious Pirates Pack</p><p class=\"bb_paragraph\" >- Three cosmetic packs: the Crusader &amp; Florentine Pack, the Death Vessel Pack, and the Kraken Ship Pack</p><p class=\"bb_paragraph\" >- Two multiplayer character packs: Blackbeard's Wrath and Guild of Rogues</p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" >DISCOVER ASSASSIN'S CREED IV BLACK FLAG, THE CLASSIC PIRATE ACTION-ADVENTURE GAME FROM 2013.</p><p class=\"bb_paragraph\" >LIVE THE GRITTY REALITY BEHIND THE PIRATE FANTASY</p><p class=\"bb_paragraph\" >Become Edward Kenway, a charismatic pirate captain trained by Assassins. Effortlessly switch between the Hidden Blade of the Assassin Order, four flintlock pistols, and dual cutlass swords. Stand amongst legendary names such as Blackbeard and Calico Jack as you establish a lawless Republic in the Caribbean,  where corruption, greediness, and cruelty are commonplace.</p><p class=\"bb_paragraph\" >BECOME THE MOST FEARED PIRATE IN THE CARIBBEAN</p><p class=\"bb_paragraph\" >Command the Jackdaw, and strike fear in all who see her. Plunder and pillage to upgrade your ship with ammunition and equipment needed to fight off enemies. Attack and seamlessly board massive galleons and embark on an epic and infamous adventure.</p><p class=\"bb_paragraph\" >EXPLORE AN OPEN WORLD FILLED WITH OPPORTUNITIES</p><p class=\"bb_paragraph\" >Discover a large and diverse open world. From Kingston to Nassau, explore unique locations where you can live the life of a pirate: looting underwater shipwrecks, assassinating Templars in blossoming cities, searching for treasure in lost ruins, and more.</p><p class=\"bb_paragraph\" >DIVE INTO A MULTIPLAYER EXPERIENCE</p><p class=\"bb_paragraph\" >Put your assassination skills to the test. Discover a brand-new set of pirate characters and explore exotic and colorful locations.</p>",
+        "developers": [
+            "Ubisoft Montreal"
+        ],
+        "publishers": [
+            "Ubisoft"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 71335
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": ""
+        }
+    }
+}

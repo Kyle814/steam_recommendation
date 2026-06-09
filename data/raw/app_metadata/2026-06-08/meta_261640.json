@@ -1,0 +1,94 @@
+{
+    "ingested_at": "2026-06-08T19:33:21.396239",
+    "app_id": "261640",
+    "metadata": {
+        "type": "game",
+        "name": "Borderlands: The Pre-Sequel",
+        "steam_appid": 261640,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Launch into the Borderlands universe and shoot ‘n’ loot your way through a brand new adventure that rockets you onto Pandora’s moon in Borderlands: The Pre-Sequel!",
+        "detailed_description": "<h1>Borderlands Collection: Pandora's Box</h1><p>This title is included in Borderlands Collection: Pandora's Box!<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/extras/76645ca2755aedbcf835190bd4b43f7c.poster.avif?t=1750081341\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/extras/76645ca2755aedbcf835190bd4b43f7c.webm?t=1750081341\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/extras/76645ca2755aedbcf835190bd4b43f7c.mp4?t=1750081341\" type=\"video/mp4\"></video></span></p><br><h1>About the Game</h1>LAUNCH INTO THE BORDERLANDS UNIVERSE AND SHOOT ‘N’ LOOT YOUR WAY THROUGH A BRAND NEW ADVENTURE THAT ROCKETS YOU ONTO PANDORA’S MOON IN BORDERLANDS: THE PRE-SEQUEL!<br><br>Discover the story behind Borderlands 2 villain, Handsome Jack, and his rise to power. Taking place between the original Borderlands and Borderlands 2, the Pre-Sequel gives you a whole lotta new gameplay featuring the genre blending fusion of shooter and RPG mechanics that players have come to love.<br><br>Float through the air with each low gravity jump while taking enemies down from above using new ice and laser weapons. Catch-a-ride and explore the lunar landscape with new vehicles allowing for more levels of destructive mayhem.<br><br><strong>Features</strong><br><br>BRING MAYHEM TO THE MOON<br><br>Feel the moon’s low gravity with every jump and stomp.<br>Cause mayhem with new weapons equipped with ice and laser capabilities!<br>New enemies offer a space-based twist!<br><br>THE RISE OF HANDSOME JACK<br><br>Witness Handsome Jack’s rise to power.<br>Dive deep into the origins of iconic Borderlands villains.<br>Turn the tables and experience Handsome Jack’s side of the story.<br><br>A NEW CLASS OF ANTIHEROES<br><br>Play as one of four new character classes, including Wilhelm the Enforcer, Nisha the Lawbringer, and Athena the Gladiator.<br>Play as a combat-ready Claptrap prototype for the first-time!<br>Experience the gray morality of working alongside Handsome Jack.",
+        "developers": [
+            "2K Australia",
+            "Gearbox Software",
+            "Aspyr (Linux)"
+        ],
+        "publishers": [
+            "2K",
+            "Aspyr (Linux)"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 75,
+            "url": "https://www.metacritic.com/game/pc/borderlands-the-pre-sequel?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 32586
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 13, 2014"
+        }
+    }
+}

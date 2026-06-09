@@ -1,0 +1,117 @@
+{
+    "ingested_at": "2026-06-08T19:46:28.468573",
+    "app_id": "311210",
+    "metadata": {
+        "type": "game",
+        "name": "Call of Duty®: Black Ops III",
+        "steam_appid": 311210,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Call of Duty®: Black Ops III Zombies Chronicles Edition includes the full base game plus the Zombies Chronicles content expansion.",
+        "detailed_description": "<h1>Zombies Chronicles Deluxe Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/extras/d647594e5dce18b07ab78a58778d2acd.avif?t=1748022663\" width=628 height=230 /></span><br><br>Now with more content than ever before.<br><br>Call of Duty®: Black Ops III Zombies Chronicles Deluxe includes the full base game, Season Pass, Zombies Chronicles &amp; additional bonus digital content including:<br><br>The Giant Bonus Map: Zombies returns in all of its undead glory with &quot;The Giant&quot;. Re-live the chaos of Treyarch's classic &quot;Der Riese&quot; Zombies map, picking up the Zombies story with Dempsey, Nikolai, Richtofen, and Takeo where Origins left off.<br><br>3 Personalization Packs: Fan favorite Cyborg &amp; Weaponized 115 packs along with a new Black Ops 3 pack. Each pack comes with a weapon camo, reticles, and calling card.<br><br>The Zombies Chronicles content expansion which delivers 8 remastered classic maps from  Call of Duty®: World at War, Call of Duty®: Black Ops and Call of Duty®: Black Ops II.</p><br><h1>Mod Tools Open Beta Now Live</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/extras/43909ae147018c7736b8081addfb4b36.avif?t=1748022663\" width=616 height=232 /></span><br><br>The Black Ops 3 Mod Tools Open Beta has arrived!  Full version Black Ops 3 owners can install the Mod Tools under the Tool Section via the Steam Library titled <strong><i>Call of Duty: Black Ops III - Mod Tools</i></strong>.<h2 class=\"bb_tag\" >Mod Tools Include:</h2><ul class=\"bb_ul\"><li>Black Ops 3 Steam Workshop*<br></li><li>Unranked Server Browser*<br></li><li>Radiant Level Editor<br></li><li>APE, Asset Property Editor<br></li><li>Mod Tools Launcher<br></li><li>Optional additional level building assets from a variety of official Black Ops 3 maps can be installed under the DLC section of Call of Duty: Black Ops III - Mod Tools<br></li><li>Full examples of the multiplayer map Combine and the Zombies map The Giant<br></li><li>New Server Settings Menu in Multiplayer Custom Games and Zombies Private Game where you can set how your server will display in the Unranked Server Browser*<br></li><li>New Mods Menu where you can load and unload your subscribed mods*</li></ul><br>*<i>Downloading the mod tools is not required for these items or to play Black Ops 3 Steam Workshop content</i><h2 class=\"bb_tag\" >Modding Guides:</h2><ul class=\"bb_ul\"><li><u>Official - How to Play - Workshop Guide</u><br></li><li><u>Official - How to Create - Workshop Guide</u></li></ul></p><br><h1>About the Game</h1>Call of Duty®: Black Ops III Zombies Chronicles Edition includes the full base game and the Zombies Chronicles content expansion.<br><br>Call of Duty: Black Ops III combines three unique game modes: Campaign, Multiplayer, and Zombies, providing fans with the deepest and most ambitious Call of Duty ever.<br><br>The Zombies Chronicles content expansion delivers 8 remastered classic Zombies maps from Call of Duty®: World at War, Call of Duty®: Black Ops and Call of Duty®: Black Ops II. Complete maps from the original saga are fully remastered and HD playable within Call of Duty®: Black Ops III.",
+        "developers": [
+            "Treyarch",
+            "Aspyr (Mac)"
+        ],
+        "publishers": [
+            "Activision",
+            "Aspyr (Mac)"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 5999,
+            "final": 5999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$59.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 73,
+            "url": "https://www.metacritic.com/game/pc/call-of-duty-black-ops-iii?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 8,
+                "description": "Valve Anti-Cheat enabled"
+            },
+            {
+                "id": 25,
+                "description": "Steam Leaderboards"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 153806
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 5, 2015"
+        }
+    }
+}

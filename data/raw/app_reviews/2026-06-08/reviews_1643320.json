@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T19:25:41.583919",
+    "app_id": "1643320",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "225872306",
+            "steam_id": "76561198030710407",
+            "playtime_minutes": 3862,
+            "voted_up": false,
+            "votes_up": 259,
+            "weighted_score": 0.8797451257705688,
+            "steam_purchase": true,
+            "review_text": "1 year and 5 months of waiting before writing this review.\n\nI’ll start with something simple so people who want to buy this game don’t fall into the same trap I did. The starting area is great — the game begins really strong. But the longer you play, the more obvious it becomes that the whole thing is held together with duct tape and the mindset of “we’ll fix it later.” It felt like the first ~20 hours were genuinely polished, but after that the game kept getting worse and worse. Not in terms of story — I couldn’t even bring myself to finish it — but technically. More and more quests started breaking, bugging out, or becoming impossible to complete.\n\nWhat’s the biggest problem with the game? Simply put: boredom.\n\nThe gameplay loop looks like this: you get a mission 1.4 km away (0.86 miles for the freedom people), and you run there. Sounds normal, right? Except it’s literally just running. Nothing happens on the way. Sprint + energy drink to instantly restore stamina, over and over again. The A-Life system that was heavily advertised simply doesn’t work, and nothing meaningful has been done about it. Almost every update so far has just been fixing basic issues that never should have made it into the final release in the first place, with an occasional new weapon thrown in to keep players happy.\n\nMore than a year later, the key system that defined every previous STALKER game basically still doesn’t exist.\n\nBest example: I was exploring a huge construction site with a large building complex — completely empty. No enemies, no allies, nobody at all. So I went to continue the main quest, and suddenly it turned out the exact same place was home to a massive bandit base. Yes, the place where literally nobody existed 20 minutes earlier xD\n\nI went back, and sure enough, they were there — but only because the main quest script finally allowed them to spawn. That’s not how STALKER is supposed to work. The world and the map look beautiful, but they’re just empty. Nothing actually happens in this world.\n\nI honestly feel like we were misled about this from the very beginning. Not only were all mentions of A-Life quietly removed once people realized it effectively wasn’t in the game, but the bullet drop is ridiculously short and unrealistic to the point of being sad. Enemies spawn inside a roughly 100-meter bubble around the player, and you can clearly see it in how weapons behave — most guns are only really effective within that range, and even then not particularly well. So what’s the point of sniper rifles? Answer: basically none xD\n\nAnd honestly, considering how absurdly bullet-spongey enemies are, using single-shot weapons feels like a waste of time anyway.\n\nAround launch (and for a long time after, because I gave the game several chances), I played on the highest available difficulty setting — and it was simply unfair. By “unfair,” I mean the lazy kind of difficulty design: enemies had absurd amounts of health, requiring multiple magazines to kill, while you as the player died in just a few shots. No smarter AI, no behavioral changes — they’re as dumb as enemies from games made in the early 2000s, maybe even worse.\n\nAnother issue is making a game on an engine you either don’t understand, don’t know how to use properly, or that simply isn’t good enough (cross out whichever option you prefer). Since launch, the developers still haven’t managed to fix the lighting system, which behaves completely randomly. From outside a building you can barely see anything inside, then you walk in and suddenly it’s bright as daylight xD It works the other way around too — from inside buildings you often can’t see outside properly even during clear weather, but the moment you step outside everything becomes perfectly visible.\n\nThen there’s the performance. At launch I had one of the strongest PC configurations possible, and of course the game still stuttered and suffered heavy FPS drops at 1440p. I tried again a year later on a 3440x1440 ultrawide setup and the exact same problems were still there. What makes it even more ridiculous is that some random text config file from Nexus Mods made by a random user improves performance more effectively than the developers themselves. Meanwhile, Cyberpunk was running at nearly 200 FPS on the same setup.\n\nI’ve bought plenty of good and bad games over the years, but I’ve never felt as misled as I did with this one. I regret giving it so many chances and waiting for update after update. If I had known this was how things would turn out, I would’ve refunded it within Steam’s 2-hour refund window.\n\nIf you really want to try the game, trust me and wait for a sale — something like 50–70% off. It is absolutely not worth full price."
+        },
+        {
+            "review_id": "225521065",
+            "steam_id": "76561198047514596",
+            "playtime_minutes": 1711,
+            "voted_up": true,
+            "votes_up": 21,
+            "weighted_score": 0.6785137057304382,
+            "steam_purchase": true,
+            "review_text": "Steam being Steam. The game isn't bad but doesn't really stand out. Leaving a positive review because they still haven't added a neutral one. Whatever. Stalker is just a really beautiful world. A very dead boring beautiful world. It's a world where you walk everywhere from quest to quest and, honestly, that's kind of the point (you could even call it a feature and I'd PROBABLY agree) BUT we are running through the same empty locations where nothing new really happens for like HALF of the game. Objective is 2km away and you just run. Just keep running drinking energy drinks burning through stamina thinking: \"Hmm okay maybe I'll run into something interesting, maybe something will actually happen, maybe there will be some real interaction with the GAME\" (just a reminder - it's a game and not a movie so nice graphics are not enough) so no. You run and you meet a dog pack or some bandits. That's all. Wow.\nSo why positive then? Honestly it's like 51 to 49. A little worse and it'd be negative for sure. But Stalker is all about atmosphere and devs managed to convey this atmosphere really well - out in the open you never feel safe expecting a bloodsucker, for example, or in the swamps that chimera + emission event was just crazy xD. But when you walk into the bar and see all those faces you actually feel like you are catching your breath before heading back to whatever the Zone prepared for you. The anomalies are great. Personally, like half the reason I love Stalker games at all is because of them. Both the small standard ones you see throughout the whole game and the bigger Archanomalies like the fire tornado at the cooling towers.\nReading other people's reviews about optimization - I don't get it. I never ran into any constant lag not to mention any crashes. I have 5070 and 48gb RAM and the only thing that happened throughout the whole game was 3 or 4 times when in random locations fps just dropped to 5 for a few seconds and I had to turn away from some script or texture that made it, not sure about it. Never really figured out what that was about cause I saw people discussing it on forums back when the game was released.\nLast thing and probably the most controversial and the one that could stir up some people who are reading it. I always had a kind of ironic attitude toward Ukrainian language. I'll be honest about it, it used to make me laugh at times. But this game of all things (lol) made me realize how beautiful and distinctive it actually is and how pleasant it is to just listen to people speaking it. You can feel how much the devs cared about giving every character their own voice and personality (Scar - no comments, my favorite forever). Stalker 2 is one of those rare games where you don't skip dialogue not just because something plot-relevant might be missed but because listening to it in the original language the way it was always meant to be is just really satisfying."
+        },
+        {
+            "review_id": "225565620",
+            "steam_id": "76561198059549881",
+            "playtime_minutes": 1750,
+            "voted_up": false,
+            "votes_up": 27,
+            "weighted_score": 0.6674326658248901,
+            "steam_purchase": true,
+            "review_text": "The game looks alright, however, it doesn't run well, even on a 5070ti. Ultimately I found the gameplay to be tedious and repetitive, with little to no reason to explore, you go out of your way to a stash just to find the same bread, sausage, energy drink and 9x19 ammo you found in the last 5 stashes. Enemies are bullet sponges, but considering how often you find first aid kits, you'll have 30 in your inventory in no time and losing health won't be an issue. Beyond that, enjoy walking 2km back and forth across an empty world dealing with the same repetitive encounters with bandits over and over. Before long you'll learn there no reason to do anything other than run from main mission to main mission without diverting."
+        },
+        {
+            "review_id": "225945539",
+            "steam_id": "76561198257710796",
+            "playtime_minutes": 301,
+            "voted_up": false,
+            "votes_up": 11,
+            "weighted_score": 0.592760443687439,
+            "steam_purchase": true,
+            "review_text": "Besides the beat to death issues with A-life and the engine, the game has glaring issues that have still not been addressed. Namely tons of problems due to it being designed for consoles (which is the worst decision that could've been made for a game like this.) Biggest of which is a sensitivity issue where the X and Y axis sensitivities are different, mouse acceleration and smoothing are locked on because the game tries to translate digital inputs to analog. The end result is aiming and even looking around feels atrocious without a fix. If you do install a fix then the achievements are disabled because \"we have to keep it fair\". As if someone cant just unlock all the achievements through an unlocker. \r\n\r\nMovement is also lackluster due to the staple clunky UE5 movement. You get a small vault, leans, and a crouch. No low crouch which supplemented prone like in the other games. No cleverly walking up pipes or hitting jumps through buildings to find hidden stashes. The map design was intentional because of how much more limited the movement feels.\r\n\r\nCombat is a breeze even on the highest difficulty unless you're going up against an enemy with higher tier gear than you. Secret to winning is just to slowly turn a corner while headshotting people 1 by 1. If you aren't spotted first, they don't shoot back unless they see you which is dependent on a detection gauge that is easy to avoid filling. Its braindead being able to clear patrols in less than 8 bullets. But then you get certain encounters where the aimbot and equipment some NPC's come together just right so you get 1 or two shotted with no indication they saw you with no counterplay. Psychic enemies like the Burer and Poltergeist glitch through walls, can attack through walls, and the only solution if you cant out DPS them is to run away. Most guns even on Master do a surprisingly low amount of damage due to the developers giving NPC's soft aimbot. So they had to account for console players lack of fine aim by making the enemies hurt less. Not as much of a problem in the old games because the engagement ranges were typically much farther. Another limitation of UE5 unfortunately.\r\n\r\nYou are swamped with consumables, ammo, and weapons from the beginning of the game (my first playthrough was on legend). Almost all equipment you use will be looted, money, ironically is so hard to come by that all of it goes to weapon and armor upgrades. Ammo and consumables from shops cost an arm and a leg, sell for next to nothing, and you loot more than enough anyway. Player stashes cannot be made or chosen, you have 1 central stash. Weapon and armor repairs are unintuitive and uninvolved. You just visit a shop and click a button. Upgrades can be felt but are just bumps to base stats or allowing for the very limited attachment selection. A lot of tech seen in modern day Europe and Ukraine is missing, which is weird considering the exos and artifacts. No thermals, GPS, upgradable detectors or PDAs, etc.\r\n\r\nEnemies are still not distinct, everyone is wearing similar dark clothing with no way to distinguish at range, especially if you disable the compass. Readability was obviously a problem because now we get fallout-esque pips on the compass to detect enemies and find corpses. Awful to find loot if you disable the compass, borderline wallhack if you leave it enabled because they expected console players wouldn't think. Non-hostile NPC's get mixed in with hostile NPC's, especially with the Military replacement faction. Factions have also lost most of their identity as well. Everyone behaves the same, sounds the same, has the same aesthetic, and are all bland copy-pastes. Faction identity, interactions, and motivations were an integral part of the original Stalker games that were lost, and it really sucks.\r\n\r\nThe post processing makes it hard to tell where stuff is, see things at a distance, and especially see where anomalies begin and end. On top of that the player hitbox is much larger than the field of view suggests, leading to a lot of stupid deaths from insta-killing anomalies with no counterplay. Touch the edge? No way to free yourself or heal, just locked into an animation and die. They fully committed to the \"throw bolt and run through\" strategy. Navigating anomaly fields which is a requirement in a surprising amount of missions is painful.\r\n\r\nBeing proactive can be a detriment, I shot a ton of NPC's that should by all accounts have been hostile, but weren't for story/quest reasons before they had a chance to explain they weren't. The map was designed to segregate content so its a bunch of areas with 1 or two things to do in them with nothing in between and no reason to go back once you have been through.\r\n\r\nModding over 2 years later is lackluster due to several issues. The SDK was released mid-2025 and does not include a robust tool suite modders can use to significantly alter the game. Modders haven't had the chance to learn about the games systems to where significant alterations to the game can be made, and even if they do, the update cycle can break or threaten their creations with no way to walk back a patch through an official copy. On top of all this, the game is so story and quest driven that I do not see a way that overhauls like anomaly or GAMMA will be able to be made, ever. There's so much fundementally engrained into the game that revolves specifically around the main character that I do not see a future where something as magical as Anomaly gets a release. The characters, cutscenes, animations, voice overs, random encounters, side quests, the map design itself, all revolves around the story the game wants to tell. You can't just \"undo\" all of that. It would be like trying to remake the game all over again. On top of all of this I just do not consider UE5 to have that kind of modularity.\r\n\r\nIn conclusion, I consider this yet another game that unfortunately is overshadowed by its predecessors and was an attempt to capitalize on the name alone. It wouldn't be bad as a standalone, but as a mainline entry in the series, it has lost its spark. 5/10"
+        },
+        {
+            "review_id": "226519692",
+            "steam_id": "76561198399325837",
+            "playtime_minutes": 4423,
+            "voted_up": false,
+            "votes_up": 9,
+            "weighted_score": 0.573419988155365,
+            "steam_purchase": true,
+            "review_text": "I absolutely love the stalker series its atmosphere is amazing the world feels alive, I would rate this game 8/10 but...  at this moment I would rate it closer to 5/10 because stalker 2 has gone in reverse, how are the games that are 20+ years older than this one so much better? the AI was so good they would sneak up on you, go around about their daily tasks and have faction fights that were fun to watch, they would flank you and hide behind cover, the mutants would kill other stalkers in the world and drag their bodies to a safe location to consume them, this developer promised an ai similar to the old games however a year after release the AI is no where near the old games, which would be fine but the developers decided to compensate for intricate AI with dumb AI that are bullet sponges, I finished the game on veteran difficulty and my biggest gripes is that every enemy whether they are human or mutant become bullet sponges at the end game no amount of upgraded gear, weapons, and expensive bullets will kill some of these faster, the atrocious part of the game that makes me leave a negative review is the last 4 boss fights of the game in every stalker prior you and the people of this world are only human, on master difficulty it takes 2 shots to kill you and 2 shots to kill every major character in the game they dont get plot armor they are not special its a hardcore survival shooter, skip to modern day stalker all bosses have a ♥♥♥♥♥♥♥ halo shield that you have to break before you do damage, and they have high health that make them a meat bag for bullets, \r\nspoilers after this.\r\nFaust boss fight is having to shoot the lantern on his hip while he makes infinite doubles that rush you and throw grenades he will also stun you by pulling you in like a controller and the reload speeds, medkit speeds and aiming speed in this game is fine if the gameplay is slower like the older games teach you, but no I run to cover to heal and reload, get rushed by clones and get grenades thrown at me and die, and when i finally get to shoot at the lantern he ♥♥♥♥♥♥♥ stuns me and you die from the clones shooting you to death.\r\n\r\nin the Korshunov/commander of ward boss battle he has a halo shield around his head like a astronaut so you dump 100 rounds into his legs stun him go into a cutscene, then come out and do the same exact thing again to kill him while he spawns military above you in the rafters, and he was programmed like a Storm trooper from star wars because he has a pkm with 300 rounds that he misses on you the whole fight, easiest and dumbest battle of the game\r\n\r\nScar fight he gets a unbreakable shield on his body and a gauss rifle which essentially is a rail cannon you have to position the boss in certain spots in the room and press a button to make him vulnerable while dodging tripwires and the best part on veteran/master his gauss rifle will one shot you no matter your armor and artifacts and will go through every cover in the game, you cannot hide, cannot heal he will shoot you through anything, and he will only miss 2/10 shots with that rifle the whole fight, and he only gives you 1 or 2 seconds tops before he is ready to shoot again so good luck.\r\n\r\n\r\nGranite squad fight the game introduces and enemy that already takes 2-3 shots to the head to kill and maybe 10 shots to the body and gives them all a halo shield, this is not a problem because you can single them out and kill them one by one in cover while healing, but the devs decided TO PUT 13 OF THESE ♥♥♥♥♥♥♥ IN 1 ROOM WHERE YOU HAVE NO COVER AND THEY ARE ABOVE YOU AND ON THE GROUND WITH YOU  THEY SHOOT THROUGH ANY OBJECT AND HAVE 360 COVERAGE OF YOU IN THIS FIGHT, to kill 1 of them you need to shoot them 5 times to break the shield then another 2 shots to the head, if you dont kill them there they get the shield back, so in this fight you spent your thirty rounds to kill 2 or maybe 3 of them go to reload and die, you cannot kill them all with Rpgs or grenades, you cannot reload you cannot heal, you cannot hide, you cannot run, they also get gauss rifles that will 3 shot you unlike scar, (thanks devs!) so im confused because in the past stalker games and stalker anomally which I enjoy very much its a hardcore experience where you have to be careful, with your resources, take fights that make sense and take fights slow because a single misstep will kill you conserve good ammo, spend money wisely and dont fight multiple enemies out of cover because you die, in stalker 2 everything is a bullet sponge and bosses have shields and massive health bars like they are in halo or destiny wtf?"
+        },
+        {
+            "review_id": "225423920",
+            "steam_id": "76561198339503890",
+            "playtime_minutes": 1965,
+            "voted_up": false,
+            "votes_up": 8,
+            "weighted_score": 0.5672131180763245,
+            "steam_purchase": true,
+            "review_text": "I cannot even enjoy this game. Even with mods which would fix some issues and make the game enjoyable. This game is a mess, and induces stress in not a good way compared to the older games.\n\nI enjoyed dying in older games because it was my fault. And I realized what I was doing wrong and prepped for it better and it felt rewarding, now with this sequel its legit meant to induce you with horrible stress because of the ai, being more artificial than intelligent. \n\nIn the older S.T.A.L.K.E.R games (including Anomaly) the A.I was smart and dangerous and what made them scary was their intelligence, they each had there own stories tied to them objectives. Didn't shoot you through walls and surely weren't bullet sponges. In this monstrosity of a sequel they can shoot through walls and continue killing you. Two examples is the monolith soldiers somehow knowing where I was and shot me through the floor while I was crouch walking. And then their is the boss fight at the Duga Radar with Faust where even if you destroy the lamps and theirs no good visual indicator and it being a small lamp post on his leg. This boss fight is unbearable because not only were you fighting monoliths that were the best. You had a invulnerable boss that can kill you until you shoot his lamp. If he had heavy armor on and he walked slow it would've been memorable. Which brings me to my next point.\n\nAlso the missions that constantly force you in a linear route and just spawn NPC's in front of your face that instantly kill you on Veteran when you have the best gear in the game is horrendous. \n\nTheir isn't even good set pieces in this game it all goes downhill after the Institute mission where the stakes genuinely felt high. Every character has no meaning and even the new factions were confusing. They introduce us to these characters. Richter and Strider but with Strider he dissapears at the institute until you meet him at the Doctor. which I stopped playing because it once again asked me to spend 10 MINUTES WALKING to a different part of the zone. Which leads me to my very next point.\n\nExploration is a mess, and I mean a mess, sure there is eye candy but the open world is meaningless. Stashes are randomly generated garbage with clear LD's just putting switches there for the procedural generation to do its thing.\n\nThe world is very flat, no variety. No oppressive tall trees like in the sequel, no clear height. the Alife removal isn't helpful either because you will be running around doing nothing. If I could place down stashes or fast travel places where I can go place to place when I open my PDA fair enough. But if I wanted to run around the entire zone that can take up to 30-50 minutes. I would book a ticket to Chernobyl myself. Very uninteresting open world, with very uninteresting side quest. This is a rare example where a smaller open world would've been better, another example is Stalker Anomaly. Going place to place never felt tedious because each quest felt like a movie or you were in someone else's story.  It didn't feel real.\n\nThe graphics are okay and the game does look good when it does, until you look at their 2021 teaser and realize this was downgraded to kingdom come (deliverance) and realize the game ran better and looked better than it does now, where even the leaked build looked way better than it does now. Their is no reason for this game to be 150 gigabytes, and it is outstanding where with a RTX 4070 and frame gen and DLSS on, its unoptimized and when cutscenes play or locations that a cutscene is about to appear the FPS drops to an unplayable account.\n\nThe actual content that I enjoyed is 5 hours of the 32 I've spent on this nonsensical waste.\nI'll visit this in 10 years when i'm 29 and we get an equivalent to anomaly for this.\n\nI am glad I picked this up for $13 because I legit would hate myself even more if I spent more than $13 it is a horrible experience after the institute mission. I would compare this game to Mafia 3's gameplay fun at the start then you realize your doing the same exact thing over and over again, with no real mission variety apart from once in - awhile.\n\n(Edit: Oh I forgot the poltergeist that can throw the smallest pebble at you that does all your HP and can throw objects through the floor and walls!)"
+        },
+        {
+            "review_id": "225258729",
+            "steam_id": "76561197974302634",
+            "playtime_minutes": 1825,
+            "voted_up": true,
+            "votes_up": 6,
+            "weighted_score": 0.5652738213539124,
+            "steam_purchase": true,
+            "review_text": "Runs pretty well.\r\nEnjoyed the easter egg in Loner Village (Look for where you can find the Stalker Suit in the first game). Combat is smooth, bloodsuckers are terrifying, died many times to just about everything possible on multiple occasions. Highly recommend."
+        },
+        {
+            "review_id": "225703522",
+            "steam_id": "76561198309253477",
+            "playtime_minutes": 1184,
+            "voted_up": false,
+            "votes_up": 12,
+            "weighted_score": 0.5637760162353516,
+            "steam_purchase": true,
+            "review_text": "Stalker 2 is not a bad game but its not a stalker game. It feels like a farcry or other ubisoft game in the cloak of the stalker IP. If you are a new player and enjoy games like that go for it you will enjoy the game and get an easy entry into stalker but if you are a fan of the older stalker games and the stalker world this game might not be for you. First of all some positives compared to older or modded titels.\n\n+ the game looks beautiful and has a great atmosphere\n+ new and interesting zones added to the expanded map\n+ gunplay feels way better and the guns are really cool\n+ stashes have really unique hiding spots often with a little puzzle or pakour and its easily one of the best polished things about the new game. \n\nAnd thats it, instead of combining everything that makes the stalker games stalker games into one great world expanding GOTY sequel we got this slop.\nSome negatives or missing features from older games.\n-  Story is just way too boring, instead of discovering the mysteries of the wish granter and the zone , the secret labs, the north part of the zone, the mysterious monolith, you just chase around an artefact and skifs only real motivation is having something to pay his burnt down house off, even characters in the story comment how trivial of a motivation that is. The zone looses its mystery and you dont really get a reason on why you should care about any of this other than that you are the protagonist of a stalker game.\n- Npcs. Easily one of the best things about older entries got butchered. Every npc in the zone used to be killable and had unique voicelines with a purpose in the zone. Every npc was a person in the zone with his own prodile in the pda, doing his own missions having genuine conversations with other npcs but thats all gone. After a few visits to a base you will know every person that just chills there and every of their voicelines and that takes out the immersion completely.\n- Npc combat. The npcs used to sneak up to you, keep their distance with a sniper, rush you with a shotgun, loose their weapons and search for new ones during the battle, they used to crouch and go prone and try to kill the hardest opponent first, now they just stand around and shoot you with an accuracy of 99%, the whole gameplay is just do you have enough medkits to pick off the enemies one by one like a target practice. \n- mutants. Every mutant except the cat got butchered. Mutants had unique ways of attacking and attacking patterns and part of the fun was figuring out the best way to kill every new mutant type by learning their patterns of attack and how to dodge them and deal with them the best. You knew you had to dodge the snorks lunge or the chimeras jump to get the better of them , to shoot a boar at its side, to track blood suckers using your environment, but in stalker 2 its just a matter of how much ammunition you have with you. Every Mutant is a bullet sponge and the whole \"difficulty\" isnt knowing each mutants type weakness and dealing with multiple at a time its just do you have enough ammunition for a mutant. The gauss rifle which always has been the most powerful weapon in the franchise used to one shot pseudogiants in the head and now you need 15 headshots to take one down. The developers got wrong why stalker was a fun difficult and made it into a ammunition management simulator. Adding to that they made some mutants straight up unfair. the chimeira doesnt have the lunge anymore which you can dodge if you are quick enough it just attacks with an unimaginable speed and the developers think thats the difficulty we crave.\n- map the map is as huge as gta5 but you dont have a car and you have much less stamina to sprint as in older titels, it becomes a walking simulator fast.\n- factions. Old beloved factions are gone, which is fine because it makes sense that not everything can survive in a zone but the newer factions are not unique enough to make anyone a diehard fan of the new factions.\n\nThere are way more missing features or unrealised potential but a review just cant fit everything thats wrong with the game. \nAs a conclusion:\nAlways buy on a discount\nCan it be fun? Absolutely yes, you can still have your 200 hours in this game and be happy but its  a slop game. Its not a game that will blow your mind and make you remember it for the rest of the week and if you would give the older games an upgrade in graphics and animation you would much better see how sad this is for 16 years of development. If you want a real amazing experience check out the numerous amazing mods for the older games"
+        },
+        {
+            "review_id": "227387784",
+            "steam_id": "76561198451658932",
+            "playtime_minutes": 6066,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5634920597076416,
+            "steam_purchase": true,
+            "review_text": "Amazing gunplay...\nBeautiful graphics...\nBuggy sidequests...\nLackluster story...\nGranite squad sucks - 'Please change difficulty to rookie'\nGame poorly optimized had to use DLSS just to reach 60 FPS\n\nCan't recommend this wholeheartedly"
+        },
+        {
+            "review_id": "226514592",
+            "steam_id": "76561198043847643",
+            "playtime_minutes": 2030,
+            "voted_up": true,
+            "votes_up": 5,
+            "weighted_score": 0.5612694621086121,
+            "steam_purchase": true,
+            "review_text": "The one metric of your PC that determines if you can run this game is the size of your CPUs L3 cache. I upgraded from 16mb Ryzen 5500 to 32mb Ryzen 5600x. UE5 uses the hell out of the L3 cache and the bigger, typically the better. This was enough for enjoyable performance. \r\n\r\nEverything else matters sure, you'll need a good modern GPU, preferably one capable of DLSS resolution scaling, frame scaling sucks; oh and at least 8GB VRAM. You'll need at least 16 GB of system RAM, but 32 is better. With that, you'll have horrible frames during intense sequences and at outposts full of stalkers. \r\n\r\nOtherwise, rock solid 60 frames with RivaTuner, do not rely on in-game frame limiters. \r\n\r\nAs a S.T.A.L.K.E.R. game, it's great I guess kinda I mean sure. \r\n\r\nThe most fun aspect of this game is coming back to all the familiar locations and seeing how they exist in high fidelity and what lore has affected them. A cast of returning characters for better or worse, but mostly for the better. Without the trilogy that came before it, this game is an excellent Far Cry-rim em' up that there ever dang was. With mods, you can lean on the immersion and tactical gunplay and reinforce the survival horror mechanics with rewarding but challenging combat. \r\n\r\nDo not rely on in-game difficulty settings. The vanilla balance of all damage both from the player and to the player is entirely busted. Fix with mods. \r\n\r\nThe game continues to receive content updates and DLC is on the way? And an update to the newer versions of Unreal Engine 5 are coming too."
+        },
+        {
+            "review_id": "226023774",
+            "steam_id": "76561198045693141",
+            "playtime_minutes": 371,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5484809279441833,
+            "steam_purchase": true,
+            "review_text": "As a STALKER fan I cannot recommend this game now.\r\n\r\nThe trash performance makes it a completely unplayable without frame generation and upscaling ♥♥♥♥♥♥♥♥.\r\n\r\nI'm surprised how the gaming community tolerates these UE5 messed up games and developers are still getting paid.\r\n\r\nI hope it will be better in few years after UE5 upgrade."
+        },
+        {
+            "review_id": "225517247",
+            "steam_id": "76561198273647336",
+            "playtime_minutes": 128,
+            "voted_up": false,
+            "votes_up": 12,
+            "weighted_score": 0.5482922196388245,
+            "steam_purchase": true,
+            "review_text": "The game quality, movement, and overall gameplay feel outdated and poor — and no, this is not “part of the STALKER vibe.” The atmosphere alone cannot hide weak mechanics.\n\nConstant freezes, crashes, bugs, broken saves — it’s a technical disaster.\n\nGunplay is badly balanced:\n“5\" bullets to the enemy’s head”\nwhile you take “2\" bullets to the body” and you are almost dead. Completely unrealistic and frustrating.\n\nThe AI reactions feel extremely outdated. Enemies often take multiple hits with almost no visible reaction, making combat feel artificial and weightless. On top of that, AI shooting accurately through concrete walls completely destroys immersion. This is modern shooter?-pfff:))\n\nAnother huge minus: no Russian voice option. STALKER always had that raw post-Soviet vibe, and removing it hurts the atmosphere badly.\n\nIt’s disappointing when developers let politics influence the game experience instead of simply giving players a choice.\n\nAnd after all these years of development, releasing the game in such a buggy state is embarrassing.\n\nAnd now I’m supposed to pay full price for a product and then fix it myself just to make it playable? That is absurd.\n\nReal value of this game right now is around 20€, not 110€.\nAfter so many years, it’s hard to understand what the development team was actually doing.\n\nAnd this is actually the first negative recommendation across my two Steam accounts and more than 10 years of experience using Steam. In fact, this is the first game review I have ever written.\n\nEven Fallout was never reviewed by me after the “golden update” disaster — because everyone already understood that the game had technically died at that point."
+        },
+        {
+            "review_id": "225791942",
+            "steam_id": "76561197975773032",
+            "playtime_minutes": 617,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5464785695075989,
+            "steam_purchase": true,
+            "review_text": "Overrated? Yes.\nBad AI? Yes, they shoot through walls.\nJanky movement? Yes.\nPoorly optimized graphics and gameplay? YES.\n\nI bought this at 30% off and I feel scammed."
+        },
+        {
+            "review_id": "225805610",
+            "steam_id": "76561198087362470",
+            "playtime_minutes": 323,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5375722646713257,
+            "steam_purchase": true,
+            "review_text": "The combination of poor performance and the studio operating like corporate goons, I can't recommend this game."
+        },
+        {
+            "review_id": "225756440",
+            "steam_id": "76561198105742927",
+            "playtime_minutes": 7118,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5368233323097229,
+            "steam_purchase": true,
+            "review_text": "This is my first S.T.A.L.K.E.R game and i just finished 1 out of 4 ending so maybe this can give some insight to others who want to enter this franchise from S.T.A.L.K.E.R 2.\r\n\r\nThe good:\r\n-) Atmosphere is very good, It really depict what post nuclear world looks like.\r\n-) Voice actors did a really good job voicing each character.\r\n-) SFX and music is not bad but not the best either.\r\n-) Map is so big so you can explore a lot.\r\n-) status effects interaction to gameplay is quiet nice.\r\n\r\nThe Bad:\r\n-) Combat. \r\nThe enemy NPCs can always detect you even when you are quiet far in the dark at night with some grass cover. So mostly the fight is about find your enemy while they already start shooting at you.\r\n\r\n-) Quality of life.\r\nThere is a lot to say about this. First, by the time i write this comment (118 hours) i spent around 70% of that on walking. second, Limiting maximum weight (although you can increase it a little with various method later), combined with expensive weapon repair and upgrade cost, combined with town to town only fast travel and you need to pay for it too is a nightmare. \r\n\r\nOh and did i mention that you can only fast travel on town so if you are adventuring quiet far, enjoy your slow walking to town with your loot :D. \r\n\r\nAnd i know some veteran will say \"as a stalker you need to travel light\", but to repair items especially early on, you need those loot.\r\n\r\n-) The map:\r\nWhile the map is quiet big, it also feel... empty? Sure there are some interaction here and there but after playing a while i noticed something missing. Like some building have the same layout, interaction seems lesser when you go to the place you have fully explored and sometimes you can travel without any interaction at all. \r\n\r\n-) Price and size:\r\nNow all of this i can tolerate if the price and size is right. but for a game with full price of 60$ and size of 150+ GB, I expect something a lot more than this.\r\n\r\n-)  Content update\r\nThe fact that they're adding new quest which is part of \"sealed truth\" but you can only access it after you finish a certain quest and cannot do it after you do a certain quest and called it \"content update\" is sickening. So you either need to load your save file before you finish a certain quest, or you need to start new adventure just to enjoy this 30 minutes of new quest.\r\n\r\nOverall, do i recommend it to newer player? absolutely not especially at current state and full price.\r\n\r\nfun fact: I force myself to finish this midgame and uninstalled it right after credit scene lol"
+        },
+        {
+            "review_id": "225819354",
+            "steam_id": "76561198242880186",
+            "playtime_minutes": 344,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5338099002838135,
+            "steam_purchase": true,
+            "review_text": "This is my first time playing any game in the Stalker series, so keep that in mind. The atmosphere is awesome but it feels like there's no reason to explore. Maybe that changes later but the beginning hours of the game aren't really inspiring me to stick around. The biggest issue I've ran into is that the weapon accuracy is absolutely awful and npcs just don't miss. Perhaps you're suppose to just suffer in the early game and your weapons get better with upgrades but I'm probably going to just go play something fun."
+        },
+        {
+            "review_id": "227416821",
+            "steam_id": "76561197997075477",
+            "playtime_minutes": 713,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5329087376594543,
+            "steam_purchase": true,
+            "review_text": "There is a mutant called a Poltergeist. Its suppose to throw objects around the room at you, but it has a bug throwing objects through multiple walls. Making it nearly impossible to avoid and dying in two hits on harder settings. Until its fixed its just unplayable and very infuriating."
+        },
+        {
+            "review_id": "225818769",
+            "steam_id": "76561197998143380",
+            "playtime_minutes": 1204,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.531731367111206,
+            "steam_purchase": true,
+            "review_text": "Game is fun and challenging. A lot of the QOL improvments for gun play are great. The pacing and quests are fun and I also just enjoy exploring. I have not had any bus so far, but ill just have lots of saves just in case."
+        },
+        {
+            "review_id": "226557317",
+            "steam_id": "76561199418345146",
+            "playtime_minutes": 31,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5300260782241821,
+            "steam_purchase": true,
+            "review_text": "the mouse acceleration is unbearable and there's not even an option to disable it"
+        },
+        {
+            "review_id": "226809164",
+            "steam_id": "76561198004464622",
+            "playtime_minutes": 6361,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5244200229644775,
+            "steam_purchase": true,
+            "review_text": "buy on sale, not worth the full price. The gameplay seems to be lacking as compared to the visuals. \n\nFun game and all... but wow is this game bland. Fights are moreso tedious when it comes to late game because it seems like all enemies within the vicinity will target you in less than a milisecond. Not just go to your location, but they KNOW exactly where you are and will shoot at you while you through cover. This game is more like a walking simulator with a solid story. The difficulty is artificially increased by lowering your damage and increasing enemy damage. And more than likely for most fights at the \"boss\" fights, you'll find that it's hard at first but they play all the same. \n\nThis is perhaps the first and last STALKER game I'll buy"
+        },
+        {
+            "review_id": "227379871",
+            "steam_id": "76561198000396249",
+            "playtime_minutes": 1909,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "I dont know the situation with previous versions of the game , but i really liked the current build and im really enjoying my time . As performance goes , i didnt have any issues or crashes . Im running 4K +High settings with DLSS quality +No frame gen and im getting 70-80 fps smooth without any stutters (Im going to add my pc specs so you can see yourself ). Playing the game with Veteran difficulty and so far i felt like this  diff. just right for me. Totally Recommended!"
+        },
+        {
+            "review_id": "227340642",
+            "steam_id": "76561197960913019",
+            "playtime_minutes": 2660,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "BIG LOVE TO GSC!! Slava Ukraine!! SUDNO/SADSVIT <3 <3 <3\n\nI have over 800+hrs clocked in on STALKER GAMMA, which is the most in-depth immersive community driven modpack i've ever experienced, I do miss ALOT of the systems at play that was in GAMMA, the hardcore mechanics and customizability of GAMMA has been lost along with the in-depth AI A-Life that keeps the world feeling truly alive - the amount of work and effort that modders have put into GAMMA that it feels like it'd almost impossible to replace or best GAMMA in a 'true' STALKER experience.\n\nso with that in mind, I kind of try to see this game through a different lens, as if it's not really a \"STALKER\" game but kind of a Metro like which is funny considering the history between GSC and 4A games and the controversies of the X-Ray engine and previous disputes. but similar to many years ago STALKER had it's founded idea being in an open world sandbox with multiple factions and generative quests and 4A going with the on rails linear story driven gameplay with metro and now GSC almost taking a page from 4A's book and going with a metro version of STALKER.\n\nI've not put in enough hours to fully say but so far I do really enjoy the STALKER franchise and it's unique world/ambience/soundtrack that we don't see from too many other titles - this game with an in-depth loot pool and crafting system with hardcore health mechanics (limb damage, crippling etc) more medications/drugs to deal with certain ailments, more weapons with more in-depth attachments and customizability to each weapon and caliber, along with a more dynamic interactive AI that resembles the A-Life we got years ago but unreal engine may not have such capacity i reckon - but that would easily make this game legendary but it's a big ask and modders cannot recreate a similar environment as X-Ray engine was leaked/stolen and is partially open source so modders can make modified .exe's compared to the .pak limitations of unreal engine so in some sense if you REALLY love stalker you must TRY GAMMA, it's truly irreplaceable but this game is still pretty decent for trying to be metro, they do have a book series/novel it's based upon so they have more literature but STALKER has a bit more freedom and how they can edit the story like the evolutions of the monolith and the ecologists aka spark in this game and introductions to new factions like the ward, which is both a limiting factor but also could leave more room for more in-depth unique stories and characters anomaly which is what GAMMA is based upon didn't actually have the clear sky faction in it which plays a large role in the story of the STALKER and it's people/legends within the zone but was modded in, it was implemented so well you wouldn't even be able to tell!! but enough glazing GAMMA again.\n\nthis game is really nice and what it offers that GAMMA can offer but struggles is beauty, the game is stunning, the environments are an absolute pleasure to be in and the emissions are visually appealing, sadly lost some of it's punch in the audio department, some rain effects and lumen lighting can ruin how the game renders wet objects etc but it's still a really nice looking game and you enjoy being in it's world, the audio-works is fantastic, I really wish gas masks and smoking cigs were animated in more detail with more in depth sounds as that's a critical essential for any STALKER in the zone - this game features no gas makes on or off animation and no vignette effect for visors, some mods can fix this though, not to the depth of something like GAMMA but still good, people like cazanu make such fantastic mods that they make the games more interactable, immersive and engaging so big love to the amazing brains and artists out there making all our experiences that bit more enjoyable and reaching that escapism that can be offered with movies/books etc.\n\ngame does need a bit of a combat overhaul, i'm playing on master difficulty and not finding it that tough or engaging compared to the true hardcore experience that could be offered, if you are banking so hard in the visual flair of the game then the rain needs to NOT look like MILK which I know is hard for UE5 but it CAN be done, more immersive animations especially when ur sitting by the fire with fellow STALKERS, the muzzle and gunshot sounds at different distances and ambience is sadly not as good as it should be and feels under baked but some mods help fix this, the AI/NPC's is the largest critique for the game i feel, factions don't interact or fight too much and there doesn't seem to be a rep/karma system so ur losing that sense of freedom the OG STALKERS offer which lets YOU choose how you will play and who you side with and the world will react accordingly, this game will not do that and will have the same Metro structure of triggering different set-pieces that will deliver different conclusions or cutscenes or content but not truly a dynamic sandbox that you expect from a STALKER. emissions lose their punch along with the audio and visual experience not being AS scary as it once was with the danger of some missing anomalies and mutants etc, game has lost a bit of that true lonely, eerie ambience, desperate survival and cut throat danger.\n\ntldr: brilliant game with a brilliant atmosphere and a nice refreshing take on the STALKER franchise leaning towards more story elements, seeing the factions evolve is sweet, if you LOVE this game, play GAMMA, ur welcome 2 ur future self!! i know it will be unforgettable but if you prefer the Metro experience then this game will rock ur socks off and has more to offer than Metro is a lot of ways. I'm still excited to see where the story leads. the environments are so detailed and just a pleasure on the eye, game still has a few bugs that need ironed out but it's still a fun engaging experience especially with some mawds and worth the 30 bux\n\n8/10"
+        },
+        {
+            "review_id": "226181545",
+            "steam_id": "76561198241041754",
+            "playtime_minutes": 5788,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "i loved the open world aspect of this game but the main storyline is meh, everyone looks the same, game is buggy as hell especially during cutscenes, the final missions consist of just putting 15 monoliths into a room that are just bullet sponges and the boss fights are like that but 10x and mfs just one shot u. just lazy and annoying level design. monotonous quests yada yada. just get gamma or play the originals."
+        },
+        {
+            "review_id": "225819178",
+            "steam_id": "76561197964085532",
+            "playtime_minutes": 1393,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Very frustrating mechanics, or possibly even bugs. If you don't save constantly you'll wind up often losing progress because something will inevitably kill you without any warning, and it's not always obvious nor is it usually anomalies. Sudden horde of mutant rats in an enclosed space with almost nowhere to run, getting teleported during the main quest right into a huge horde of mutants that instantly kill you. Having the game autosave the moment you're killed. Then there's the half assed vaulting mechanics where just a few, very specific places can be vaulted, and everything else can't be. \n\nThe main story is also just... not as good as the previous games. It's the sort of game I'm glad I bought while it was on heavy discount."
+        },
+        {
+            "review_id": "225621485",
+            "steam_id": "76561198201041737",
+            "playtime_minutes": 176,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Constant visual glitches that make most of the screen unusable, frequent stuttering and other technical issues just made this game not enjoyable. Maybe if these problems ever actually get solved (but at this point I'm not hopeful) I may try this game again in the future. Which is a shame because I REALLY wanted to enjoy this game...but I want to play a game, not something that feels like an alpha build. For $60 full price I expected more."
+        },
+        {
+            "review_id": "225265761",
+            "steam_id": "76561198349869650",
+            "playtime_minutes": 6356,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "I've played so many hours because with every patch and mods I gave this game a chance. But it was a waste of time. Developers don't seriously address any major issues - AI, balance, empty world, lifeless NPCs, etc. wasn't addressed, just some minor fixes and new content. I have a feeling that the way the game is at the moment that's exactly how it was planned from the beginning, it's not an \"unfinished product\", otherwise they would seriously focus on fixing gameplay elements."
+        },
+        {
+            "review_id": "227316579",
+            "steam_id": "76561198068275095",
+            "playtime_minutes": 6153,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "As a long time stalker fan there's so much I could say but honestly just get Stalker Anomaly. This game is so bugged and full of artificial difficulty. It's like they've never made a game before. Serious downgrade from the previous trilogy."
+        },
+        {
+            "review_id": "226033327",
+            "steam_id": "76561197995650043",
+            "playtime_minutes": 110,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "I think this could be an excellent game. I didnt get a chance to really find out because of all the smearing and janky nonsense on the screen. Its pretty sad that you buy a beefy PC and have these issues. Very disappointing to wait a year and a half and still have optimization issue."
+        },
+        {
+            "review_id": "225406620",
+            "steam_id": "76561198021873355",
+            "playtime_minutes": 11974,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.52173912525177,
+            "steam_purchase": true,
+            "review_text": "Broken AGAIN... just a clue for the Devs... \"Updates should NOT break the game\"   you obviously either dont know what you're doing or dont care, either way I shan't be buying the new DLC so you've lost that money."
+        },
+        {
+            "review_id": "225695645",
+            "steam_id": "76561198013092752",
+            "playtime_minutes": 6689,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5199999809265137,
+            "steam_purchase": true,
+            "review_text": "Stalker 2 is for sure a downgrade comparing to the previous sequels in some areas but I cannot say it's not good stalker 2 game, it's well made and the open is immersive with so many things to explore, I have spend over 80 hours and there tons of areas I have ignored that are not copy paste area.\r\nthe gameplay is enjoyable and smooth (most of the time) , the factions system were removed and instead the game became more story focused without sacrificing the open world and the exploration.\r\nhowever, it's still glitchy sometimes, the FSR causing consist crash with new AMD GPU, the enemies both human and mutants can kill you through walls along with some ♥♥♥♥♥♥♥♥ moments in the game.\r\n\r\nbut overall i'm happy with the experince i have got from the game but i regret playing the game on veteran it's not worth restarting the game 600 times.\r\n \r\n"
+        },
+        {
+            "review_id": "225120009",
+            "steam_id": "76561198169990678",
+            "playtime_minutes": 2956,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5194574594497681,
+            "steam_purchase": true,
+            "review_text": "the story and writing are really good, the world itself is also very detailed. My only gripe with it are the awful ai and a-life and the occassional ue5 hiccups."
+        },
+        {
+            "review_id": "225750373",
+            "steam_id": "76561198004667518",
+            "playtime_minutes": 2610,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5192307829856873,
+            "steam_purchase": true,
+            "review_text": "Fantastic atmosphere.  Looking forward to seeing how this game develops further."
+        },
+        {
+            "review_id": "225369399",
+            "steam_id": "76561198368087305",
+            "playtime_minutes": 3965,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5180383324623108,
+            "steam_purchase": true,
+            "review_text": "doesn't seem playable anymore. After a recent update, the bugs I'm experiencing force me to quit to main menu in order to make the lag stop for about 20 minutes. other than that I'm enjoying the game. If the issue doesn't stop I will no longer play and not by choice either."
+        },
+        {
+            "review_id": "225363800",
+            "steam_id": "76561198021921223",
+            "playtime_minutes": 9221,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5180383324623108,
+            "steam_purchase": true,
+            "review_text": "It's been almost a year and a half since this game released and it's still buggy as hell, sometimes to the point of being borderline unplayable. I've given the devs the benefit of the doubt considering the circumstances they've been under for the last few years, but it's starting to feel ridiculous now. While I appreciate the devs adding new content to the game, their failure to address or even acknowledge the broken state of things makes me think they either aren't competent enough to fix it or they simply don't care. All in all, S.T.A.L.K.E.R. 2 has become a major disappointment and I wish GSC was a better, more competent developer. As it stands, I simply cannot recommend this game in its current state."
+        },
+        {
+            "review_id": "225959783",
+            "steam_id": "76561198183998386",
+            "playtime_minutes": 3679,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5165745615959167,
+            "steam_purchase": true,
+            "review_text": "cant defeat faust on any difficulty ive put 7-8 mags of purple as-val ammo into that stupid ♥♥♥♥♥♥ lantern on his hip and it  doesn't turn red like ive seen in videos AND YES IVE USED A SHOT GUN problem is he uses that dam mind control blast every 4 ♥♥♥♥♥♥♥ seconds i just wanted to play a game and have fun....."
+        },
+        {
+            "review_id": "226013536",
+            "steam_id": "76561198052252709",
+            "playtime_minutes": 995,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5161290764808655,
+            "steam_purchase": true,
+            "review_text": "I just had a crash, so my review might be a bit salty... STALKER 2 is not a very good game.\n\nThe world is huge, but it feels incredibly empty. You spend most of your time walking from one side of the map to the other, often at a snail’s pace because Skif gets exhausted after just a few seconds of running. Between boring dialogues and useless loot, you occasionally get the chance\" to waste ammo on bullet sponge enemies that barely give any reward. Exploration itself doesn’t feel rewarding either, considering how poor the loot usually is.\n\nOn top of that, the inventory system is terrible: everything is mixed and you can hardly carry anything. The framerate drops are frustrating, it’s hard to tell friendly patrols from enemies and NPCs can shoot you through thick vegetation (they apparently have X-ray vision) or even straight through concrete walls. \n\nAnd then there’s the story, which really struggles to stay engaging. The potential was there, but even the atmosphere feels half-baked. Most of the time, the game is simply boring.\n\nAt this point, I’m only finishing it because I already paid for it."
+        },
+        {
+            "review_id": "225445527",
+            "steam_id": "76561198075141738",
+            "playtime_minutes": 2144,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5149253606796265,
+            "steam_purchase": true,
+            "review_text": "This game is buggy.  You're going to have to reload from older save games because some NPCs decided to stand in the hallway between you and your bed, and you need to sleep.  Some quests can't be finished and you can't really figure out why.  That said, so far, I've always been able to recover and push the story forward.  Some of the monsters, like BloodSuckers are stupid tough and very frustrating.  Overall, the game's feel and immersion is really good and so far I'm really engaged after 35 hours, despite its drawbacks."
+        },
+        {
+            "review_id": "225611370",
+            "steam_id": "76561198027756990",
+            "playtime_minutes": 29590,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.514018714427948,
+            "steam_purchase": true,
+            "review_text": "I´ve played the S.T.A.L.K.E.R. series from the beginning and all the way through. S.T.A.L.K.E.R. 2 is not only the continuation of the franchises storyline, it also appeared much more polished right from the start than most of the other parts of the franchise. Given that S.T.A.L.K.E.R. came to be in a time of war and that developers of and participants in this game served and died in the conflict makes that even more remarkable, if not extraordinary. \n\nHaving had many disappointments with preordered games in recent years this one was the exception. This one did not disappoint.  Neither gunplay nor storyline offer any reason for serious criticism. Cutscenes are rare and serve the storyline. What you see is what you get.  \n\nS.T.A.L.K.E.R. 2 offers a vast open world to explore that is both beautiful and at time incredibly deadly. I have found no gamebreaking bugs in my playthroughs, just some minor stuff. Again, given the circumstances under which this game came about the quality out of the box puts many AAA game companies to shame. \n\nEven more so as S.T.A.L.K.E.R. 2 underwent a number of patches that not only improved (and continue to improve) gameplay and the (in comparison to other large games) minor bugs, but continously introduces new features. Latest story additions were fun to play, too. \n\nAll in all and keeping the special circumstances in mind I give S.T.A.L.K.E.R. 2 a rare 10 out of 10. \n\nslava ukraini"
+        },
+        {
+            "review_id": "227349915",
+            "steam_id": "76561199871211609",
+            "playtime_minutes": 11392,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5138888955116272,
+            "steam_purchase": true,
+            "review_text": "6/10\nThis is such an atmospheric and immersive FPS and there really isn't much like it! It's beautiful, huge, the guns and armor are really varied and feel good, and the story is interesting! BUT...this game is insanely buggy. This game has crashed on me more that every other game I've played ever has...maybe even if  you put them together. In just short of 200 hours, I crashed probably a hundred times and I'm not exaggerating. There are also bugged quests, characters and so on that are well-known. This game is definitely worth playing when it gets more patches, but for now...wait for a sale?"
+        },
+        {
+            "review_id": "226677857",
+            "steam_id": "76561199289601508",
+            "playtime_minutes": 10892,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5132743716239929,
+            "steam_purchase": true,
+            "review_text": "The Final Nail in the Coffin for a Lifelong STALKER FanI pre-ordered this game on Console before switching to PC. It was completely unplayable between the crashes and bugs. Pissed off and annoyed, I stepped away, bought a gaming PC, and bought the game again on Steam. I deeply regret it. A gamer should NOT have to learn how to mod just to make a game functional. It is sad when modders care more about the game than the actual devs do.Here is exactly why I cannot recommend this game:The \"Polished\" First 20 Hours Bait: I agree with other reviews—the first 20 hours feel polished just to get good early reviews on board. After that, the game falls apart into an unoptimized nightmare. They advertised the graphics but clearly did not understand how to optimize the Unreal Engine.Ruined Legendary Artifacts: There is no point in hunting Legendary Artifacts anymore. It feels like the devs wanted to punch back at negative feedback by nerfing how they work. Take the Thunderberry—it is supposed to be a super rare, legendary item, but I cannot tell a single difference with it equipped or unequipped. It is complete garbage.Insane, Cheating AI: In wooded areas, you get shot out of nowhere. You can't see the enemy, but they beam you perfectly. The AI has zero bullet drop. Worse, cover does absolutely nothing. They have magic bullets that shoot straight through walls, trees, concrete slabs, and even the ground when you are hidden in a ditch.Broken Hit Registration: Sometimes I will be standing right on top of an enemy, squeezing the trigger, and my bullets flat-out do not register.It honestly hurts to give a STALKER game a bad review. I am extremely disappointed in how the life of this game turned out. The way the devs handled things after getting money from dedicated fans was the final nail in the coffin. I will never pre-order another Stalker game again. Save your money."
+        },
+        {
+            "review_id": "226606080",
+            "steam_id": "76561198011240389",
+            "playtime_minutes": 7503,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5100864768028259,
+            "steam_purchase": true,
+            "review_text": "I desperately want to like this game but the bullet spongyness of enemies and the neverending loading screens make chewing on rocks sound relaxing. its nearly been 2 years after this game came out and the lack of performance improvement and the overall length of loadingscreens just kills the experence for me."
+        },
+        {
+            "review_id": "225327798",
+            "steam_id": "76561198062594561",
+            "playtime_minutes": 3187,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5098039507865906,
+            "steam_purchase": true,
+            "review_text": "I would not recommend this game as it feels like a quick cashgrab that was made in a hurry \r\n- Too many bugs even 18 months since the release the worst being that enemies can shoot through walls.\r\n- A-Life is just primitive and bad compared to previous games\r\n- Enemies are dumb and on top of that they just randomly spawn close to you\r\n- Graphics are not impressive while the game is extremely demanding - my 5090 can barely run it at 50 fps at 4k without frame generation.\r\n- The plot is plain boring compared to previous games. It just doesn't feel immersive."
+        },
+        {
+            "review_id": "226428197",
+            "steam_id": "76561198004534397",
+            "playtime_minutes": 1939,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5074635744094849,
+            "steam_purchase": true,
+            "review_text": "Why is it so hard for eastern european game devs to create a UI that isnt a janky mess?\n\nThis game let's you rebind keys, but those keys you rebind might not be compatible with hardcoded dialogue keys.\n\nFor example, if I bind \"radial menu\" to \"Q\" then I cant use some dialogue options as the game forces you to use \"Q\" and \"E\" for some dialogue and pressing \"Q\" will now activate the radial menu instead of the dialogue option.\n\nA similar thing happens if I bind flashlight to \"F\". Well \"F\" is hard coded to a dialogue option and now when I press it my flashlight is turning on and off while I speak to an NPC.\n\nCyberpunk is filled with these same issues. Is there a single UI dev getting hired onto all these projects in order to create the most janky and abysmal UI imaginable?\n\nOn top of that:\n* there are enemies that throw objects at you, can they are capable of hitting you through walls!\n* if you try to walk through ankle deep water your character will come to a complete halt!\n* you have to be right pressed up against an NPC to talk to them, or right on top of a corpse to loot it, and if you move a single inch you cant interact!\n* there will be quest markers on your map that you cant even get to until you progress the main story and you have zero idea why there is no way to get there!\n* you will have quest items in your inventory taking up weight that you are unable to offload to your stash!"
+        },
+        {
+            "review_id": "226398323",
+            "steam_id": "76561198015066670",
+            "playtime_minutes": 389,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5074635744094849,
+            "steam_purchase": true,
+            "review_text": "This game is killing my computer.  Google shader cache issues and you'll see.  It's not even close to being fun enough to justify all the troubleshooting I have to go through for what has otherwise been a 100% reliable machine."
+        },
+        {
+            "review_id": "225966878",
+            "steam_id": "76561198213048901",
+            "playtime_minutes": 7046,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5070422291755676,
+            "steam_purchase": true,
+            "review_text": "open world is 9/10 some bugs. The final missions are horrible. Bosses are not interactive. Half the time they are invulnerable and 1 shot you. Even that is fine though. But on veteran difficulty, the last room before the game ends you fight a squad called granite 3. This squad has 6 gauss rifles and 4 ppl pushing you on the ground. It's unbeatable on veteran you will not last more than 10 seconds vs them. It takes no skill because there is no cover and the only thin cover you get they can shoot through. You just have to roll the dice until one run u dodge enough bullets and live to kill them. Horrible. The ending completely ruined the game for me. The open world is beautiful but also quite empty in terms of mechanics. No crafting? these devs would do much better had they not wasted time on writing a story that is barely coherent."
+        },
+        {
+            "review_id": "225521986",
+            "steam_id": "76561198188912666",
+            "playtime_minutes": 4426,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.5065497756004333,
+            "steam_purchase": true,
+            "review_text": "After playing S.T.A.L.K.E.R. 2: Heart of Chornobyl for 73–74 hours, I can confidently say that this game is a masterpiece.\n\nThe gunplay feels hardcore and intense, giving me strong Tarkov vibes  which I personally loved as a huge Tarkov fan with over 5,000 hours played.\n\nThe writing is brilliant, the story is mind-blowing, and the atmosphere is one of the best I’ve experienced in years. This is the type of game that completely absorbs you into its world if you truly enjoy exploration and immersive environments.\n\nPROS:\n• Incredible map design and atmosphere\n• Beautiful scenes and environmental storytelling\n• Excellent main and side missions\n• Deep exploration system\n• Amazing story with 4 different endings\n• Huge variety of weapons, mods, and blueprints\n• Hardcore PvE encounters that can become very intense\n• Stunning graphics on an OLED 4K monitor with RTX 5080\n• FPS performance was stable during 99% of my playtime\n\nOverall Rating: 9/10\n\nYou can clearly see how much effort and passion were put into this game.\n\nCONS:\n• Some characters still have strange animations despite multiple updates\n• Occasionally the game refuses to close properly, forcing me to use Ctrl + Alt + Delete\n\nI’m really looking forward to future DLC content that expands the story even more.\n\nTotally recommended for players who love exploration, survival atmosphere, difficult fights, and intense creature encounters."
+        },
+        {
+            "review_id": "226463728",
+            "steam_id": "76561198975259351",
+            "playtime_minutes": 292,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5061728358268738,
+            "steam_purchase": true,
+            "review_text": "90% of time compiling shaders, restarting PC, restarting the game, and dying in the game"
+        },
+        {
+            "review_id": "227132153",
+            "steam_id": "76561198030042637",
+            "playtime_minutes": 6307,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5049099922180176,
+            "steam_purchase": true,
+            "review_text": "Do not recommend (current state).\n\nS.T.A.L.K.E.R. 2: Heart of Chornobyl is one of the most frustrating gaming experiences I’ve had in years, not because the core idea is bad, but because actually playing it feels like constantly fighting the game itself instead of the Zone.\n\nThe atmosphere is still great. When it works, it really does feel like you’re in the Stalker universe—creepy, lonely, dangerous, all that. But the problem is everything around that.\n\nPerformance is rough and inconsistent. I’ve had constant stutters, weird frame drops for no reason, and random bugs that break immersion hard. NPCs bug out, quests sometimes don’t trigger properly, and saves/loading can be unreliable depending on what the game feels like doing that day.\n\nThe biggest issue for me is how much troubleshooting it took just to keep it playable. I’ve spent way too much time fixing load order issues, reloading saves, and working around bugs instead of actually playing. At a certain point it stops feeling like a game and starts feeling like maintenance.\n\nAnd honestly, even going into year two of updates, it still doesn’t feel like a “finished” experience. It feels held together with patches rather than properly stable. Mods help a lot, but that shouldn’t be required just to make the base game feel functional.\n\nThere is a good game buried in here somewhere, but it’s constantly getting buried under technical problems and broken systems.\n\nI can’t recommend it in its current state. If you really want to play it, wait until it’s properly patched and stable—or be ready to spend as much time fixing it as actually playing it."
+        },
+        {
+            "review_id": "227351975",
+            "steam_id": "76561198008714483",
+            "playtime_minutes": 1295,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5040983557701111,
+            "steam_purchase": true,
+            "review_text": "DO NOT BUY THIS GAME...\n\nUnless you can get it on an extreme sale of maybe $10. It simply isn't worth it and does not deliver on the hope/hype that we all had post GAMMA. 18 months later, still no Multi-Player. Steam is also useless and on this product for some reason will not let us refund it due to the fraud of the Developers. It is infuriating that the Deluxe version still indicates \"Muli-Player\" which they have basically abandoned. Steam support states \"Oh well it says Single Player on the game page so there is no fraudulent claims here.\" Eat my .......\n\nAs others have said, the game is boring. It is a glitchy boring mess that while improved from launch has remained a glitchy boring mess. They did not deliver on any promises after launch and I am overly bitter that I paid the maximum amount in support of the project for the Devs to essentially bounce on keeping their end. They didn't even properly release the mod pack tools in the first quarter of 2025 like they repeatedly said they were going to do, knowing that there was a player base only involved in wanting this because of what Anomaly and GAMMA did. \n\nIt is sad that Fallout 4 gets more mods in 2026 than Stalker 2. \n\nDo your self a favor. Go over to GOG and get Gamma and be much happier."
+        },
+        {
+            "review_id": "227457692",
+            "steam_id": "76561199276754947",
+            "playtime_minutes": 4161,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5032258033752441,
+            "steam_purchase": true,
+            "review_text": "almost 2 years and they couldn't fix poltergeists throwing objects though walls as well as the numerous balancing issues, the absurd fall damage, the absolutely abysmal economy, the map layout which has almost no continuity with the map from the original S.T.A.L.K.E.R. games and the promise of multiplayer that they never made good on."
+        },
+        {
+            "review_id": "227186156",
+            "steam_id": "76561198057790133",
+            "playtime_minutes": 9899,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5028680562973022,
+            "steam_purchase": true,
+            "review_text": "Very atmospheric game, impressive and diverse open world, where I just enjoyed exploring the word. The best Ukrainian game ever."
+        },
+        {
+            "review_id": "226904667",
+            "steam_id": "76561198324777930",
+            "playtime_minutes": 1066,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5028680562973022,
+            "steam_purchase": true,
+            "review_text": "Watched the reviews on Youtube and was only half convinced to get it. I made a gamble on it and got it and it was worth it!"
+        },
+        {
+            "review_id": "226900537",
+            "steam_id": "76561199217680602",
+            "playtime_minutes": 16102,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5028680562973022,
+            "steam_purchase": true,
+            "review_text": "Love the series, played a lot of the communities 'Anomaly'. Glad that GSC came up with a game that can substitute that :)"
+        },
+        {
+            "review_id": "226808598",
+            "steam_id": "76561198046881022",
+            "playtime_minutes": 1642,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5028544664382935,
+            "steam_purchase": true,
+            "review_text": "Delayed for like 5 years, still a complete shell of a game. Barely playable without losing your sanity or your temper. It feels like a student project made in unreal engine. Getting real sick of the lack of talent and the sheer laziness in this industry. There is no excuse for this."
+        },
+        {
+            "review_id": "226644437",
+            "steam_id": "76561199241009444",
+            "playtime_minutes": 1556,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5022971034049988,
+            "steam_purchase": true,
+            "review_text": "Having played the original STALKER trilogy, i definitely love STALKER 2. The graphics are amazing and everything has been improved upon the original STALKER games... there is voice and facial acting and the zone is enormous and bigger than ever .... recommended for all the stalkers out there"
+        },
+        {
+            "review_id": "225108436",
+            "steam_id": "76561199401565865",
+            "playtime_minutes": 3017,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5021897554397583,
+            "steam_purchase": true,
+            "review_text": "I had to quit playing because OMG the walking! The more you play the farther you have to walk (and usually around a lake, river or a massive cliff that adds more walking ). They should change the name of the game to WALK, EAT, DIE because that's what you spend most of your time doing. I really wanted to like this game, but I just can't... just my .02"
+        },
+        {
+            "review_id": "226354674",
+            "steam_id": "76561198040736573",
+            "playtime_minutes": 2153,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5013231635093689,
+            "steam_purchase": true,
+            "review_text": "oooh boy where do I start? \n\nI was having a really good time and enjoying this game, I was invested in the story and even came around to liking some of the characters. But later on I started noticing the game becoming more and more unstable, y'know lots of freezing randomly, weapons not being able to be pulled out, dialogue taking forever to start and change sentences, PDA refusing to open and weapons like the knife not working even after being pulled out. and it got to the point that the game became pretty much unplayable. \n\nso I figured that validating the game files would do the trick right? no. as a matter of fact i couldn't get it to validate the files no matter what I tried. I cleared my download cache on steam, tried running steam as an administrator, even tried praying to whatever deity deigned to listen to me, all the fixes you would see online. no dice, stuck at 50% every. single. time. \n\nSo I think to myself \"Okay joker, lets just do a fresh reinstall. that otta' do it!\" if only I had known the folly of my own thinking. I started the re-download and let it run for an hour, a bit longer than normal given my internet but I figured its whatever right?....got stuck at 2% and refused to move. It was at this point I just gave up and canceled the reinstall. \n\nWhat am I trying to say with this? well, the game is fun and has potential but good golly miss molly if it ain't buggy to high heaven and held together with duct tape and sweet summer dreams. its a shame because I have heard such great things about the stalker franchise and have always wanted to give it a go, figured I would play the newest one first before going to the older ones. I see now I was in error. Maybe if your more technologically minded than I am and have a better system it will run fine for you, but for the life of me I cant figure out what caused this game to go completely haywire. And it is for those reasons I simply cannot recommend this game."
+        },
+        {
+            "review_id": "226349750",
+            "steam_id": "76561198009092748",
+            "playtime_minutes": 858,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5013231635093689,
+            "steam_purchase": true,
+            "review_text": "As a major fan of the original 3 games, STALKER 2 is missing so much of the grit and atmosphere that the first 3 games had. STALKER 2 gameplay feels like Metro Exodus."
+        },
+        {
+            "review_id": "226118821",
+            "steam_id": "76561198845960951",
+            "playtime_minutes": 896,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5007084608078003,
+            "steam_purchase": true,
+            "review_text": "This game feels so meh at best and aggravating at worse. The enemy balance is still terrible, boss fights are really bad, enemies are incredibly bullet spongey and that's all if creatures and people dont despawn/respawn all around you all the time."
+        },
+        {
+            "review_id": "227506561",
+            "steam_id": "76561199856238467",
+            "playtime_minutes": 938,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The game does have bugs like I saw before buying the game in youtube reviews and all but the bugs aren't very much noticeable (at least not right now anymore). Simple bugs like getting stuck in a small area or something, is pretty much always fixable by simple loading the game. \r\n\r\nNow, for the good ♥♥♥♥, it is an atmospheric game and you will feel the atmosphere. The vibe of the game is immaculate. You will FEEL like you are living in the game right from the start of the game and I believe, this feeling is surely going to be constant. Btw, the immersive mode that can be accessed super fast using one shortcut(=) is absolutely amazing as well.\r\nIt is also a survival game and honestly, I don't think there is any better game, to scratch that survival itch we have, than Stalker games. I have played Gamma a lot and stalker 2 is just a better looking version of stalker with less hardcore gameplay loop. If you've never played stalker and like survival games or have never played any survival games and want to get into the genre, this is the BEST game.\r\nGamma is a better survival game, however this is much much beginner friendly and easy to pick up and play for sure."
+        },
+        {
+            "review_id": "227505984",
+            "steam_id": "76561199074127149",
+            "playtime_minutes": 4807,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "[h1]Spoiler free review! (As much as I can make it, anyway...)[/h1]\n\nI'll start this review by saying I have never engaged with the Stalker franchise in any way. Haven't read the books it's based on, nor seen the movie, nor played any of the games. In fact, I don't believe I have ever played a single shooter for THIS long. Bear this in mind when I tell you that (despite all the shortcomings of the game) Stalker 2 is one of the most profound gaming experiences I've had. Though, let's start off with the good, since I'll be listing plenty of complaints later. \n\nFirst, gameplay-wise, this game is gorgeous. The sound design, the environments, the enemies and entities found within and so on; everything is downright incredible. When you're in a combat encounter, the tense music and character dialogue or the mutants' noises remind you of the danger you're in all the time. When entering a new area, you really get a feel for the apocalyptic state it's in (and the environments are extremely similar if not identical to their real-life counterparts, despite certain areas not really being where they are IRL). \n\nSecond, I'd love to mention fairness as a concept. Even at the start of the game, when you have little to no equipment, no encounter or area challenge feels particularly unfair. Unless it's an instakill death lake, or an intentional roadblock, like snipers enforcing the world border, you can expect to find a solution easily. No mission feels inherently annoying (although, if you want to 100% the game, you'll need to complete four endings, so make sure to manually save a few times throughout the story), and no request made to you during your playthrough is too outrageous to complete.\n\nLastly, the story, which is really well-written (mostly) and accounts for newbies as well as veterans. You're no longer in the shoes of a seasoned stalker, but instead controlling a person whose only interactions with the zone include diving in and grabbing artifacts to sell. As such, new players won't be too confused by all the mechanics the game has to offer, and people coming back to the series will be yelling at their screen whenever a familiar face or location pops up. My only qualm about the story is how little consequence your actions often provide. You'd think there would be a cardinally different ending based on which of the main parties you side with, but in actuality, the biggest difference is the ending cutscene, and also [spoiler] who ends up getting shoved into a suicide booth. No elaborating, play the game for yourself. [/spoiler]\n\nNow, my BIGGEST gripe, and one that many keep pointing out to this day, is the optimization and cleanliness of the game. I've attached my specs, and the only graphics option my PC could muster at 38-60 FPS is... [u]Medium[/u]. I've played many games in my life, and this is the first time my hardware couldn't handle anything above a Medium setting without either crashing ([i]of which there was plenty regardless...[/i]) or halting to 10-20 FPS. Lag spikes are frequent, bugs are commonplace, and assets glitching through walls is something you will see quite often. Get ready to install a developer console if the game decides you're not completing a quest today because the entity you need to loot an item from is stuck in the wall (true story, by the way! This, along with any other mods, voids your achievements for the save file, [spoiler]though I'm sure you'll figure out a workaround[/spoiler]). \n\nOverall, Stalker 2: Heart of Chornobyl is an experience like no other. Even wandering around the Zone on your own is pretty fun, which is apparently such a high bar that most shooters do not clear in the first place. That's what makes Stalker 2 special: it's not just a shooter, it's an adventure, and one that takes determination, self examination, and, perhaps, a little bit of save-scumming to complete. Despite the occasional setbacks I experienced during gameplay, I would not hesitate to rate this a 10/10. Thank you, GSC Game World!"
+        },
+        {
+            "review_id": "227463898",
+            "steam_id": "76561198036184141",
+            "playtime_minutes": 2596,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing, only thing it needs is better graphical sound, like when I walk over glass I want to hear it break. Or move through bushes it want to hear them brush off my character. Other then that they nailed the environment, story is strong, good scary moments. Eats your computer hard! like will ♥♥♥♥ your weak little ♥♥♥♥♥♥♥♥."
+        },
+        {
+            "review_id": "227455199",
+            "steam_id": "76561199214144662",
+            "playtime_minutes": 269,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the game is fun just wish it was abit easier to tell friend from foe most time i find a random fire fight i shoot the wrong person xD idk if thats just cause i,m new or not"
+        },
+        {
+            "review_id": "227442500",
+            "steam_id": "76561199403863734",
+            "playtime_minutes": 21254,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Only other modern open world I've played was Halo Infinite. This is incredible by comparison. The thought and deets that went into it, plus the mechanics of mixing shooter and story into a massive, ongoing win - with some historical relevance. Heart of Chornobyl is taking the remastered originals and mixing elements into a huge world of mystery, action, danger, etc. It's a super-long story shooter that could stand on it's own, as a survival shooter. It does, if you don't trigger the end games in Pripyat. TLDR=Light it up, loner."
+        },
+        {
+            "review_id": "227430568",
+            "steam_id": "76561198066214135",
+            "playtime_minutes": 6369,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is rough around the edges.\nHowever with a few easy to install mods (I only use 8 to make it much more difficult) Its fantastic.\nIts extremely immersive, combat is rewarding, dialogue is quick and concise.\nAs I get older I no longer want to play as many games, but this game stole my whole weekend multiple times.\nIts honestly worth it, but like most games its needs community mods to make it to your liking.\nYou'll enjoy it though, I promise."
+        },
+        {
+            "review_id": "227424342",
+            "steam_id": "76561198212212383",
+            "playtime_minutes": 2803,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Incredibly bugged, repeatedly crashes in certain locations and situations, totally ruined my experience and annoyed me from contining the play. Otherwise it would have been a great game..."
+        },
+        {
+            "review_id": "227350402",
+            "steam_id": "76561198137643467",
+            "playtime_minutes": 3672,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I recommend this game. What stood out to me most was how alive the world feels because of the random encounters. They do a lot to make the map feel dangerous, reactive, and worth exploring. I also really enjoyed the challenge tight combat while dealing with attrition and resource management. The gameplay can be punishing, but in a way that kept me engaged and made success feel earned rather than handed to me.\r\n\r\nAnother big strength is the customization. I liked being able to shape both my character and weapons to fit how I wanted to play, and the huge map gives that freedom room to breathe. There are definitely some enemy AI bugs that could still be improved, but overall the game is very well made and genuinely enjoyable to play at your own pace. It’s a strong experience, and one I’d comfortably recommend.\r\n\r\nI am very much looking forward to the DLC and hoping it is every bit as detailed as the base game. Bravo devs: you've made a fantastic game and truly have built fantastic fanbase of the genre. I will definitely consider playing the other games."
+        },
+        {
+            "review_id": "227244900",
+            "steam_id": "76561198009644368",
+            "playtime_minutes": 1102,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It’s slow, creepy, and atmospheric. I really like the flow of this game. I guess you have to wait 1.5 years nowadays before a game is finished."
+        },
+        {
+            "review_id": "227236877",
+            "steam_id": "76561197960890370",
+            "playtime_minutes": 35,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Controllers are garbage, if I have to sit for 30m to change almost everything except awsd and shooting button, there is a problem. And the mouse acceleration which can´t be turned off is cancer."
+        },
+        {
+            "review_id": "227228995",
+            "steam_id": "76561198150192850",
+            "playtime_minutes": 4721,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's a satisfactory sequel to the original Stalker trilogy.\r\nNot without it's problems like render issues, pretty common \"buffering\" and jankiness that I did find frustrating and the enemies seem like they have aimbot on, but if you liked old stalker you'll like this.\r\nIf the devs tweak the performance issues and the NPCs it would be a masterpiece of a game."
+        },
+        {
+            "review_id": "227145488",
+            "steam_id": "76561199089860036",
+            "playtime_minutes": 3025,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "tried relaunching game, attempted doing story mission, still stuck bugged out from last time i played. cant find my previous saves for some reason, probably new pc. \n\nhonestly, if you want to buy this game, just get stalker anomaly/gamma. its completely free and it actually works as advertised.\n\nreally sad about this game:(, was hoping i could come back to it like i came back to cyberpunk to finish it but nope. still extremely buggy to the point of it being unplayable.+ no ALife"
+        },
+        {
+            "review_id": "227144459",
+            "steam_id": "76561199844934359",
+            "playtime_minutes": 2146,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The campaign is so long, I'm not even done yet with 35 hours. Get this game on a discount, it's worth the time. Good graphics and weapon gameplay. Supposedly 60 hours to complete the game with extra side quests too."
+        },
+        {
+            "review_id": "227122992",
+            "steam_id": "76561199178172843",
+            "playtime_minutes": 1082,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Runs like garbage needs fsr and has latency from frame gen. The game is okay just bloated UE5 garbage."
+        },
+        {
+            "review_id": "227070013",
+            "steam_id": "76561198002517592",
+            "playtime_minutes": 74335,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love the world, love the Story, Characters and Gameplay. Already fun in Vanilla but really, really great with mods. Some areas need some more content, though - and performance optimizations. The upcoming Engine Upgrade might help a lot."
+        },
+        {
+            "review_id": "227063333",
+            "steam_id": "76561198070307736",
+            "playtime_minutes": 2822,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game has been out for over a year and is still a mess, I want to like it so much but it is just buggy and poorly put together. I have encountered a bug that has locked me from progressing and there is no way around it without installing a mod to install console commands. But frankly the game isn't good enough to justify the effort of doing so."
+        },
+        {
+            "review_id": "227045796",
+            "steam_id": "76561198190999989",
+            "playtime_minutes": 3958,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Feels more Fallout than Bethesda's Fallout, that's for sure. Great game, some bugs, nothing gamebreaking (so far)."
+        },
+        {
+            "review_id": "226983370",
+            "steam_id": "76561198320616761",
+            "playtime_minutes": 8245,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "281 deaths, 140 hours and 5 months later I finally finished the game on Master difficulty, please do not play this game on this difficulty unless you don't value your time, otherwise fantastic game"
+        },
+        {
+            "review_id": "226982856",
+            "steam_id": "76561199004614837",
+            "playtime_minutes": 15635,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A little clunky, but overall great game."
+        },
+        {
+            "review_id": "226951549",
+            "steam_id": "76561198058188234",
+            "playtime_minutes": 1908,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great experience, not as immersive as the others but mods can help that."
+        },
+        {
+            "review_id": "226935930",
+            "steam_id": "76561199225311803",
+            "playtime_minutes": 2727,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Game's optimizations suck really bad, borderline unplayable. I like the game itself - gunplay, story, quests is good and the atmosphere is a chef's kiss, but i just can't enjoy the game when I get fps drops from 5 to 10 fps every 15 minutes and having to restart the game to fix it."
+        },
+        {
+            "review_id": "226853039",
+            "steam_id": "76561198165365435",
+            "playtime_minutes": 12547,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Massive respect to everyone involved in creating this art during war time and my thoughts to every Ukranian and Russian STALKER that never got to see this game released.\n\nSTALKER is a lot of things, its still pretty rough even though its been 1.5 years since its release. It can be both happy and sad, hopeful and depressing, beautiful and ugly... Zone is more beautiful and atmospheric than ever, its huge, it can take over 100 hours to explore properly. \n\nA very short and basic tutorial and you are basically thrown into huge world and left to figure things out for yourself. There are no fancy moves, xp or wild skills. Just you and survival.\n\nProgression system is some of the most rewarding in video games. Its about exploring and slowly finding better gear, better guns, better artifacts. It feels very natural.\n\nStory is pretty decent. You will see a lot of old faces from the old STALKER games aswell.\n\nHigher difficulty levels are brutal. Be prepared to die a lot.\n\nGood hunting, STALKER."
+        },
+        {
+            "review_id": "226825553",
+            "steam_id": "76561199083288988",
+            "playtime_minutes": 1659,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I am not an OG player, so I can't compare it to the original titles for better or worse. This game is good. It's a cool atmospheric walking simulator where the very air itself feels like it's trying to kill you, The gameplay loop is hearing rumors about a hidden stash, going there, and being killed by a flying orb of electric doom, and then realizing your last save was 20 minutes ago, so you do it all again. I can't say I love it, but I can't say I hate it either. It's like Cyberpunk and Dark Souls, open world with plenty to do (Cyberpunk), but the world doesn't want you there (Dark Souls)."
+        },
+        {
+            "review_id": "226811091",
+            "steam_id": "76561197989038309",
+            "playtime_minutes": 507,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Im coming to this review from the perspective of a longtime fan who waited a while for the game to get stable before finally jumping into STALKER 2. Stalker COP is one of my top 5 games, all time. Love it, love Anomaly, GAMMA is a bit to hardcore for me, but the series as a whole has been one of my most played across my entire life. \n\nSTALKER 2 in many ways reminds me of the first time I played COP. In UE5 it looks like how I remember COP looking the first time I played it. The first emission you get, where all the NPCs huddle with Gaffer in a basement in Zalyssia reminded me of my first emission in the Rookie Village in SoC. It captures the vibes perfectly. And really reminds me a lot of Fallout 4, except where FO4 feels soulless STALKER 2 feels rich and thematic. \n\nGameplay is standard, and feels almost unchanged from my recent Anomaly plays. Small changes here and there make it unique, but not revolutionary and I generally dig it. If you are a fan of Gamma and the survival aspect though, this game isn't that right now. I have found resources are trivially easy to get hold of. You'll probably need survival focused mods to replicate the suffering Gamma induces. The story, likewise, is classic STALKER. However the English VO is, somehow, way worse than in COP. Whereas the other games had clearly been less well directed, they were at least earnest, kitchy, classically Ukrainian, and most importantly thematically consistent. The new English VO is quite uneven, with some lines clearly delivered by devs and fans. Accents vary wildly. And it all is mismatched with important characters who are too clean, too well directed, and too generically American sounding. Skif in particular sounds more like he should be in an FO or COD game than trapped in the Zone. For me the English VO was so immersionbreaking I had to switch over the the Ukrainian VO where the acting is perfect. Likewise, the story is classic STALKER in that its good, straight forward, and gets you around the zone just fine. There are more set piece moments here, all of which are very good and fun. Dungeons mix up the combat formula nicely and give you some fun wrinkles with anomaly fields. New emergent events and better scripted quests give you unique moments (like the infamous poppy fields!) which further engrain certain moments & aesthetics into my head. \n\nThe one letdown is on the technical side. I have had 1 crash in appx 10 hours so far. Alife is another sore spot. Apparently much improved from launch, and more improved with the upcoming 2.0 patch and engine update. But right now all radiant AI despawns at exactly 100m which is close enough that with the rifle scope you can 'pop' NPCs in and out of existence. They still exist in that spot even if the model isn't present, Alife includes a cool online/offline dichotomy. But in several cases I've been trying to snipe and the person is at the edge of online alife.   There is a mod to increase the range to 250m, which fixes the pop in but the AI is totally incapable of handling the long range. Ive frequently seen running gunbattles between STALKER groups who wont disengage and wont despawn with me hanging around. You can also still see some odd after effects of the current Alife, like fields of 20 corpses left over from a big battle. That happens *a lot* around key battlegrounds. So much it makes progression kinda trivial. When Alife works, its amazing. One of the best Radiant AI systems in the game. When it doesn't work, it leads to kinda ridiculous results. Nothing too crazy, and I have hopes that fine tuning will get it there. But as is, Alife is a big selling point and its still not where modded CoP is. Other people report worse technical problems, but for me I have otherwise had no trouble with performance thus far. \n\nOverall, 9/10 experience with easy upside to be a 10/10, IF the new DLC/patch lands well."
+        },
+        {
+            "review_id": "226808428",
+            "steam_id": "76561199530085266",
+            "playtime_minutes": 9541,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "games pretty solid a few bugs here and there but nothing gamebreaking could use a few optomization tweaks because its kinda rough on weaker pcs but overall id say its well worth the money and you wont be dissapointed ive put in 160 hours and still havent seen everything the zone has to offer and im on my 6th playthrough"
+        },
+        {
+            "review_id": "226804313",
+            "steam_id": "76561198044111427",
+            "playtime_minutes": 6077,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The atmosphere is overall an improvement from the OG trilogy and the higher production values really shine through in the voice acting and animation quality.\n\nGunplay feels good mostly but I could never get used to the recoil on automatic weapons. Economy and progression is well balanced even into the late game but I was annoyed at earning thousands of coupons just to spend it all on equipment repairs.\n\nCombat AI still needs improvement and there are many minor graphical issues when it comes to reflections and draw distance. Some story missions are frustrating in how limited you are in approaches and options.\n\nReally disliked how much of the game involves running from point A to point B with nothing happening in between.\n\nIn the end I liked this game a lot and some of the issues I mentioned can be easily fixed with mods or future updates"
+        },
+        {
+            "review_id": "226740753",
+            "steam_id": "76561199535046290",
+            "playtime_minutes": 2853,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Majestic game but has a lot of bugs and stuff that needs to be improved. Both my friend, and now me, have a problem with speakers, there is no sound in the game, and i have tried a lot to fix that."
+        },
+        {
+            "review_id": "226733483",
+            "steam_id": "76561198072093987",
+            "playtime_minutes": 1383,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This scratches the fallout itch better than any recent fallout, but it took a bit and a small mod for UE ini file to get it to run well; was frustrating at first. Still, it now runs perfectly. If you're on a laptop, make sure it's running the game with high performance settings. Never played the other games, but a fantastic game I'm now obsessed with. May take some effort to run it well on your machine, but think for a lot of cpus, it can run a lot better than it does on initial launch."
+        },
+        {
+            "review_id": "226709754",
+            "steam_id": "76561199011788585",
+            "playtime_minutes": 980,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "the game is great, until it doesn't run so you have to do a long wizard like processes to run the game and then it crashes after half an hour after"
+        },
+        {
+            "review_id": "226615985",
+            "steam_id": "76561198002591934",
+            "playtime_minutes": 1949,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This brings me back to the og Stalker games. I didn't realize how much I've missed this gloomy yet beautiful place."
+        },
+        {
+            "review_id": "226413103",
+            "steam_id": "76561198007372519",
+            "playtime_minutes": 4528,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It is a really cool and immersive game, but I can understand the complaints about performance. My computer can handle it, but not by a large margin. Read up on optimalization if you are in doubt. There are not many games quite like this one and it is different from Chernobylite, though the setting is similar. It feels more like the Metro-games to play, but allows for more freeroaming, naturally, as the game takes place mostly on the surface. If you liked the older S.T.A.L.K.E.R games you should be able to enjoy this one."
+        },
+        {
+            "review_id": "226395085",
+            "steam_id": "76561198080316404",
+            "playtime_minutes": 7341,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Loved the continuation of the lore, very well written, immersive gameplay. I got the Strelok-friendly ending. Just FIX THE BUGS ALREADY."
+        },
+        {
+            "review_id": "226384304",
+            "steam_id": "76561198844209170",
+            "playtime_minutes": 343,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Quite a lot of visual bugs, but besides that it's really fun so far. Wish I could do more upgrading and weapon modding, but I'll get there. Guns feel good, graphics are great and the game runs smooth. I found a random low poly baby model on a smoke stack, so the devs have humor which is always fun. So far so good"
+        },
+        {
+            "review_id": "226382795",
+            "steam_id": "76561198055623208",
+            "playtime_minutes": 7540,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love the STALKER series and I will preface by saying GAMMA is the best \nThis game has some issues and the AI is not what you will expect coming from other games \n\nI will say though - I have put in a lot of hours and can't lie I had fun and got value out of purchasing and 125 hours was one play through as ward aligned so there is still more + new content updates to try and mods which have always been at the core of making STALKER the series it is remembered as"
+        },
+        {
+            "review_id": "226351343",
+            "steam_id": "76561197964371387",
+            "playtime_minutes": 6986,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "good open world game with a lot of ways to play, progress, and order things. if you have fun thinking things through you'll enjoy this, if you just want to run and gun you'll probably enjoy this?"
+        },
+        {
+            "review_id": "226342179",
+            "steam_id": "76561199803302611",
+            "playtime_minutes": 623,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very cool concept. kinda like the russian version of fallout without power armor to protect you. a lot of weird paranormal like things happen in game. keeps you on ur toes.game is  kinda buggy, and in the beginning it gets so annoying how  much ur weapons jam while killing mutants or other combatants.  very excited to see pripyat in end game. most of the game takes place elsewhere in the exclusion zone"
+        },
+        {
+            "review_id": "226269807",
+            "steam_id": "76561199567710251",
+            "playtime_minutes": 4506,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i love it, wished it had better performance on pc, and better modding, otherwise best game ive played in a long time"
+        },
+        {
+            "review_id": "226257138",
+            "steam_id": "76561197978257937",
+            "playtime_minutes": 3260,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Very conflicted on how to review this as a longtime fan of the series.\n\nThe environment GSC has created is beautiful. For any fan of the series, it's amazing to see The Zone depicted in such a detailed and granular way, exploring old locations full of memories from the previous titles, seeing how things have evolved along the timeline of the various games. The effort GSC put into the depiction of the Zone is incredible from an immersion standpoint. It's obvious to me this game will age just as well or better than previous titles have in this way.\n\nUnfortunately, AI behaviour in general does not live up to the same standard as the environment itself, or compared to previous titles.\n\nA-Life in the X-Ray Engine (previous titles) is one of the most fascinating and immersive AI templates in just about any RPG game.. When compared to any other RPG shooter, it stands alone in the amount of immersion it offers, and it is at the very core of what makes The Zone feel alive. There are many reviews and descriptions of A Life so I won't go into too much detail, but I would encourage anyone unfamiliar to read about it and see why this series was so far ahead of its time with respect to this important element.\n\nWhile GSC has made massive improvements to A-Life in Stalker 2, it still falls short of previous titles in many areas. The spawn exclusion radius / spawn bubble around the player makes The Zone feel quite empty, until suddenly there will be an instantaneous spawn of friendly or enemy AI (or both) within a short distance of the player, forcing repetitive close quarters combat. The entire element of long distance recon and planning that existed in previous titles is gone, despite whatever offline tracking exists. This also negates the use of many longer distance weapons. Some of these spawns as a result feel unusually inappropriate, with random stalkers spawning in areas of the map around the player where certain factions or patrols likely wouldn't exist, leading to the experience feeling way less dynamic.\n\nNPC's in certain faction locations are also invincible, which also contributes to the game feeling less alive, and random A-Life events being less consequential. In previous titles, a random coincidence of events could result in larger faction areas like Rostok for example coming under attack. This created the feeling that even the safest places in The Zone are not free from danger, which is at the core of what The Zone represents in general, and contributed to that unmistakable feeling of danger in previous games.\n\nThere are also other issues with the AI in general that many others have pointed out. Random aimbot behavior and less dynamic flanking and group teamwork elements. In addition, it is quite difficult to identify AI as members of a certain faction due to the similarity in equipment, behavior and voice dialogue (although this seems to be improving)\n\ntldr Stalker 2 is in a much more playable state than launch, but much work needs to be done with respect to A-Life and general AI behavior in general to match the level of immersion of previous titles. Dropping a positive review, but very conflicted and would leave a neutral to slightly negative review if possible. Looking forward to more improvement from GSC"
+        },
+        {
+            "review_id": "226216285",
+            "steam_id": "76561199877917097",
+            "playtime_minutes": 3667,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game with a great story and cutscenes, but it has a hell of a lot of problems.\n\nFirst of all, 50% of the time you are just running from A to B and Skif has the same endurance like a fat guy, which means he needs to use an energy drink every minute.\n\nNext problems: A HUGE amount of bugs and glitches, which prevent certain achievements, but on the other side, some achievements unlock without doing them at all.\nEnemys spawn behind you even when you know you are the only living being around 100m and they not attack you asap, they go to a random spot, crawl together and then fire at you.\nThey are also using aimbots from a mile away and see you also trough trees or walls.\n\nNext problem is the demanding engine and constant graphic problems.\nHuge fps drops when you are in citys, visual glitches in woods, etc.\nAlso the raytracing sometimes just decides to shutdown or produces very weird artifacts.\n\nI could only play this game on average settings and my laptop still plead for mercy and sometimes just gave up.\n\nThere is also a huge amount of missing achievements if you don´t know them, because about 30 of them are hidden and you need to ask google what they are.\nI also tried to get my hands on the weird bold artifact but the dead npc never spawned.\n\nI played about 60 hours with the ward ending and i wanted to hunt some achievements, but in order not to kill my laptop and because i am fed up with running huge amount of distances (because fast travel only works in citys with guides) i quit it for good.\n\nIt is still a great game, but as i wrote, it has a lot of problems which i think GSC is not going to fix 100%, they made it much worse with the newest patch what i could find out.\n\nIf this doesn´t bother you: Get it."
+        },
+        {
+            "review_id": "226193827",
+            "steam_id": "76561199856389046",
+            "playtime_minutes": 10336,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "with the right amount of tinkering and after a year my 1080ti runs this game at a \r\nsmooth 115fps lol absolutely love it"
+        },
+        {
+            "review_id": "226119876",
+            "steam_id": "76561198058910851",
+            "playtime_minutes": 2917,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love this game, so much more satisfying than SCUM with a lot less bugs.\r\n\r\nWould be nice if there was base building or crafting but whatever, i'll just be a murderhobo."
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "ingested_at": "2026-06-08T19:39:08.706339",
+    "app_id": "1687950",
+    "metadata": {
+        "type": "game",
+        "name": "Persona 5 Royal",
+        "steam_appid": 1687950,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Lead the Phantom Thieves of Hearts in this award winning, stylish turn-based RPG filled with dungeon crawling, party customization, strategic combat, and Persona fusion. Explore Tokyo, build relationships, battle Shadows, and infiltrate the minds of the corrupt to make them change their ways!",
+        "detailed_description": "<h1>Included Content</h1><p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/extras/7489a0b58496cebcaa6c3780d96e9483.avif?t=1779145087\" width=616 height=292 /></span></p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/extras/4a56a59d9cad0953673e3365f99ae4c2.poster.avif?t=1779145087\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/extras/4a56a59d9cad0953673e3365f99ae4c2.webm?t=1779145087\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/extras/4a56a59d9cad0953673e3365f99ae4c2.mp4?t=1779145087\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Prepare for the award-winning RPG experience in this definitive edition of Persona 5 Royal, featuring a treasure trove of downloadable content included!  </p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/extras/328a6d52f69adfedc4b21f536df81fa1.poster.avif?t=1779145087\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/extras/328a6d52f69adfedc4b21f536df81fa1.webm?t=1779145087\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/extras/328a6d52f69adfedc4b21f536df81fa1.mp4?t=1779145087\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Forced to transfer to a high school in Tokyo, the protagonist has a strange dream. “You truly are a prisoner of fate. In the near future, ruin awaits you.” With the goal of “rehabilitation” looming overhead, he must save others from distorted desires by donning the mask of a Phantom Thief. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/extras/f81136451bb443d4a94c45fc840f187f.poster.avif?t=1779145087\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/extras/f81136451bb443d4a94c45fc840f187f.webm?t=1779145087\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/extras/f81136451bb443d4a94c45fc840f187f.mp4?t=1779145087\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Key Features:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Explore Tokyo, unlock Personas, customize your own personal Thieves Den, experience alternate endings, and more</p></li><li><p class=\"bb_paragraph\" >Become the ultimate Phantom Thief and defy conventions, discover the power within, and fight for justice in the definitive version of Persona 5 Royal</p></li><li><p class=\"bb_paragraph\" >Includes over 40 items of previously released downloadable content</p></li><li><p class=\"bb_paragraph\" >Choose between Japanese and English VO</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/extras/66245cc07724138b2bedfa3a5361a278.poster.avif?t=1779145087\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/extras/66245cc07724138b2bedfa3a5361a278.webm?t=1779145087\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/extras/66245cc07724138b2bedfa3a5361a278.mp4?t=1779145087\" type=\"video/mp4\"></video></span></p>",
+        "developers": [
+            "ATLUS"
+        ],
+        "publishers": [
+            "SEGA"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 5999,
+            "final": 5999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$59.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 95,
+            "url": "https://www.metacritic.com/game/pc/persona-5-royal?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 86000
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 20, 2022"
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "ingested_at": "2026-06-08T19:36:28.276772",
+    "app_id": "1260320",
+    "metadata": {
+        "type": "game",
+        "name": "Party Animals",
+        "steam_appid": 1260320,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Fight your friends as puppies, kittens and other fuzzy creatures in PARTY ANIMALS! Paw it out with your friends remotely, or huddle together for chaotic fun on the same screen. Interact with the world under our realistic physics engine. Did I mention PUPPIES?",
+        "detailed_description": "<h1>PARTY ANIMALS DELUXE EDITION</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/extras/862c85960bfdf3f06f16ad90948953a9.avif?t=1770880496\" width=600 height=338 /></span><br>Deluxe Edition includes:<br><ul class=\"bb_ul\"><li>Party Animals Base Game<br></li><li>Nemo Bucks*1300<br></li><li>Bathrobe Harry Outfit &amp; Avatar &amp; Frame<br></li><li>Bathrobe Coco Outfit &amp; Avatar &amp; Frame<br></li><li>Bathrobe Garfat Outfit &amp; Avatar &amp; Frame<br></li><li>Golden Nemo Skin &amp; Avatar<br></li><li>Golden Macchiato Skin &amp; Avatar<br></li><li>Golden Coco Skin &amp; Avatar</li></ul></p><br><h1>JOIN OUR DISCORD</h1><p></p><br><h1>About the Game</h1><h2 class=\"bb_tag\" > Make Painfully Great Memories with Your Friends in Party Animals. </h2><br><br><strong> Mess With Your Friend in 100 Different Ways</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/extras/ea12341010fbbd13bf0b82e0a7040c32.poster.avif?t=1770880496\" width=600 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/extras/ea12341010fbbd13bf0b82e0a7040c32.webm?t=1770880496\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/extras/ea12341010fbbd13bf0b82e0a7040c32.mp4?t=1770880496\" type=\"video/mp4\"></video></span><br><br><br><strong>Or Together You Could Eliminate Others</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/extras/95cf7e1dc2d7f4d911d6c9e9060f5970.poster.avif?t=1770880496\" width=600 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/extras/95cf7e1dc2d7f4d911d6c9e9060f5970.webm?t=1770880496\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/extras/95cf7e1dc2d7f4d911d6c9e9060f5970.mp4?t=1770880496\" type=\"video/mp4\"></video></span><br><br><br><strong>Teamwork Is Also Highly Appreciated Here</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/extras/5faa7b31f1abe75f4a8cfb9fb8108cf6.poster.avif?t=1770880496\" width=600 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/extras/5faa7b31f1abe75f4a8cfb9fb8108cf6.webm?t=1770880496\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/extras/5faa7b31f1abe75f4a8cfb9fb8108cf6.mp4?t=1770880496\" type=\"video/mp4\"></video></span><br><br><br><strong>Especially When Fighting For Gummy Bear</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/extras/4cf540798fcc50835c2cded3409b219a.poster.avif?t=1770880496\" width=600 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/extras/4cf540798fcc50835c2cded3409b219a.webm?t=1770880496\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/extras/4cf540798fcc50835c2cded3409b219a.mp4?t=1770880496\" type=\"video/mp4\"></video></span>",
+        "developers": [
+            "Recreate Games"
+        ],
+        "publishers": [
+            "Source Technology"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 39,
+                "description": "Shared/Split Screen Co-op"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "recommendations": {
+            "total": 56616
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 20, 2023"
+        }
+    }
+}

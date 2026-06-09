@@ -1,0 +1,47 @@
+{
+    "ingested_at": "2026-06-08T20:02:15.866958",
+    "app_id": "1284210",
+    "review_count": 4,
+    "reviews": [
+        {
+            "review_id": "227402409",
+            "steam_id": "76561198723415105",
+            "playtime_minutes": 1769,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Really enjoyable game to play. It runs smoothly, has beautiful landscapes, and the character movement feels great. You can swim, fly on dragons, explore many intuitive quests, and join side events happening around the map. I also found the community really nice and helpful. For example, whenever I died, someone often came to revive me. Overall, it’s a beautiful and relaxing game with a great atmosphere.\r\n"
+        },
+        {
+            "review_id": "225516944",
+            "steam_id": "76561198060598132",
+            "playtime_minutes": 11213,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I played the original Guild Wars way back when.  Recently found myself in a rut where I couldn't find a game that captured my interest.  I tried Guild Wars 2 and was immediately drawn into the world.  I have only scratched the surface so far, but I am loving it."
+        },
+        {
+            "review_id": "227425695",
+            "steam_id": "76561197976977434",
+            "playtime_minutes": 126322,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "such an awesome and revolutionary game. would fully recommend it to anyone. definately try it for free first but you will want to get the expansions. there is just so much to do you will never run out of things to do unless you 24/7 grind"
+        },
+        {
+            "review_id": "225111246",
+            "steam_id": "76561199863296967",
+            "playtime_minutes": 6408,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "its great"
+        }
+    ]
+}

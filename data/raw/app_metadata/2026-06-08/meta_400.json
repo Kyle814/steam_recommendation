@@ -1,0 +1,115 @@
+{
+    "ingested_at": "2026-06-08T19:07:35.549432",
+    "app_id": "400",
+    "metadata": {
+        "type": "game",
+        "name": "Portal",
+        "steam_appid": 400,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Portal™ is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers hours of unique gameplay.",
+        "detailed_description": "Portal™ is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers hours of unique gameplay.<br />\r\n\t\t\t\t\tThe game is designed to change the way players approach, manipulate, and surmise the possibilities in a given environment; similar to how Half-Life® 2's Gravity Gun innovated new ways to leverage an object in any given situation.<br />\r\n\t\t\t\t\tPlayers must solve physical puzzles and challenges by opening portals to maneuvering objects, and themselves, through space.",
+        "developers": [
+            "Valve"
+        ],
+        "publishers": [
+            "Valve"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 999,
+            "final": 999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$9.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 90,
+            "url": "https://www.metacritic.com/game/pc/portal?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 65,
+                "description": "Subtitle Options"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 16,
+                "description": "Includes Source SDK"
+            },
+            {
+                "id": 14,
+                "description": "Commentary available"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 169499
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 10, 2007"
+        }
+    }
+}

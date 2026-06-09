@@ -1,0 +1,1007 @@
+{
+    "ingested_at": "2026-06-08T19:21:08.223181",
+    "app_id": "1044720",
+    "review_count": 100,
+    "reviews": [
+        {
+            "review_id": "224924713",
+            "steam_id": "76561198043159102",
+            "playtime_minutes": 2318,
+            "voted_up": false,
+            "votes_up": 295,
+            "weighted_score": 0.8785066604614258,
+            "steam_purchase": true,
+            "review_text": "The atmosphere, visuals, music, farming, and overall “frontier survival” fantasy are excellent. The first 20–30 hours are immersive and enjoyable.\r\n\r\nBut the game starts falling apart because of its internal design and logistics systems (after ~40 hours you will start to notice it).\r\n\r\nThe core problem is that the game tries to simulate complex physical logistics like RimWorld/Dwarf Fortress, but without giving the player proper control tools. At the same time, it lacks the clarity and reliability of Anno 1800.\r\n\r\nAnno simplifies many systems, but they work clearly and predictably. Farthest Frontier adds friction and complexity, but too often it feels artificial instead of meaningful.\r\n\r\nExamples:\r\n\r\n* Goods exist in town, but houses still don’t receive them (and you can't directly control or fix it).\r\n* Meat spoils far away while wagons sit idle.\r\n* Temporary Shelters get filled with food, but workers barely use them (they still travel long distances back to the main city).\r\n* Water is treated as a “resource”, but it is not distributed through markets/storage like other goods. Villagers physically walk to wells themselves — and the game barely explains this. I lost around 25% of my population to dehydration before realizing I needed wells spammed across the entire map.\r\n* Important progression is heavily gated behind gold and trade in a game that visually presents itself as an isolated frontier survival settlement (gold income eventually becomes the main task because security and healthcare depend on it).\r\n\r\nThe biggest issue is that the game constantly punishes the player for systems they cannot properly control.\r\n\r\nIn good management games:\r\n\r\n* either systems are abstracted and predictable (Anno),\r\n* or they are deep but transparent and controllable (RimWorld / Dwarf Fortress).\r\n\r\nFarthest Frontier often lands somewhere in the middle:\r\n\r\n* complex enough to become frustrating,\r\n* but not deep or readable enough to feel rewarding.\r\n\r\nInstead of “solving logistics”, I often felt like I was fighting the AI and working around strange simulation behavior.\r\n\r\nThe game has amazing atmosphere, but the logistics, AI behavior, and balance feel underdesigned and inconsistent."
+        },
+        {
+            "review_id": "226657622",
+            "steam_id": "76561199092273313",
+            "playtime_minutes": 1406,
+            "voted_up": false,
+            "votes_up": 37,
+            "weighted_score": 0.7128270268440247,
+            "steam_purchase": true,
+            "review_text": "You can play for 10 in game years, and if there is a bandit camp near your settlement all it takes is one settler running past it and getting killed. After that workers and nearby settlers will constantly try to carry that body to the cemetery for burial and they will keep dying to the same bandit camp over and over again. At that point the game is basically over because this bug has not been fixed for 8 years and the developers still have not added a simple option to cancel the burial of a specific corpse."
+        },
+        {
+            "review_id": "226328241",
+            "steam_id": "76561198006588138",
+            "playtime_minutes": 2016,
+            "voted_up": true,
+            "votes_up": 35,
+            "weighted_score": 0.7303237318992615,
+            "steam_purchase": true,
+            "review_text": "To be honest, Crate Entertainment is the last developer I would have expected to make such a radical genre shift and move away from a tried-and-true formula to create something completely new. And yet, that’s exactly what they did. They abandoned the H&S genre and decided to create a classic survival city-builder… and yet they decided to make the task even more difficult for themselves.\nIf you take a look for an overview of the currently available city builders you’ll notice a pattern. Absolutely every game tries to do something which will set it apart from the competition; it might be an original setting, atypical genre mix etc.  However, here, the developers decided to do things their own way, so they simply created a medieval settlement simulator. There are no hidden or overt themes, nor anything unique. Just a simple life, its hardships, and small moments of respite and joy. It’s all very familiar and, frankly, pretty cliché.\n\nYet it works. \n\nIt works because the game is a realistic survival and city-builder based on sandbox mechanics. The game impresses with its complexity and the fact that it requires (just like in real life) you to meet all needs and gather all necessary resources. If you don’t provide fruit, scurvy will set in; if there’s no fresh water, dysentery and cholera will spread; if there’s no firewood or warm clothing, they’ll freeze or fall ill. If you want wine, you’ll also need to provide bottles. There’s nothing arbitrary about it. To achieve full production, you need technology, production lines for all components, and so on. \n\n[b]Would I recommend it? Yes. [/b] \n\nThis game is a fantastic survival and city-builder that will satisfy anyone who wants to design realistic cities and refuses to settle for clichés. It’s clear that the game has been well-thought-out in terms of its concept, excellently executed in terms of gameplay and mechanics, and that great care has been taken to ensure all elements work seamlessly together. Yes, it has its flaws, but in my opinion, they do not detract from the overall positive experience of this game.\n\n✅[list]\n[*] Game is visually stunning, but this effect is achieved through attention to detail and overall composition, rather than flashy graphics. Every building has been hand-modeled, which is clearly visible when zoomed in. Each building upgrade results in a more detailed model, which also perfectly reflects the city’s growth and prosperity.\n\n[*] Soundtrack was composed by Steve Pardo and is calm and atmospheric. Main theme is designed to reflect both the era in which the game is set and the so-called hardships of everyday life. To be honest, both the melody and the tempo of the tracks are a perfect fit for this game. Soundscape is also excellent. Sounds blend seamlessly into the surroundings and the flow of events. Combined with the music, they form a cohesive whole in which no single element overpowers the others.\n\n[*] 6 distinct biomes + advanced settings that allow players to further customize the gameplay to their preferences. Additionally, all maps are procedurally generated, so choosing a biome doesn’t mean you’ll see the same layout you might have seen in someone else’s game.\n\n[*] Agriculture. It’s probably one of the most complex systems that I’ve seen outside of the games dedicated solely to it. You need to manage variety of factors (soil composition, fertility profile, plant diseases, three-field rotation etc.), while planning and preparing fields for sowing. System not only encourages you to plan in advance but heavily suggest that you’re not planning it for next season but for the next decade.\n\n[*] Diverse, realistic systems and mechanisms designed to reflect production processes as accurately as possible. Building a functioning, self-sufficient economy requires a tremendous amount of effort, but it also brings great satisfaction. Core gameplay mechanics are well-designed. They keep the player engaged and evolve as the game progresses.\n\n[*] Various diseases and conditions that must be prevented. Preventive measures depend on the nature of the problem, but they cannot be ignored because a potential outbreak could, at best, set your colony’s progress back by light-years and, at worst, destroy it completely. Incidentally, this perfectly illustrates just how valuable every pair of able-bodied hands is and how important it is to ensure the well-being of your citizens.\n\n[*] Additional government policies that can yield significant benefits, but always involve certain trade-offs. E.g. food rationing - while this can reduce food consumption in the settlement, the average level of happiness will drop significantly.\n\n[*] Tech tree. Not every technology is groundbreaking, but each one makes gameplay much easier and increases your settlement’s chances of survival.\n\n[*] Combat portion is more like a tower defense. You need to plan and prepare your defenses against roving bands or local armies, but all of this takes place primarily on a logistical level.\n\n[*] Price/length ratio is well balanced.\n[/list]\n\n😐\n[list][*] Entire color palette seems to be dimmed, especially in spring and summer months. Don't get me wrong, it's perfect for winter but for the warmer seasons, I'd expect bolder, more vibrant colors.\n\n[*] UI at first glance seems to be not particulary user-friendly, but with time you learn to appreciate its design and planning. That said, due to its overall look it might be deterrent for some.\n\n[*] It would be nice if the game offered a few different scenarios to choose from. I know that some achievements set forth a particular goal to get them, but without exception, they all require playing on a very high. Not everyone has enough time or will to do that.[/list]\n\n❌[list]\n[*] Game lacks a proper tutorial. What was added in Update 1.1 would be sufficient for the Anno series or other casual city-building games, but it isn't enough for a survival game.\n\n[*] Unity does not really fare well in generating larger (>2k citizens) and more complex cities but lag and/or framerate drop is entirely dependent on your rig. Some will saw it earlier, while others will be able to build massive cities. Developers tried to mitigate it but it’s one of perennial quirks of an engine and can’t really be removed. I'm just speculating here, but I suppose it would be better if the developers built their own fork of the Unity engine. Though that takes time and money so it could not be viable here.\n\n[*] I think there’s some kind of error related to the prioritization of resource transport. \n\n[*] Monuments need a redesign. Out of 3, only one justifies its costs while other 2 are either mediocre or bad.\n\n[*] Game should provide better information or visual cues regarding resource depletion. In current system, it’s far too easy to miss the moment when resource levels start to decline, so far too often the game has forced me to make snap decisions to mitigate the damage. It would be much easier if I were notified in advance when deposits were running low, rather than being forced to check the situation one by one.\n\n[*] City walls have no ramparts so most of the time archers or crossbowmen are a waste of resource. Strangely enough, they can shoot their enemies through the locked gates. Don’t know if it’s a bug or intended behavior.\n\n[*] We’re unable to build improved versions of the buildings from the start. We only can build basic ones and then keep upgrading them till we get desired results.\n\n[*] We should be able to enter into a contract with a merchant for the delivery of a specified quantity of goods at a specified price.\n\n[*] Flattening ground for future mine takes a lot of time, especially in mountainous areas. It would be better if the game allowed us to build angled or horizontal mine shafts.\n\n[*] Only one architectonical style, typical for medieval Central Europe. \n[/list]"
+        },
+        {
+            "review_id": "225438799",
+            "steam_id": "76561198244321066",
+            "playtime_minutes": 1930,
+            "voted_up": false,
+            "votes_up": 14,
+            "weighted_score": 0.6365248560905457,
+            "steam_purchase": true,
+            "review_text": "A thumbs down always pains me when I know how much love and effort somebody has put into their craft. But I remind myself that the question is simple: \"Do you recommend this game\". My answer is no.\n\nI think the game overcommits to a specific visual component which I can't quite put into words, but call it the medieval color scheme I guess. And it does that excelently - the sort of topology experience of playing, the feeling of \"this intersection is now a place in a medieval village\" is great. When I say overcommit, I mean that the level of detail invested is so costly, that in the end there are some 3d-weird details and lower-res textures (not an issue until you zoom in all the way). But it feels like the \"gameplay\" has been severely neglected by comparison, so the result is that eventually I found little reason to want or need to build much anything once I settled into the mid-game. Part of that is the useless raids - you waste a lot of resources prepping for incrementally growing hordes, with nothing to gain from successfully fending them off.\n\nMy example to support the claim of unrewarding gameplay: the featured image of a walled-off town with a castle, and fields outside, would be a wonderful aesthetic target to be pursuing. But unfortunately the zoning scoring doesn't reward such planning pretty much at all. Things happen. And I feel like with this game too, there must be a reason why such a labour of love would not include excellent gameplay - as abstract as that concept is, and as difficult it is to attain.\n\nMy playtime may seem high to be complaining, but most of it is pause."
+        },
+        {
+            "review_id": "226134495",
+            "steam_id": "76561198076904247",
+            "playtime_minutes": 3625,
+            "voted_up": false,
+            "votes_up": 12,
+            "weighted_score": 0.6322267055511475,
+            "steam_purchase": true,
+            "review_text": "This is a tough one. 5/10.\nIs Farthest Frontier worth the full price? No. Get it at 50% off.\nIs it a good-looking game? Yes.*\nIs it a good-working game? No.\nCould it become a good-working game? Yes. Yes yes yes.\nIs the first DLC a step in that direction? No.\n\n*the UI is old-school. This is a nice pivot away from the mobile-game-blobs that have infested all of gaming, but icons are often too small, the building menu has the *buildings themselves* as icons, rather than their produce, which is bad for finding things quickly. If you have vision issues, check UI scaling options.\n\nThe game looks better than it is. Is sells better than it plays. The Steam Achievement stats seem to verify this: only 33% of all players have the achievement for placing the first building after starting a game. That is, you get it within *minutes* of starting the game. So, many people pay and then don't play. \n\nThe game isn't bad, it is wonky and leaves me yearning for more. Let me highlight a few points I have been mulling over for the past two weeks.\n\n- Complex systems, little control. The game has a huge number of intricate systems but limits the player's ability to control and oversee them. Let me give some examples: \nYou can build a foraging hut. The forager gathers herbs and greens that are shown on the map. There are DOZENS of different types, which vary between seasons. So the forager can pick up greens in the summer, mushrooms and nuts in autumn. Can you control this? No. The solution is: micromanage all foraging huts throughout the seasons, or live with the fact that the summer-work-area will not return anything in autumn. On easy maps, you can live with that. On harder maps, this min-maxing makes the difference between losing or winning.\nYou can also build crop fields. The fields have seasons and a three-year rotation. So let's say you plant wheat in year 1, carrots and cabbages in year 2, and then turnips and hay in year 3. That sounds like the game rewards you for preparing a good seasonal rotation! But wait, there is more: each crop has multiple diseases that it can get. Diseases spread to neighbouring fields when left unchecked. Each crop affects fertility levels of the fields, so you have to plant special crops that restore fertility. So there are so many additional factors, that even the clunky \"all fields\" overview does not allow you to set up rotations and then move on. You have to micromanage your fields every year, sometimes every season. There are cold spells, heat waves- oh yes, crops also have mechanics for heat and frost resistance, and draught resistance. So you never get rewarded for figuring out good rotations- there are too many variables at play and it becomes a chore once you hit mid game, when you want to focus on scale, not micro-manage. As your village grows, it consumes vast amounts of resources. The game uses raw numbers, not kg or lbs or tons, so you can easily generate and consume 5000 vegetables in a year. But you can never see how much you produce. There is a statistic, broken down by resource type, that tells you how much was generated and consumed in the past year. But you can only guess the rate of change by checking manually the food storage and checking huts, cabins and fields for potential issues. This is a minor annoyance when you are used to how resource management games work, but another aspect of complexity that I am not given adequate information for. Think Anno 1602, not Anno 1800. \n\n- Pacing. I think this is the main symptom that the different systems in the game just don't work out that well in unison. The game is too slow- no, it's too idle. Game speeds are x1,x2,x3 and x5 can be activated via options. Usually, building or resource management games have busy periods where you redesign your factory, tear down a neighbourhood or expand the city with a new industrial area. In the \"idle\" periods of these games, you tend to things that have been nagging you (pirate ships, gold issues, road congestion, spaghetti belts) but it's not a massive project, just these \"one more thing before going to bed\" issues. Farthest Frontier doesn't have that busy-idle cycle. It has busy-idle-idle-idle-idle cycle instead. There is no \"once you reach hour X, the game settles\". You have these waiting periods in the beginning, in mid game, and in late game. I have been thinking a lot about how this issue arises and it's worth a 2 hour video essay. I am so struck by the fact that an Anno 1800+DLC, which is absolutely overwhelming with features, can ease you in and keep you busy, whereas Farthest Frontier, FAR smaller in scope, overwhelms you at the start and then leaves you idling once you have figured out the mechanics. The most requested and downloaded mods are on allowing higher game speeds.\n\n- Balancing two different game loops. I personally think the pacing and systems issues arise from the fact that FF tries to be both a city simulation and a survival / tower defence game. Development seems to have focused a lot on the survival aspects and I think this also is something that makes FF unique. I absolutely *love* how deadly the wildlife is. Nature isn't just there for the taking, it has teeth and bites back, and if you strip too many resources, you starve yourself of its once abundant offers it had to give. Raiders are also something that I thought would just annoy me, but turned out to be really nicely implemented. They attack your settlement regularly to loot it, and the mechanics are- get in, loot, get out. Not: destroy and burn everything, and then tell the players they came to \"loot\". I love that. But then, and I come back to my first point here, I have to micromanage ALL MY VILLAGERS if I don't want them murdered by incoming raiders. There is a rally-button on your town centre that rallies nearby villagers to hide inside and fire arrows (awesome mechanic!) but then that doesn't apply to the whole village. Workers and gatherers have zero survival instinct and will stroll into incoming raider hordes, meeting their fate quickly unless I elect to play an RTS in the meantime to save them all. Again: supercool systems, ideas, and then I am left with micromanagement of the worst kind. And while I was running the game at x5 for an hour waiting for stuff to happen, now I need to slow down to where x1 is too fast, because I need to be in 5 places at once.\nRaiders also have camps in the wild, and if you fancy your chances, you can loot THEM instead and thereby push their next raid further out. Fantastic! Until you clear the last camp on the map. They never respawn and then you are left idling again waiting for the yearly, biyearly or whenever next attack (depends on game difficulty). So I guess I am playing a simulator after all, then? What is it? For what its worth, I think marrying two different game loops always leaves one to be desired. I would recommend Factorio for automation building, but never for tower defence. Factorio's biter mechanics are underwhelming, repetitive, and annoying. Farthest Frontier really put in the work to make *both* systems work in tandem. And I think, the result is the pacing issues and the complexity-control mismatch.\n\nI want to emphasize that I am not taking a stab at Crate here whatsoever- on the contrary, I find it fascinating that a team can deliver a competent-looking game with many moving parts, but those final 20% make all the difference. This is a game that could release 1-2 proper expansions and in 5 years from now people would say \"terrible base game but 1000% worth it with all expansions!\". And I want it to have this future. \n\nUnfortunately, the first DLC didn't make the best impression- first the marketing of \"pets\" in a survival game is odd, this isn't the cozy-cute corner of Steam here, and the DLC is so imbalanced that people suggest turning it off until it gets fixed. This suggests focus on just more systems, rather than rebalancing the existing potential.\n\nHere is to hoping that that will change!"
+        },
+        {
+            "review_id": "224868667",
+            "steam_id": "76561199219223797",
+            "playtime_minutes": 16965,
+            "voted_up": true,
+            "votes_up": 13,
+            "weighted_score": 0.6193224191665649,
+            "steam_purchase": true,
+            "review_text": "I was Here from Early access. When I fly international this bad boy is a killer one for that. Its well worth the price.\r\n\r\n\r\nThe only thing I wish you could do is co-op and co-op trading that would make this a S-tier for the style of game it is. \r\n\r\n9.5/10"
+        },
+        {
+            "review_id": "224949725",
+            "steam_id": "76561199180058208",
+            "playtime_minutes": 632,
+            "voted_up": false,
+            "votes_up": 7,
+            "weighted_score": 0.6117962002754211,
+            "steam_purchase": true,
+            "review_text": "Nice game but not for me.  There are no missions and building takes a long time as you advance, you cannot have cattle without having a lot of gold to buy them, but to get a lot of gold you need machinery  that you can only buy initially. therefore the game drops to a crawl.  in comparison to Settlers or similar games i found it a little boring."
+        },
+        {
+            "review_id": "226512200",
+            "steam_id": "76561198036482690",
+            "playtime_minutes": 23687,
+            "voted_up": true,
+            "votes_up": 11,
+            "weighted_score": 0.6514187455177307,
+            "steam_purchase": true,
+            "review_text": "Well laid out plan of advancement, though still a few issues with the details. E.g. Fences lay down quickly and easily, but (unless I'm missing something) woe to you and your carpals if you have to take fencing down...one block at a time with 3 clicks required. Same for farmers. If I have 73 farmers and, at the end of the growing season, I want them to spend the winter as general laborers, 73 clicks later I have them. If there is a shortcut, I haven't found it. However, as I said, the game as a whole, fun to figure out and play."
+        },
+        {
+            "review_id": "226442581",
+            "steam_id": "76561198442576633",
+            "playtime_minutes": 1173,
+            "voted_up": true,
+            "votes_up": 12,
+            "weighted_score": 0.6224583983421326,
+            "steam_purchase": true,
+            "review_text": "Recommended\n\nI ended up putting about 19.6 hours into Farthest Frontier and reached the full endgame, including all three monuments. For me, this game was at its best when everything was falling apart and I had to figure out the system: food shortages, rotting crops, inactive livestock, wood bottlenecks, gold problems, raiders, walls, trade, taxes, and production chains.\n\nThat’s where the game shines. It gives you that satisfying arc of:\n\nbare survival → stabilization → optimization → prosperity → victory.\n\nThe first half of the run was genuinely engaging because every problem had a practical cause and a satisfying solution. Low food wasn’t just “build more farms.” It was storage, spoilage, crop rotation, livestock feed, smokehouses, and logistics. Wood shortages weren’t just “cut more trees.” It became roads, forester camps, planting ratios, work zones, and supply chains. When the systems clicked, the town started feeling alive.\n\nThe game also has that dangerous “just one more thing” quality. I sat down to play and hours disappeared. That’s usually the sign of a great city builder.\n\nMy main criticism is that once you solve the systems and hit the monument victory condition, the motivation drops off pretty fast unless you enjoy sandbox polishing, population pushing, or self-imposed challenges. There is an official victory through monuments, but after that, it’s mostly up to you to keep going.\n\nStill, I really enjoyed the journey. It’s not a game I feel the need to replay immediately, but the one full run I had was excellent.\n\nBest for players who enjoy: survival city building, logistics, resource chains, trade, crop/livestock management, and turning a fragile settlement into a wealthy fortified town.\n\nFinal verdict: Great city builder. The climb is the best part. Highly recommended if you enjoy solving systems under pressure."
+        },
+        {
+            "review_id": "226973479",
+            "steam_id": "76561198044646988",
+            "playtime_minutes": 13016,
+            "voted_up": false,
+            "votes_up": 12,
+            "weighted_score": 0.6065238118171692,
+            "steam_purchase": true,
+            "review_text": "I love this game, as evidenced by my playtime, but they seriously broke it in the full release. Playing on easy, it's IMPOSSIBLE to balance resources and food and population and then keep getting ganked by raiders because THIS GAME HAS NO CHILL and villagers are gluttonous lunatics so i somehow have 8 farms, 3 hunters, 2 fish, cows, chickens, literally 100 people producing food and these pigs never have enough food and there's never laborers to build walls so when I get raided I get MURDERED. Two traders a season with completely randomized inventories also means way too frequently the first dozen years are useless for trading, which absolutely screws over EVERYTHING ELSE! ALSO WTF did you put buildings behind research and tiers? PICK A SIDE. The way they did it is so convoluted and game breaking. \r\n\r\nWHY IS BRICKWORKS TIER 3 WHEN THERE ARE TIER 2 BUILDINGS AND UPGRADES THAT REQUIRE IT?\r\n\r\nThis was literally my favorite game ever. And you broke it. FIX THE BALANCING. I\"M ONLY THIS PISSED BECAUSE I'M SO PASSIONATE ABOUT THIS GAME AND THIS SCREW UP IS WORSE THAN HOW CAPTAIN OF INDUSTRY RELEASED BROKEN PAID DLC ON THEIR EARLY ACCESS GAME."
+        },
+        {
+            "review_id": "226517898",
+            "steam_id": "76561199004973962",
+            "playtime_minutes": 4615,
+            "voted_up": true,
+            "votes_up": 7,
+            "weighted_score": 0.5695524215698242,
+            "steam_purchase": true,
+            "review_text": "There is a great deal more versatility with Farthest Frontier than with similar games like Ostriv and Banished. For those that enjoy crossing swords and dodging arrows with invading military units, this game allows such a person to govern the level of engagements; for those who just like to keep on their toes  against  a casual vandal or two, this is the ideal game. And for those who are suicidal would be \"Rambos\" among us, this game will let you see just how long you can stand against the forces of evil.  It is my pleasure to quietly build peaceful villages like I do with the other two games that I mentioned, but even that can be adjusted - if you like to protect your herds against hungry wolves and ill-tempered wild boars now and again.  This is a fantastic game for whatever your mood."
+        },
+        {
+            "review_id": "224928601",
+            "steam_id": "76561198069885920",
+            "playtime_minutes": 22513,
+            "voted_up": true,
+            "votes_up": 21,
+            "weighted_score": 0.5570507049560547,
+            "steam_purchase": true,
+            "review_text": "Simply put... One of the best games in the genre. Don't listen to the negative reviews that have under 50 hours of game play."
+        },
+        {
+            "review_id": "225924149",
+            "steam_id": "76561198170779849",
+            "playtime_minutes": 137351,
+            "voted_up": false,
+            "votes_up": 7,
+            "weighted_score": 0.5485016703605652,
+            "steam_purchase": true,
+            "review_text": "This game is one-dimensional at best; with the constant shortage of food. But ever since the early access days there has been a bug that causes a total food collapse at or around year 20. It doesn't matter how many foragers, hunters or farms you have or what tier they are, this collapse happens frequently.  Hunter lodges report food collected, but it never gets to the smokers or the food stores, with the inevitable result that mass die-offs occur, even to the point of total villager extinction.  Frustrating to lose hours of gameplay to a bug that has been reported many times over the years but remains unfixed."
+        },
+        {
+            "review_id": "226038734",
+            "steam_id": "76561197969923098",
+            "playtime_minutes": 15818,
+            "voted_up": true,
+            "votes_up": 5,
+            "weighted_score": 0.5524269938468933,
+            "steam_purchase": true,
+            "review_text": "Excellent medieval city building sim.  Challenging enough to keep your interest but not so hard that you tire of the tedium.  Very good road routing mechanic.  If you like resource management games, this is the game for you!"
+        },
+        {
+            "review_id": "225512806",
+            "steam_id": "76561198289956018",
+            "playtime_minutes": 3253,
+            "voted_up": false,
+            "votes_up": 9,
+            "weighted_score": 0.577073872089386,
+            "steam_purchase": true,
+            "review_text": "This new update is terrible. Foxes and marmots are literally rampage. For now only dogs can fight back but they are out numbered even you ordered from the merchant as soon as launched the new update. And I am running this on the easiest difficulty. \n\nFarmer, hunter even soldiers can't do anything to the foxes. This update is so ridiculous like no test have been done at all."
+        },
+        {
+            "review_id": "225008238",
+            "steam_id": "76561198000566744",
+            "playtime_minutes": 1482,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.5265162587165833,
+            "steam_purchase": true,
+            "review_text": "Fun until you hit the bug mid game that cripples your town. Log out of a thriving community, and log back in to a broken town with half the buildings condemned. Reload doesn't fix it."
+        },
+        {
+            "review_id": "226967994",
+            "steam_id": "76561198023887149",
+            "playtime_minutes": 582,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.525547444820404,
+            "steam_purchase": true,
+            "review_text": "This game tries to be Banished 2 but unlike banished, it's not fun to restart your town when you mess up. The pacing of the game is way to slow. I seen people play it with mods that are at 50x speed but I figured if I need that to have fun with the game, then this game has a huge problem."
+        },
+        {
+            "review_id": "225740403",
+            "steam_id": "76561198058803972",
+            "playtime_minutes": 6987,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5389177799224854,
+            "steam_purchase": true,
+            "review_text": "This is a seriously good game! It's like an Age of Empires City Builder. \r\n\r\nLike many city builders, it's about resource management and keeping your citizens happy. But watch out for those pesky wolves, bears and raiders! \r\n\r\nGrab your shovels and take a wagon to a distance land and start building the medieval city of your dreams!\r\n\r\nThe good:\r\n- one of the best city builders going around\r\n- challenging yet rewarding\r\n\r\nThe bad:\r\n- would like to send troops on a raid of my own\r\n- a dock would be cool to send out fishing boats for difference kinds of fish (or mammals) / raids\r\n- meat doesn't differentiate between bear, wolve, deer, rabbit, or any other type of meat\r\n- map generation all seems to be the same. would like more of a beach / river / stream type of map rather than just a plain with a few hills and ponds"
+        },
+        {
+            "review_id": "226937872",
+            "steam_id": "76561199144227440",
+            "playtime_minutes": 722,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5147323608398438,
+            "steam_purchase": true,
+            "review_text": "LOVE this game with a certain depth that others have gotten close to; but not achieved. you  absolutely need to have some sort of familiarity with city sim games. im at currently at time of writing this -a 225 pop \"village\". this game is cpu and gpu heavy as well when you zoom out to the birds eye view"
+        },
+        {
+            "review_id": "226919695",
+            "steam_id": "76561198036725802",
+            "playtime_minutes": 25543,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Since the update that gave far more freedom to design your settlement, Ive had a lot more fun. There are also some decent mods for the latest update that fix my minor issues with the game."
+        },
+        {
+            "review_id": "226873388",
+            "steam_id": "76561198018403499",
+            "playtime_minutes": 1617,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "The raider system in this game is a pain more than a feature. Once you start getting big raids regularly, sometimes without the game warning you, it becomes less about building and balance and just about whether you can maintain troops."
+        },
+        {
+            "review_id": "226927344",
+            "steam_id": "76561198006277477",
+            "playtime_minutes": 433,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5198696851730347,
+            "steam_purchase": true,
+            "review_text": "Not a clear cut decision to give this a thumbs down as it isn`t a bad game as such. But if asked to recommend I just cant on the basis that its overall a grind that lacks the fun/just one more turn elements found in with its rivals. Progress seems almost fixed and if you deviate from that path you hit a major wall. A few times I found myself stuck because I didnt chosse a certain tech or building which locked me out of essential resource. Lets be honest, this concept is not a new one. Not by a long shot. This is a game that could have been released 15 or 20 yrs ago. So I feel like it needs more to set it apart."
+        },
+        {
+            "review_id": "224873625",
+            "steam_id": "76561198023716890",
+            "playtime_minutes": 2001,
+            "voted_up": false,
+            "votes_up": 4,
+            "weighted_score": 0.5180723071098328,
+            "steam_purchase": true,
+            "review_text": "[h1]Summary Intro[/h1]\nWell, the game is mildly okay. Its hard to say yes or no to this directly based on the game functions alone. There are quite a few disappointments in the game that make it hard for me to immediately say yes while still being okay enough to not immediately say no. Then there's the discord community, which doesn't even have the devs involved, although it does have a moderator there who is actually a moderator on the forums too and yet, the moderators have insulted me already too. \n\nI have a very low opinion now based on my treatment from the community and the inability to suggest fixing some issues or add missing features without making an account on some forum, in an age where forums are basically unused technology. The steam discussions for the game is totally ignored too, so there's just no way to give feedback without adding yet another account to some site on the internet that could be breached at some point making yet another password one has to keep track of and wait for it to be part of the next breach list.\n\n[h3]The Good;[/h3]\nWell, the game has a more realistic style behind it, and it threw me for a little bit but it actually looks nice now that I've gotten used to it. Its aesthetically pleasing to play.\n\nI also like the main menu music, and it is calming to play between raid activities. I do wish I could alt tab and still hear stuff though.\n\n[h3]The Neutral;[/h3]\nThis game suffers some of the same things all games of this type do, inventory management. Buildings that store certain types of resources just default to all of a type, and while you can add limits to it, it doesn't prevent them from being overfilled somehow. Its okay though since I have dealt with this problem in other games of this type anyway and just build extra facilities that store different stuff.\n\nAnnoyingly the game sound stops when alt tabbed, but can be glitched back on if you alt tab twice.\n\nThe game requires modding if you want to change a few things more to your liking, which is pretty normal for any game.\n\nI particularly disliked the farming system the game has, lots of constant diseases and a three year planner that limits things so hard limited by blocks of grow times and no type of overlap or anything available so that you can grow as soon as the previous harvest is picked if picked early or whatever. Nope, you gotta be stuck on oddly scheduled blocks that don't fit together, and oh yea the land can be bad enough that even if you repair the land it will be a constant hindrance to you. This should be in \"The Bad\" but, using a mod I was able to improve upon it, a little so. Ehhhh.\n\n[h3]The Bad;[/h3]\nThere's no way to submit feedback to the game without making an account on some forum. They don't use any existing services such as Discord or Steam Discussions to handle the community. This means that only a niche few will actually be participants in their special community and it'll usually only be the big fans who'll sit there and nitpick everything you say. I am greatly saddened by the fact that I can't suggest anything for improvements, and when I have said anything in the discord regarding some of the things I wanted changed, I've been dismissed or even mocked for it.\n\nThe discord I have found is run by people who ridicule you for wanting to play your own way. I have even been insulted by the moderators of that discord, and soon after one of the main modders too, just for trying to change a part of the game to something I like more. Such as the farming thing at the end of \"The Neutral\".\n\nThe game does not have a properly functioning steam workshop integration. Mods do not always copy to the game mods folder when you subscribe, and they don't always remove when you unsubscribe, or update when a mod is updated. You must manually move your mods from the workshop folder where they are downloaded to, to the game's mods folder on your own, and when wanting to remove a mod you must delete it yourself. This is one of the biggest problems in the game, to have an improper nonfunctional steam workshop system integrated into it. Since the steam workshop is properly downloading the mods every time, it is not the steam workshop fault but the method in which the game handles the mods. It worked for me the first time only, after that, it no longer bothered to get new mods, remove mods, or update mods.\n\nModding is also done by DLLs, and while I'm not that worried about it, it could allow malicious code to be injected into mods. It does allow for mods to change a lot of different things for sure, which is great, but its also quite dangerous.\n\n[h2]Ending Statements[/h2]\nAt this time, I cannot recommend the game. I tried my best to enjoy it, and portions of the community made me feel unwelcome instead. To the point that I actually want to refund the game, but unfortunately I've already played it way longer than the refund period, even though I bought it only a very short period ago. Its one of those games that actually takes -way- more than 2 hours to figure out if you like it or not anyway so its kinda one of those \"Well ♥♥♥♥\" situations where 20 hours later you find out its a lotta meh. The game its self borders on \"okay\", the community degrades that a bit.\n\nIf you aren't likely to participate in the community, you'll probably be okay with the game."
+        },
+        {
+            "review_id": "226755303",
+            "steam_id": "76561199226632156",
+            "playtime_minutes": 4164,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5172414183616638,
+            "steam_purchase": true,
+            "review_text": "Unfortunately I found the game to be dull; the limited range of challenges/events (building fire, predator attack, disease/drought effecting crops, predictable ai regarding raids) left the game with each game feeling the same,  the slow pace even on x5 speed and certain buildings locked behind research with an ever increasing interval between research points draws the game out."
+        },
+        {
+            "review_id": "226613935",
+            "steam_id": "76561198433004573",
+            "playtime_minutes": 115,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5153037905693054,
+            "steam_purchase": true,
+            "review_text": "Farthest Frontier has strong potential as a survival city-builder, but it suffers from a flaw: the game crashes suddenly during play without any warning or error logs. This silent failure not only erases progress but also prevents players and developers from diagnosing the issue, turning it into a frustrating “black box event.” The irony is that its own system cannot withstand runtime stability, leaving the experience overshadowed by fragility. Btw, i set my graphic not to high but still crashing, hmmm......"
+        },
+        {
+            "review_id": "225033140",
+            "steam_id": "76561199811986383",
+            "playtime_minutes": 17935,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5145630836486816,
+            "steam_purchase": true,
+            "review_text": "King is dead, long live the king. \r\nThis is Banished, that we were craving for.\r\nAboslutely not for impatient players. For the rest of us - a gem of a game. \r\nGood job, soldiers of Crate."
+        },
+        {
+            "review_id": "226435982",
+            "steam_id": "76561198306038519",
+            "playtime_minutes": 2281,
+            "voted_up": false,
+            "votes_up": 6,
+            "weighted_score": 0.5113180875778198,
+            "steam_purchase": true,
+            "review_text": "It's fine, but I wouldn't recommend it. Once you figure out the basics, it's pretty boring."
+        },
+        {
+            "review_id": "226900779",
+            "steam_id": "76561199045926276",
+            "playtime_minutes": 956,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.5032258033752441,
+            "steam_purchase": true,
+            "review_text": "This game is more stressful than fun. Raiders just destroy way too much and I picked easy mode. Beside raiders there are other annoying parts to this game that other games like this dont have. Even just trying to flatten the terrain is complicated for no reason. You place a fence around the farm to keep animals out and then the game keeps the farmers out too. Really stupid. I dont even want to explain other stuff. This is my least favorite game of this type."
+        },
+        {
+            "review_id": "225720225",
+            "steam_id": "76561198301609087",
+            "playtime_minutes": 1867,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5027624368667603,
+            "steam_purchase": true,
+            "review_text": "Crazy good game, really hits that medieval planning knack. There is always something interesting around the corner in this medieval builder. And it runs smooth and stable, playing for very long sessions of 5+ hours and no bugs or crashes."
+        },
+        {
+            "review_id": "225710860",
+            "steam_id": "76561198320908687",
+            "playtime_minutes": 1060,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5027624368667603,
+            "steam_purchase": true,
+            "review_text": "This is the best city builder/civilization management game I've played in years. The skill tree is huge and the game keeps the threats coming, so it doesn't get boring. Just the right amount of challenge. If you are a fan of this genre and like games like Banished, Dawn of Man, Frostpunk, or Rimworld, you will most likely enjoy this game."
+        },
+        {
+            "review_id": "225878203",
+            "steam_id": "76561198102357983",
+            "playtime_minutes": 2171,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5020891427993774,
+            "steam_purchase": true,
+            "review_text": "It is very addicting to try and make your village as advance as possible and safe. All while advancing and growing. Highly recommend."
+        },
+        {
+            "review_id": "226974622",
+            "steam_id": "76561198136825118",
+            "playtime_minutes": 457,
+            "voted_up": false,
+            "votes_up": 5,
+            "weighted_score": 0.5365919470787048,
+            "steam_purchase": true,
+            "review_text": "game is ok but as soon as i hit heavy tools.....welp you cant make them you have to buy them from a trader BUT WAIT you only get a chance to get the right trader to visit your town....why TF would you have a bottleneck on a builder game to get started to not make your own tools? just for this reason alone the developers are a joke and making you jump through hoops just to get TOOLS! OH also Atka of the iron clan everyone online says she is supposed to have these tools welp shes here and she DOESNT HAVE THE TOOLS....not to mention having just 1 guard tower takes about 35% of your gold income....if you dont have at lease 1 guard tower your people die and you get raided its just bad...lets just say if you dont get a randomly generated map that doesnt have a gold mine next to it you better re roll before you start....just play manor lords....what i also dont get when you have a crop field and you set the worker count to max and make a different field next to it and set its worker count to max you just get workers for all fields they dont attend to a single 1 they attend all fields which is weird why not just have a farmer role pool? the trading is so annoying also if you want to sell anything you first have to move it to the trading storage before selling? WHY TF cant you just go next door and get the items from the storehouse? this game needs tons of help its crazy...its funny i had a villager get a fracture needed a healer....so i built a healer hut...costs 25 gold for upkeep WHY THATS INSANE!....so the villager dies cuz the healer didnt heal....not to mention by the time you are able to get any weapons going NOT EVEN ARMOR before a raiding party comes and slaughters every single farmer you have just for fun...dude i have it on regular mode no changes to the custom options just playing the game as intended lol the raiding party is about 10 men bro good luck trying to afford that kind of force...1 warrior cost 5 gold upkeep how TF am i going to get that before getting destroyed the game progresses like a snail but by year 10 if you dont have a fighting force its game over bro"
+        },
+        {
+            "review_id": "227066073",
+            "steam_id": "76561197996696142",
+            "playtime_minutes": 393,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5384878516197205,
+            "steam_purchase": true,
+            "review_text": "Enjoying every minute, and see nothing but cool things ahead so far. It teaches the mechanics very well, and for me that is a huge MUST for the City Builder genre. The onboarding is not only very good at helping you understand how to do everything, but very intuitive feeling as well. I love the graphics and theme of this game, along with the touch of storytelling to help you feel attached to your city. I got exactly what I was looking for in this game, the Medieval City Builder I have always wanted. I've tried others, and this one just suits what I like in the genre and nailed the medieval aesthetic and vibes I was hoping for."
+        },
+        {
+            "review_id": "226970490",
+            "steam_id": "76561198015509189",
+            "playtime_minutes": 1907,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5045076608657837,
+            "steam_purchase": true,
+            "review_text": "Still in the learning phase of this game but I am really enjoying the play style and even the graphics. I will be playing this one quite a lot!"
+        },
+        {
+            "review_id": "226944559",
+            "steam_id": "76561198007447875",
+            "playtime_minutes": 2800,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is an nice colony builder, though nothing groundbreaking and not without flaws. The army/enemy mechanic is a bit annoying, but it's possible to turn off enemies before starting a new game. It took me 35–40 hours on the hardest difficulty to finish the run and I don't see there is much of replayability. On a deep sale I would say it's worth it if you like city/colony builders"
+        },
+        {
+            "review_id": "226942598",
+            "steam_id": "76561198051478842",
+            "playtime_minutes": 9221,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I've played many many city builder games. And this is currently my favorite! It's beautiful, it's really fun, really chill and still there's enough challenges to keep me busy :)\r\n\r\nThere's enough levels to keep going for a while. And it's fun to keep installing again and again and do another game. I love it a lot more than City Skylines for instance."
+        },
+        {
+            "review_id": "226933453",
+            "steam_id": "76561198123221104",
+            "playtime_minutes": 1173,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "TLDR: Farthest Frontier has a lot of potential, but it isn't quite there yet.\n\n\nOne of those rare cases where I wish Steam offered a neutral review option.\n\nAt the moment, that's exactly where Farthest Frontier sits for me. Despite that, I've decided to leave a positive review for now because the game has a solid foundation and I'd like to encourage the developers to keep building on it.\n\nThe game is genuinely enjoyable and already features several interesting systems that have plenty of room for expansion. City-builders like this can be made deeper and more challenging through additional resources, buildings, production chains, and economic complexity, and I hope that's the direction the game continues to take.\n\nA strong endgame goal, for example, could revolve around providing luxury goods to your citizens. Right now, cows and goats both produce milk with no meaningful distinction, and milk is simply turned into cheese. Why not expand that system? Introduce different types of cheese, perhaps through additional processing buildings. Where is the butter? Sheep seem like an obvious future addition as well. The farming system is already one of the game's strengths, with crop rotation, soil fertility, and field management providing a surprising amount of depth. It's engaging to optimize and could easily support even more crops and agricultural products.\n\nUnfortunately, the game is also in desperate need of quality-of-life improvements.\n\nThe first issue is resource visibility. Every resource should be visible from the main UI without having to dig through multiple menus. Mid- and late-game resources like iron become critically important, yet neither iron ore nor refined iron is clearly displayed. It becomes difficult to tell what you have, what you're producing, and whether it is sustainable.\n\nThe game also badly needs global resource limits instead of building-specific ones. Currently, if you don't want all of your clay to be converted into bricks, you need to locate the brickyard itself and manually set production limits there. In a large city, finding a specific production building can already be frustrating. Once you have multiple buildings producing the same resource, things become even less clear.\n\nThis leads directly into another missing feature: a proper search or find tool. As your settlement grows, locating a specific building becomes increasingly difficult. There is a building-name overlay, but once your city reaches a certain size it turns into a wall of text, making the building you're looking for easy to miss among the clutter.\n\nThe game also needs better information on production chains. By the late game, dozens of resources are being produced and consumed across multiple industries. If you want to stockpile a specific resource for an important project, it's easy to overlook a production chain that's quietly consuming it. Games like Victoria 3 handle this much better. Hovering over a resource should tell me:\n\n- Where it is gathered or produced.\n- Where it is refined.\n- Which buildings consume it.\n\nBeing able to instantly see that a resource comes from X, is refined at Y, and is used by Z1, Z2, and Z3 would eliminate a huge amount of frustration. In my opinion, all of these quality-of-life features are not optional, they are essential.\n\nThen there's the elephant in the room: the military system.\n\nTo be clear, I actually like how the military ties into the economy. One of my favorite examples is the cavalry system. You purchase horses from traders, breed them over time in stables, and then use those horses to recruit cavalry. The catch is that cavalry units directly consume your horse population. If you have ten horses and recruit ten cavalry, you now have zero horses left for breeding. That's a clever mechanic because it forces you to balance military power against long-term economic growth.\n\nThe problem is that the military itself feels underwhelming.\n\nIt seems like the developers invested a lot of effort into turning combat into something closer to a lightweight RTS. You can directly control units, position them, and fight battles manually. Personally, I don't think this is where the game's strengths lie. Farthest Frontier is a city-builder first and foremost, not Total War, Age of Empires or the like. If I want deep tactical combat, there are already games dedicated entirely to that experience.\n\nThe economic side of warfare is much more interesting. Maintaining an army requires extensive production chains, equipment, horses, and a significant gold income. By the late game, a standing army becomes almost mandatory if you want to survive larger raids. The problem is that the army spends most of its time sitting idle, draining your treasury while waiting for the next attack. Defeating raiders also provides nothing, which makes military spending feel more like a tax than an investment.\n\nA potential solution would be to add off-screen military expeditions. Imagine a simple menu where you can send part or all of your army on raids, patrols, or campaigns. This would create an interesting risk-versus-reward decision: send too many troops away and your settlement becomes vulnerable; send too few and the expedition may fail.\n\nThe system doesn't need to be complicated. It could simply present a success chance or a basic \"can win/cannot win\" estimate. Successful expeditions should return with resources, gold, rare materials, animals etc, giving players a way to offset the enormous cost of maintaining a late-game army while also making the military feel useful between raids.\n\nOverall, Farthest Frontier has a lot of potential, but it isn't quite there yet. Right now, it's difficult to tell exactly what long-term direction the game is taking. The foundation is strong, the economic systems are engaging, and many of the mechanics already show promise. However, the game urgently needs quality-of-life improvements before anything else. Once those issues are addressed, the developers can focus on expanding the content and deepening the systems that already make the game enjoyable."
+        },
+        {
+            "review_id": "226843974",
+            "steam_id": "76561199230200135",
+            "playtime_minutes": 339,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Game is good quality. Lots to do and keep you busy - lots of variety. My only gripe is the trading system which despite the explanations, I am yet to figure it out."
+        },
+        {
+            "review_id": "226803908",
+            "steam_id": "76561198218144957",
+            "playtime_minutes": 2729,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5220588445663452,
+            "steam_purchase": true,
+            "review_text": "It's a lot like the game Banished imo or a lot like many medieval style city builder games.  I've been enjoying it so far though I do have several big frustrations.  The guys running the market do a horrible job at getting a variety of goods and just stock up on like 2 sorts of food and never grab any other materials that might be handy.  There is no way to force someone to stock a temporary shelter that's built way out away from town and I had dozens of people die right next to it because no one would stock it with food or firewood.  \nBut the major issue I have is that in the trade center there is NEVER any traders that want to buy animals, food, or several other style of goods, about half the goods in fact are NEVER able to be sold to a trader basically only crafted goods and minerals.  You'd think there'd occasionally be a specialty one that would give you an option at least to sell these other goods, but it's not once come up as an option for sale in over 30 hours of play...  That is my biggest gripe tbh, cause it'd help me offload some foods I overproduce before it spoils and make a little money, even if it isn't too much compared to other goods, having the choice to would make it so much better...\n\nBut there are so many things lacking in player controls.  there is no destroy building buttons, so if you want to destroy a fenceline you have to select each and EVERY tile of fence and check two different boxes to confirm and you can't even move the box to stay in a convient spot to make it quicker.  But you also can't control how much markets will stock of which stuff so they will stock anything besides food.  Markets should be able to also grab tools and some materials if you wish so any crafting buildings near have some stock nearby and don't have to run forever.  I've seen MANY games with better management options!"
+        },
+        {
+            "review_id": "226798308",
+            "steam_id": "76561198214493283",
+            "playtime_minutes": 3063,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "fun! excited for expansions. Lots of opportunity for cool build options and potential in the future."
+        },
+        {
+            "review_id": "226796562",
+            "steam_id": "76561198068304740",
+            "playtime_minutes": 89390,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "My favorite world/city building game, ever. I have played since early release and they've done a consistent job updating and correcting bugs. Still some things to work out but such a solid game. I do wish there was a 5th tier."
+        },
+        {
+            "review_id": "226734059",
+            "steam_id": "76561198244163106",
+            "playtime_minutes": 806,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Game keeps you on your toes all of the time. Awesome game if you love organisation, logistic, and city managment"
+        },
+        {
+            "review_id": "226648165",
+            "steam_id": "76561197976535863",
+            "playtime_minutes": 3445,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It has it's flaws sure- but it's still enjoyable. I do agree with others that the late game needs to be optimized. More content would be nice too. Rival cities you can go to war with or visit would be great.\n\n It's extremely annoying destroying a bandit camp only for my villagers to completely ignore the loot that it dropped. I have to manually bring a group from a work camp or if I'm done with my troops- disband them and have them pick it up.\n\nI wish there was a cross between this and Manor Lords. I feel like it'd be the perfect game. \n\nFor the price I paid for early access I feel like I've gotten my money's worth- I'm playing and having fun."
+        },
+        {
+            "review_id": "226590798",
+            "steam_id": "76561198027784539",
+            "playtime_minutes": 2463,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "What you would expect for an excellent strategy resource management game, everything works perfectly and it's easy to set up a town.  The only part I do not like it's that it doesn't have a campaign mode, outside of that if you like a sandbox game, this is perfect for you!"
+        },
+        {
+            "review_id": "226426445",
+            "steam_id": "76561198160917473",
+            "playtime_minutes": 4349,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Smaller DLC that introduces a problem/solves the problem. Not vital to own but nice to have if you want pets wandering your town. Some balancing issues at launch which seem mostly resolved now. Crate communicated they have larger DLCs planned. Happy to buy this to support future development. Great game, great devs."
+        },
+        {
+            "review_id": "226417993",
+            "steam_id": "76561197972049973",
+            "playtime_minutes": 266,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fun and challenging, very grindy. Raiders are the death of me..."
+        },
+        {
+            "review_id": "226379038",
+            "steam_id": "76561198088992205",
+            "playtime_minutes": 1938,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Its pretty good. AI can be a little frustrating sometimes as it feels like often the labourers seem to go off and do non-priority things when there are priority builds to do, but all in all and good game!"
+        },
+        {
+            "review_id": "226361988",
+            "steam_id": "76561198064459616",
+            "playtime_minutes": 1532,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Idk, I just couldn't get into it. A lot of my time was spent in the early game floundering about and then restarting because it seemed like I wasn't getting anywhere...."
+        },
+        {
+            "review_id": "226331579",
+            "steam_id": "76561198057370809",
+            "playtime_minutes": 9289,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A slow burn city builder/survival with a sort of Banished vibe. The Tech tree improvements really flesh it out and add to the game. A good game to play while doing something else, reading, writing, editing. You expand too fast and you're dead. Late game still needs work, raider battles become very OP with battering rams, catapults, and spongey enemies. Would love to see actual castles or even just ditches to create better choke points."
+        },
+        {
+            "review_id": "226327378",
+            "steam_id": "76561198246359792",
+            "playtime_minutes": 1820,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Pretty good game, and in my opinion much better than Manor Lords.  There are a few minor issues with balancing where inhabitants are a bit too picky in their needs (or guard professions being too greedy/costly), and moving resources from one end of the map to the other through roads is a bit punishing/time consuming.  Also, the biggest major issue is the terrain and trying to build things like mines and quarries on uneven terrain; the leveling/flattening the land doesn't work quite right and you have to have your builder workers spend tons of time trying to flatten the same spot of land over and over until you can build on it.\n\nIf you can overlook those issues, this game is actually quite good. 8/10."
+        },
+        {
+            "review_id": "226278845",
+            "steam_id": "76561197988483267",
+            "playtime_minutes": 4388,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "There are quite a few medieval village building & management games. This one stands head and shoulders above the rest. It does a lot of things really well, and the systems mesh and interlock without any major problems. This is not a simple thing to accomplish in a logistics and resource management game, so hats off.\r\nThings are reasonably balanced, there is a consistent, ongoing challenge that is broken up by periodic combat, and there is nothing in the supply chain that overwhelms the player with frustration. \r\n\r\nWhile I wouldn't mind a bit more information about some of the mechanics, it's a minor complaint. Kudos to the dev team. If this is a genre you enjoy at all don't skip this title."
+        },
+        {
+            "review_id": "226266482",
+            "steam_id": "76561198108828061",
+            "playtime_minutes": 32226,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "If it was multiplayer like age of empires. Might be one of the best games made. Still a fun single player experience"
+        },
+        {
+            "review_id": "226169690",
+            "steam_id": "76561197970546131",
+            "playtime_minutes": 1402,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I never thought I would reach a point where the farming mechanics of a game would be a highlight but here I am.  The rest of the game is good too with my biggest criticism being the initial startup.  It would be great if you could turn on the different layer views and see where the fertility is best so you could plan your town a bit better from the start.  If you like city builders this is a very good choice."
+        },
+        {
+            "review_id": "226012047",
+            "steam_id": "76561198133580513",
+            "playtime_minutes": 2066,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It just scratches that old banished itch, I missed so long. But it also improves it in many ways by introducing more and deeper mechanics."
+        },
+        {
+            "review_id": "225813330",
+            "steam_id": "76561198106295912",
+            "playtime_minutes": 2340,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game. Reminds me a lot of Banished. Nothing bad to say about this game truthfully.\r\n\r\nHoping for performance improvements in the future. Nothing awful, but with my newer PC it starts getting laggy around 1200 villagers. However, the lag only happens when the simulation is running. on pause, perfectly fine. The game stops you at 500 and does tell you to only move forward at your own risk.\r\n\r\nWould reccomend!"
+        },
+        {
+            "review_id": "225772003",
+            "steam_id": "76561198091853096",
+            "playtime_minutes": 1098,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I play many games, most are ok.  I am impressed by this game, it is much like Banished (which i love also), only much more complete and stable.  Nice graphics, play, and well is is addictive."
+        },
+        {
+            "review_id": "225699904",
+            "steam_id": "76561198171840037",
+            "playtime_minutes": 3225,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fantastic builder for those that love optimizing. It takes time to learn, and that's part of the fun! I recommend trying out some of the QoL mods once you've gotten a hang of the game."
+        },
+        {
+            "review_id": "225699665",
+            "steam_id": "76561198001735210",
+            "playtime_minutes": 1079,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Amazing game!\r\n\r\nPlays great on my system and has nice visuals. It's also relaxing to play with many things to do."
+        },
+        {
+            "review_id": "225672808",
+            "steam_id": "76561198051758199",
+            "playtime_minutes": 5825,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Having owned since the early stages of Early Access, it has truly been great to watch this game and community grow. I have enjoyed the many welcome additions that each update has brought. Thank you to the devs who have continued to work on this game and actually brought it out of Early Access into a full game!"
+        },
+        {
+            "review_id": "225667820",
+            "steam_id": "76561198043762240",
+            "playtime_minutes": 1992,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Rather satisfying experience overall. One of those games that you can come back to once in a while. \nRecommend trying various maps and difficulty settings..especially to get the hang of it."
+        },
+        {
+            "review_id": "225649224",
+            "steam_id": "76561198823728506",
+            "playtime_minutes": 1225,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Perfect combination of game mechanics from ANNO 1404 and Banished.\r\nAlso looks beautiful and building a nice-looking town while still being fully functional is much easier than in any other city builders I played."
+        },
+        {
+            "review_id": "225595699",
+            "steam_id": "76561198078425640",
+            "playtime_minutes": 2861,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "After my first playthrough, I tried a couple more, including one on vanquisher mode, but I got bored around 10 hours in. The game is fine, which is why I recommend it to people enjoying city builders, but I think after ca. 50 hours, I got my money's worth (even though I was expecting/hoping to get more playtime out of it). I'll probably come back if any major updates are made to improve replayability, but for now, I feel like most playthroughs fall into the same tracks."
+        },
+        {
+            "review_id": "225519930",
+            "steam_id": "76561199707572312",
+            "playtime_minutes": 18754,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is freaking amazing, so easy to spend several hours playing. Super fun city management game, wish the map generator was a little better/faster loading and combat was a little more advanced but other than that this game is great."
+        },
+        {
+            "review_id": "225511202",
+            "steam_id": "76561198034262782",
+            "playtime_minutes": 790,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "i mean, sure, I recommend it\n\nStunning detail in the graphics\nIn-depth economic simulation\nState-of-the-art building mechanics\nA comprehensive knowledge/skill tree\n\nBUT\n\nStill, they were lazy with stuff and the reason why is beyond me.\n\nThe \"guided start\" isn't an actual introduction, it's more like a patch on a gasping hole that is the complete lack of explanations and help during the game.\n\nIf you follow the guided start, your build order won't be optimal.\n\nFinding out something like an optimal build order is mostly trial and error. The buildings and the mechanisms behind them are not immediately obvious and they aren't documented well in-game either.\n\nWhen you build your first field, you have no clue how big it should be, what plants to put and why and how much maintenance makes sense. They just put an overloaded info screen there that tells you that you have to klick a lot of buttons before your field will do anything.\n\nIn general, buildings become available based on dependencies that you have to learn about. I mean - if there is an actual building dependency graph, why not show it or make it explicit somewhere?\n\nThe most annoying thing for me: I will just put down every available building at least once to see what it does and what i might need it for. This pretty much limits my meaningful decisions in the game. Apiary? Arbolist? All the different storages? Sure, probably necessary and advantageous somehow ...\n\nMaybe after the first playthrough I will have a better idea when to place what. But there is no good reason in terms of game mechanisms, why I can't have some vision for my settlement that includes certain specializations and focus on that right away."
+        },
+        {
+            "review_id": "225445330",
+            "steam_id": "76561198150196783",
+            "playtime_minutes": 1067,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great little city builder - scratches that western frontier / pioneer itch! The game is slow, but there's enough going on and enough resource balancing that I really don't mind the speed. Deep tech tree, lots of unique buildings, no city has to be the same. If you're into smaller settlement management games, this one is worth a few hours for sure."
+        },
+        {
+            "review_id": "225423882",
+            "steam_id": "76561198258876202",
+            "playtime_minutes": 49766,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game.already completed all the global achievement.at least returned the equipment from the soldiers who fell in battle.took a lot of time to prepare back the army to enjoying taunt raid from the military monument..."
+        },
+        {
+            "review_id": "225375249",
+            "steam_id": "76561198079780453",
+            "playtime_minutes": 1369,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I was skeptical at first seemed I bit crude but trust me.... give the game time, you'll be spending 8 hours without even knowing it. I will say the mid late game can kind of get a bit bland though,..."
+        },
+        {
+            "review_id": "225348366",
+            "steam_id": "76561198030753557",
+            "playtime_minutes": 53900,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "One of my favorite city-builders ever. Highly replayable."
+        },
+        {
+            "review_id": "225254273",
+            "steam_id": "76561198021696542",
+            "playtime_minutes": 1158,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I like it . Just enough difficulty to keep one interested and harder modes are even more taxing if you like that difficulty in a game"
+        },
+        {
+            "review_id": "225188551",
+            "steam_id": "76561198305176395",
+            "playtime_minutes": 2383,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Perhaps the best modern city builder set in medieval times. If you were disappointed by Manor lords try this game. It has its issues, but it is a well developed game with nice mechanics that receives constant updates."
+        },
+        {
+            "review_id": "225110177",
+            "steam_id": "76561199225313659",
+            "playtime_minutes": 7336,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very fun game to play,the updates take a while to arrive but they are worth it."
+        },
+        {
+            "review_id": "225094024",
+            "steam_id": "76561198234576212",
+            "playtime_minutes": 8345,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "(*spoiler alert* don't read if you don't want to be influenced on how to play this game)\n\nFor those who dreamt of being pioneers on foreign lands, this game is for you.\n\ntips:  (it's ok to delete this if it violates rules and guidelines, I apologize in advance)\n\n# for newbies, the pause button (spacebar) is your friend. You will be overwhelmed, fast. Pause, then make your moves in advance. this helps cuz if you do not do a certain task at a specific time, it will affect your gameplay and the situation will get ugly and u will want to restart the game. \n   examples: buildings that produce soap and collects poop -pick em early or diseases will \n                    end u\n# Pick a site with double up arrow resources (clay, sand, iron, coal, fish, deer, trees). infinite icons is not a priority early game and if u try to mine them without tier 4 mines, they stop producing. don't mine gold in early to mid game, better to trade. mine gold only near end game for fun.\n\n# Don't surround your town center with shelter, make ur market place your center. surround ur town center with a storehouse, a root cellar and some space for future vault etc, then surround it with pallisade. Raiders start at year 4-5, so u can plan ahead. watch tower can also be surrounded with mini pallisades, it works.\n\n# Practice ur micromanaging. toggle bldgs on and off for production efficiency, reallocate ur population, DON'T over-produce perishables. COLLECT blueberry shrubs. Farm early, get arborist early too. spread apiaries (farms got designated spot for them), the more the better. \n\n# BEER. it's where the gold is. forget mining gold ingots. Once u near hitting tier 3 town, prep to produce wheat en mass. your scattered apiaries (build 10+) will net u 400+ honey by then. once brewery is built u must have free laborers, u need 8. after a year, ur stock is bursting. Wait for merchants that buy beer and u can net 1500+ gold per season. DON'T STORE UR GOLD, INVEST IT. Buy stuff u need or can't produce. By then u know the game better than me :) \n\nGreat Game <3\n\n"
+        },
+        {
+            "review_id": "225093978",
+            "steam_id": "76561198035358493",
+            "playtime_minutes": 2764,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Nice little slower paced city builder, management game. There are some weird things like being forced to trade for heavy tools/bricks as your only method to advance, traders don't have them for 4 years? Out of luck. However I quite enjoyed loading this up every time. Has some replayability too, expect 40-50 hours to get a population of 500 and tier 4 tech building wins"
+        },
+        {
+            "review_id": "225078085",
+            "steam_id": "76561198036094408",
+            "playtime_minutes": 1389,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great, relaxing (except when a raid is on the horizon) game, enjoyable to play and watch your town grow."
+        },
+        {
+            "review_id": "225018541",
+            "steam_id": "76561198062215920",
+            "playtime_minutes": 8023,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Every new game is different, the right balance between being relaxing and engaging. I have been playing this for over a year now and always come back to it."
+        },
+        {
+            "review_id": "225007743",
+            "steam_id": "76561198301454757",
+            "playtime_minutes": 2307,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4724409580230713,
+            "steam_purchase": true,
+            "review_text": "What separates this game from other city builders is the raids and military. Steep learning curve. Still figuring things out with this one."
+        },
+        {
+            "review_id": "224987549",
+            "steam_id": "76561197964033413",
+            "playtime_minutes": 1239,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Love this game. A good successor to pharoah and caesar. I really like the gridless design, to allow the aesthetics to shine! I would to a way to stockpile a certain resource for those huge upgrades where you need 200-300 a single resource. Currently the only way i have found to do that is to shut down production that uses that specific resource."
+        },
+        {
+            "review_id": "224938509",
+            "steam_id": "76561198031786838",
+            "playtime_minutes": 678,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "So far... so good (11 hours playing)\r\n- It's a slow paced game. Be prepared, you won't find major breakthroughs every single minute. There's not excessive micro management, and you can enjoy the view while tending to your villagers. \r\n- The gameplay evolves slowly, showing you new mechanics every now and then. \r\n- As I'm 11h deep only, I'm not able yet to deliver a thorough experience review. But: so far, it's been a good experience!\r\n- Is the late game any good? NO IDEA! But at least it's been a nice ride til here."
+        },
+        {
+            "review_id": "224896304",
+            "steam_id": "76561198318269565",
+            "playtime_minutes": 5665,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.38946831226348877,
+            "steam_purchase": true,
+            "review_text": "very bad game crops keeps dying from weather or disease villagers getting sick all time and buildings catching fire constantly "
+        },
+        {
+            "review_id": "224878201",
+            "steam_id": "76561198027543740",
+            "playtime_minutes": 3496,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Pretty fun and well fleshed out city builder, I am enjoying the mechanics, the combat, good learning curve. Honestly a well put together game that I am enjoying. Current city has 1100+ villagers. About year 80 or so. Still running pretty smoothly. Only when huge attacks happen do I noticed a small dip in performance. Which the game did warn about, with game speed and pop size. Gonna see just how far I can take this one City. Conquer the map or die trying!"
+        },
+        {
+            "review_id": "224869302",
+            "steam_id": "76561197995209228",
+            "playtime_minutes": 847,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great concept, but the seed / terrain generation system is completely out of whack for a full release game. Regrettably, after the 1.1 update the common lists of seeds on Reddit or forums do not seem to produce the same results, either, so that workaround has been denied.\r\n\r\nA player should not have to reroll seeds for over 40 minutes to get a minimally viable start. Considering that the game has had a major update since launch (1.1) I'm not sure if they're going to come back and address this issue."
+        },
+        {
+            "review_id": "224861296",
+            "steam_id": "76561198056733207",
+            "playtime_minutes": 19298,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "As a big fan of city builders to just sit down, relax, and unwind, I haven't found any better than Farthest Frontier. \r\n\r\nCurrently 321 hours into it and still coming back for different settlement playthroughs. \r\n\r\nWhen I think of doing something better for the next settlement, I'll begin again and then strive for that but something else will go wrong and always needing to adapt. \r\n\r\nGreat game, will play for another few hundred hours without a doubt."
+        },
+        {
+            "review_id": "224838430",
+            "steam_id": "76561198052340397",
+            "playtime_minutes": 1309,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great Medieval City Builder\r\n\r\nSimilar to Manor Lords, but finished and without the deep combat emphasis. There are quite a few RPG elements, but they are done right and are not immersion-breaking. So far, I love the progression in this game."
+        },
+        {
+            "review_id": "224802383",
+            "steam_id": "76561198024557067",
+            "playtime_minutes": 297,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A good city builder with several new features/options not seen in many other games, ex: crop rotation, options for making soil more fertile, unhappy population drink more, etc. Decent modding support."
+        },
+        {
+            "review_id": "224753095",
+            "steam_id": "76561197967294260",
+            "playtime_minutes": 2891,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A fantastic city builder that takes me back to the likes of Caesar 3. I've only played it on pacifist mode at the moment, so can't comment on the hostile forces side of things, but it does everything else (resource management, population management) very well and I don't really have any notes. I suppose the only thing I'd like to see is more upgrade options and resource types to extend the life of a single game even further, which may be a good option for an expansion. \r\n\r\nRegarding stability, I played for 48 hours on Fedora 43/44 (Workstation) and only encountered a single issue with the sound which went away, and never came back, after a restart."
+        },
+        {
+            "review_id": "225966098",
+            "steam_id": "76561198020884930",
+            "playtime_minutes": 126,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.497925341129303,
+            "steam_purchase": true,
+            "review_text": "I don't really have anything too terribly negative to say about this game. If farm building city builders are your thing, you will probably enjoy this game. I wouldn't recommend it to anyone except the people I know are really into city building specifically. The interface isn't great, for the amount of management, the tooltips are kind of lacking. It didn't hook me, but I'll probably give it another shot sometime. I'd recommend it if it was on sale for $15 or less, but definitely not for full sticker price of $35."
+        },
+        {
+            "review_id": "226440673",
+            "steam_id": "76561198143929596",
+            "playtime_minutes": 1775,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4954954981803894,
+            "steam_purchase": true,
+            "review_text": "Solid game, was great in EA and got out of it in a very reasonable speed, with a ton of content."
+        },
+        {
+            "review_id": "225378343",
+            "steam_id": "76561197981176523",
+            "playtime_minutes": 388,
+            "voted_up": false,
+            "votes_up": 3,
+            "weighted_score": 0.4897819459438324,
+            "steam_purchase": true,
+            "review_text": "More or less just like every other resource management city building sim out there. This doesn't do anything different - which is awful. I want to build a thriving city and have fun doing it. Micro managing tasks doesn't do that. This had such promise...turns out to be just another disappointment."
+        },
+        {
+            "review_id": "226893088",
+            "steam_id": "76561198041736591",
+            "playtime_minutes": 439,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.4868154227733612,
+            "steam_purchase": true,
+            "review_text": "This game has a lot of micromanagement because the UI system isn't very intuitive. None of the resources are connected together in a UI and you have to control distribution of resources from multiple different screens. \n\nSetting limits for production or movement within logistics is on multiple different screens rather than just being right on the page. \n\nIt feels like a very unpolished version of manor lords."
+        },
+        {
+            "review_id": "225775964",
+            "steam_id": "76561198181551398",
+            "playtime_minutes": 11501,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.4851963520050049,
+            "steam_purchase": true,
+            "review_text": "Still eats RAM for breakfast. Large settlement with 350 people becomes unplayable. Doesnt matter how good is your hardware, even with 64Gb RAM wanst enough to play the game."
+        },
+        {
+            "review_id": "226296575",
+            "steam_id": "76561198039593707",
+            "playtime_minutes": 6732,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "Worst optimized game ever. After reaching 6 year, the game became unplayable - bluescreens every few minutes, not to mention troubles to start the game.\n\nNot recommended - wasted money."
+        },
+        {
+            "review_id": "225829549",
+            "steam_id": "76561198006262020",
+            "playtime_minutes": 3206,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4761904776096344,
+            "steam_purchase": true,
+            "review_text": "That game is ♥♥♥♥♥♥♥ stupid the totality of my population died at once of Typoid"
+        },
+        {
+            "review_id": "224995072",
+            "steam_id": "76561198150669285",
+            "playtime_minutes": 60091,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.523809552192688,
+            "steam_purchase": true,
+            "review_text": "Only comment I have is this is just a flat ass good game if you like city builders.  I say this after playing for over 1000 per Steam's stats."
+        },
+        {
+            "review_id": "226333554",
+            "steam_id": "76561198071489254",
+            "playtime_minutes": 337,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.4669435918331146,
+            "steam_purchase": true,
+            "review_text": "compaired to other city builders its just boring. takes why to long to get going, idk i had alot of fun with other builds but this 1 just doesnt click with me"
+        },
+        {
+            "review_id": "226824376",
+            "steam_id": "76561198049846426",
+            "playtime_minutes": 273,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.4572440981864929,
+            "steam_purchase": true,
+            "review_text": "Easiest setting is still hard. Put 4 hours into the game then all the problems started occurring but that's past the 2 hour steam refund mark so they wont accept a refund. Game is a waste of money."
+        },
+        {
+            "review_id": "225117331",
+            "steam_id": "76561198097557709",
+            "playtime_minutes": 383,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.4545454680919647,
+            "steam_purchase": true,
+            "review_text": "Way to much micro-management for a city-scale game."
+        },
+        {
+            "review_id": "226202784",
+            "steam_id": "76561197990637705",
+            "playtime_minutes": 626,
+            "voted_up": false,
+            "votes_up": 2,
+            "weighted_score": 0.469613254070282,
+            "steam_purchase": true,
+            "review_text": "nice amount of complexity in some areas of the game, needlessly tedious in others. glaringly obvious omission of quality of life features.\r\n\r\nbuy on deep discount, otherwise pass - this is not a $40 game. there are numerous titles in the genre that do it better."
+        },
+        {
+            "review_id": "225511246",
+            "steam_id": "76561198141458818",
+            "playtime_minutes": 3887,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "It's a Banished-like. If you like Banished-like games, you'll like this one. There's less labor micromanaging than in Banished, and more moving parts to add interest and replayability. The tech tree is especially impressive.\r\n\r\nThat said, I'm not terribly impressed by the ideologies attached (or not attached) to the colony sim. They went with an early-modern colonial setting, but with vaguely old-world \"medieval\" vibes. (The hostile raiders are like, punk Vikings?) There's economic critique in the intro, but no critique of colonialism. The game world is blandly egalitarian and has a generic fantasy religion, forestalling any social critique. If you want to be edgy and realistic, you gotta take it further than this."
+        },
+        {
+            "review_id": "225486294",
+            "steam_id": "76561198304652483",
+            "playtime_minutes": 5153,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "A nice city builder. Love the esthetics. Can definitely recommended.\n"
+        },
+        {
+            "review_id": "225098329",
+            "steam_id": "76561197960481801",
+            "playtime_minutes": 5710,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Nice Town Builder. Default its set as 500 Population to save CPU Cycles. But for me a Town has at least 1 of everything around 800 Population. More to 1000 if Military is enabled. I Like that I can Play with and Without Military. And the cozy Atmosphere, specifically around Winter."
+        }
+    ]
+}

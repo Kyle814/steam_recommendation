@@ -1,0 +1,67 @@
+{
+    "ingested_at": "2026-06-08T19:52:40.082334",
+    "app_id": "8500",
+    "review_count": 6,
+    "reviews": [
+        {
+            "review_id": "227015657",
+            "steam_id": "76561197995141244",
+            "playtime_minutes": 15938,
+            "voted_up": false,
+            "votes_up": 14,
+            "weighted_score": 0.6264615058898926,
+            "steam_purchase": true,
+            "review_text": "There has been an ongoing joke in EVE since 2003 that “EVE is dying”. Fast forward 23 years later and it’s still not true. Not because EVE is “alive” but because it is straight up dead, figuratively speaking of course.This is where you bust out the EVE offline charts, post PDFs with quarterly earnings, and say I’m wrong. I’m fine with all that but at the same time fire up the game, log in, and actually play to see what I mean. \nIf you’re a veteran player chances are you do A LOT of stuff solo with your 3-8 multiboxed accounts. If you are new to the game you’ll quickly realize a lot of existing players multibox a lot. Join a “big corp/alliance” and it’s honestly a couple dozen people multiboxing and mostly doing their own thing. When it comes time to throw down in a middle of the week “big fight” you may get a decent turnout but in all reality it’s really not that many people. EVE isn’t an MMORPG, it’s just a MORPG. \nOkay sure, this is when you link the super huge fights that occur here and there where a bunch of sleepers get their discord ping and turn off their Netflix/current video game to fire up the client one more time. These huge fights are highly glorified but again try actually being there in the game doing it. 10% time dilation (i.e. 10 seconds of real time is 1 second of game time) equals absolute eye-watering boredom. It's all okay though because you're doing it for the cause, fighting for the space, making the enemy lose trillions of isk in value! Yeah…none of that is really a thing/matters. First off the “value” was mostly botted/multiboxed into existence on massive scales so the whole “$10,000 fight\" is grade A title bait for some article. The only two real alliances in the game (yes, you read that correctly) have that much in assets in cold storage 10x over. The only real limitation is getting enough people/multiboxers on the field, and of course the servers.\nRegarding the “fighting for space” concept it’s really not a thing either. There’s essentially two coalitions that are realistically only separated by timezones and own all of nullsec. Not strategy or anything interesting in game, just the fact that the two run in opposite time zones. You have Winter Co. (China) and Imperium (US/EU). There’s really not much else to say on topic other than Imperium opened up a trash pit constellation in the Dronelands to watch monkeys knife fight.\nThat’s all fine and dandy and maybe you say to yourself “well I don’t like PvP and I just like the PvE stuff”. EVE can cater this crowd quite well when considering the amount of things you can do with PvE. The problem is the core of the game is still built around the architecture of a MMO from 2003. Virtually all of the PvE I have tried in this game is ab-so-lute cheeks. It feels like a game from 2003. The only PvE content that stood out for me was abyssals and I feel it’s no coincidence that it was released 15 years post launch. I’m positive they forced POW in Gitmo to play EVE online and run missions and mine. I know I would have spilt all the beans within the hour of such torture. You have “the market game” if you’re heavily spectrum and love spreadsheets. There’s Homefront Operations that were intended for smaller/newer groups but the multiboxers min-maxed the snot out of it and made billions/trillions before CCP adjusted it. There’s faction warfare which is a hybrid PvEvP where you sit around a beacon and wait for something to happen (usually nothing does) while a reward timer slowly ticks down. Speaking of Faction Warfare, did you know it was released in 2008 and it didn’t get a proper overhaul until 2022? This sounds crazy to go that long without an update on a big piece of your game but that tracks very hard for CCP. The same games for balancing ships with metas i.e. Nano era, Armor HACS era, Marauder era, etc.Carriers finally got proper attention after literally 20 years.\nTo summarize all of this up it’s just a game at the end of the day. If you’re interested, give it a try. My views aren’t facts and there’s plenty of people that enjoy the points I’ve criticized. I’ve just pointed out the things that bothered me and led me to not give a recommendation for the game."
+        },
+        {
+            "review_id": "226306459",
+            "steam_id": "76561197985431237",
+            "playtime_minutes": 67968,
+            "voted_up": true,
+            "votes_up": 1,
+            "weighted_score": 0.5118343234062195,
+            "steam_purchase": true,
+            "review_text": "Really fun if you dont take it to seriously when you die (cause you will die, its a pvp game) just take your time and ask a lot of questions,"
+        },
+        {
+            "review_id": "227041413",
+            "steam_id": "76561198022843999",
+            "playtime_minutes": 37686,
+            "voted_up": false,
+            "votes_up": 1,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is not for everyone.If you want a game to enjoy and relax,work for and enjoy your goals then dont get into this."
+        },
+        {
+            "review_id": "226565872",
+            "steam_id": "76561198001914191",
+            "playtime_minutes": 71789,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Great game, its like a drug you just can't get away from..."
+        },
+        {
+            "review_id": "227356402",
+            "steam_id": "76561198101075794",
+            "playtime_minutes": 21319,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.4682779312133789,
+            "steam_purchase": true,
+            "review_text": "Space Boat"
+        },
+        {
+            "review_id": "227128760",
+            "steam_id": "76561198007561030",
+            "playtime_minutes": 14592,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "yes"
+        }
+    ]
+}

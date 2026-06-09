@@ -1,0 +1,108 @@
+{
+    "ingested_at": "2026-06-08T18:41:32.607257",
+    "app_id": "920210",
+    "metadata": {
+        "type": "game",
+        "name": "LEGO® Star Wars™: The Skywalker Saga",
+        "steam_appid": 920210,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Play through all nine Skywalker saga films in a game unlike any other. With over 300 playable characters, over 100 vehicles, and 23 planets to explore, a galaxy far, far away has never been more fun! *Includes classic Obi-Wan Kenobi playable character",
+        "detailed_description": "<h1>LEGO® Star Wars™: The Skywalker Saga Galactic Edition</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/extras/30350676e09ab35a5630f4f8a81da804.avif?t=1747346983\" width=466 height=148 /></span></p><p class=\"bb_paragraph\" >Play through all 9 films of the saga in LEGO® Star Wars™: The Skywalker Saga Galactic Edition and enjoy playing as over 400 characters from the expanded universe.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Includes:</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Full Game</p><p class=\"bb_paragraph\" >Character Collection 1 (7 Downloadable Content Packs): </p><p class=\"bb_paragraph\" >Classic</p><p class=\"bb_paragraph\" >Trooper</p><p class=\"bb_paragraph\" >Mandalorian Season 1</p><p class=\"bb_paragraph\" >Mandalorian Season 2</p><p class=\"bb_paragraph\" >The Bad Batch</p><p class=\"bb_paragraph\" >Rogue One: A Star Wars Story</p><p class=\"bb_paragraph\" >Solo: A Star Wars Story</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Character Collection 2 (6 New Downloadable Content Packs): </p><p class=\"bb_paragraph\" >Obi-Wan Kenobi</p><p class=\"bb_paragraph\" >Andor</p><p class=\"bb_paragraph\" >The Book Of Boba Fett</p><p class=\"bb_paragraph\" >The Clone Wars</p><p class=\"bb_paragraph\" >Rebels</p><p class=\"bb_paragraph\" >Summer Vacation</p></p><br><h1>LEGO® Star Wars™:The Skywalker Saga Deluxe Edition</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/extras/6384e3ca1bd2eac210163c5a8ff6a61b.avif?t=1747346983\" width=466 height=180 /></span></p><p class=\"bb_paragraph\" >The Deluxe Edition includes 7 downloadable content character packs. </p><p class=\"bb_paragraph\" >Play through all nine saga films in a brand-new video game unlike any other.   With over 300 playable characters, over 100 vehicles, and 23 planets to explore, a galaxy far, far away has never been more fun!</p></p><br><h1>About the Game</h1><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/extras/7d7b1559a010024c71982d959563768c.avif?t=1747346983\" width=610 height=175 /></span><br>The galaxy is yours in LEGO® Star Wars™: The Skywalker Saga. Experience memorable moments and nonstop action from all nine Skywalker saga films reimagined with signature LEGO humor.  <br><br>The digital edition includes an exclusive classic Obi-Wan Kenobi playable character.  <br><br>● Explore the Trilogies in Any Order – Players will relive the epic story of all nine films in the Skywalker Saga, and it all starts with picking the trilogy of their choice to begin the journey.<br><br>● Play as Iconic Heroes and Villains –More than 300 playable characters from throughout the galaxy. <br><br>● Discover Legendary Locales – Players can visit well known locales from their favorite Skywalker saga films .They can unlock and have the freedom to seamlessly travel to 23 planets as they play through the saga or explore and discover exciting quests.  <br><br>● Command Powerful Vehicles –  More than 100 vehicles from across the galaxy to command.  Join dogfights and defeat capital ships like the Super Star Destroyer that can be boarded and explored. <br><br>● Immersive Player Experiences – String attacks together to form combo chains and fend off oncoming attacks. New blaster controls and mechanics allow players to aim with precision, or utilize the skills of a Jedi by wielding a lightsaber and using the power of The Force. <br><br>● Upgradable Character Abilities – Exploration rewards players as they uncover Kyber Bricks which unlock new features and upgraded abilities across a range of character classes, including Jedi, Hero, Dark Side, Villain, Scavenger, Scoundrel, Bounty Hunter, Astromech Droid, and Protocol Droid.",
+        "developers": [
+            "TT Games"
+        ],
+        "publishers": [
+            "Warner Bros. Games",
+            "Warner Bros. Interactive Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 4999,
+            "final": 4999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$49.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 78,
+            "url": "https://www.metacritic.com/game/pc/lego-star-wars-the-skywalker-saga?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 39,
+                "description": "Shared/Split Screen Co-op"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 37890
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 5, 2022"
+        }
+    }
+}

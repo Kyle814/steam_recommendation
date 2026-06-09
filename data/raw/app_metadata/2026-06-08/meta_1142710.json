@@ -1,0 +1,137 @@
+{
+    "ingested_at": "2026-06-08T19:45:58.016604",
+    "app_id": "1142710",
+    "metadata": {
+        "type": "game",
+        "name": "Total War: WARHAMMER III",
+        "steam_appid": 1142710,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "The cataclysmic conclusion to the Total War: WARHAMMER trilogy is here. Rally your forces and step into the Realm of Chaos, a dimension of mind-bending horror where the very fate of the world will be decided. Will you conquer your Daemons… or command them?",
+        "detailed_description": "<h1>Immortal Empires is Now Available to all Total War: WARHAMMER III Players</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/extras/bc7d1e6810507ad48e8f1d05511bc659.avif?t=1779441058\" width=616 height=344 /></span><br><br>Immortal Empires is the culmination of the entire Total War: WARHAMMER series. Combining the campaign maps, races, and factions from all three games* into a single, epic sandbox campaign. It’s the most complete and definitive Warhammer strategy experience ever conceived!  <br><br>Immortal Empires is Out Now<br><br><i>*All owners of Total War: WARHAMMER III can now access the Immortal Empires Campaign. However, there are several races available in Immortal Empires that are unlocked if you own Total War: WARHAMMER, Total War: WARHAMMER II or DLC across the entire trilogy.</i></p><br><h1>Join Our Discord Server</h1><p>",
+        "developers": [
+            "CREATIVE ASSEMBLY",
+            "Feral Interactive"
+        ],
+        "publishers": [
+            "SEGA",
+            "Feral Interactive"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 5999,
+            "final": 5999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$59.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 86,
+            "url": "https://www.metacritic.com/game/pc/total-war-warhammer-iii?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 47,
+                "description": "LAN PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 48,
+                "description": "LAN Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 78,
+                "description": "Adjustable Difficulty"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 101163
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Feb 16, 2022"
+        }
+    }
+}

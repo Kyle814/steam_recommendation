@@ -1,0 +1,163 @@
+{
+    "ingested_at": "2026-06-08T19:37:52.257145",
+    "app_id": "620",
+    "metadata": {
+        "type": "game",
+        "name": "Portal 2",
+        "steam_appid": 620,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "The &quot;Perpetual Testing Initiative&quot; has been expanded to allow you to design co-op puzzles for you and your friends!",
+        "detailed_description": "Portal 2 draws from the award-winning formula of innovative gameplay, story, and music that earned the original Portal over 70 industry accolades and created a cult following.<br><br>\t\t\t\t\t\t\t\t\t\tThe single-player portion of Portal 2 introduces a cast of dynamic new characters, a host of fresh puzzle elements, and a much larger set of devious test chambers. Players will explore never-before-seen areas of the Aperture Science Labs and be reunited with GLaDOS, the occasionally murderous computer companion who guided them through the original game.<br>\t\t\t\t\t\t\t\t\t\t<br>\t\t\t\t\t\t\t\t\t\tThe game’s two-player cooperative mode features its own entirely separate campaign with a unique story, test chambers, and two new player characters. This new mode forces players to reconsider everything they thought they knew about portals. Success will require them to not just act cooperatively, but to think cooperatively.<br>\t\t\t\t\t\t\t\t\t\t<br>\t\t\t\t\t\t\t\t\t\t<strong>Product Features</strong><br>\t\t\t\t\t\t\t\t\t\t<ul class=\"bb_ul\"><li><strong>Extensive single player:</strong> Featuring next generation gameplay and a wildly-engrossing story.<br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Complete two-person co-op:</strong> Multiplayer game featuring its own dedicated story, characters, and gameplay.<br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Advanced physics:</strong> Allows for the creation of a whole new range of interesting challenges, producing a much larger but not harder game.<br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Original music.</strong><br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Massive sequel:</strong> The original Portal was named 2007's Game of the Year by over 30 publications worldwide. <br>\t\t\t\t\t\t\t\t\t\t</li><li><strong>Editing Tools:</strong> Portal 2 editing tools will be included.<br>\t\t\t\t\t\t\t\t\t\t</li></ul>",
+        "developers": [
+            "Valve"
+        ],
+        "publishers": [
+            "Valve"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 999,
+            "final": 999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$9.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 95,
+            "url": "https://www.metacritic.com/game/pc/portal-2?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 39,
+                "description": "Shared/Split Screen Co-op"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 51,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 15,
+                "description": "Stats"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 14,
+                "description": "Commentary available"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 384650
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 18, 2011"
+        }
+    }
+}

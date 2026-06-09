@@ -1,0 +1,69 @@
+{
+    "ingested_at": "2026-06-08T18:47:24.884749",
+    "app_id": "223710",
+    "metadata": {
+        "type": "game",
+        "name": "Cry of Fear",
+        "steam_appid": 223710,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Cry of Fear is a psychological single-player and co-op horror game set in a deserted town filled with horrific creatures and nightmarish delusions. You play as a young man desperately searching for answers in the cold Scandinavian night, finding his way through the city as he slowly descends into madness.",
+        "detailed_description": "Cry of Fear is a psychological single-player and co-op horror game set in a deserted town filled with horrific creatures and nightmarish delusions. You play as a young man desperately searching for answers in the cold Scandinavian night, finding his way through the city as he slowly descends into madness. With a strong emphasis on cinematic experience, immersion and lateral thinking, players will be taken on a nightmare rollercoaster-ride through the grim streets of Fäversholm and beyond. Not everything is as it seems...<br><br>Cry of Fear originally started out as a Half-Life 1 modification, set in the same vein as the classic survival horror games of old. 4 years in the making and picking up several modding awards on the way, it is now a free, standalone game for anyone to enjoy. Beware though, it's not for the faint of heart.<h2 class=\"bb_tag\" >Key Features:</h2><ul class=\"bb_ul\"><li>Huge single-player campaign with over 8 hours of gameplay<br></li><li>Multiple endings and over 20 different unlockables to keep you playing<br></li><li>Full length co-op campaign with up to 4 players<br></li><li>Strong modding support with 12 custom campaigns and examples included, with requests from modding community listened to and implemented<br></li><li>Terrifying and unforgettable atmosphere<br></li><li>24 different and unique weapons to choose from<br></li><li>Unlockable extra campaign after beating single-player<br></li><li>Original soundtrack comprises over 5 hours of haunting, melodic music</li></ul>",
+        "developers": [
+            "Team Psykskallar"
+        ],
+        "publishers": [
+            "Team Psykskallar"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 8,
+                "description": "Valve Anti-Cheat enabled"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "recommendations": {
+            "total": 296
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 25, 2013"
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "ingested_at": "2026-06-08T20:04:22.586888",
+    "app_id": "1284410",
+    "metadata": {
+        "type": "game",
+        "name": "GWENT: The Witcher Card Game",
+        "steam_appid": 1284410,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Command mighty Witcher-world heroes in epic online PvP card battles!",
+        "detailed_description": "<h1>Check out other games from CD PROJEKT RED</h1><p><br><br></p><br><h1>Check out other games from CD PROJEKT RED</h1><p><br><br></p><br><h1>About the Game</h1>Join in The Witcher universe’s favorite card game — available for free! Blending the CCG and TCG genres, GWENT sees you clash in fast-paced online PvP duels that combine bluffing, on-the-fly decision making and careful deck construction. Collect and command Geralt, Yennefer and other iconic Witcher-world heroes. Grow your collectible arsenal with spells and special abilities that dramatically turn the tide of battle. Use deception and clever tricks in your strategy to win the fight in classic, seasonal and Arena modes. Play GWENT: The Witcher Card Game for free now!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284410/extras/f32f36b78497bdaa92fc4b13dbc41021.avif?t=1749200860\" width=600 height=300 /></span><h2 class=\"bb_tag\" >FREE TO PLAY THAT’S WORTH YOUR TIME</h2>A fair and fun progression system turns the effort of building a competitive collection of cards into pure pleasure — simply collect new cards to build decks with as you play GWENT; no strings attached.<h2 class=\"bb_tag\" >STUNNING, ALL ACROSS THE BOARD</h2>Beautiful, hand-drawn art and mesmerizing visual effects breathe life into every card, battle and battlefield, making GWENT fun to play and every duel a joy to watch.<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284410/extras/b11bc77cffdd214114e1d11a015a5120.poster.avif?t=1749200860\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284410/extras/b11bc77cffdd214114e1d11a015a5120.webm?t=1749200860\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284410/extras/b11bc77cffdd214114e1d11a015a5120.mp4?t=1749200860\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >SKILL BEATS LUCK</h2>Crush the enemy with brute strength or outsmart them with clever tricks — no matter your deck, GWENT’s unique round-based gameplay opens up a world of strategic possibilities to play with when fighting for victory.<h2 class=\"bb_tag\" >MORE THAN ONE WAY TO PLAY</h2>Whether it’s a quick online game against a friend, a highly competitive PvP challenge, or something new and wildly adventurous like the Arena, GWENT’s selection of game modes has got you covered.<br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284410/extras/a328bfc06409b7a583133aa52b91b87e.avif?t=1749200860\" width=600 height=300 /></span><h2 class=\"bb_tag\" >EASILY SATISFYING, ANYTHING BUT EASY</h2>Sling cards from your deck across two tactically distinct rows — melee and ranged. Gather more points in the duel against your opponent to win a round. Win two out of three rounds to win the battle. It won’t be easy, but no one said it should be.<h2 class=\"bb_tag\" >NO HOLDING BACK, NO HOLDING HANDS</h2>You start with 10 cards from your deck in hand, able to play each card right from the start. It’s up to you to open the game with your strongest unit, or save the best for later in the fight. How will your deck look and what will your strategy be?",
+        "developers": [
+            "CD PROJEKT RED"
+        ],
+        "publishers": [
+            "CD PROJEKT RED"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 80,
+            "url": "https://www.metacritic.com/game/pc/gwent-the-witcher-card-game?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 76,
+                "description": "Mouse Only Option"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            }
+        ],
+        "genres": [
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "May 19, 2020"
+        }
+    }
+}

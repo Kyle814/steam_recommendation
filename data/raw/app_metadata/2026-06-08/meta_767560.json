@@ -1,0 +1,75 @@
+{
+    "ingested_at": "2026-06-08T19:00:50.617710",
+    "app_id": "767560",
+    "metadata": {
+        "type": "game",
+        "name": "War Robots",
+        "steam_appid": 767560,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "War Robots is an online third-person 6v6 PvP shooter—we’re talking dozens of combat robots, hundreds of weapons combinations, and heated clan battles.",
+        "detailed_description": "<h2 class=\"bb_tag\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767560/extras/a3331c5355394f48d9227ab9a94d0ee8.poster.avif?t=1780906106\" width=600 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767560/extras/a3331c5355394f48d9227ab9a94d0ee8.webm?t=1780906106\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767560/extras/a3331c5355394f48d9227ab9a94d0ee8.mp4?t=1780906106\" type=\"video/mp4\"></video></span><br><strong>Great to see you, Commander!</strong></h2><p class=\"bb_paragraph\" >War Robots is the biggest shooter game about giant robots that fits into your pocket. Join epic PvP battles against rivals from all over the world and show them who’s the smartest, fastest, toughest pilot around! Prepare for surprise attacks, intricate tactical maneuvers and other tricks up enemies’ sleeves. Destroy! Capture! Upgrade! Become stronger — and prove yourself as the best mech commander in the War Robots online universe!</p><h2 class=\"bb_tag\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767560/extras/daeadeeb736d27f7003965bca8490a56.poster.avif?t=1780906106\" width=600 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767560/extras/daeadeeb736d27f7003965bca8490a56.webm?t=1780906106\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767560/extras/daeadeeb736d27f7003965bca8490a56.mp4?t=1780906106\" type=\"video/mp4\"></video></span><br><strong>MAIN FEATURES</strong></h2><ul class=\"bb_ul\"><li>🤖 Choose your fighter. Over 50 robots with unique designs and powers let you find a style to call your own.<br></li><li>⚙️ Play how you want. Want to crush and destroy? To save and protect? Or just annoy the hell out of your enemies? You can do it all with the massive selection of weapons, including ballistic missiles, plasma cannons, and giant shotguns!<br></li><li>🛠️ Customize. Each robot can be fitted with weapons and modules of your choice. Find your favorite combo and show everyone what you’ve got!<br></li><li>🎖️ Battle together in multiplayer. Team up with other people! Join a powerful clan to find trusty partners (and friends!), or even start your own!<br></li><li>👨‍🚀 Battle on your own. Prefer playing solo? Lone wolves can express themselves in special modes like Arena or Free-for-All<br></li><li>📖 Explore the lore. The War Robots world grows and expands with every update, and the ever-growing community is always ready to help you.</li></ul><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767560/extras/2b0a8034ad7f66e5108e3739784e0c87.poster.avif?t=1780906106\" width=600 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767560/extras/2b0a8034ad7f66e5108e3739784e0c87.webm?t=1780906106\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767560/extras/2b0a8034ad7f66e5108e3739784e0c87.mp4?t=1780906106\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Good hunting, Commander!</p><p class=\"bb_paragraph\" >Note: War Robots requires a stable internet connection for the best gameplay experience.</p>",
+        "developers": [
+            "MY.GAMES"
+        ],
+        "publishers": [
+            "MY.GAMES"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "4 Apr, 2018"
+        }
+    }
+}

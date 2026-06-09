@@ -1,0 +1,111 @@
+{
+    "ingested_at": "2026-06-08T19:34:01.962910",
+    "app_id": "389730",
+    "metadata": {
+        "type": "game",
+        "name": "TEKKEN 7",
+        "steam_appid": 389730,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Discover the epic conclusion of the long-time clan warfare between members of the Mishima family. Powered by Unreal Engine 4, the legendary fighting game franchise fights back with stunning story-driven cinematic battles and intense duels that can be enjoyed with friends and rivals.",
+        "detailed_description": "<h1>GET READY</h1><p></p><br><h1>Definitive Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/extras/967b472b692f72996326024f5324aa9a.avif?t=1765812753\" width=616 height=274 /></span><br>Includes:<br>- TEKKEN 7 Full Game<br>- Bonus Character: Eliza<br>- All Seasons Passes 1-4 &amp; their bonuses below:<br><br>Season Pass 1:<br>- Mode: Ultimate TEKKEN BOWL &amp; Additional Costumes<br>- 2 x Guest Characters: Geese Howard &amp; Noctis Lucis Caelum<br>- Bonus (Customization Set)<br><br>Season Pass 2:<br>- 4 x Returning Characters: Anna Williams, Lei Wulong, Craig Marduk &amp; Julia Chang<br>- Character: Armor King<br>- The Walking Dead's Character: Negan<br>- Bonus (Customization Set)<br><br>Season Pass 3:<br>- 2 x Returning Characters: Zafina &amp; Ganryu<br>- 2 x Original Characters: Leroy Smith &amp; Fahkumram<br>- Frame Data Display (New Feature)<br>- Stage: Cave of Enlightenment<br>- Bonus (Customization Set)<br><br>Season Pass 4:<br>- Character: Kunimitsu<br>- Original Character: Lidia Sobieska<br>- 2 x Stages: Vermillion Gates &amp; Island Paradise <br>- Bonus (Customization Set)<br><br>Note: TEKKEN 7 (full game), TEKKEN 7 Originals Edition, Season Passes 1-4, and DLC1-19 included in this edition are also sold separately. Please be careful not to buy the same content twice.</p><br><h1>Originals Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/extras/ab44559456ecbac600dd837c744f3a88.avif?t=1765812753\" width=616 height=274 /></span><br>The Originals Edition includes:<br><br>• TEKKEN 7 (full game)<br><br>• DLC13: Frame Data Display<br><br>• 12 Additional Characters:<br>- Bonus DLC: Eliza<br>- Anna Williams<br>- Lei Wulong<br>- Craig Marduk<br>- Armor King<br>- Julia Chang<br>- Zafina<br>- Ganryu<br>- Leroy Smith<br>- Fahkumram<br>- Kunimitsu<br>- Lidia Sobieska<br><br>*TEKKEN 7 (full game), TEKKEN 7 Definitive Edition, Season Passes 1-4, and DLC1-19 are also sold separately. Please be careful not to buy the same content twice.</p><br><h1>Comparison Chart</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/extras/6104712105d53bd5345ba1b6b8b509e0.avif?t=1765812753\" width=616 height=1292 /></span></p><br><h1>About the Game</h1><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/extras/3c2434762395ed445f006d52734bf6f2.poster.avif?t=1765812753\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/extras/3c2434762395ed445f006d52734bf6f2.webm?t=1765812753\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/extras/3c2434762395ed445f006d52734bf6f2.mp4?t=1765812753\" type=\"video/mp4\"></video></span><br><br>Discover the epic conclusion of the Mishima clan and unravel the reasons behind each step of their ceaseless fight. Powered by Unreal Engine 4, TEKKEN 7 features stunning story-driven cinematic battles and intense duels that can be enjoyed with friends and rivals alike through innovative fight mechanics.<br><br>Love, Revenge, Pride. Everyone has a reason to fight. Values are what define us and make us human, regardless of our strengths and weaknesses. There are no wrong motivations, just the path we choose to take.<br><br>Expand your fighter's journey by purchasing the Tekken 7 Season Pass separately and gain access to stunning additional content.",
+        "developers": [
+            "BANDAI NAMCO Studios Inc."
+        ],
+        "publishers": [
+            "BANDAI NAMCO Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 3999,
+            "final": 3999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$39.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 82,
+            "url": "https://www.metacritic.com/game/pc/tekken-7?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 25,
+                "description": "Steam Leaderboards"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "18",
+                "description": "Sports"
+            }
+        ],
+        "recommendations": {
+            "total": 67509
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jun 1, 2017"
+        }
+    }
+}

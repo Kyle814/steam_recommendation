@@ -1,0 +1,83 @@
+{
+    "ingested_at": "2026-06-08T19:07:11.189019",
+    "app_id": "1250410",
+    "metadata": {
+        "type": "game",
+        "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+        "steam_appid": 1250410,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "From gliders and helicopters to wide-body jets, fly highly detailed and accurate aircraft in the Microsoft Flight Simulator 40th Anniversary Edition. The world is at your fingertips.",
+        "detailed_description": "From light planes to wide body jets to gliders and helicopters, fly highly detailed and accurate aircraft in the Microsoft Flight Simulator 40th Anniversary Edition. The world is at your fingertips.<br> <br><strong>Microsoft Flight Simulator 40th Anniversary Edition</strong> features 37 airplanes, gliders, and helicopters with unique flight models, 25 handcrafted airports, 4 classic commercial airports, 14 heliports and 15 glider airports.<br> <br>Explore Your World<br>• Vivid and Detailed Landscapes - Immerse yourself in the vast and beautiful world that is our planet with over 1.5 billion buildings, 2 trillion trees, mountains, roads, rivers and more.<br>• Living World - The Earth is vibrant and ever-changing and so is the world of Microsoft Flight Simulator, which includes live traffic, real-time weather, and animals.  <br> <br>Earn Your Wings<br>• Aircraft - Hone your pilot skills in a variety of aircraft from light planes to commercial jets with comprehensive flight models. Every aircraft includes highly detailed and accurate cockpits with realistic instrumentation.<br>• Checklist System - From pro to beginner, scale your level from full manual to full assist with interactive and highlighted instrument guidance and checklist.<br> <br>Test Your Skill<br>• Live Weather -The weather engine enables users to switch on the live weather mode to experience real-time weather including accurate wind speed and direction, temperature, humidity, rain and more.<br>• Day and Night Engine - Experience flight at any time of day or year allowing for night VFR, visual flight rules, navigation.<br>• Aerodynamic Modeling - A state-of-the-art physics engine with over 1000 control surfaces per plane allows for a truly realistic experience.<br> <br>Microsoft Flight Simulator has fulfilled the aspirations of aviators worldwide for 40 years. Celebrate the award-winning franchise with the <strong>40th Anniversary Edition</strong>, loaded with all-new features, aircraft and content that span the history of aviation.<br> <br>The <strong>40th Anniversary Edition</strong> update introduces:<br>•  1 true-to-life Airbus A310 Airliner<br>•  2 helicopters and 14 heliports<br>•  2 gliders and 15 glider airports<br>•  7 famous historical aircraft including the Hughes H-4 Hercules (aka the Spruce Goose)<br>•  4 classic commercial airports<br>•  24 classic missions from the franchise’s past<br><br>The <strong>Deluxe Edition</strong> includes everything from the Standard Edition plus 5 additional highly accurate planes with unique flight models and 5 additional handcrafted international airports.<br> <br><strong>Deluxe Additional Aircraft</strong><br>•  Diamond Aircraft DA40-TDI<br>•  Diamond Aircraft DV20<br>•  Textron Aviation Beechcraft Baron G58<br>•  Textron Aviation Cessna 152 Aerobat<br>•  Textron Aviation Cessna 172 Skyhawk<br> <br><strong>Deluxe Additional Handcrafted Airports</strong><br>•  Amsterdam Airport Schiphol (Netherlands)<br>•  Cairo International Airport (Egypt)<br>•  Cape Town International Airport (South Africa)<br>•  O’Hare International Airport (USA)<br>•  Adolfo Suárez Madrid–Barajas Airport (Spain)<br><br>The <strong>Premium Deluxe Edition</strong> includes everything from the Deluxe Edition plus 5 additional highly accurate planes with unique flight models and 5 additional handcrafted international airports.<br> <br><strong>Premium Deluxe Additional Aircraft</strong><br>•  Boeing 787-10 Dreamliner<br>•  Cirrus Aircraft SR22<br>•  Pipistrel Virus SW 121<br>•  Textron Aviation Cessna Citation Longitude<br>•  Zlin Aviation Shock Ultra<br> <br><strong>Premium Deluxe Additional Airports</strong><br>•  Denver International Airport (USA)<br>•  Dubai International Airport (United Arab Emirates)<br>•  Frankfurt Airport (Germany)<br>•  Heathrow Airport (United Kingdom)<br>•  San Francisco International Airport (USA)",
+        "developers": [
+            "Asobo Studio"
+        ],
+        "publishers": [
+            "Xbox Game Studios"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 5999,
+            "final": 5999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$59.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 91,
+            "url": "https://www.metacritic.com/game/pc/microsoft-flight-simulator?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 53,
+                "description": "VR Supported"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "28",
+                "description": "Simulation"
+            }
+        ],
+        "recommendations": {
+            "total": 68869
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Aug 17, 2020"
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "ingested_at": "2026-06-08T19:52:37.857344",
+    "app_id": "8500",
+    "metadata": {
+        "type": "game",
+        "name": "EVE Online",
+        "steam_appid": 8500,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Over 20 years of legendary space battles! Explore a massive living universe of danger and opportunity in a challenging and highly rewarding space adventure. Fight, trade, build, and connect with a universe driven and shaped directly by players.",
+        "detailed_description": "<h1>Roadmap</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/extras/ae84e27657cf911c98c2214308794386.avif?t=1780912240\" width=1560 height=878 /></span></p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" >EVE Online is a vast, player-driven MMO where your choices are everything. </p><p class=\"bb_paragraph\" >Enter New Eden, a galaxy of over 7,000 star systems where players craft the economy, lead massive corporations, and build lasting legacies, friendships, and alliances that transform the game world. Whether you’re chasing combat, wealth, knowledge, or power, EVE Online offers the means to live your legend.</p><p class=\"bb_paragraph\" >Play for <strong>free</strong> as an Alpha clone, or unlock every ship and faster progression as Omega.  </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/extras/4654217a5d7fc11d54d67115595f2d98.poster.avif?t=1780912240\" width=780 height=440 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/extras/4654217a5d7fc11d54d67115595f2d98.webm?t=1780912240\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/extras/4654217a5d7fc11d54d67115595f2d98.mp4?t=1780912240\" type=\"video/mp4\"></video></span>Chart the unknown. Scan ancient relics, uncover lost technologies, and navigate wormholes in search of rare loot and hidden threats. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/extras/bb5015101e18b353c02c208d7d9d905c.poster.avif?t=1780912240\" width=780 height=440 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/extras/bb5015101e18b353c02c208d7d9d905c.webm?t=1780912240\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/extras/bb5015101e18b353c02c208d7d9d905c.mp4?t=1780912240\" type=\"video/mp4\"></video></span>Join legendary, Guinness World Record setting fleet battles or carve out a reputation as a soldier of fortune. EVE’s wars are fought by real players, and remembered forever.  </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/extras/9fafd96d9d8a48ea94f6688e6455b375.poster.avif?t=1780912240\" width=780 height=440 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/extras/9fafd96d9d8a48ea94f6688e6455b375.webm?t=1780912240\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/extras/9fafd96d9d8a48ea94f6688e6455b375.mp4?t=1780912240\" type=\"video/mp4\"></video></span>From mining and manufacturing to trading and mission-running, EVE Online offers deep PvE systems for rich rewards and progression at your own pace. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/extras/d51ecc5994fc8683b2f5b678e612464e.poster.avif?t=1780912240\" width=780 height=440 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/extras/d51ecc5994fc8683b2f5b678e612464e.webm?t=1780912240\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/extras/d51ecc5994fc8683b2f5b678e612464e.mp4?t=1780912240\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" > Fly any of over 350 starships, and customize them with endless options for different modules, components, and SKINs to make your ship unique to you. </p>",
+        "developers": [
+            "Fenris Creations"
+        ],
+        "publishers": [
+            "Fenris Creations"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 88,
+            "url": "https://www.metacritic.com/game/pc/eve-online-special-edition?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 64,
+                "description": "Adjustable Text Size"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 7764
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Dec 15, 2010"
+        }
+    }
+}

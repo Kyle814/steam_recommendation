@@ -1,0 +1,27 @@
+{
+    "ingested_at": "2026-06-08T19:24:37.860400",
+    "app_id": "459820",
+    "review_count": 2,
+    "reviews": [
+        {
+            "review_id": "227454217",
+            "steam_id": "76561199397170839",
+            "playtime_minutes": 154,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "10/10 game"
+        },
+        {
+            "review_id": "225458565",
+            "steam_id": "76561198097428870",
+            "playtime_minutes": 19011,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I Regret nothing"
+        }
+    ]
+}

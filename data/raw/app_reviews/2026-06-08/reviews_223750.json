@@ -1,0 +1,67 @@
+{
+    "ingested_at": "2026-06-08T18:44:28.560198",
+    "app_id": "223750",
+    "review_count": 6,
+    "reviews": [
+        {
+            "review_id": "223115088",
+            "steam_id": "76561199127588008",
+            "playtime_minutes": 8751,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "DCS isn't for the faint of heart, but it is the best sim we have currently right now.\nIf you are playing DCS, I highly suggest to use the standalone variant as you get a free trial on most modules.\nIt's a simulator and WILL REQUIRE YOU to self-learn most of the time and put in the effort into a module.\n\nThat said, I do enjoy this sim, but it's not perfect and there are many things I would like to see improved on by ED.\n\nMy biggest complaint is that many important aspects of air combat are not modelled, or are ultra-simplified;\nThe RCS of every aircraft is a static number instead of being a variable depending on aspect. Countermeasures are basically like rolling a virtual dice.\nThe performance of missiles ingame is innacurate, Notching is too powerful compared to IRL, radars are heavily simplifed to just being a beam with one variable in the code acting as a \"beam\" and not factoring all aspects of RCS. Electronic Warfare is barely modelled, jammers are heavily simplified to reducing the radars' burn through range with a static arbitrary number.\n\nOnto performance, at minimum in 2026 I would recommend 32gb of RAM, R7 7700x, and 10gb VRAM.\nPerformance heavily relies on the missions' amount of static objects, hostile vehicles, aircraft flying, and settings. Bigger multiplayer servers (HBCW, Contention) are more demanding on your PC and will require higher specs to run the game.\n\nModule quality varies; Some modules are less demanding on your specs, others have more fidelity ingame.  For example,\nI get 150 FPS in the F-14 in MP.\nHowever, I only get 25 FPS in the C-130 in the same multiplayer server.\nI'm sure performance issues will be fixed, but it is something to consider when buying modules in early access.\n\nI would recommend DCS with friends, as it makes the experience exponentially more enjoyable. \nI spent 12 minutes yelling at my RIO why our LGBs weren't blowing up and he forgot to set the mechanical fuze 😭\n\nYeah anyway, new modules such as HB's EF2000, A-6 Corsair, Rafale, and among many others from new third party developers will expand the games' reach in multiple timeframes and conflicts. But please ED... can we have a new terrain like Korea, Vietnam, Japan or even West coast US instead of giving us the 9th terrain in the middle east lmao.\n\nReplay system is ♥♥♥♥, the worst i've seen this whole decade jesus. If there's one thing you fix, do this first please.\n\nOverall 7.5/10\nAdd more diverse terrains and fix bugs and it would be higher."
+        },
+        {
+            "review_id": "224504074",
+            "steam_id": "76561199154985540",
+            "playtime_minutes": 27652,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "boht atsa game ha ;)"
+        },
+        {
+            "review_id": "221850952",
+            "steam_id": "76561198251173032",
+            "playtime_minutes": 29910,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fantastic"
+        },
+        {
+            "review_id": "221250291",
+            "steam_id": "76561198863727140",
+            "playtime_minutes": 14418,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "very good game"
+        },
+        {
+            "review_id": "224533707",
+            "steam_id": "76561198077565873",
+            "playtime_minutes": 13116,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "soo intresting.."
+        },
+        {
+            "review_id": "221927517",
+            "steam_id": "76561198065421875",
+            "playtime_minutes": 309,
+            "voted_up": true,
+            "votes_up": 2,
+            "weighted_score": 0.5264623761177063,
+            "steam_purchase": true,
+            "review_text": "it is very detailed"
+        }
+    ]
+}

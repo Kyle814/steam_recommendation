@@ -1,0 +1,47 @@
+{
+    "ingested_at": "2026-06-08T19:47:00.536353",
+    "app_id": "291550",
+    "review_count": 4,
+    "reviews": [
+        {
+            "review_id": "224648200",
+            "steam_id": "76561199636741895",
+            "playtime_minutes": 212,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Good game.\r\nbest fighting game for me."
+        },
+        {
+            "review_id": "220702843",
+            "steam_id": "76561199510646938",
+            "playtime_minutes": 3570,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This is cancer"
+        },
+        {
+            "review_id": "223689270",
+            "steam_id": "76561199470638428",
+            "playtime_minutes": 285,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "HellHalla"
+        },
+        {
+            "review_id": "222603050",
+            "steam_id": "76561198056701372",
+            "playtime_minutes": 8318,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "gg"
+        }
+    ]
+}

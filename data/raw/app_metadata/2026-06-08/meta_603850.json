@@ -1,0 +1,84 @@
+{
+    "ingested_at": "2026-06-08T18:45:33.881855",
+    "app_id": "603850",
+    "metadata": {
+        "type": "game",
+        "name": "Age of History II",
+        "steam_appid": 603850,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Age of History II is a grand strategy wargame that is simple to learn yet hard to master.Your objective is to use military tactics and cunning diplomacy to either unify the world, or conquer it.Will the world bleed out or bow before you? The choice is yours..",
+        "detailed_description": "<h2 class=\"bb_tag\" ><strong>Age of History II</strong></h2><p class=\"bb_paragraph\" >Age of History is a grand strategy wargame that is simple to learn yet hard to master. </p><p class=\"bb_paragraph\" >Your objective is to use military tactics and cunning diplomacy to either unify the world, or conquer it. </p><p class=\"bb_paragraph\" >Will the world bleed out or bow before you? The choice is yours..</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/603850/extras/f1179ccff0db3da51763e06316d14dd8.poster.avif?t=1777565330\" width=628 height=128 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/603850/extras/f1179ccff0db3da51763e06316d14dd8.webm?t=1777565330\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/603850/extras/f1179ccff0db3da51763e06316d14dd8.mp4?t=1777565330\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Approach to the History</strong></h2><p class=\"bb_paragraph\" >Age of History II goes through the whole history of humanity, Age by Age, beginning in the Age of Civilizations and leading into the far future.</p><h2 class=\"bb_tag\" ><strong>Historical Grand Campaign</strong></h2><p class=\"bb_paragraph\" >Play as many Civilizations ranging from the largest empire to the smallest tribe, and lead your people to glory in a campaign spanning thousands of years from the dawn of civilization to the future of mankind.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/603850/extras/bc6a22ab6460f3ace6935d96947c21e8.poster.avif?t=1777565330\" width=780 height=440 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/603850/extras/bc6a22ab6460f3ace6935d96947c21e8.webm?t=1777565330\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/603850/extras/bc6a22ab6460f3ace6935d96947c21e8.mp4?t=1777565330\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Main Features</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Detailed map of the world with many historical borders </p></li><li><p class=\"bb_paragraph\" >Deeper diplomatic system between Civilizations </p></li><li><p class=\"bb_paragraph\" >Peace treaties </p></li><li><p class=\"bb_paragraph\" >Revolutions </p></li><li><p class=\"bb_paragraph\" >Create own History using in-game editors </p></li><li><p class=\"bb_paragraph\" >Hotseat, play with as many players as Civilizations in scenario! </p></li><li><p class=\"bb_paragraph\" >Terrain Types </p></li><li><p class=\"bb_paragraph\" >More detailed diversity of Populations </p></li><li><p class=\"bb_paragraph\" >End game timelapses </p></li></ul><h2 class=\"bb_tag\" ><strong>Create own world and play it!</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Scenario Editor, create own historical or alternate history scenarios and share them with community! </p></li><li><p class=\"bb_paragraph\" >Civilization Creator </p></li><li><p class=\"bb_paragraph\" >Flag maker </p></li><li><p class=\"bb_paragraph\" >Wasteland Editor</p></li></ul><h2 class=\"bb_tag\" ><strong>Map Editors</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Create own maps! </p></li><li><p class=\"bb_paragraph\" >Provinces Editor </p></li><li><p class=\"bb_paragraph\" >Terrain Types Editor </p></li><li><p class=\"bb_paragraph\" >Growth Rate Editor </p></li><li><p class=\"bb_paragraph\" >Cities Editor</p></li></ul><h2 class=\"bb_tag\" ><strong>Game Editors</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Add and customize own Terrain Types </p></li><li><p class=\"bb_paragraph\" >Create own pallet of Civilizations colors and share them! </p></li><li><p class=\"bb_paragraph\" >Create own Continents </p></li><li><p class=\"bb_paragraph\" >Service Ribbons Editor </p></li><li><p class=\"bb_paragraph\" >Random alliances names Editor </p></li><li><p class=\"bb_paragraph\" >Diplomacy Colors Editor</p></li></ul><p class=\"bb_paragraph\" ></p>",
+        "developers": [
+            "Łukasz Jakowski"
+        ],
+        "publishers": [
+            "Łukasz Jakowski Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 599,
+            "final": 479,
+            "discount_percent": 20,
+            "initial_formatted": "$5.99",
+            "final_formatted": "$4.79"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 47256
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Nov 21, 2018"
+        }
+    }
+}

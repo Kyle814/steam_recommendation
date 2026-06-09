@@ -1,0 +1,109 @@
+{
+    "ingested_at": "2026-06-08T19:49:21.588424",
+    "app_id": "471710",
+    "metadata": {
+        "type": "game",
+        "name": "Rec Room",
+        "steam_appid": 471710,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all.",
+        "detailed_description": "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all.<br />\r\nRec Room is free, and cross plays on everything from phones to VR headsets. It’s the social app you play like a video game!<br />\r\n- Customize and dress up your cute Rec Room avatar to express your style<br />\r\n- Discover challenging, fun or straight up weird games made by creators just like you<br />\r\n- Try your skill with the Maker Pen, the tool used by Rec Room creators to build everything from puppies to helicopters to entire worlds!<br />\r\n- Join the best community - Rec Room is a fun and welcoming place for people from all walks of life! Let us help you find people you’ll LOVE to hang out with.",
+        "developers": [
+            "Rec Room"
+        ],
+        "publishers": [
+            "Rec Room"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 52,
+                "description": "Tracked Controller Support"
+            },
+            {
+                "id": 53,
+                "description": "VR Supported"
+            },
+            {
+                "id": 40,
+                "description": "SteamVR Collectibles"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 110
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Sep 2, 2021"
+        }
+    }
+}

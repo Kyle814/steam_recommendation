@@ -1,0 +1,97 @@
+{
+    "ingested_at": "2026-06-08T19:32:18.670842",
+    "app_id": "251060",
+    "review_count": 9,
+    "reviews": [
+        {
+            "review_id": "227135737",
+            "steam_id": "76561199103267365",
+            "playtime_minutes": 426,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game stinks, ive tried to get into it multiple times across owning it for several years and every single time the game just isnt fun. If youre a new player I could not tell you enough that this game will not be for you, the tutorial is actual ♥♥♥♥♥♥♥, explains nothing, and there is no tutorial stage to actually practice and learn how to play the game. Leading to a constant state of never knowing what is happening while the enemy AI gives you no breathing space. Even an easy difficulty ai feels difficult to go against because they will always be making inputs faster than what a human being is capable of. \nThe game is just beyond frustrating, wont even bother to teach players how to play, and doesnt include anything along the lines of a beginner friendly means of playing the game. Multiple times ive tried to enjoy the game and that was never possible, actual infuriatingly ♥♥♥♥♥♥ game. Wish I could have refunded soon enough."
+        },
+        {
+            "review_id": "227074229",
+            "steam_id": "76561199435782998",
+            "playtime_minutes": 14333,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "This game is fun to play with friends. The only thing I dislike are some of the units equipment that were inaccurate like with the Burger Mag that got the Super Bazoka, which in real life they would have gotten like the Rpg 7 or simular. Another thing was the labeling of the soldiers equipment, like in the Nordic nations, the soldiers are shown with G3s will in the description it said that they had bolt actions. Me just being nerdy, I quess. I would have like if there was a Cuba Nation Pack."
+        },
+        {
+            "review_id": "226420121",
+            "steam_id": "76561198083565119",
+            "playtime_minutes": 32265,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "I would normally recommend the heck out of this game, but sadly it doesn't run on my system anymore for some reason. I upgraded to a 7900XTX recently and now the game doesn't work. That is to say, it'll boot and launch - but the moment I try and play a match performance drops from very good (it's a 10+ year old game) to unplayable, even if I knock the settings down to potato mode. Not sure why it's happening - maybe a driver issue or so on. Hopefully someone has an answer for this? But until then, gonna have to knock down my rating a bit."
+        },
+        {
+            "review_id": "225334074",
+            "steam_id": "76561198108383681",
+            "playtime_minutes": 136,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "'Wargame: Red Dragon' stands as the pinnacle of the real-time tactical genre, offering an unparalleled level of depth and historical authenticity for fans of Cold War-era military strategy. The game’s greatest achievement is its massive scale, featuring over 1,450 unique units from 17 different nations, each meticulously detailed and balanced according to realistic specifications. The introduction of naval combat and amphibious landings adds a complex third dimension to the series’ established land and air warfare, allowing for multi-theater engagements that feel truly epic. The tactical freedom provided by the deck-building system ensures that no two matches are the same, rewarding players who take the time to master logistical planning and combined-arms maneuvers.\n\nThe experience is bolstered by a stunning visual engine that seamlessly transitions from a strategic \"god-view\" of the entire battlefield down to the individual tread marks of a tank. This sense of scale is matched by a challenging AI and a dedicated multiplayer community that keeps the competitive scene vibrant years after release. Furthermore, the dynamic single-player campaigns offer high-stakes, \"what-if\" scenarios that provide a satisfying narrative weight to the tactical decisions made on the ground. For those seeking a deep, demanding, and visually spectacular military simulation, 'Wargame: Red Dragon' remains the gold standard, offering a level of strategic complexity that few other titles have ever dared to attempt."
+        },
+        {
+            "review_id": "226135097",
+            "steam_id": "76561198812522374",
+            "playtime_minutes": 311,
+            "voted_up": true,
+            "votes_up": 3,
+            "weighted_score": 0.5266891717910767,
+            "steam_purchase": true,
+            "review_text": "this game turns people into full spectrum JROTC warriors"
+        },
+        {
+            "review_id": "225692877",
+            "steam_id": "76561198106814754",
+            "playtime_minutes": 7574,
+            "voted_up": true,
+            "votes_up": 4,
+            "weighted_score": 0.567619264125824,
+            "steam_purchase": true,
+            "review_text": "I play with the Israeli deck just to lose."
+        },
+        {
+            "review_id": "225997696",
+            "steam_id": "76561199468179851",
+            "playtime_minutes": 13483,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "awsome strategy game its really fun!"
+        },
+        {
+            "review_id": "226645491",
+            "steam_id": "76561197978149057",
+            "playtime_minutes": 16,
+            "voted_up": false,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Tutorial is a power point. Need to do better."
+        },
+        {
+            "review_id": "226743919",
+            "steam_id": "76561198877181819",
+            "playtime_minutes": 933,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "The GOAT"
+        }
+    ]
+}

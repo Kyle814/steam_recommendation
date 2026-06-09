@@ -1,0 +1,95 @@
+{
+    "ingested_at": "2026-06-08T18:54:23.726943",
+    "app_id": "744900",
+    "metadata": {
+        "type": "game",
+        "name": "Dead Frontier 2",
+        "steam_appid": 744900,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Survival horror MMO. As one of the few survivors of the outbreak, you must scratch a living out of the decaying ruins of society. Scavenge for supplies, improve your skills, and trade with other players. All the while, keeping your eyes peeled for the infected lurking around every corner.",
+        "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744900/extras/fae90ee38861eb8be90608bc965cb01e.poster.avif?t=1741095278\" width=616 height=154 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744900/extras/fae90ee38861eb8be90608bc965cb01e.webm?t=1741095278\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744900/extras/fae90ee38861eb8be90608bc965cb01e.mp4?t=1741095278\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >KEY FEATURES</h2><ul class=\"bb_ul\"><li> Old school survival horror awaits in this dark and atmospheric world. Conserve your ammo and make every shot count.<br></li><li> Scavenge for scarce resources and rare equipment in the twisting corridors of expansive and ever changing abandoned buildings<br></li><li> Come to the aid of the desperate survivors you encounter along the way, or leave them to their misery<br></li><li> Trade for what you need in a realistic player-driven economy<br></li><li> Create your own unique character build by selecting from a huge variety of skills, rare equipment and cosmetic items<br></li><li> Work together with other players or operate as a lone wolf<br></li><li> Take to the streets and settle scores in gripping PvP</li></ul>",
+        "developers": [
+            "Creaky Corpse Ltd"
+        ],
+        "publishers": [
+            "Creaky Corpse Ltd"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "15 Jul, 2019"
+        }
+    }
+}

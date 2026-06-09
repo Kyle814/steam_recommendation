@@ -1,0 +1,97 @@
+{
+    "ingested_at": "2026-06-08T19:25:32.819345",
+    "app_id": "224260",
+    "metadata": {
+        "type": "game",
+        "name": "No More Room in Hell",
+        "steam_appid": 224260,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "The chances of you surviving this all out war of society and the undead are slim to none. Already, there are millions of the walking dead shambling about, searching for food to eat. There's no known cure. One bite can possibly end it all for you. However, you aren't alone in this nightmare.",
+        "detailed_description": "<h1>CHECK OUT NMRIH2</h1><p></p><br><h1>Just Updated</h1><p>Now with Steam Workshop! Check out custom maps and download other modifications by the community.</p><br><h1>About the Game</h1>&quot;When there's no more room in hell, the dead will walk the earth.&quot;<br><br>A tribute to the highly acclaimed film series in which the above quote originated from, No More Room in Hell (PC Gamer's Mod of the Year 2011, ModDB's Editor Choice Multiplayer Mod of the Year 2011), is a co-operative realistic first person survival horror modification for the Source Engine. Taking inspiration from George Romero's &quot;Of the Dead&quot; series, the mod is set during a time in which the world is on the verge of collapsing into chaos from a disease whose origin is unknown. Many experts and organizations have their theories and ideas on how such a disease emerged and started to systematically destroy our very way of life, but one fact is clear to all. Whoever perishes from the disease gets up and kills, and the people they killed get up and kill.<br><br>The chances of you surviving this all out war of society and the undead are slim to none. Already, there are millions of the walking dead shambling about, searching for food to eat. There's no known cure. One bite can possibly end it all for you. However, you aren't alone in this nightmare. There are still a handful of uninfected survivors left in this god forsaken hellhole, and with co-operation and teamwork, you may live long enough to fight your way to salvation.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><strong>Teamwork:</strong> Co-operative play with up to eight players.<br></li><li><strong>Voice and Text Communications Limited by Distance:</strong> The further you're away the harder it is for other players to hear you. Keep those walkie talkies close!<br></li><li><strong>Dynamic Objective Maps:</strong> The next playthrough may not be the same as the last!<br></li><li><strong>Survival Mode:</strong> Defend and maintain your shelter against the undead in the hopes of getting extracted to a safe area.<br></li><li><strong>A Realistic Approach:</strong> In short, no crosshairs with limited &quot;only when you want it&quot; HUD. In addition, ammo and weapons are extremely scarce. With that in mind, aim down your sights and shoot for the head!<br></li><li><strong>Multitude of Different Opponents:</strong> Ranging from the iconic &quot;walking zombie&quot; to the more contemporary &quot;runners&quot;, NMRiH will keep you on your toes with a mix of dangerous foes to face down. However, the most dangerous enemy may not always be the walking dead...<br></li><li><strong>Infection:</strong> One bite may be what it takes to bring you down. If infected, you must decide if you want to alert your team to rid you of your burden, or to keep quiet in the hopes of finding a cure...<br></li><li>30+ weapons and counting, ranging from the diminutive .22 Target Pistol, to the almighty Chainsaw.<br></li><li>No ads (on official and community official servers, user-hosted servers may vary)<br></li><li>No pay to win items or microtransactions<br></li><li>100% Free (unless you buy the soundtrack DLC &lt;3)</li></ul>No More Room in Hell is a Half-Life 2 Zombification. The mod was founded in 2003. It switched hands and a new team took over in 2009. Beta version 1.0 was released on Halloween of 2011. A full list of the No More Room in Hell Team and contributors can be found on the about page of our website: .",
+        "developers": [
+            "No More Room in Hell Team"
+        ],
+        "publishers": [
+            "Lever Games"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 31,
+                "description": "VR Support"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 8,
+                "description": "Valve Anti-Cheat enabled"
+            },
+            {
+                "id": 17,
+                "description": "Includes level editor"
+            },
+            {
+                "id": 16,
+                "description": "Includes Source SDK"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 703
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 31, 2013"
+        }
+    }
+}

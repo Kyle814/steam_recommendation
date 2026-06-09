@@ -1,0 +1,79 @@
+{
+    "ingested_at": "2026-06-08T19:36:16.948376",
+    "app_id": "48700",
+    "metadata": {
+        "type": "game",
+        "name": "Mount & Blade: Warband",
+        "steam_appid": 48700,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "In a land torn asunder by incessant warfare, it is time to assemble your own band of hardened warriors and enter the fray. Lead your men into battle, expand your realm, and claim the ultimate prize: the throne of Calradia!",
+        "detailed_description": "In a land torn asunder by incessant warfare, it is time to assemble your own band of hardened warriors and enter the fray. Lead your men into battle, expand your realm, and claim the ultimate prize: the throne of Calradia!<br><br>Mount &amp; Blade: Warband is a stand alone expansion pack for the game that brought medieval battlefields to life with its realistic mounted combat and detailed fighting system.<br><br><ul class=\"bb_ul\"><li>Graphical overhaul: Support added for HDR, FSAA, depth of field, soft particles, tone mapping, and many other effects <br></li><li>New models with greater detail and high-quality textures<br></li><li>Multiplayer battles with up to 64 players. Multiplayer modes include Deathmatch, Team Deathmatch, Capture the Flag, Conquest, Battle, and Siege<br></li><li>A campaign allowing you to become the ruler of a faction and convince lords to become your vassals<br></li><li>The ability to upgrade your companions to vassals by granting them lands<br></li><li>The ability to marry a lady of the realm for romance or cold political gain. Try to win a lady’s heart through poetry or bravery<br></li><li>Improved mechanics for soldier morale: Soldiers will break and run away if their morale gets too low<br></li><li>Pick any projectile off the battlefield for use as additional munitions<br></li><li>New motion-captured combat animations<br></li><li>Numerous improvements to the combat system: Your shield will still stop arrows even if you are not actively defending<br></li><li>The ability to play multiplayer matches on random maps as well as hand-designed ones<br></li><li>Multiplayer equipment system: Earn money by fighting opponents or accomplishing goals<br></li><li>The ability to use most throwing weapons in close combat: Switch to using a javelin as a short spear when the enemy gets close<br></li><li>Spend gold on more powerful equipment, using a carefully balanced system that will make combat more exciting without giving too much of an advantage to the leading team</li></ul>",
+        "developers": [
+            "TaleWorlds Entertainment"
+        ],
+        "publishers": [
+            "TaleWorlds Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 78,
+            "url": "https://www.metacritic.com/game/pc/mount-blade-warband?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 30,
+                "description": "Steam Workshop"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "recommendations": {
+            "total": 134591
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Mar 31, 2010"
+        }
+    }
+}

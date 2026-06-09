@@ -1,0 +1,83 @@
+{
+    "ingested_at": "2026-06-08T19:47:09.251045",
+    "app_id": "17390",
+    "metadata": {
+        "type": "game",
+        "name": "SPORE™",
+        "steam_appid": 17390,
+        "required_age": 0,
+        "is_free": false,
+        "short_description": "Be the architect of your own universe with Spore, an exciting single-player adventure. From Single Cell to Galactic God, evolve your creature in a universe of your own creations.",
+        "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/extras/497d93ab8d6a4b8f5ba0aa77540a2a7e.avif?t=1777486064\" width=600 height=144 /></span><h2 class=\"bb_tag\" >From Single Cell to Galactic God, evolve in a universe of your own creations.</h2>Play through Spore's <strong>five evolutionary stages</strong>: Cell, Creature, Tribe, Civilization, and Space.  Each stage has its own unique style, challenges, and goals. <br><br>You can play how you choose:  Start in Cell and nurture one species from humble tidepool organism to intergalactic traveler, or jump straight in and build tribes or civilizations on new planets. What you do with your universe is up to you.<br><br>Spore gives you a variety of powerful yet <strong>easy-to-use creation tools</strong> so you can create every aspect of your universe: creatures, vehicles, buildings, and even starships.<h2 class=\"bb_tag\" >Features</h2>\t\t\t\t\t<ul class=\"bb_ul\"><li><strong>CREATE Your Universe from Microscopic to Macrocosmic:</strong>  From tide pool amoebas to thriving civilizations to intergalactic starships, everything is in your hands.<br>\t\t\t\t\t</li><li><strong>EVOLVE Your Creature through Five Stages:</strong>  It's survival of the funnest as your choices reverberate through generations and ultimately decide the fate of your civilization.</li></ul>",
+        "developers": [
+            "Maxis™"
+        ],
+        "publishers": [
+            "Electronic Arts"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$19.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 84,
+            "url": "https://www.metacritic.com/game/pc/spore?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "recommendations": {
+            "total": 65644
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Dec 19, 2008"
+        }
+    }
+}

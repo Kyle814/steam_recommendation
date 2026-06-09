@@ -1,0 +1,75 @@
+{
+    "ingested_at": "2026-06-08T18:58:03.694436",
+    "app_id": "1782210",
+    "metadata": {
+        "type": "game",
+        "name": "Crab Game",
+        "steam_appid": 1782210,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "Crab Game is a First-Person Multiplayer game where you play through several different minigames based on children's games, until only one player stands victorious.",
+        "detailed_description": "Crab Game is a First-Person Multiplayer game where you fight for the ultimate cash price in different minigames based on children's games, until only one player is left to claim it all. <strong>Definitely not based on any online streaming pop culture korean tv shows, as that would get me in legal trouble, so we're certainly not doing that.</strong><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782210/extras/3582610d5dcfdf792cfe97ece4d95181.avif?t=1638221608\" width=600 height=300 /></span><h2 class=\"bb_tag\" ><strong>Features</strong></h2><ul class=\"bb_ul\"><li> Up to 35 players<br></li><li> 28 Maps<br></li><li> 9 Game-modes<br></li><li> Server List<br></li><li> Milk</li></ul><br>If you're not sold on this game yet, just listen to what our very satisifed customers have to say about it! <br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782210/extras/1dbc2afa328262a6c2deb2c0741a1df8.avif?t=1638221608\" width=100 height=100 /></span> <i>&quot;hey this game is pretty cool&quot; </i> - Jeff<br><i>(Photo of Jeff)</i><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782210/extras/1dbc2afa328262a6c2deb2c0741a1df8.avif?t=1638221608\" width=100 height=100 /></span> <i>&quot;really fun with friends and family haha&quot; </i> - Also Jeff<br><i>(another picture of jeff)</i>",
+        "developers": [
+            "Dani"
+        ],
+        "publishers": [
+            "Dani"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {},
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "9",
+                "description": "Racing"
+            }
+        ],
+        "recommendations": {},
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 29, 2021"
+        }
+    }
+}

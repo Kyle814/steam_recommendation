@@ -1,0 +1,116 @@
+{
+    "ingested_at": "2026-06-08T20:00:41.272922",
+    "app_id": "374320",
+    "metadata": {
+        "type": "game",
+        "name": "DARK SOULS™ III",
+        "steam_appid": 374320,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!",
+        "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/extras/7ff6b0ecb653bfafca61f79bd401a25d.poster.avif?t=1748630784\" width=616 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/extras/7ff6b0ecb653bfafca61f79bd401a25d.webm?t=1748630784\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/extras/7ff6b0ecb653bfafca61f79bd401a25d.mp4?t=1748630784\" type=\"video/mp4\"></video></span><br>Get the DARK SOULS™ III Season Pass now and challenge yourself with all the available content!<br><br>Winner of gamescom award 2015 &quot;Best RPG&quot; and over 35 E3 2015 Awards and Nominations.<br><br>DARK SOULS™ III continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. <br><br>As fires fade and the world falls into ruin, journey into a universe filled with more colossal enemies and environments. Players will be immersed into a world of epic atmosphere and darkness through faster gameplay and amplified combat intensity. Fans and newcomers alike will get lost in the game hallmark rewarding gameplay and immersive graphics. <br>Now only embers remain… Prepare yourself once more and Embrace The Darkness!<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/extras/b6d4d107eb7a5134984e711364fa4f2e.poster.avif?t=1748630784\" width=616 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/extras/b6d4d107eb7a5134984e711364fa4f2e.webm?t=1748630784\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/extras/b6d4d107eb7a5134984e711364fa4f2e.mp4?t=1748630784\" type=\"video/mp4\"></video></span>",
+        "developers": [
+            "FromSoftware, Inc."
+        ],
+        "publishers": [
+            "FromSoftware, Inc.",
+            "Bandai Namco Entertainment"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 5999,
+            "final": 5999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$59.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 89,
+            "url": "https://www.metacritic.com/game/pc/dark-souls-iii?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 79,
+                "description": "Save Anytime"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 41,
+                "description": "Remote Play on Phone"
+            },
+            {
+                "id": 42,
+                "description": "Remote Play on Tablet"
+            },
+            {
+                "id": 43,
+                "description": "Remote Play on TV"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 276017
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 11, 2016"
+        }
+    }
+}

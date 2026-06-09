@@ -1,0 +1,17 @@
+{
+    "ingested_at": "2026-06-08T18:57:42.849691",
+    "app_id": "1128810",
+    "review_count": 1,
+    "reviews": [
+        {
+            "review_id": "222065314",
+            "steam_id": "76561198032161908",
+            "playtime_minutes": 6684,
+            "voted_up": true,
+            "votes_up": 0,
+            "weighted_score": 0.5,
+            "steam_purchase": true,
+            "review_text": "Fresh take on a game from my childhood."
+        }
+    ]
+}

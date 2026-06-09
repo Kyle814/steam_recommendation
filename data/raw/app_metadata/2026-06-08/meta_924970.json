@@ -1,0 +1,87 @@
+{
+    "ingested_at": "2026-06-08T19:08:51.395410",
+    "app_id": "924970",
+    "metadata": {
+        "type": "game",
+        "name": "Back 4 Blood",
+        "steam_appid": 924970,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "Back 4 Blood is a thrilling cooperative first-person shooter from the creators of the critically acclaimed Left 4 Dead franchise. Experience the intense 4 player co-op narrative campaign, competitive multiplayer as human or Ridden, and frenetic gameplay that keeps you in the action.",
+        "detailed_description": "<h1>Back 4 Blood: Deluxe Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/extras/dd695ade9e2cd9f8e80518d6afd0a3e3.avif?t=1780594976\" width=616 height=288 /></span><br>Buy Back 4 Blood: Deluxe Edition and get:<br><ul class=\"bb_ul\"><li> Base Game<br></li><li> Annual Pass: Three upcoming downloadable content drops with New Story, Playable Characters, Special Mutated Ridden, and more</li></ul></p><br><h1>Back 4 Blood: Ultimate Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/extras/57cfd52911e9d1b99a6600ebd2974058.avif?t=1780594976\" width=616 height=288 /></span><br>Buy Back 4 Blood: Ultimate Edition and get:<br><ul class=\"bb_ul\"><li> Base Game<br></li><li> Annual Pass: Three upcoming downloadable content drops with New Story, Playable Characters, Special Mutated Ridden, and more<br></li><li> 4 Character Battle Hardened Skin Pack<br></li><li> Additional digital in-game items: Rare Banner, Emblem, Spray, Title</li></ul></p><br><h1>About the Game</h1>Back 4 Blood is a thrilling cooperative first-person shooter from the creators of the critically acclaimed Left 4 Dead franchise. You are at the center of a war against the Ridden. These once-human hosts of a deadly parasite have turned into terrifying creatures bent on devouring what remains of civilization. With humanity's extinction on the line, it's up to you and your friends to take the fight to the enemy, eradicate the Ridden, and reclaim the world.<h2 class=\"bb_tag\" >Cooperative Campaign</h2><br>Fight your way through a dynamic, perilous world in a 4-player co-op story campaign where you must work together to survive increasingly challenging missions. Play with up to 3 of your friends online or go solo and lead your team in battle.<br> <br>Choose from 8 customizable Cleaners, one of the immune survivors, and a range of lethal weapons and items. Strategise against an ever-evolving enemy bent on your total destruction.<h2 class=\"bb_tag\" >Competitive Multiplayer</h2><br>Play with or against friends in PVP. Switch between playing as a Cleaner with special perks and the horrific Ridden. Both sides come with unique weapons, abilities, and specialties.<h2 class=\"bb_tag\" >Extreme Replayability</h2><br>A new &quot;rogue-lite&quot; Card System creates different experiences each and every time, putting you in control to craft custom decks, roll different builds and undertake more demanding fights.<br><br>The Game Director is constantly adjusting to player actions, ensuring exciting fights, extreme gameplay diversity, and tougher legions of Ridden - including mutated boss types up to 20 feet tall.",
+        "developers": [
+            "Turtle Rock Studios"
+        ],
+        "publishers": [
+            "Warner Bros. Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 5999,
+            "final": 5999,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$59.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 77,
+            "url": "https://www.metacritic.com/game/pc/back-4-blood?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 61,
+                "description": "HDR available"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 54726
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Oct 12, 2021"
+        }
+    }
+}

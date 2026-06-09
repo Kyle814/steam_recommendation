@@ -1,0 +1,80 @@
+{
+    "ingested_at": "2026-06-08T19:13:22.969924",
+    "app_id": "1286830",
+    "metadata": {
+        "type": "game",
+        "name": "STAR WARS™: The Old Republic™",
+        "steam_appid": 1286830,
+        "required_age": 0,
+        "is_free": true,
+        "short_description": "STAR WARS™: The Old Republic™ is a free-to-play MMORPG that puts you at the center of your own story-driven saga. Play as a Jedi, Sith, Bounty Hunter, or one of many other iconic STAR WARS roles in the galaxy far, far away over three thousand years before the classic films.",
+        "detailed_description": "<i>STAR WARS</i>™: The Old Republic™ is the only massively multiplayer online game with a Free-to-Play option that puts you at the center of your own story-driven <i>STAR WARS</i>™ saga. Play as a Jedi, a Sith, a Bounty Hunter, or as one of many other iconic <i>STAR WARS</i> roles and explore the galaxy far, far away over three thousand years before the classic films. With 6 narrative expansions, become the hero of your own <i>STAR WARS</i> adventure as you choose your path down the Light or Dark side of the Force™.<br><br><strong>Create your legacy.</strong> Make meaningful choices throughout your journey and become the hero of your personal <i>STAR WARS</i> saga. The game includes an interactive storyline with cinematic dialogue and full voiceover for all in-game characters.<br><br><strong>A growing world awaits.</strong> For more than 10 years, players have been able to live out their own <i>STAR WARS</i> stories. With the most recent Onslaught expansion, <i>STAR WARS</i>: The Old Republic continues to deliver ongoing content through regular updates.<br><br><strong>8 Unique Stories, 16 Combat Styles.</strong> Do you prefer the elegance of a lightsaber or the reliability of a good blaster by your side? Choose from one of 8 iconic, unique storylines, allowing you to create your own personal STAR WARS story. The Legacy of the Sith Expansion also introduces Combat Styles! Players can now separate their Class Story from gameplay style for an even greater customization experience. This frees up Advanced Class options as characters can choose any Advanced Class within the Tech or Force playstyle! Play as a Trooper wielding a Sniper Rifle, or a Sith Inquisitor with a lightsaber in each hand, or even secretly use Dark Side powers while posing as a member of the Jedi Order.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/extras/1755eaf82e3535f0944ac41eb5c92423.avif?t=1779987630\" width=610 height=342 /></span><br><br><strong>Explore numerous planets.</strong> Hoth, Tatooine, Alderaan, and over 20 other unique and vibrant planets offer exciting exploration and thrilling adventures around every corner!<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/extras/b6f363607e5ff16bf4afbfab6beff0a0.avif?t=1779987630\" width=610 height=342 /></span><br><br><strong>Multiplayer gameplay. </strong> Gather your allies to face challenging encounters against enemy bosses in Flashpoints and Operations, or battle against other players in Player vs. Player Warzones, Arenas, or Galactic Starfighter missions!<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/extras/5443fcd5099d699cdf1ca1413d893550.avif?t=1779987630\" width=610 height=342 /></span><br><br><strong>Galactic Strongholds</strong> Want to take a break from the inter-galactic traveling and adventure? Kick back and relax with our player housing system called Galactic Strongholds! Whether it’s overlooking the sandy dunes of Tatooine, the bright cityscape of Nar Shaddaa, or the tranquil mountains of Alderaan, there’s a Stronghold for everyone. These destinations and more are available for your galactic homestead!<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/extras/928117592ad5208f70476cc16a77b559.avif?t=1779987630\" width=610 height=348 /></span><br><br><strong>Cartel Market.</strong> Only the slickest items can make their way to the Cartel Market, the premium marketplace for the galaxy’s most sought-after commodities. Players wishing to buy things here will need to purchase in-game currency called Cartel Coins. Learn more about what Cartel Coins can unlock on our Cartel Coins Page.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/extras/d75a0389f06fd9bc8a05a236f6dcebcf.avif?t=1779987630\" width=610 height=362 /></span><br><br><strong>Subscriber Benefits.</strong> <i>STAR WARS</i>: The Old Republic offers an optional subscription that allows you to experience even more of the <i>STAR WARS</i> universe.  Benefits include an increased level cap of 80 and access to the most recent expansions: Legacy of the Sith, Onslaught, Knights of the Eternal Throne, and Knights of the Fallen Empire. In addition, you will receive a monthly Cartel Coin Grant, increased XP, and more. Details on Subscriber Benefits can be found on our Subscriber Page.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/extras/d6a63c5515973878947950575a17b3a5.avif?t=1779987630\" width=610 height=340 /></span>",
+        "developers": [
+            "Broadsword"
+        ],
+        "publishers": [
+            "Electronic Arts"
+        ],
+        "price_overview": {},
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 85,
+            "url": "https://www.metacritic.com/game/pc/star-wars-the-old-republic?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 20,
+                "description": "MMO"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 35,
+                "description": "In-App Purchases"
+            }
+        ],
+        "genres": [
+            {
+                "id": "29",
+                "description": "Massively Multiplayer"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "recommendations": {
+            "total": 459
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Jul 21, 2020"
+        }
+    }
+}

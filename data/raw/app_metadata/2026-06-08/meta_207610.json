@@ -1,0 +1,71 @@
+{
+    "ingested_at": "2026-06-08T18:44:43.077376",
+    "app_id": "207610",
+    "metadata": {
+        "type": "game",
+        "name": "The Walking Dead",
+        "steam_appid": 207610,
+        "required_age": "17",
+        "is_free": false,
+        "short_description": "A five-part adventure horror series set in the same universe as Robert Kirkman’s award-winning comic book series.",
+        "detailed_description": "The Walking Dead is a five-part game series set in the same universe as Robert Kirkman’s award-winning comic book series. Play as Lee Everett, a convicted criminal, who has been given a second chance at life in a world devastated by the undead. With corpses returning to life and survivors stopping at nothing to maintain their own safety, protecting an orphaned girl named Clementine may offer him redemption in a world gone to hell.<br><br><ul class=\"bb_ul\"><li> Based on Robert Kirkman’s Eisner-Award winning comic book series, The Walking Dead allows gamers to experience the true horror of the zombie apocalypse.<br></li><li> A tailored game experience: live with the profound and lasting consequences of the decisions that you make in each episode. Your actions and choices will affect how your story plays out across the entire series.<br></li><li> You’ll be forced to make decisions that are not only difficult, but that will require you to make an almost immediate choice. There’s no time to ponder when the undead are pounding the door down!</li></ul>",
+        "developers": [
+            "Telltale Games"
+        ],
+        "publishers": [
+            "Skybound Games"
+        ],
+        "price_overview": {
+            "currency": "USD",
+            "initial": 1499,
+            "final": 1499,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "$14.99"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 82,
+            "url": "https://www.metacritic.com/game/pc/the-walking-dead-episode-1---a-new-day?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "recommendations": {
+            "total": 52677
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "Apr 24, 2012"
+        }
+    }
+}

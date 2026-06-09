@@ -1,0 +1,108 @@
+{
+    "ingested_at": "2026-06-08T19:33:26.945008",
+    "app_id": "1888160",
+    "metadata": {
+        "type": "game",
+        "name": "ARMORED CORE™ VI FIRES OF RUBICON™",
+        "steam_appid": 1888160,
+        "required_age": "12",
+        "is_free": false,
+        "short_description": "A new action game based on the concept of the ARMORED CORE series that uses the knowledge gained from FromSoftware's recent action game development.",
+        "detailed_description": "<h1>Digital Deluxe Edition</h1><p><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/extras/5b2b0b18e7b4ae76082877a3b2201bda.poster.avif?t=1748630736\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/extras/5b2b0b18e7b4ae76082877a3b2201bda.webm?t=1748630736\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/extras/5b2b0b18e7b4ae76082877a3b2201bda.mp4?t=1748630736\" type=\"video/mp4\"></video></span><br>The Deluxe Edition includes the full game and Exclusive Digital Artbook &amp; Original Soundtrack.</p><br><h1>About the Game</h1>Combining FromSoftware’s longstanding expertise in mech games with their signature action gameplay, ARMORED CORE VI FIRES OF RUBICON brings a brand-new action experience to the series.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/extras/9aa8effa9f34f290ea6552257e16ea84.poster.avif?t=1748630736\" width=616 height=236 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/extras/9aa8effa9f34f290ea6552257e16ea84.webm?t=1748630736\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/extras/9aa8effa9f34f290ea6552257e16ea84.mp4?t=1748630736\" type=\"video/mp4\"></video></span><br><strong>Dynamic, Omni-directional Battles</strong><br>Players will pilot their mech in fast-paced, omni-directional battles, taking advantage of massive stages and their mech’s mobility on land and in the air to ensure victory.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/extras/531007e4159b4293b268a68b7d03a33b.poster.avif?t=1748630736\" width=616 height=236 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/extras/531007e4159b4293b268a68b7d03a33b.webm?t=1748630736\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/extras/531007e4159b4293b268a68b7d03a33b.mp4?t=1748630736\" type=\"video/mp4\"></video></span><br><strong>Customized Parts for Individual Battle Styles</strong><br>Customize Armored Core parts to suit a large variety of playstyles. Selecting different parts not only changes the mech’s attacks, but also directly affects its movement and battle style, so each mission can be approached with a unique mech strategy.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/extras/cc6ca113a04916df67a4847e4e63c73a.poster.avif?t=1748630736\" width=616 height=236 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/extras/cc6ca113a04916df67a4847e4e63c73a.webm?t=1748630736\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/extras/cc6ca113a04916df67a4847e4e63c73a.mp4?t=1748630736\" type=\"video/mp4\"></video></span><br><strong>Thrilling Boss Battles</strong><br>Deploy a wide variety of offensive and defensive tactics at close and long range to take down powerful enemy bosses.",
+        "developers": [
+            "FromSoftware, Inc."
+        ],
+        "publishers": [
+            "FromSoftware, Inc.",
+            "Bandai Namco Entertainment Inc."
+        ],
+        "price_overview": {
+            "currency": "HKD",
+            "initial": 47900,
+            "final": 47900,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "HK$ 479.00"
+        },
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 86,
+            "url": "https://www.metacritic.com/game/pc/armored-core-vi-fires-of-rubicon?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 67,
+                "description": "Camera Comfort"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 74,
+                "description": "Playable without Timed Input"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 70,
+                "description": "Surround Sound"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "recommendations": {
+            "total": 65410
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "24 Aug, 2023"
+        }
+    }
+}
