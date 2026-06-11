@@ -1,23 +1,34 @@
 import os
+import sys
 import json
 import time
+import argparse
 import requests
 from datetime import datetime
-from dotenv import load_dotenv
 import glob
 import boto3
 
 class SteamDataCollector:
     def __init__(self):
-        # load_dotenv() works locally and is safely ignored in AWS
-        load_dotenv()
-        self.api_key = os.getenv("STEAM_API_KEY")
+        # 1. DYNAMIC PARAMETER INJECTION (Cloud Native)
+        # Catch the parameters AWS Glue passes, but ignore internal system arguments
+        parser = argparse.ArgumentParser()
+        parser.add_argument('--STEAM_API_KEY', type=str, required=False)
+        parser.add_argument('--S3_BUCKET_NAME', type=str, required=False)
         
-        # The Cloud Switch: Checks if we are in AWS or on your local machine
-        self.bucket_name = os.getenv("S3_BUCKET_NAME") 
+        args, unknown_args = parser.parse_known_args()
+        
+        # 2. Extract keys from Glue, or fall back to system environments (for local testing)
+        self.api_key = args.STEAM_API_KEY or os.environ.get("STEAM_API_KEY")
+        self.bucket_name = args.S3_BUCKET_NAME or os.environ.get("S3_BUCKET_NAME")
+        
+        if not self.api_key:
+            print("⚠️ WARNING: STEAM_API_KEY is missing! API calls may fail.")
+        
         self.base_dir = "data/raw"
         self.today = datetime.utcnow().strftime("%Y-%m-%d")
         
+        # 3. The Cloud Switch
         if self.bucket_name:
             print(f"☁️ Cloud Mode Activated: Connected to S3 Bucket [{self.bucket_name}]")
             self.s3_client = boto3.client('s3')
@@ -31,7 +42,6 @@ class SteamDataCollector:
         s3_key = f"data/raw/{folder}/{self.today}/{filename}"
         
         if self.bucket_name:
-            
             self.s3_client.put_object(
                 Bucket=self.bucket_name,
                 Key=s3_key,
@@ -244,9 +254,16 @@ def harvest_discovered_games(collector_instance, limit=5):
         collector_instance.get_app_reviews(app_id, limit=100)
 
 if __name__ == "__main__":
+    # Allows TARGET_STEAM_ID to also be passed via AWS parameters or local environment
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--TARGET_STEAM_ID', type=str, required=False)
+    args, _ = parser.parse_known_args()
+    
+    target_steam_id = args.TARGET_STEAM_ID or os.environ.get("TARGET_STEAM_ID")
+    
     collector = SteamDataCollector()
     
-    target_users = [os.getenv("TARGET_STEAM_ID"), "76561197960287930"] 
+    target_users = [target_steam_id, "76561197960287930"] 
     for steam_id in target_users:
         if steam_id:
             collector.get_user_data(steam_id)
