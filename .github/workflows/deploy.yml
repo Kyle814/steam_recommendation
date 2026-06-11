@@ -1,47 +1,47 @@
-name: Stream Recommender AWS Deployment CI/CD
+name: Deploy Data Pipeline Scripts to S3
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
+    paths:
+      - '**.py' # Triggers only when Python files change
 
-# CRITICAL: OIDC requires JWT token permissions to authenticate safely
 permissions:
-  id-token: write
-  contents: read
+  id-token: write   # Required for requesting the AWS JWT
+  contents: read    # Required for actions/checkout
 
 jobs:
-  lint-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Checkout Code
-      uses: actions/checkout@v3
+      - name: Checkout Repository Code
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+      - name: Set up Python Environment
+        uses: actions/setup-python@v5
+        with:
+          python-node-version: '3.10'
 
-    - name: Install Dependencies & Linter
-      run: |
-        python -m pip install --upgrade pip
-        pip install flake8
-    
-    - name: Lint Code
-      run: |
-        flake8 . --exclude=venv --count --select=E9,F63,F7,F82 --show-source --statistics
+      - name: Lint Code with Flake8
+        run: |
+          pip install flake8
+          # stop the build if there are Python syntax errors or undefined names
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+          # exit-zero treats all errors as warnings.
+          flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
 
-    - name: Configure AWS Credentials via OIDC
-      uses: aws-actions/configure-aws-credentials@v2
-      with:
-        # This is the exact ARN from your AWS screenshot
-        role-to-assume: arn:aws:iam::524843732866:role/GitHubActions-SteamS3-Role
-        aws-region: us-east-1
-        audience: sts.amazonaws.com
+      - name: Configure AWS Credentials via OIDC
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::524843732866:role/GitHubActionsWorkflowRole
+          aws-region: us-east-1
 
-    - name: Sync PySpark Scripts to S3
-      run: |
-        aws s3 cp ingestion.py s3://${{ secrets.AWS_S3_BUCKET_NAME }}/scripts/ingestion.py
-        aws s3 cp transform_users.py s3://${{ secrets.AWS_S3_BUCKET_NAME }}/scripts/transform_users.py
-        aws s3 cp build_gold_layer.py s3://${{ secrets.AWS_S3_BUCKET_NAME }}/scripts/build_gold_layer.py
-        aws s3 cp steam_collector.py s3://${{ secrets.AWS_S3_BUCKET_NAME }}/scripts/steam_collector.py
-        aws s3 cp game_discovery_utils.py s3://${{ secrets.AWS_S3_BUCKET_NAME }}/scripts/game_discovery_utils.py
+      - name: Sync Scripts to S3 Bronze/Silver/Gold Repository
+        run: |
+          # Syncs only the python scripts, ignoring local configurations or virtual environments
+          aws s3 sync . s3://steam-recommender-lake/scripts/ \
+            --exclude "*" \
+            --include "*.py" \
+            --delete
