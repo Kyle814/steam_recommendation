@@ -1,17 +1,26 @@
 import os
 import sys
-import glob
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, explode, desc, regexp_replace, trim, length
 
-# ==========================================
-# WINDOWS ENVIRONMENT OVERRIDES
-# ==========================================
-os.environ['PYSPARK_PYTHON'] = sys.executable
-os.environ['PYSPARK_DRIVER_PYTHON'] = sys.executable
-os.environ["JAVA_HOME"] = r"C:\Program Files\Java\jdk-17"
-os.environ["HADOOP_HOME"] = r"C:\hadoop"
-os.environ["PATH"] = os.environ.get("PATH", "") + ";" + r"C:\hadoop\bin"
+# --- THE CLOUD SWITCH ---
+BUCKET_NAME = os.environ.get("S3_BUCKET_NAME")
+
+if BUCKET_NAME:
+    print(f"☁️ Cloud Mode: Connecting PySpark to S3 Bucket [{BUCKET_NAME}]")
+    BASE_PATH = f"s3://{BUCKET_NAME}/data"
+else:
+    print("💻 Local Mode: Using local Windows environment")
+    BASE_PATH = "data"
+    
+    # ==========================================
+    # WINDOWS ENVIRONMENT OVERRIDES (LOCAL ONLY)
+    # ==========================================
+    os.environ['PYSPARK_PYTHON'] = sys.executable
+    os.environ['PYSPARK_DRIVER_PYTHON'] = sys.executable
+    os.environ["JAVA_HOME"] = r"C:\Program Files\Java\jdk-17"
+    os.environ["HADOOP_HOME"] = r"C:\hadoop"
+    os.environ["PATH"] = os.environ.get("PATH", "") + ";" + r"C:\hadoop\bin"
 
 
 def process_users_bronze_to_silver(spark):
@@ -19,14 +28,15 @@ def process_users_bronze_to_silver(spark):
     print(" 👤 PROCESSING USER PROFILES")
     print("==========================================")
     
-    bronze_path = "data/raw/user_profiles/*/*.json"
-    silver_path = "data/silver/user_interactions.parquet"
+    bronze_path = f"{BASE_PATH}/raw/user_profiles/*/*.json"
+    silver_path = f"{BASE_PATH}/silver/user_interactions.parquet"
     
-    if len(glob.glob(bronze_path)) == 0:
-        print("❌ ERROR: No User JSON files found. Skipping.")
+    try:
+        raw_df = spark.read.option("multiline", "true").json(bronze_path)
+    except Exception as e:
+        print(f"❌ ERROR: Could not read User JSON files from {bronze_path}. Skipping. \nDetails: {e}")
         return
 
-    raw_df = spark.read.option("multiline", "true").json(bronze_path)
     latest_users_df = raw_df.orderBy(col("ingested_at").desc()).dropDuplicates(["steam_id"])
     
     exploded_df = latest_users_df.select(
@@ -49,14 +59,15 @@ def process_metadata_bronze_to_silver(spark):
     print(" 🎮 PROCESSING APP METADATA")
     print("==========================================")
     
-    bronze_path = "data/raw/app_metadata/*/*.json"
-    silver_path = "data/silver/app_metadata.parquet"
+    bronze_path = f"{BASE_PATH}/raw/app_metadata/*/*.json"
+    silver_path = f"{BASE_PATH}/silver/app_metadata.parquet"
     
-    if len(glob.glob(bronze_path)) == 0:
-        print("❌ ERROR: No Metadata JSON files found. Skipping.")
+    try:
+        raw_df = spark.read.option("multiline", "true").json(bronze_path)
+    except Exception as e:
+        print(f"❌ ERROR: Could not read Metadata JSON files from {bronze_path}. Skipping. \nDetails: {e}")
         return
 
-    raw_df = spark.read.option("multiline", "true").json(bronze_path)
     latest_df = raw_df.orderBy(col("ingested_at").desc()).dropDuplicates(["app_id"])
     
     silver_df = latest_df.select(
@@ -79,14 +90,15 @@ def process_reviews_bronze_to_silver(spark):
     print(" 📝 PROCESSING APP REVIEWS (WITH TEXT CLEANING)")
     print("==========================================")
     
-    bronze_path = "data/raw/app_reviews/*/*.json"
-    silver_path = "data/silver/app_reviews.parquet"
+    bronze_path = f"{BASE_PATH}/raw/app_reviews/*/*.json"
+    silver_path = f"{BASE_PATH}/silver/app_reviews.parquet"
     
-    if len(glob.glob(bronze_path)) == 0:
-        print("❌ ERROR: No Review JSON files found. Skipping.")
+    try:
+        raw_df = spark.read.option("multiline", "true").json(bronze_path)
+    except Exception as e:
+        print(f"❌ ERROR: Could not read Review JSON files from {bronze_path}. Skipping. \nDetails: {e}")
         return
 
-    raw_df = spark.read.option("multiline", "true").json(bronze_path)
     latest_df = raw_df.orderBy(col("ingested_at").desc()).dropDuplicates(["app_id"])
     
     exploded_df = latest_df.select(
@@ -130,16 +142,19 @@ def process_reviews_bronze_to_silver(spark):
 
 
 if __name__ == "__main__":
-    os.makedirs("data/silver", exist_ok=True)
+    if not BUCKET_NAME:
+        os.makedirs("data/silver", exist_ok=True)
     
     print("🚀 Initializing PySpark Engine (Once for all tasks)...")
     
-    # Initialize a local Spark session utilizing all available CPU cores
-    spark = SparkSession.builder \
-        .appName("Steam_Unified_Silver_Pipeline") \
-        .master("local[*]") \
-        .getOrCreate()
+    # Build the Spark session conditionally
+    builder = SparkSession.builder.appName("Steam_Unified_Silver_Pipeline")
+    
+    # Only force local hardware limits if we are NOT in the cloud
+    if not BUCKET_NAME:
+        builder = builder.master("local[*]")
         
+    spark = builder.getOrCreate()
     spark.sparkContext.setLogLevel("ERROR")
     
     # Run the entire pipeline sequentially using the same engine

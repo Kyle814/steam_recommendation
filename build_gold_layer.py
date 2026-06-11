@@ -4,14 +4,25 @@ from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, when, log1p
 from pyspark.ml.feature import StringIndexer
 
-# ==========================================
-# WINDOWS ENVIRONMENT OVERRIDES
-# ==========================================
-os.environ['PYSPARK_PYTHON'] = sys.executable
-os.environ['PYSPARK_DRIVER_PYTHON'] = sys.executable
-os.environ["JAVA_HOME"] = r"C:\Program Files\Java\jdk-17"
-os.environ["HADOOP_HOME"] = r"C:\hadoop"
-os.environ["PATH"] = os.environ.get("PATH", "") + ";" + r"C:\hadoop\bin"
+# --- THE CLOUD SWITCH ---
+# If AWS Glue passes an S3 bucket name, we are in Cloud Mode. Otherwise, Local Mode.
+BUCKET_NAME = os.environ.get("S3_BUCKET_NAME")
+
+if BUCKET_NAME:
+    print(f"☁️ Cloud Mode: Connecting PySpark to S3 Bucket [{BUCKET_NAME}]")
+    BASE_PATH = f"s3://{BUCKET_NAME}/data"
+else:
+    print("💻 Local Mode: Using local Windows environment")
+    BASE_PATH = "data"
+    
+    # ==========================================
+    # WINDOWS ENVIRONMENT OVERRIDES (LOCAL ONLY)
+    # ==========================================
+    os.environ['PYSPARK_PYTHON'] = sys.executable
+    os.environ['PYSPARK_DRIVER_PYTHON'] = sys.executable
+    os.environ["JAVA_HOME"] = r"C:\Program Files\Java\jdk-17"
+    os.environ["HADOOP_HOME"] = r"C:\hadoop"
+    os.environ["PATH"] = os.environ.get("PATH", "") + ";" + r"C:\hadoop\bin"
 
 
 def build_ml_interaction_matrix(spark):
@@ -19,10 +30,10 @@ def build_ml_interaction_matrix(spark):
     print(" 🏆 BUILDING GOLD LAYER (ML MATRIX)")
     print("==========================================")
     
-    # 1. Load Silver Tables
-    print("📥 Loading Silver Tables...")
-    users_df = spark.read.parquet("data/silver/user_interactions.parquet")
-    reviews_df = spark.read.parquet("data/silver/app_reviews.parquet")
+    # 1. Load Silver Tables dynamically using the BASE_PATH
+    print(f"📥 Loading Silver Tables from {BASE_PATH}/...")
+    users_df = spark.read.parquet(f"{BASE_PATH}/silver/user_interactions.parquet")
+    reviews_df = spark.read.parquet(f"{BASE_PATH}/silver/app_reviews.parquet")
     
     # Drop the playtime column from reviews so it doesn't collide with the users table
     reviews_clean = reviews_df.select("steam_id", "app_id", "voted_up")
@@ -69,26 +80,28 @@ def build_ml_interaction_matrix(spark):
         col("interaction_score").cast("float")
     )
 
-    # 6. Save the Output and the Models
-    print("💾 Saving Gold Matrix and Indexer Models...")
+    # 6. Save the Output and the Models dynamically
+    print(f"💾 Saving Gold Matrix and Indexer Models to {BASE_PATH}/...")
     
     # Save the Data
-    final_matrix.write.mode("overwrite").parquet("data/gold/ml_interaction_matrix.parquet")
+    final_matrix.write.mode("overwrite").parquet(f"{BASE_PATH}/gold/ml_interaction_matrix.parquet")
     
     # Save the Indexer Models (CRITICAL: We need these later to translate the predictions!)
-    user_indexer_model.write().overwrite().save("data/models/user_indexer")
-    item_indexer_model.write().overwrite().save("data/models/item_indexer")
+    user_indexer_model.write().overwrite().save(f"{BASE_PATH}/models/user_indexer")
+    item_indexer_model.write().overwrite().save(f"{BASE_PATH}/models/item_indexer")
     
     print("\n✅ GOLD LAYER COMPLETE! Final ML Matrix Preview:")
     final_matrix.show(10)
 
 if __name__ == "__main__":
-    os.makedirs("data/gold", exist_ok=True)
-    os.makedirs("data/models", exist_ok=True)
+    # S3 doesn't use directories, so we only run os.makedirs locally
+    if not BUCKET_NAME:
+        os.makedirs("data/gold", exist_ok=True)
+        os.makedirs("data/models", exist_ok=True)
     
+    # Removing master("local[*]") allows AWS Glue to auto-scale across its cluster
     spark = SparkSession.builder \
         .appName("Steam_Gold_Layer") \
-        .master("local[*]") \
         .getOrCreate()
         
     spark.sparkContext.setLogLevel("ERROR")

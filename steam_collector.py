@@ -5,32 +5,51 @@ import requests
 from datetime import datetime
 from dotenv import load_dotenv
 import glob
+import boto3
 
 class SteamDataCollector:
     def __init__(self):
+        # load_dotenv() works locally and is safely ignored in AWS
         load_dotenv()
         self.api_key = os.getenv("STEAM_API_KEY")
+        
+        # The Cloud Switch: Checks if we are in AWS or on your local machine
+        self.bucket_name = os.getenv("S3_BUCKET_NAME") 
         self.base_dir = "data/raw"
         self.today = datetime.utcnow().strftime("%Y-%m-%d")
-        for folder in ["user_profiles", "app_metadata", "app_reviews"]:
-            os.makedirs(os.path.join(self.base_dir, folder, self.today), exist_ok=True)
+        
+        if self.bucket_name:
+            print(f"☁️ Cloud Mode Activated: Connected to S3 Bucket [{self.bucket_name}]")
+            self.s3_client = boto3.client('s3')
+        else:
+            print("💻 Local Mode Activated: Saving to local disk.")
+            for folder in ["user_profiles", "app_metadata", "app_reviews"]:
+                os.makedirs(os.path.join(self.base_dir, folder, self.today), exist_ok=True)
 
     def save_json(self, data, folder, filename):
-        """Helper function to save raw JSON payloads."""
-        path = os.path.join(self.base_dir, folder, self.today, filename)
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=4, ensure_ascii=False)
-        print(f"✅ Saved: {filename}")
+        """Saves raw JSON payloads locally or directly to S3 via Boto3."""
+        s3_key = f"data/raw/{folder}/{self.today}/{filename}"
+        
+        if self.bucket_name:
+            # --- THE AWS S3 ROUTE ---
+            self.s3_client.put_object(
+                Bucket=self.bucket_name,
+                Key=s3_key,
+                Body=json.dumps(data, ensure_ascii=False),
+                ContentType='application/json'
+            )
+            print(f"☁️ Saved to S3: {filename}")
+        else:
+            # --- THE LOCAL WINDOWS ROUTE ---
+            path = os.path.join(self.base_dir, folder, self.today, filename)
+            with open(path, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=4, ensure_ascii=False)
+            print(f"💾 Saved Locally: {filename}")
 
     # ==========================================
     # PILLAR 1: User & Playtime Data
     # ==========================================
     def get_user_data(self, steam_id):
-        """Fetches a user's library and playtime metrics.
-        
-        Returns:
-            bool: True if profile was public and saved, False if private or failed.
-        """
         print(f"\nFetching User Data for: {steam_id}")
         url = "https://api.steampowered.com/IPlayerService/GetOwnedGames/v1/"
         params = {
@@ -46,11 +65,8 @@ class SteamDataCollector:
             response.raise_for_status()
             raw_library = response.json().get("response", {})
             
-            # If 'games' key exists and is not empty, process the library
             if raw_library and raw_library.get("games"):
                 clean_games = []
-                
-                # Extract only the appid and playtime_forever (Implicit Feedback)
                 for game in raw_library["games"]:
                     clean_games.append({
                         "appid": game.get("appid"),
@@ -73,32 +89,18 @@ class SteamDataCollector:
         except Exception as e:
             print(f"❌ Failed to fetch user data for {steam_id}: {e}")
             return False
+
     def get_friends_list(self, steam_id):
-        """Fetches the friends list for a given Steam ID to enable snowball sampling.
-        
-        Returns:
-            list: A list of string Steam IDs representing the user's friends.
-        """
         url = "https://api.steampowered.com/ISteamUser/GetFriendList/v1/"
-        params = {
-            "key": self.api_key,
-            "steamid": steam_id,
-            "relationship": "friend"
-        }
+        params = {"key": self.api_key, "steamid": steam_id, "relationship": "friend"}
 
         try:
             response = requests.get(url, params=params)
             response.raise_for_status()
             res = response.json()
-            
-            # Navigate the JSON payload to find the array of friends
             friends_data = res.get("friendslist", {}).get("friends", [])
-            
-            # Extract and return just the 64-bit string Steam IDs
             return [str(friend["steamid"]) for friend in friends_data]
-            
-        except Exception as e:
-            # Silently catch errors. Private profiles return a 401 Unauthorized 
+        except Exception:
             return []
 
     # ==========================================
@@ -164,17 +166,14 @@ class SteamDataCollector:
                 clean_reviews = []
                 
                 for raw_review in res["reviews"]:
-                    # Ensure we only keep English text for the Vector DB
                     if raw_review.get("language") != "english":
                         continue
                         
-                    # Cast the weighted score from string to float instantly
                     try:
                         weighted_score = float(raw_review.get("weighted_vote_score", 0.0))
                     except ValueError:
                         weighted_score = 0.0
 
-                    # Map the raw review to our clean schema
                     clean_review = {
                         "review_id": raw_review.get("recommendationid"),
                         "steam_id": raw_review.get("author", {}).get("steamid"),
@@ -204,52 +203,52 @@ class SteamDataCollector:
             print(f"❌ Review Error ({app_id}): {e}")
 
 def harvest_discovered_games(collector_instance, limit=5):
-    """
-    Reads the raw user profiles, extracts all unique App IDs, 
-    and fetches their metadata and reviews.
-    """
-    today_str = datetime.utcnow().strftime("%Y-%m-%d")
-    user_files_path = f"data/raw/user_profiles/{today_str}/*.json"
-    
+    """Reads raw user profiles to extract unique App IDs and fetches metadata/reviews."""
     unique_app_ids = set()
-    
     print("\n🔍 Scanning user profiles for unique games...")
-    # 1. Read all local user JSON files
-    for filepath in glob.glob(user_files_path):
-        with open(filepath, "r", encoding="utf-8") as f:
-            user_data = json.load(f)
-            
-            # 2. Extract every App ID
-            for game in user_data.get("games", []):
-                unique_app_ids.add(str(game.get("appid")))
+    
+    if collector_instance.bucket_name:
+        # --- THE AWS S3 ROUTE ---
+        prefix = f"data/raw/user_profiles/{collector_instance.today}/"
+        response = collector_instance.s3_client.list_objects_v2(
+            Bucket=collector_instance.bucket_name, 
+            Prefix=prefix
+        )
+        
+        if 'Contents' in response:
+            for obj in response['Contents']:
+                file_obj = collector_instance.s3_client.get_object(
+                    Bucket=collector_instance.bucket_name, 
+                    Key=obj['Key']
+                )
+                user_data = json.loads(file_obj['Body'].read().decode('utf-8'))
+                for game in user_data.get("games", []):
+                    unique_app_ids.add(str(game.get("appid")))
+    else:
+        # --- THE LOCAL WINDOWS ROUTE ---
+        user_files_path = f"data/raw/user_profiles/{collector_instance.today}/*.json"
+        for filepath in glob.glob(user_files_path):
+            with open(filepath, "r", encoding="utf-8") as f:
+                user_data = json.load(f)
+                for game in user_data.get("games", []):
+                    unique_app_ids.add(str(game.get("appid")))
 
     print(f"Found {len(unique_app_ids)} unique games.")
-    
-    # 3. Convert set to a list so we can slice it
     app_id_list = list(unique_app_ids)
-    
-    # Safety Check: We limit this so you don't accidentally try to 
-    # download 5,000 games and get rate-limited on your first test.
     apps_to_process = app_id_list[:limit]
+    
     print(f"Starting extraction for the first {len(apps_to_process)} games...\n")
 
-    # 4. The Extraction Loop
     for app_id in apps_to_process:
         collector_instance.get_app_metadata(app_id)
-        collector_instance.get_app_reviews(app_id, limit=100) # Get top 100 reviews per game
+        collector_instance.get_app_reviews(app_id, limit=100)
 
-# ==========================================
-# Execution Block
-# ==========================================
 if __name__ == "__main__":
     collector = SteamDataCollector()
     
-    # Step 1: Collect a few Users' data to seed the pipeline
     target_users = [os.getenv("TARGET_STEAM_ID"), "76561197960287930"] 
     for steam_id in target_users:
         if steam_id:
             collector.get_user_data(steam_id)
     
-    # Step 2: Harvest the semantic data for the games those users own
-    # Set limit=5 to test it safely. Once you know it works, you can increase it.
     harvest_discovered_games(collector, limit=5)
