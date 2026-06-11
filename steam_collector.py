@@ -31,7 +31,7 @@ class SteamDataCollector:
         s3_key = f"data/raw/{folder}/{self.today}/{filename}"
         
         if self.bucket_name:
-            # --- THE AWS S3 ROUTE ---
+            
             self.s3_client.put_object(
                 Bucket=self.bucket_name,
                 Key=s3_key,
