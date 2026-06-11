@@ -4,45 +4,44 @@ on:
   push:
     branches: [ main ]
 
+# CRITICAL: OIDC requires JWT token permissions to authenticate safely
+permissions:
+  id-token: write
+  contents: read
+
 jobs:
   lint-and-deploy:
     runs-on: ubuntu-latest
-
     steps:
-    # 1. Checkout the latest code from your repo
     - name: Checkout Code
       uses: actions/checkout@v3
 
-    # 2. Set up Python environment for validation
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-data-engineering-version: '3.10'
+        python-version: '3.10'
 
-    # 3. Code Validation / Linting (Catches syntax issues before cloud execution)
     - name: Install Dependencies & Linter
       run: |
         python -m pip install --upgrade pip
         pip install flake8
     
-    - name: Lint Code for Syntax Errors
+    - name: Lint Code
       run: |
-        # stop the build if there are Python syntax errors or undefined names
         flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
 
-    # 4. Authenticate securely with AWS using GitHub Secrets
-    - name: Configure AWS Credentials
+    - name: Configure AWS Credentials via OIDC
       uses: aws-actions/configure-aws-credentials@v2
       with:
-        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        aws-region: us-east-1  # Change to your preferred region
+        # This is the exact ARN from your AWS screenshot
+        role-to-assume: arn:aws:iam::524843732866:role/GitHubActions-SteamS3-Role
+        aws-region: us-east-1
+        audience: sts.amazonaws.com
 
-    # 5. Deploy scripts to S3 for serverless Glue/Lambda use
     - name: Sync PySpark Scripts to S3
       run: |
         aws s3 cp ingestion.py s3://${{ secrets.AWS_S3_BUCKET_NAME }}/scripts/ingestion.py
         aws s3 cp transform_users.py s3://${{ secrets.AWS_S3_BUCKET_NAME }}/scripts/transform_users.py
         aws s3 cp build_gold_layer.py s3://${{ secrets.AWS_S3_BUCKET_NAME }}/scripts/build_gold_layer.py
-        aws s3 cp game_discovery_utils.py s3://${{ secrets.AWS_S3_BUCKET_NAME }}/scripts/utils/game_discovery_utils.py
-        aws s3 cp steam_collector.py s3://${{ secrets.AWS_S3_BUCKET_NAME }}/scripts/utils/steam_collector.py
+        aws s3 cp steam_collector.py s3://${{ secrets.AWS_S3_BUCKET_NAME }}/scripts/steam_collector.py
+        aws s3 cp game_discovery_utils.py s3://${{ secrets.AWS_S3_BUCKET_NAME }}/scripts/game_discovery_utils.py
