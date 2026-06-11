@@ -10,7 +10,7 @@ def run_bronze_ingestion():
     # ---------------------------------------------------------
     # 1. DYNAMICALLY FETCH TARGET LISTS
     # ---------------------------------------------------------
-    # Pull the dense data for matrix factorization (The Math)
+   
     top_500_apps = get_steamspy_top_500()
     
     # Pull the descriptive data for text embeddings (The RAG Niche)
