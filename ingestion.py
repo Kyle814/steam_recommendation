@@ -10,7 +10,7 @@ def run_bronze_ingestion():
     # ---------------------------------------------------------
     # 1. DYNAMICALLY FETCH TARGET LISTS
     # ---------------------------------------------------------
-   
+    
     top_500_apps = get_steamspy_top_500()
     
     # Pull the descriptive data for text embeddings (The RAG Niche)
@@ -48,8 +48,7 @@ def run_bronze_ingestion():
                 
                 # Extract the top 100 text reviews for the vector database
                 collector.get_app_reviews(app_id, limit=100)
-                
-                # Polite micro-sleep between individual apps
+             
                 time.sleep(1.5)
                 
             except Exception as e:
@@ -59,7 +58,7 @@ def run_bronze_ingestion():
         # Cool down step to clear Steam's 5-minute rolling window
         if i + batch_size < len(combined_targets):
             print("\n⏸️ Batch processing complete. Enforcing a 5-minute cooldown to prevent API rate limits...")
-            time.sleep(305) # 5 minutes and 5 seconds
+            time.sleep(305) 
             
     print("\n🎉 Bronze Layer Ingestion Complete! All raw JSON files successfully staged.")
 
