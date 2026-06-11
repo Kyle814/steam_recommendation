@@ -40,7 +40,7 @@ jobs:
       - name: Configure AWS Credentials via OIDC
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          role-to-assume: arn:aws:iam::524843732866:role/GitHubActionsWorkflowRole
+          role-to-assume: arn:aws:iam::524843732866:role/GitHubActions-SteamS3-Role
           aws-region: us-east-1
 
       - name: Sync Scripts to S3 Bronze/Silver/Gold Repository
